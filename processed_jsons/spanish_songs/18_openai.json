@@ -1,0 +1,756 @@
+{
+    "text": "When I met you in the summer To my heart beat sound We fell in love as the leaves turned brown And we could be together, baby, as long as skies are blue You act so innocent now, but you lied so soon When I met you in the summer When I met you in the summer To my heart beat sound We fell in love as the leaves turned brown And we could be together, baby, as long as skies are blue You act so innocent now, but you lied so soon When I met you in the summer In the summer When I met you in the summer In the summer In the summer In the summer In the summer",
+    "audio_duration": 233.89999389648438,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "When",
+            "start": 14.319999694824219,
+            "end": 15.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 15.0,
+            "end": 15.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "met",
+            "start": 15.300000190734863,
+            "end": 15.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 15.520000457763672,
+            "end": 15.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 15.739999771118164,
+            "end": 16.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 16.0,
+            "end": 16.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 16.81999969482422,
+            "end": 16.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "To",
+            "start": 16.81999969482422,
+            "end": 18.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 18.760000228881836,
+            "end": 19.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "heart",
+            "start": 19.0,
+            "end": 19.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "beat",
+            "start": 19.479999542236328,
+            "end": 19.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "sound",
+            "start": 19.81999969482422,
+            "end": 20.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "We",
+            "start": 20.780000686645508,
+            "end": 22.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "fell",
+            "start": 22.899999618530273,
+            "end": 23.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 23.280000686645508,
+            "end": 24.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 24.139999389648438,
+            "end": 24.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 24.139999389648438,
+            "end": 26.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 26.239999771118164,
+            "end": 26.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "leaves",
+            "start": 26.780000686645508,
+            "end": 26.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "turned",
+            "start": 26.81999969482422,
+            "end": 27.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "brown",
+            "start": 27.459999084472656,
+            "end": 28.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "And",
+            "start": 28.1200008392334,
+            "end": 30.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "we",
+            "start": 30.260000228881836,
+            "end": 30.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 30.479999542236328,
+            "end": 30.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 30.68000030517578,
+            "end": 31.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "together",
+            "start": 31.139999389648438,
+            "end": 31.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "baby",
+            "start": 32.2599983215332,
+            "end": 32.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 32.2599983215332,
+            "end": 33.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "long",
+            "start": 33.79999923706055,
+            "end": 33.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 33.79999923706055,
+            "end": 34.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "skies",
+            "start": 34.380001068115234,
+            "end": 34.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "are",
+            "start": 34.380001068115234,
+            "end": 35.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "blue",
+            "start": 35.0,
+            "end": 35.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 35.540000915527344,
+            "end": 37.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "act",
+            "start": 37.779998779296875,
+            "end": 38.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "so",
+            "start": 38.13999938964844,
+            "end": 39.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "innocent",
+            "start": 39.099998474121094,
+            "end": 39.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "now",
+            "start": 39.20000076293945,
+            "end": 40.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "but",
+            "start": 40.36000061035156,
+            "end": 41.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 41.2599983215332,
+            "end": 41.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "lied",
+            "start": 41.7400016784668,
+            "end": 41.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "so",
+            "start": 41.84000015258789,
+            "end": 42.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "soon",
+            "start": 42.439998626708984,
+            "end": 43.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "When",
+            "start": 44.560001373291016,
+            "end": 45.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 45.08000183105469,
+            "end": 45.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "met",
+            "start": 45.2599983215332,
+            "end": 45.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 45.52000045776367,
+            "end": 45.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 45.7400016784668,
+            "end": 46.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 46.0,
+            "end": 46.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 46.47999954223633,
+            "end": 46.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "When",
+            "start": 89.19999694824219,
+            "end": 90.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 90.08000183105469,
+            "end": 90.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "met",
+            "start": 90.5199966430664,
+            "end": 90.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 90.54000091552734,
+            "end": 90.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 90.73999786376953,
+            "end": 91.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 91.04000091552734,
+            "end": 91.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 91.73999786376953,
+            "end": 91.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "To",
+            "start": 91.73999786376953,
+            "end": 93.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 93.76000213623047,
+            "end": 94.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "heart",
+            "start": 94.04000091552734,
+            "end": 94.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "beat",
+            "start": 94.4800033569336,
+            "end": 94.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "sound",
+            "start": 94.86000061035156,
+            "end": 95.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "We",
+            "start": 96.73999786376953,
+            "end": 97.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "fell",
+            "start": 97.81999969482422,
+            "end": 98.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 98.30000305175781,
+            "end": 99.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 99.16000366210938,
+            "end": 99.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 99.16000366210938,
+            "end": 101.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 101.26000213623047,
+            "end": 101.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "leaves",
+            "start": 101.73999786376953,
+            "end": 101.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "turned",
+            "start": 101.80000305175781,
+            "end": 102.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "brown",
+            "start": 102.44000244140625,
+            "end": 103.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "And",
+            "start": 103.77999877929688,
+            "end": 105.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "we",
+            "start": 105.30000305175781,
+            "end": 105.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 105.4800033569336,
+            "end": 105.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 105.63999938964844,
+            "end": 106.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "together",
+            "start": 106.41999816894531,
+            "end": 106.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "baby",
+            "start": 107.31999969482422,
+            "end": 107.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 107.31999969482422,
+            "end": 108.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "long",
+            "start": 108.81999969482422,
+            "end": 108.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 108.81999969482422,
+            "end": 109.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "skies",
+            "start": 109.37999725341797,
+            "end": 109.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "are",
+            "start": 109.37999725341797,
+            "end": 109.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "blue",
+            "start": 109.9800033569336,
+            "end": 110.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 110.5199966430664,
+            "end": 112.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "act",
+            "start": 112.77999877929688,
+            "end": 113.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "so",
+            "start": 113.12000274658203,
+            "end": 114.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "innocent",
+            "start": 114.45999908447266,
+            "end": 114.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "now",
+            "start": 114.45999908447266,
+            "end": 115.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "but",
+            "start": 115.77999877929688,
+            "end": 116.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 116.23999786376953,
+            "end": 116.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "lied",
+            "start": 116.54000091552734,
+            "end": 116.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "so",
+            "start": 116.83999633789062,
+            "end": 117.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "soon",
+            "start": 117.44000244140625,
+            "end": 118.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "When",
+            "start": 119.5199966430664,
+            "end": 120.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 120.05999755859375,
+            "end": 120.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "met",
+            "start": 120.27999877929688,
+            "end": 120.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 120.54000091552734,
+            "end": 120.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 120.73999786376953,
+            "end": 121.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 121.04000091552734,
+            "end": 121.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 121.4800033569336,
+            "end": 121.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "In",
+            "start": 145.44000244140625,
+            "end": 146.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 146.83999633789062,
+            "end": 146.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 146.86000061035156,
+            "end": 155.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "When",
+            "start": 163.66000366210938,
+            "end": 165.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 165.05999755859375,
+            "end": 165.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "met",
+            "start": 165.3000030517578,
+            "end": 165.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 165.5399932861328,
+            "end": 165.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 165.74000549316406,
+            "end": 166.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 166.17999267578125,
+            "end": 167.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 167.75999450683594,
+            "end": 167.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "In",
+            "start": 172.5399932861328,
+            "end": 173.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 173.94000244140625,
+            "end": 175.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 175.33999633789062,
+            "end": 181.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "In",
+            "start": 211.89999389648438,
+            "end": 211.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 211.94000244140625,
+            "end": 211.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 211.9600067138672,
+            "end": 211.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "In",
+            "start": 222.0800018310547,
+            "end": 223.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 223.47999572753906,
+            "end": 223.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 223.89999389648438,
+            "end": 224.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "In",
+            "start": 229.9600067138672,
+            "end": 231.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 231.36000061035156,
+            "end": 232.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 232.75999450683594,
+            "end": 233.22000122070312,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "When I met you in the summer To my heart beat sound We fell in love as the leaves turned brown And we could be together, baby, as long as skies are blue You act so innocent now, but you lied so soon",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Summer Romance",
+            "summary": "A nostalgic reflection on a romantic relationship that blossomed during the summer, filled with both affection and hints of betrayal.",
+            "start": 0,
+            "end": 60
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

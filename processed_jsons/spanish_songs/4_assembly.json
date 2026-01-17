@@ -1,0 +1,1721 @@
+{
+    "id": "8a7276f0-09df-4880-a458-f6564527ee62",
+    "status": "completed",
+    "text": "Estoy a punto de emprender un viaje con rumbo hacia lo desconocido No sé si algún día vuelva a verte No es fácil aceptar haber perdido Por más que supliqué no me abandones dijiste no soy yo, es el destino Entonces entendí que aunque te amaba tenía que elegir otro camino De qué me sirve la vida si eres lo que yo pido Los recuerdos no me alcanzan pero me mantienen vivo De qué me sirve la vida si no la vivo con De qué me sirve la esperanza siendo último que muere y sin ti ya la he perdido. Escucha bien amor lo que te digo pues creo no habrá otra ocasión para decirte que no me arrepiento de haberte entregado el corazón Por más que supliqué no me abandones dijiste no soy yo, es el destino Entonces entendí que aunque te amaba tenía que elegir otro camino De qué me sirve la vida si eres lo que yo pido Los recuerdos no me alcanzan pero me mantienen vivo De qué me sirve la vida si no la vivo contigo De qué me sirve la esperanza siendo último que muera y sin ti ya la he perdido. De qué me sirve la vida si era lo que yo pido Los recuerdos no me alcanzan pero me mantienen vivo De qué me sirven las. De que me sirve la esperanza si es lo último que fue. Y sin ti ya la he perdido.",
+    "words": [
+        {
+            "text": "Estoy",
+            "start": 27120,
+            "end": 27600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 27600,
+            "end": 27760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "punto",
+            "start": 27760,
+            "end": 28480,
+            "confidence": 0.99438477,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 28480,
+            "end": 28840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "emprender",
+            "start": 28840,
+            "end": 29600,
+            "confidence": 0.8741862,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 29600,
+            "end": 29960,
+            "confidence": 0.6220703,
+            "speaker": "A"
+        },
+        {
+            "text": "viaje",
+            "start": 29960,
+            "end": 30720,
+            "confidence": 0.8494466,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 33420,
+            "end": 33580,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "rumbo",
+            "start": 33580,
+            "end": 34260,
+            "confidence": 0.9617513,
+            "speaker": "A"
+        },
+        {
+            "text": "hacia",
+            "start": 34260,
+            "end": 34780,
+            "confidence": 0.751709,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 34860,
+            "end": 35260,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "desconocido",
+            "start": 35820,
+            "end": 37260,
+            "confidence": 0.89038086,
+            "speaker": "A"
+        },
+        {
+            "text": "No",
+            "start": 39900,
+            "end": 40260,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sé",
+            "start": 40260,
+            "end": 40540,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 40540,
+            "end": 40860,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "algún",
+            "start": 40940,
+            "end": 41420,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "día",
+            "start": 41500,
+            "end": 41900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vuelva",
+            "start": 42300,
+            "end": 43060,
+            "confidence": 0.9091797,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 43060,
+            "end": 43300,
+            "confidence": 0.8808594,
+            "speaker": "A"
+        },
+        {
+            "text": "verte",
+            "start": 43300,
+            "end": 43900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "No",
+            "start": 46380,
+            "end": 46660,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 46660,
+            "end": 46820,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "fácil",
+            "start": 46820,
+            "end": 47260,
+            "confidence": 0.88964844,
+            "speaker": "A"
+        },
+        {
+            "text": "aceptar",
+            "start": 47340,
+            "end": 48540,
+            "confidence": 0.88623047,
+            "speaker": "A"
+        },
+        {
+            "text": "haber",
+            "start": 48940,
+            "end": 49420,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "perdido",
+            "start": 49420,
+            "end": 50380,
+            "confidence": 0.9506836,
+            "speaker": "A"
+        },
+        {
+            "text": "Por",
+            "start": 53020,
+            "end": 53340,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 53340,
+            "end": 53620,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 53620,
+            "end": 53860,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "supliqué",
+            "start": 53860,
+            "end": 55260,
+            "confidence": 0.89538574,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 55340,
+            "end": 55620,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 55620,
+            "end": 55860,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "abandones",
+            "start": 55860,
+            "end": 56940,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "dijiste",
+            "start": 59580,
+            "end": 60300,
+            "confidence": 0.84847003,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 60460,
+            "end": 60820,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "soy",
+            "start": 60820,
+            "end": 61260,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "yo,",
+            "start": 61260,
+            "end": 61580,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 62060,
+            "end": 62380,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 62380,
+            "end": 62620,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "destino",
+            "start": 62620,
+            "end": 63260,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "Entonces",
+            "start": 66520,
+            "end": 67120,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "entendí",
+            "start": 67120,
+            "end": 68360,
+            "confidence": 0.99397784,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 68440,
+            "end": 68720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "aunque",
+            "start": 68720,
+            "end": 69000,
+            "confidence": 0.9404297,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 69000,
+            "end": 69200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "amaba",
+            "start": 69200,
+            "end": 69800,
+            "confidence": 0.9404297,
+            "speaker": "A"
+        },
+        {
+            "text": "tenía",
+            "start": 72680,
+            "end": 73520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 73520,
+            "end": 73720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "elegir",
+            "start": 73720,
+            "end": 74680,
+            "confidence": 0.9391276,
+            "speaker": "A"
+        },
+        {
+            "text": "otro",
+            "start": 75400,
+            "end": 75920,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "camino",
+            "start": 75920,
+            "end": 76760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 77960,
+            "end": 78320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 78320,
+            "end": 78560,
+            "confidence": 0.9038086,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 78560,
+            "end": 78680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 78680,
+            "end": 79120,
+            "confidence": 0.8741862,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 79120,
+            "end": 79480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "vida",
+            "start": 79480,
+            "end": 79880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 81320,
+            "end": 81600,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "eres",
+            "start": 81600,
+            "end": 82000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 82000,
+            "end": 82160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 82160,
+            "end": 82360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 82360,
+            "end": 82680,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pido",
+            "start": 82680,
+            "end": 83400,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Los",
+            "start": 84680,
+            "end": 84960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "recuerdos",
+            "start": 84960,
+            "end": 85600,
+            "confidence": 0.958374,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 85600,
+            "end": 85760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 85760,
+            "end": 85880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "alcanzan",
+            "start": 85880,
+            "end": 86880,
+            "confidence": 0.88789064,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 86880,
+            "end": 87160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 87240,
+            "end": 87640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mantienen",
+            "start": 87800,
+            "end": 88720,
+            "confidence": 0.9923096,
+            "speaker": "A"
+        },
+        {
+            "text": "vivo",
+            "start": 88720,
+            "end": 89160,
+            "confidence": 0.7922363,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 90920,
+            "end": 91280,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 91280,
+            "end": 91520,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 91520,
+            "end": 91640,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 91640,
+            "end": 92200,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 92200,
+            "end": 92560,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "vida",
+            "start": 92560,
+            "end": 92920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 94200,
+            "end": 94480,
+            "confidence": 0.9814453,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 94480,
+            "end": 94640,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 94640,
+            "end": 94840,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "vivo",
+            "start": 94840,
+            "end": 95320,
+            "confidence": 0.79589844,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 95320,
+            "end": 95640,
+            "confidence": 0.49926758,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 97540,
+            "end": 97740,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 97740,
+            "end": 97980,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 97980,
+            "end": 98100,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 98100,
+            "end": 98420,
+            "confidence": 0.9746094,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 98420,
+            "end": 98700,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esperanza",
+            "start": 98700,
+            "end": 99300,
+            "confidence": 0.9935303,
+            "speaker": "A"
+        },
+        {
+            "text": "siendo",
+            "start": 99460,
+            "end": 100260,
+            "confidence": 0.85091144,
+            "speaker": "A"
+        },
+        {
+            "text": "último",
+            "start": 100340,
+            "end": 101140,
+            "confidence": 0.6381836,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 101140,
+            "end": 101460,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "muere",
+            "start": 101460,
+            "end": 102180,
+            "confidence": 0.99438477,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 103220,
+            "end": 103500,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "sin",
+            "start": 103500,
+            "end": 103740,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ti",
+            "start": 103740,
+            "end": 104060,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 104060,
+            "end": 104220,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 104220,
+            "end": 104460,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "he",
+            "start": 104460,
+            "end": 104740,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "perdido.",
+            "start": 104740,
+            "end": 105700,
+            "confidence": 0.8538411,
+            "speaker": "A"
+        },
+        {
+            "text": "Escucha",
+            "start": 111619,
+            "end": 112460,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "bien",
+            "start": 112460,
+            "end": 112740,
+            "confidence": 0.77685547,
+            "speaker": "A"
+        },
+        {
+            "text": "amor",
+            "start": 112740,
+            "end": 113300,
+            "confidence": 0.8178711,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 113940,
+            "end": 114180,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 114180,
+            "end": 114380,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 114380,
+            "end": 114740,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "digo",
+            "start": 114740,
+            "end": 115620,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "pues",
+            "start": 117940,
+            "end": 118380,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "creo",
+            "start": 118380,
+            "end": 118900,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 118900,
+            "end": 119100,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "habrá",
+            "start": 119100,
+            "end": 119860,
+            "confidence": 0.99527997,
+            "speaker": "A"
+        },
+        {
+            "text": "otra",
+            "start": 120420,
+            "end": 120940,
+            "confidence": 0.86206055,
+            "speaker": "A"
+        },
+        {
+            "text": "ocasión",
+            "start": 120940,
+            "end": 121700,
+            "confidence": 0.99694824,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 124750,
+            "end": 124990,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "decirte",
+            "start": 124990,
+            "end": 125990,
+            "confidence": 0.7281901,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 125990,
+            "end": 126350,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 126510,
+            "end": 126870,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 126870,
+            "end": 127150,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "arrepiento",
+            "start": 127150,
+            "end": 127790,
+            "confidence": 0.8487956,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 130830,
+            "end": 131110,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "haberte",
+            "start": 131110,
+            "end": 131950,
+            "confidence": 0.9505208,
+            "speaker": "A"
+        },
+        {
+            "text": "entregado",
+            "start": 132030,
+            "end": 133230,
+            "confidence": 0.9899089,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 133310,
+            "end": 133590,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "corazón",
+            "start": 133590,
+            "end": 134430,
+            "confidence": 0.84228516,
+            "speaker": "A"
+        },
+        {
+            "text": "Por",
+            "start": 137470,
+            "end": 137790,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 137790,
+            "end": 138069,
+            "confidence": 0.9526367,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 138069,
+            "end": 138310,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "supliqué",
+            "start": 138310,
+            "end": 139630,
+            "confidence": 0.9284668,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 140030,
+            "end": 140350,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 140350,
+            "end": 140550,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "abandones",
+            "start": 140550,
+            "end": 141470,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dijiste",
+            "start": 143950,
+            "end": 144590,
+            "confidence": 0.8338216,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 144750,
+            "end": 145070,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "soy",
+            "start": 145070,
+            "end": 145510,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "yo,",
+            "start": 145510,
+            "end": 145790,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 146430,
+            "end": 146750,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 146750,
+            "end": 146950,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "destino",
+            "start": 146950,
+            "end": 147790,
+            "confidence": 0.95214844,
+            "speaker": "A"
+        },
+        {
+            "text": "Entonces",
+            "start": 150590,
+            "end": 151150,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "entendí",
+            "start": 151390,
+            "end": 152510,
+            "confidence": 0.94970703,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 152590,
+            "end": 152910,
+            "confidence": 0.8154297,
+            "speaker": "A"
+        },
+        {
+            "text": "aunque",
+            "start": 152910,
+            "end": 153270,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 153270,
+            "end": 153430,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "amaba",
+            "start": 153430,
+            "end": 153860,
+            "confidence": 0.9873047,
+            "speaker": "A"
+        },
+        {
+            "text": "tenía",
+            "start": 157050,
+            "end": 157690,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 157690,
+            "end": 157850,
+            "confidence": 0.8520508,
+            "speaker": "A"
+        },
+        {
+            "text": "elegir",
+            "start": 157850,
+            "end": 158730,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "otro",
+            "start": 159610,
+            "end": 160010,
+            "confidence": 0.9699707,
+            "speaker": "A"
+        },
+        {
+            "text": "camino",
+            "start": 160010,
+            "end": 160730,
+            "confidence": 0.7739258,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 162090,
+            "end": 162410,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 162410,
+            "end": 162650,
+            "confidence": 0.5307617,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 162650,
+            "end": 162810,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 162810,
+            "end": 163130,
+            "confidence": 0.8540039,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 163130,
+            "end": 163450,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vida",
+            "start": 163450,
+            "end": 163770,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 165450,
+            "end": 165730,
+            "confidence": 0.6748047,
+            "speaker": "A"
+        },
+        {
+            "text": "eres",
+            "start": 165730,
+            "end": 166130,
+            "confidence": 0.8886719,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 166130,
+            "end": 166250,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 166250,
+            "end": 166410,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 166410,
+            "end": 166730,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pido",
+            "start": 166730,
+            "end": 167450,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Los",
+            "start": 168730,
+            "end": 169010,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "recuerdos",
+            "start": 169010,
+            "end": 169570,
+            "confidence": 0.98046875,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 169570,
+            "end": 169690,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 169690,
+            "end": 169890,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "alcanzan",
+            "start": 169890,
+            "end": 170770,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 170770,
+            "end": 171050,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 171130,
+            "end": 171530,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mantienen",
+            "start": 171690,
+            "end": 172730,
+            "confidence": 0.9104004,
+            "speaker": "A"
+        },
+        {
+            "text": "vivo",
+            "start": 172730,
+            "end": 173130,
+            "confidence": 0.9460449,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 174730,
+            "end": 175130,
+            "confidence": 0.77734375,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 175130,
+            "end": 175370,
+            "confidence": 0.90478516,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 175370,
+            "end": 175450,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 175450,
+            "end": 176050,
+            "confidence": 0.8129883,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 176050,
+            "end": 176410,
+            "confidence": 0.9238281,
+            "speaker": "A"
+        },
+        {
+            "text": "vida",
+            "start": 176490,
+            "end": 176890,
+            "confidence": 0.67871094,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 178090,
+            "end": 178330,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 178330,
+            "end": 178530,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 178530,
+            "end": 178770,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "vivo",
+            "start": 178770,
+            "end": 179410,
+            "confidence": 0.7207031,
+            "speaker": "A"
+        },
+        {
+            "text": "contigo",
+            "start": 179410,
+            "end": 180250,
+            "confidence": 0.9376628,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 181210,
+            "end": 181530,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 181530,
+            "end": 181730,
+            "confidence": 0.73046875,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 181730,
+            "end": 181930,
+            "confidence": 0.7817383,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 181930,
+            "end": 182370,
+            "confidence": 0.96028644,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 182370,
+            "end": 182570,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "esperanza",
+            "start": 182570,
+            "end": 183210,
+            "confidence": 0.9925537,
+            "speaker": "A"
+        },
+        {
+            "text": "siendo",
+            "start": 183290,
+            "end": 184090,
+            "confidence": 0.84277344,
+            "speaker": "A"
+        },
+        {
+            "text": "último",
+            "start": 184170,
+            "end": 184970,
+            "confidence": 0.8688151,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 185050,
+            "end": 185330,
+            "confidence": 0.5576172,
+            "speaker": "A"
+        },
+        {
+            "text": "muera",
+            "start": 185330,
+            "end": 185760,
+            "confidence": 0.7536621,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 187110,
+            "end": 187230,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "sin",
+            "start": 187230,
+            "end": 187470,
+            "confidence": 0.67578125,
+            "speaker": "A"
+        },
+        {
+            "text": "ti",
+            "start": 187470,
+            "end": 187790,
+            "confidence": 0.9260254,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 187790,
+            "end": 187990,
+            "confidence": 0.8408203,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 187990,
+            "end": 188190,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "he",
+            "start": 188190,
+            "end": 188390,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "perdido.",
+            "start": 188390,
+            "end": 189350,
+            "confidence": 0.89941406,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 200390,
+            "end": 200670,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 200670,
+            "end": 200830,
+            "confidence": 0.8510742,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 200830,
+            "end": 200990,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 200990,
+            "end": 201350,
+            "confidence": 0.87402344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 201430,
+            "end": 201830,
+            "confidence": 0.8803711,
+            "speaker": "A"
+        },
+        {
+            "text": "vida",
+            "start": 202070,
+            "end": 202470,
+            "confidence": 0.81591797,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 203670,
+            "end": 203990,
+            "confidence": 0.8149414,
+            "speaker": "A"
+        },
+        {
+            "text": "era",
+            "start": 203990,
+            "end": 204310,
+            "confidence": 0.8642578,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 204310,
+            "end": 204590,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 204590,
+            "end": 204710,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 204710,
+            "end": 204950,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pido",
+            "start": 204950,
+            "end": 205590,
+            "confidence": 0.62060547,
+            "speaker": "A"
+        },
+        {
+            "text": "Los",
+            "start": 206950,
+            "end": 207230,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "recuerdos",
+            "start": 207230,
+            "end": 207870,
+            "confidence": 0.98327637,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 207870,
+            "end": 207990,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 207990,
+            "end": 208110,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "alcanzan",
+            "start": 208110,
+            "end": 208990,
+            "confidence": 0.83691406,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 208990,
+            "end": 209270,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 209270,
+            "end": 209670,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mantienen",
+            "start": 209910,
+            "end": 210950,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "vivo",
+            "start": 210950,
+            "end": 211350,
+            "confidence": 0.85791016,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 213190,
+            "end": 213510,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 213510,
+            "end": 213710,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 213710,
+            "end": 213830,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sirven",
+            "start": 213830,
+            "end": 214350,
+            "confidence": 0.9083659,
+            "speaker": "A"
+        },
+        {
+            "text": "las.",
+            "start": 214350,
+            "end": 214710,
+            "confidence": 0.9003906,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 219730,
+            "end": 219890,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 219890,
+            "end": 220090,
+            "confidence": 0.41918945,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 220090,
+            "end": 220250,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "sirve",
+            "start": 220250,
+            "end": 220610,
+            "confidence": 0.91031903,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 220610,
+            "end": 220810,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "esperanza",
+            "start": 220810,
+            "end": 221410,
+            "confidence": 0.9628906,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 221490,
+            "end": 221810,
+            "confidence": 0.5498047,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 221810,
+            "end": 222050,
+            "confidence": 0.8144531,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 222050,
+            "end": 222330,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "último",
+            "start": 222330,
+            "end": 223170,
+            "confidence": 0.9348958,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 223330,
+            "end": 223690,
+            "confidence": 0.88916016,
+            "speaker": "A"
+        },
+        {
+            "text": "fue.",
+            "start": 223690,
+            "end": 224050,
+            "confidence": 0.5366211,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 228450,
+            "end": 228770,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "sin",
+            "start": 228770,
+            "end": 229010,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ti",
+            "start": 229010,
+            "end": 229330,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 229330,
+            "end": 229570,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 229570,
+            "end": 229850,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "he",
+            "start": 229850,
+            "end": 230170,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "perdido.",
+            "start": 230170,
+            "end": 231250,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Estoy a punto de emprender un viaje con rumbo hacia lo desconocido No sé si algún día vuelva a verte No es fácil aceptar haber perdido Por más que supliqué no me abandones dijiste no soy yo, es el destino Entonces entendí que aunque te amaba tenía que elegir otro camino De qué me sirve la vida si eres lo que yo pido Los recuerdos no me alcanzan pero me mantienen vivo De qué me sirve la vida si no la vivo con De qué me sirve la esperanza siendo último que muere y sin ti ya la he perdido. Escucha bien amor lo que te digo pues creo no habrá otra ocasión para decirte que no me arrepiento de haberte entregado el corazón Por más que supliqué no me abandones dijiste no soy yo, es el destino Entonces entendí que aunque te amaba tenía que elegir otro camino De qué me sirve la vida si eres lo que yo pido Los recuerdos no me alcanzan pero me mantienen vivo De qué me sirve la vida si no la vivo contigo De qué me sirve la esperanza siendo último que muera y sin ti ya la he perdido. De qué me sirve la vida si era lo que yo pido Los recuerdos no me alcanzan pero me mantienen vivo De qué me sirven las. De que me sirve la esperanza si es lo último que fue. Y sin ti ya la he perdido.",
+            "start": 27120,
+            "end": 231250,
+            "confidence": 0.9261091,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 351,
+    "language_code": "es"
+}

@@ -1,0 +1,118 @@
+{
+    "text": "Estoy muy, muy, muy molesta por eso. ¿Tú no luces molesta? Es el botox.",
+    "audio_duration": 10.170000076293945,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Estoy",
+            "start": 0.0,
+            "end": 0.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 0.9800000190734863,
+            "end": 1.8799999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 1.8799999952316284,
+            "end": 2.3399999141693115,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 2.5199999809265137,
+            "end": 3.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "molesta",
+            "start": 3.119999885559082,
+            "end": 3.819999933242798,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 3.819999933242798,
+            "end": 4.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "eso",
+            "start": 4.199999809265137,
+            "end": 4.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Tú",
+            "start": 4.800000190734863,
+            "end": 5.639999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 5.639999866485596,
+            "end": 6.139999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "luces",
+            "start": 6.139999866485596,
+            "end": 6.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "molesta",
+            "start": 6.739999771118164,
+            "end": 7.28000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "Es",
+            "start": 7.739999771118164,
+            "end": 8.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 8.579999923706055,
+            "end": 8.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "botox",
+            "start": 8.920000076293945,
+            "end": 9.600000381469727,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Estoy muy, muy, muy molesta por eso.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.95
+        },
+        {
+            "segment": "¿Tú no luces molesta?",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Es el botox.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Expresión de Malestar",
+            "summary": "El hablante expresa su molestia sobre un tema y pregunta sobre la apariencia de malestar de otra persona.",
+            "start": 0,
+            "end": 15
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

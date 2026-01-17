@@ -1,0 +1,461 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "30d785ee-7dc6-4b0a-b097-6edf65fe398b",
+        "sha256": "c97fbea1cac3887a539307e5fc0636e3f99df847dac909651fbed49cc25407e6",
+        "created": "2026-01-17T23:33:51.689000Z",
+        "duration": 10.2,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Estoy muy muy muy molesta por eso. Tú no luces molesta. Ah, es el bótox.",
+                        "confidence": 0.9900844,
+                        "words": [
+                            {
+                                "word": "estoy",
+                                "start": 0.48,
+                                "end": 0.98,
+                                "confidence": 0.5637945,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "Estoy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "muy",
+                                "start": 1.04,
+                                "end": 1.54,
+                                "confidence": 0.99875784,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "muy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "muy",
+                                "start": 1.8399999,
+                                "end": 2.34,
+                                "confidence": 0.5014074,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "muy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "muy",
+                                "start": 2.56,
+                                "end": 3.06,
+                                "confidence": 0.9900844,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "muy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "molesta",
+                                "start": 3.6799998,
+                                "end": 3.9199998,
+                                "confidence": 0.9952449,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "molesta",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "por",
+                                "start": 3.9199998,
+                                "end": 4.42,
+                                "confidence": 0.9951486,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "por",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "eso",
+                                "start": 4.64,
+                                "end": 5.14,
+                                "confidence": 0.9968368,
+                                "speaker": 0,
+                                "speaker_confidence": 0.85336107,
+                                "punctuated_word": "eso.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tú",
+                                "start": 5.3599997,
+                                "end": 5.6,
+                                "confidence": 0.9779009,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6627041,
+                                "punctuated_word": "Tú",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 5.6,
+                                "end": 6.1,
+                                "confidence": 0.9988405,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6627041,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "luces",
+                                "start": 6.3199997,
+                                "end": 6.8199997,
+                                "confidence": 0.90826505,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6627041,
+                                "punctuated_word": "luces",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "molesta",
+                                "start": 7.12,
+                                "end": 7.62,
+                                "confidence": 0.98643917,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6627041,
+                                "punctuated_word": "molesta.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ah",
+                                "start": 8.24,
+                                "end": 8.4,
+                                "confidence": 0.82949376,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7752885,
+                                "punctuated_word": "Ah,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 8.4,
+                                "end": 8.559999,
+                                "confidence": 0.9911669,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7752885,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "el",
+                                "start": 8.559999,
+                                "end": 8.88,
+                                "confidence": 0.9905404,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7752885,
+                                "punctuated_word": "el",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "bótox",
+                                "start": 8.88,
+                                "end": 9.38,
+                                "confidence": 0.98372936,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7752885,
+                                "punctuated_word": "bótox.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Estoy muy muy muy molesta por eso. Tú no luces molesta. Ah, es el bótox.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Estoy muy muy muy molesta por eso.",
+                                            "start": 0.48,
+                                            "end": 5.14,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Tú no luces molesta.",
+                                            "start": 5.3599997,
+                                            "end": 7.62,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Ah, es el bótox.",
+                                            "start": 8.24,
+                                            "end": 9.38,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 15.0,
+                                    "start": 0.48,
+                                    "end": 9.38,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 0.48,
+                "end": 3.06,
+                "confidence": 0.763511,
+                "channel": 0.0,
+                "transcript": "Estoy muy muy muy",
+                "words": [
+                    {
+                        "word": "estoy",
+                        "start": 0.48,
+                        "end": 0.98,
+                        "confidence": 0.5637945,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "Estoy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "muy",
+                        "start": 1.04,
+                        "end": 1.54,
+                        "confidence": 0.99875784,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "muy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "muy",
+                        "start": 1.8399999,
+                        "end": 2.34,
+                        "confidence": 0.5014074,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "muy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "muy",
+                        "start": 2.56,
+                        "end": 3.06,
+                        "confidence": 0.9900844,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "muy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "f39f2335-d5b7-4bc5-9ba2-b9bdfc620e78",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 3.6799998,
+                "end": 6.8199997,
+                "confidence": 0.9787061,
+                "channel": 0.0,
+                "transcript": "molesta por eso. Tú no luces",
+                "words": [
+                    {
+                        "word": "molesta",
+                        "start": 3.6799998,
+                        "end": 3.9199998,
+                        "confidence": 0.9952449,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "molesta",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "por",
+                        "start": 3.9199998,
+                        "end": 4.42,
+                        "confidence": 0.9951486,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "por",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "eso",
+                        "start": 4.64,
+                        "end": 5.14,
+                        "confidence": 0.9968368,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.85336107,
+                        "punctuated_word": "eso.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tú",
+                        "start": 5.3599997,
+                        "end": 5.6,
+                        "confidence": 0.9779009,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6627041,
+                        "punctuated_word": "Tú",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 5.6,
+                        "end": 6.1,
+                        "confidence": 0.9988405,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6627041,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "luces",
+                        "start": 6.3199997,
+                        "end": 6.8199997,
+                        "confidence": 0.90826505,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6627041,
+                        "punctuated_word": "luces",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "19156e6a-c9e2-489d-bc7d-563fc9418017",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 7.12,
+                "end": 7.62,
+                "confidence": 0.98643917,
+                "channel": 0.0,
+                "transcript": "molesta.",
+                "words": [
+                    {
+                        "word": "molesta",
+                        "start": 7.12,
+                        "end": 7.62,
+                        "confidence": 0.98643917,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6627041,
+                        "punctuated_word": "molesta.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "7ba26b6d-943b-4141-a6d7-176f0ae428ae",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 8.24,
+                "end": 9.38,
+                "confidence": 0.9487326,
+                "channel": 0.0,
+                "transcript": "Ah, es el bótox.",
+                "words": [
+                    {
+                        "word": "ah",
+                        "start": 8.24,
+                        "end": 8.4,
+                        "confidence": 0.82949376,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7752885,
+                        "punctuated_word": "Ah,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 8.4,
+                        "end": 8.559999,
+                        "confidence": 0.9911669,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7752885,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "el",
+                        "start": 8.559999,
+                        "end": 8.88,
+                        "confidence": 0.9905404,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7752885,
+                        "punctuated_word": "el",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "bótox",
+                        "start": 8.88,
+                        "end": 9.38,
+                        "confidence": 0.98372936,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7752885,
+                        "punctuated_word": "bótox.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "651c8b7c-159a-4b67-84b7-185f14736575",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

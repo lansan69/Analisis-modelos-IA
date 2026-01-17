@@ -1,0 +1,150 @@
+{
+    "text": "[♪ piano and vocal music playing ♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪ ♪♪♪ ♪♪♪ ♪♪♪  ♪♪♪  ♪♪♪ ♪♪♪ ♪♪♪ ♪♪♪ ♪♪♪ ♪♪♪ ♪♪♪  ♪♪♪ ♪♪♪ ♪♪♪",
+    "audio_duration": 234.8800048828125,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "♪",
+            "start": 28.579999923706055,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "piano",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "vocal",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "music",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "playing",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪♪",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 45.540000915527344,
+            "end": 46.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 46.939998626708984,
+            "end": 47.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 75.5999984741211,
+            "end": 77.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 105.58000183105469,
+            "end": 106.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 135.4600067138672,
+            "end": 136.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 136.86000061035156,
+            "end": 136.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 162.83999633789062,
+            "end": 164.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 164.24000549316406,
+            "end": 164.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 176.5,
+            "end": 177.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 179.67999267578125,
+            "end": 181.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 209.66000366210938,
+            "end": 211.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 221.97999572753906,
+            "end": 223.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 227.25999450683594,
+            "end": 228.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪♪♪",
+            "start": 231.05999755859375,
+            "end": 232.4600067138672,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Audio segment",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Musical Introduction",
+            "summary": "A soothing section featuring piano and vocal music, creating a calm atmosphere.",
+            "start": 0,
+            "end": 30
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

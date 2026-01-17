@@ -1,0 +1,192 @@
+{
+    "text": "'re really need don't do know when a Demi by step down Tomorrow but tomorrow foreign que decir foreign foreign foreign foreign foreign foreign foreign is is is",
+    "audio_duration": 295.04998779296875,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "re",
+            "start": 45.7400016784668,
+            "end": 47.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "really",
+            "start": 58.560001373291016,
+            "end": 59.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 59.959999084472656,
+            "end": 59.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "don't",
+            "start": 59.97999954223633,
+            "end": 60.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "do",
+            "start": 60.65999984741211,
+            "end": 60.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "know",
+            "start": 60.81999969482422,
+            "end": 61.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 61.099998474121094,
+            "end": 61.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 61.29999923706055,
+            "end": 61.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "Demi",
+            "start": 61.619998931884766,
+            "end": 61.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "by",
+            "start": 67.31999969482422,
+            "end": 67.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "step",
+            "start": 67.63999938964844,
+            "end": 68.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "down",
+            "start": 68.27999877929688,
+            "end": 69.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tomorrow",
+            "start": 83.26000213623047,
+            "end": 84.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "but",
+            "start": 97.63999938964844,
+            "end": 98.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "tomorrow",
+            "start": 126.91999816894531,
+            "end": 128.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 133.5,
+            "end": 134.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 149.5399932861328,
+            "end": 150.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "decir",
+            "start": 150.94000244140625,
+            "end": 150.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 159.1199951171875,
+            "end": 159.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 167.17999267578125,
+            "end": 168.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 203.6999969482422,
+            "end": 205.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 208.0,
+            "end": 208.6999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 232.77999877929688,
+            "end": 234.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 236.25999450683594,
+            "end": 237.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "foreign",
+            "start": 262.5,
+            "end": 263.8999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 263.8999938964844,
+            "end": 265.260009765625,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 265.260009765625,
+            "end": 267.3999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 276.94000244140625,
+            "end": 278.3399963378906,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "re really need don't do know when a Demi by step down Tomorrow but tomorrow foreign que decir foreign foreign foreign foreign foreign foreign foreign is is is",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Discussion on Tomorrow's Step Down",
+            "summary": "The speaker discusses uncertainties regarding a step down scheduled for tomorrow, with a focus on foreign matters.",
+            "start": 0,
+            "end": 30
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

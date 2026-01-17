@@ -1,0 +1,1140 @@
+{
+    "id": "fd12d402-b59a-4bb2-ac22-64e233bb8c70",
+    "status": "completed",
+    "text": "Ya no importa cada noche que espere, cada calle o laberinto que crucé porque el cielo ha conspirado a mi favor y a un segundo de rendirme te encontré pie con pie el corazón se. Me desarma me haces bien, enciendes luces en mi alma. Creo en ti y en este amor que me ha vuelto indestructible que detuvo mi caída libre. Creo en ti y mi se quedó kilómetros atrás mis fantasmas son por fin están en paz. El pasado es un mal sueño que acabó o un incend que en tus brazos se apagó cuando estaba medio paso de caer mis silencios se encontraron con tu voz te seguí y reescribiste mi futuro es aquí mi único lugar seguro. Creo en ti y en este amor que que me ha vuelto indestructible que detuvo mi caída libre. Creo en ti y mi dolor se quedó kilómetros atrás mis fantasmas hoy por. Fin están en paz.",
+    "words": [
+        {
+            "text": "Ya",
+            "start": 16960,
+            "end": 17120,
+            "confidence": 0.66552734,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 17120,
+            "end": 17360,
+            "confidence": 0.89208984,
+            "speaker": "A"
+        },
+        {
+            "text": "importa",
+            "start": 17360,
+            "end": 17840,
+            "confidence": 0.9523926,
+            "speaker": "A"
+        },
+        {
+            "text": "cada",
+            "start": 18080,
+            "end": 18480,
+            "confidence": 0.79833984,
+            "speaker": "A"
+        },
+        {
+            "text": "noche",
+            "start": 18560,
+            "end": 19320,
+            "confidence": 0.9814453,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 19320,
+            "end": 19560,
+            "confidence": 0.8354492,
+            "speaker": "A"
+        },
+        {
+            "text": "espere,",
+            "start": 19560,
+            "end": 20400,
+            "confidence": 0.8989258,
+            "speaker": "A"
+        },
+        {
+            "text": "cada",
+            "start": 22320,
+            "end": 22720,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "calle",
+            "start": 22880,
+            "end": 23440,
+            "confidence": 0.8708496,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 23520,
+            "end": 23840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "laberinto",
+            "start": 23840,
+            "end": 25000,
+            "confidence": 0.8227539,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 25000,
+            "end": 25280,
+            "confidence": 0.6791992,
+            "speaker": "A"
+        },
+        {
+            "text": "crucé",
+            "start": 25280,
+            "end": 26560,
+            "confidence": 0.8466797,
+            "speaker": "A"
+        },
+        {
+            "text": "porque",
+            "start": 28000,
+            "end": 28360,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 28360,
+            "end": 28560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cielo",
+            "start": 28560,
+            "end": 29040,
+            "confidence": 0.9923503,
+            "speaker": "A"
+        },
+        {
+            "text": "ha",
+            "start": 29040,
+            "end": 29280,
+            "confidence": 0.9628906,
+            "speaker": "A"
+        },
+        {
+            "text": "conspirado",
+            "start": 29280,
+            "end": 30440,
+            "confidence": 0.96203613,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 30440,
+            "end": 30640,
+            "confidence": 0.8173828,
+            "speaker": "A"
+        },
+        {
+            "text": "mi",
+            "start": 30640,
+            "end": 30960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "favor",
+            "start": 30960,
+            "end": 31680,
+            "confidence": 0.8874512,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 33580,
+            "end": 33660,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 33660,
+            "end": 33820,
+            "confidence": 0.5527344,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 33820,
+            "end": 34060,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "segundo",
+            "start": 34060,
+            "end": 34780,
+            "confidence": 0.8540039,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 34780,
+            "end": 35100,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "rendirme",
+            "start": 35100,
+            "end": 36100,
+            "confidence": 0.8378906,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 36100,
+            "end": 36380,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "encontré",
+            "start": 36380,
+            "end": 37420,
+            "confidence": 0.95422363,
+            "speaker": "A"
+        },
+        {
+            "text": "pie",
+            "start": 38380,
+            "end": 39340,
+            "confidence": 0.50805664,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 39340,
+            "end": 39620,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "pie",
+            "start": 39620,
+            "end": 40300,
+            "confidence": 0.7800293,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 41100,
+            "end": 41380,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "corazón",
+            "start": 41380,
+            "end": 42140,
+            "confidence": 0.95654297,
+            "speaker": "A"
+        },
+        {
+            "text": "se.",
+            "start": 42140,
+            "end": 42500,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "Me",
+            "start": 42500,
+            "end": 42860,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "desarma",
+            "start": 42860,
+            "end": 43820,
+            "confidence": 0.9923503,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 43900,
+            "end": 44300,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "haces",
+            "start": 44380,
+            "end": 45340,
+            "confidence": 0.92529297,
+            "speaker": "B"
+        },
+        {
+            "text": "bien,",
+            "start": 45340,
+            "end": 45660,
+            "confidence": 0.73828125,
+            "speaker": "B"
+        },
+        {
+            "text": "enciendes",
+            "start": 46700,
+            "end": 47500,
+            "confidence": 0.8986003,
+            "speaker": "B"
+        },
+        {
+            "text": "luces",
+            "start": 47500,
+            "end": 47980,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 48300,
+            "end": 48620,
+            "confidence": 0.9038086,
+            "speaker": "B"
+        },
+        {
+            "text": "mi",
+            "start": 48620,
+            "end": 48820,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "alma.",
+            "start": 48820,
+            "end": 49420,
+            "confidence": 0.6999512,
+            "speaker": "B"
+        },
+        {
+            "text": "Creo",
+            "start": 49580,
+            "end": 50700,
+            "confidence": 0.8093262,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 50700,
+            "end": 50900,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "ti",
+            "start": 50900,
+            "end": 51420,
+            "confidence": 0.8112793,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 51820,
+            "end": 52100,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 52100,
+            "end": 52380,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "este",
+            "start": 52540,
+            "end": 52940,
+            "confidence": 0.7236328,
+            "speaker": "B"
+        },
+        {
+            "text": "amor",
+            "start": 53500,
+            "end": 54060,
+            "confidence": 0.95166016,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 54700,
+            "end": 54940,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 54940,
+            "end": 55140,
+            "confidence": 0.6777344,
+            "speaker": "B"
+        },
+        {
+            "text": "ha",
+            "start": 55140,
+            "end": 55380,
+            "confidence": 0.4794922,
+            "speaker": "B"
+        },
+        {
+            "text": "vuelto",
+            "start": 55380,
+            "end": 55780,
+            "confidence": 0.9713542,
+            "speaker": "B"
+        },
+        {
+            "text": "indestructible",
+            "start": 55780,
+            "end": 57100,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 57660,
+            "end": 57940,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "detuvo",
+            "start": 57940,
+            "end": 58620,
+            "confidence": 0.8983154,
+            "speaker": "B"
+        },
+        {
+            "text": "mi",
+            "start": 58620,
+            "end": 59020,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "caída",
+            "start": 59020,
+            "end": 59820,
+            "confidence": 0.9391276,
+            "speaker": "B"
+        },
+        {
+            "text": "libre.",
+            "start": 59980,
+            "end": 60460,
+            "confidence": 0.9355469,
+            "speaker": "B"
+        },
+        {
+            "text": "Creo",
+            "start": 60700,
+            "end": 61900,
+            "confidence": 0.92578125,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 61900,
+            "end": 62140,
+            "confidence": 0.9379883,
+            "speaker": "B"
+        },
+        {
+            "text": "ti",
+            "start": 62140,
+            "end": 62620,
+            "confidence": 0.9333496,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 63020,
+            "end": 63420,
+            "confidence": 0.98876953,
+            "speaker": "B"
+        },
+        {
+            "text": "mi",
+            "start": 63420,
+            "end": 63810,
+            "confidence": 0.51953125,
+            "speaker": "B"
+        },
+        {
+            "text": "se",
+            "start": 66520,
+            "end": 66640,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "quedó",
+            "start": 66640,
+            "end": 67400,
+            "confidence": 0.9900716,
+            "speaker": "B"
+        },
+        {
+            "text": "kilómetros",
+            "start": 67400,
+            "end": 68680,
+            "confidence": 0.8833984,
+            "speaker": "B"
+        },
+        {
+            "text": "atrás",
+            "start": 68680,
+            "end": 69320,
+            "confidence": 0.9373372,
+            "speaker": "B"
+        },
+        {
+            "text": "mis",
+            "start": 70680,
+            "end": 71080,
+            "confidence": 0.77734375,
+            "speaker": "B"
+        },
+        {
+            "text": "fantasmas",
+            "start": 71400,
+            "end": 72840,
+            "confidence": 0.80966794,
+            "speaker": "B"
+        },
+        {
+            "text": "son",
+            "start": 73160,
+            "end": 73560,
+            "confidence": 0.8310547,
+            "speaker": "B"
+        },
+        {
+            "text": "por",
+            "start": 74200,
+            "end": 74600,
+            "confidence": 0.5620117,
+            "speaker": "B"
+        },
+        {
+            "text": "fin",
+            "start": 74680,
+            "end": 75080,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "están",
+            "start": 75560,
+            "end": 76680,
+            "confidence": 0.9025879,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 76840,
+            "end": 77200,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "paz.",
+            "start": 77200,
+            "end": 77880,
+            "confidence": 0.72802734,
+            "speaker": "B"
+        },
+        {
+            "text": "El",
+            "start": 89400,
+            "end": 89680,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "pasado",
+            "start": 89680,
+            "end": 90520,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "es",
+            "start": 90520,
+            "end": 90720,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "un",
+            "start": 90720,
+            "end": 91000,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "mal",
+            "start": 91000,
+            "end": 91280,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "sueño",
+            "start": 91280,
+            "end": 91920,
+            "confidence": 0.85026044,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 91920,
+            "end": 92160,
+            "confidence": 0.77734375,
+            "speaker": "C"
+        },
+        {
+            "text": "acabó",
+            "start": 92160,
+            "end": 93320,
+            "confidence": 0.8300781,
+            "speaker": "C"
+        },
+        {
+            "text": "o",
+            "start": 94840,
+            "end": 95120,
+            "confidence": 0.7553711,
+            "speaker": "C"
+        },
+        {
+            "text": "un",
+            "start": 95120,
+            "end": 95280,
+            "confidence": 0.99609375,
+            "speaker": "C"
+        },
+        {
+            "text": "incend",
+            "start": 95280,
+            "end": 95710,
+            "confidence": 0.9667969,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 96340,
+            "end": 96500,
+            "confidence": 0.99121094,
+            "speaker": "C"
+        },
+        {
+            "text": "en",
+            "start": 96500,
+            "end": 96700,
+            "confidence": 0.6166992,
+            "speaker": "C"
+        },
+        {
+            "text": "tus",
+            "start": 96700,
+            "end": 96900,
+            "confidence": 0.99975586,
+            "speaker": "C"
+        },
+        {
+            "text": "brazos",
+            "start": 96900,
+            "end": 97580,
+            "confidence": 0.77945966,
+            "speaker": "C"
+        },
+        {
+            "text": "se",
+            "start": 97580,
+            "end": 97780,
+            "confidence": 0.6225586,
+            "speaker": "C"
+        },
+        {
+            "text": "apagó",
+            "start": 97780,
+            "end": 98900,
+            "confidence": 0.96028644,
+            "speaker": "C"
+        },
+        {
+            "text": "cuando",
+            "start": 100580,
+            "end": 100900,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "estaba",
+            "start": 100900,
+            "end": 101460,
+            "confidence": 0.8881836,
+            "speaker": "C"
+        },
+        {
+            "text": "medio",
+            "start": 101860,
+            "end": 102500,
+            "confidence": 0.7961426,
+            "speaker": "C"
+        },
+        {
+            "text": "paso",
+            "start": 102500,
+            "end": 103300,
+            "confidence": 0.6496582,
+            "speaker": "C"
+        },
+        {
+            "text": "de",
+            "start": 103300,
+            "end": 103620,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "caer",
+            "start": 103620,
+            "end": 104500,
+            "confidence": 0.9992676,
+            "speaker": "C"
+        },
+        {
+            "text": "mis",
+            "start": 106100,
+            "end": 106420,
+            "confidence": 0.6767578,
+            "speaker": "C"
+        },
+        {
+            "text": "silencios",
+            "start": 106420,
+            "end": 107340,
+            "confidence": 0.84628904,
+            "speaker": "C"
+        },
+        {
+            "text": "se",
+            "start": 107340,
+            "end": 107620,
+            "confidence": 0.8520508,
+            "speaker": "C"
+        },
+        {
+            "text": "encontraron",
+            "start": 107620,
+            "end": 108500,
+            "confidence": 0.8983154,
+            "speaker": "C"
+        },
+        {
+            "text": "con",
+            "start": 108660,
+            "end": 109020,
+            "confidence": 0.99316406,
+            "speaker": "C"
+        },
+        {
+            "text": "tu",
+            "start": 109020,
+            "end": 109380,
+            "confidence": 0.91503906,
+            "speaker": "C"
+        },
+        {
+            "text": "voz",
+            "start": 109540,
+            "end": 110020,
+            "confidence": 0.9987793,
+            "speaker": "C"
+        },
+        {
+            "text": "te",
+            "start": 111300,
+            "end": 111700,
+            "confidence": 0.8354492,
+            "speaker": "C"
+        },
+        {
+            "text": "seguí",
+            "start": 111860,
+            "end": 112980,
+            "confidence": 0.7478841,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 113540,
+            "end": 113820,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "reescribiste",
+            "start": 113820,
+            "end": 115060,
+            "confidence": 0.90515137,
+            "speaker": "C"
+        },
+        {
+            "text": "mi",
+            "start": 115140,
+            "end": 115500,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "futuro",
+            "start": 115500,
+            "end": 116260,
+            "confidence": 0.88346356,
+            "speaker": "C"
+        },
+        {
+            "text": "es",
+            "start": 117140,
+            "end": 117540,
+            "confidence": 0.73095703,
+            "speaker": "C"
+        },
+        {
+            "text": "aquí",
+            "start": 117620,
+            "end": 118180,
+            "confidence": 0.87353516,
+            "speaker": "C"
+        },
+        {
+            "text": "mi",
+            "start": 119140,
+            "end": 119500,
+            "confidence": 0.55615234,
+            "speaker": "C"
+        },
+        {
+            "text": "único",
+            "start": 119500,
+            "end": 120100,
+            "confidence": 0.9580078,
+            "speaker": "C"
+        },
+        {
+            "text": "lugar",
+            "start": 120180,
+            "end": 120980,
+            "confidence": 0.8886719,
+            "speaker": "C"
+        },
+        {
+            "text": "seguro.",
+            "start": 121060,
+            "end": 121860,
+            "confidence": 0.8540039,
+            "speaker": "C"
+        },
+        {
+            "text": "Creo",
+            "start": 122260,
+            "end": 123340,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "en",
+            "start": 123340,
+            "end": 123540,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "ti",
+            "start": 123540,
+            "end": 124180,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 124420,
+            "end": 124740,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "en",
+            "start": 124740,
+            "end": 125060,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "este",
+            "start": 125220,
+            "end": 125620,
+            "confidence": 0.9765625,
+            "speaker": "C"
+        },
+        {
+            "text": "amor",
+            "start": 126100,
+            "end": 126660,
+            "confidence": 0.8647461,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 127220,
+            "end": 127610,
+            "confidence": 0.9868164,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 127680,
+            "end": 127760,
+            "confidence": 0.5449219,
+            "speaker": "C"
+        },
+        {
+            "text": "me",
+            "start": 127760,
+            "end": 127880,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "ha",
+            "start": 127880,
+            "end": 128040,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "vuelto",
+            "start": 128040,
+            "end": 128320,
+            "confidence": 0.9083659,
+            "speaker": "C"
+        },
+        {
+            "text": "indestructible",
+            "start": 128320,
+            "end": 129600,
+            "confidence": 0.9906006,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 130160,
+            "end": 130480,
+            "confidence": 0.77685547,
+            "speaker": "C"
+        },
+        {
+            "text": "detuvo",
+            "start": 130480,
+            "end": 131120,
+            "confidence": 0.90393066,
+            "speaker": "C"
+        },
+        {
+            "text": "mi",
+            "start": 131120,
+            "end": 131480,
+            "confidence": 0.6225586,
+            "speaker": "C"
+        },
+        {
+            "text": "caída",
+            "start": 131480,
+            "end": 132320,
+            "confidence": 0.8673503,
+            "speaker": "C"
+        },
+        {
+            "text": "libre.",
+            "start": 132400,
+            "end": 132960,
+            "confidence": 0.9057617,
+            "speaker": "C"
+        },
+        {
+            "text": "Creo",
+            "start": 133120,
+            "end": 134480,
+            "confidence": 0.7739258,
+            "speaker": "C"
+        },
+        {
+            "text": "en",
+            "start": 134480,
+            "end": 134680,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "ti",
+            "start": 134680,
+            "end": 135040,
+            "confidence": 0.9086914,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 135680,
+            "end": 136080,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "mi",
+            "start": 136080,
+            "end": 136480,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "dolor",
+            "start": 136960,
+            "end": 137680,
+            "confidence": 0.9160156,
+            "speaker": "C"
+        },
+        {
+            "text": "se",
+            "start": 138720,
+            "end": 139080,
+            "confidence": 0.6791992,
+            "speaker": "C"
+        },
+        {
+            "text": "quedó",
+            "start": 139080,
+            "end": 139920,
+            "confidence": 0.9716797,
+            "speaker": "C"
+        },
+        {
+            "text": "kilómetros",
+            "start": 139920,
+            "end": 141240,
+            "confidence": 0.9680664,
+            "speaker": "C"
+        },
+        {
+            "text": "atrás",
+            "start": 141240,
+            "end": 141840,
+            "confidence": 0.9215495,
+            "speaker": "C"
+        },
+        {
+            "text": "mis",
+            "start": 143360,
+            "end": 143760,
+            "confidence": 0.9980469,
+            "speaker": "C"
+        },
+        {
+            "text": "fantasmas",
+            "start": 143920,
+            "end": 145440,
+            "confidence": 0.9508789,
+            "speaker": "C"
+        },
+        {
+            "text": "hoy",
+            "start": 145680,
+            "end": 146400,
+            "confidence": 0.70703125,
+            "speaker": "C"
+        },
+        {
+            "text": "por.",
+            "start": 146800,
+            "end": 147200,
+            "confidence": 0.77734375,
+            "speaker": "C"
+        },
+        {
+            "text": "Fin",
+            "start": 147200,
+            "end": 147600,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "están",
+            "start": 148160,
+            "end": 149200,
+            "confidence": 0.9753418,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 149360,
+            "end": 149720,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "paz.",
+            "start": 149720,
+            "end": 150480,
+            "confidence": 0.9020996,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Ya no importa cada noche que espere, cada calle o laberinto que crucé porque el cielo ha conspirado a mi favor y a un segundo de rendirme te encontré pie con pie el corazón se.",
+            "start": 16960,
+            "end": 42500,
+            "confidence": 0.8361793,
+            "speaker": "A"
+        },
+        {
+            "text": "Me desarma me haces bien, enciendes luces en mi alma. Creo en ti y en este amor que me ha vuelto indestructible que detuvo mi caída libre. Creo en ti y mi se quedó kilómetros atrás mis fantasmas son por fin están en paz.",
+            "start": 42500,
+            "end": 77880,
+            "confidence": 0.88816494,
+            "speaker": "B"
+        },
+        {
+            "text": "El pasado es un mal sueño que acabó o un incend que en tus brazos se apagó cuando estaba medio paso de caer mis silencios se encontraron con tu voz te seguí y reescribiste mi futuro es aquí mi único lugar seguro. Creo en ti y en este amor que que me ha vuelto indestructible que detuvo mi caída libre. Creo en ti y mi dolor se quedó kilómetros atrás mis fantasmas hoy por.",
+            "start": 89400,
+            "end": 147200,
+            "confidence": 0.88932866,
+            "speaker": "C"
+        },
+        {
+            "text": "Fin están en paz.",
+            "start": 147200,
+            "end": 150480,
+            "confidence": 0.9692383,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 171,
+    "language_code": "es"
+}

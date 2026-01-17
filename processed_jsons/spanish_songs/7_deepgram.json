@@ -1,0 +1,1113 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "95009deb-9e48-4a14-a531-654861268e06",
+        "sha256": "13d76e0f668211404987d081995576cb637d7148bf65e16bb77f495a382b03ab",
+        "created": "2026-01-17T23:26:02.789000Z",
+        "duration": 277.632,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Un minuto de silencio es lo que estoy pidiendo. Un minuto de tu tiempo no estaría de más. ¿Para qué hoy te interese mi alma ya no está muriendo? Te equivocaste en lo absoluto, no intentes regresar. Prefiero vivir en ir a los ojos,",
+                        "confidence": 0.9638924,
+                        "words": [
+                            {
+                                "word": "un",
+                                "start": 24.695,
+                                "end": 25.195,
+                                "confidence": 0.81969464,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "Un",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "minuto",
+                                "start": 25.335,
+                                "end": 25.415,
+                                "confidence": 0.9972861,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "minuto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 25.415,
+                                "end": 25.575,
+                                "confidence": 0.998664,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "silencio",
+                                "start": 25.575,
+                                "end": 25.975,
+                                "confidence": 0.9997993,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "silencio",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 25.975,
+                                "end": 26.135,
+                                "confidence": 0.9969572,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "lo",
+                                "start": 26.135,
+                                "end": 26.295,
+                                "confidence": 0.9994886,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "lo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 26.295,
+                                "end": 26.455,
+                                "confidence": 0.9986811,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "estoy",
+                                "start": 26.455,
+                                "end": 26.695,
+                                "confidence": 0.9994147,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "estoy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pidiendo",
+                                "start": 26.695,
+                                "end": 27.195,
+                                "confidence": 0.8362737,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9885638,
+                                "punctuated_word": "pidiendo.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "un",
+                                "start": 30.43,
+                                "end": 30.67,
+                                "confidence": 0.9950984,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Un",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "minuto",
+                                "start": 30.67,
+                                "end": 31.07,
+                                "confidence": 0.99906415,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "minuto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 31.07,
+                                "end": 31.230001,
+                                "confidence": 0.998221,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tu",
+                                "start": 31.230001,
+                                "end": 31.470001,
+                                "confidence": 0.99782735,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tu",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tiempo",
+                                "start": 31.470001,
+                                "end": 31.710001,
+                                "confidence": 0.99822885,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tiempo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 31.710001,
+                                "end": 32.03,
+                                "confidence": 0.96833146,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "estaría",
+                                "start": 32.03,
+                                "end": 32.510002,
+                                "confidence": 0.9635876,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "estaría",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 32.510002,
+                                "end": 32.75,
+                                "confidence": 0.9206511,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "más",
+                                "start": 32.75,
+                                "end": 33.25,
+                                "confidence": 0.8294499,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "más.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "para",
+                                "start": 35.39,
+                                "end": 35.87,
+                                "confidence": 0.75397027,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "¿Para",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "qué",
+                                "start": 35.87,
+                                "end": 36.11,
+                                "confidence": 0.9527411,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "qué",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hoy",
+                                "start": 36.11,
+                                "end": 36.27,
+                                "confidence": 0.94446534,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "hoy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "te",
+                                "start": 36.27,
+                                "end": 36.510002,
+                                "confidence": 0.9947403,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "te",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "interese",
+                                "start": 36.510002,
+                                "end": 36.91,
+                                "confidence": 0.56461585,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "interese",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "mi",
+                                "start": 36.91,
+                                "end": 37.31,
+                                "confidence": 0.551729,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "mi",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "alma",
+                                "start": 37.31,
+                                "end": 37.55,
+                                "confidence": 0.99958676,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "alma",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ya",
+                                "start": 37.55,
+                                "end": 37.71,
+                                "confidence": 0.9638924,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "ya",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 37.71,
+                                "end": 37.95,
+                                "confidence": 0.84125596,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "está",
+                                "start": 37.95,
+                                "end": 38.27,
+                                "confidence": 0.9675186,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "está",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "muriendo",
+                                "start": 38.27,
+                                "end": 38.77,
+                                "confidence": 0.99586403,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "muriendo?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "te",
+                                "start": 40.99,
+                                "end": 41.31,
+                                "confidence": 0.84868795,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "Te",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "equivocaste",
+                                "start": 41.31,
+                                "end": 41.81,
+                                "confidence": 0.99972916,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "equivocaste",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 41.870003,
+                                "end": 42.03,
+                                "confidence": 0.98091507,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "en",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "lo",
+                                "start": 42.03,
+                                "end": 42.35,
+                                "confidence": 0.6720179,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "lo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "absoluto",
+                                "start": 42.35,
+                                "end": 42.83,
+                                "confidence": 0.96333534,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "absoluto,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 42.83,
+                                "end": 42.897144,
+                                "confidence": 0.8357899,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "intentes",
+                                "start": 42.897144,
+                                "end": 42.964287,
+                                "confidence": 0.9969132,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "intentes",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "regresar",
+                                "start": 42.964287,
+                                "end": 43.03143,
+                                "confidence": 0.95420027,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9380417,
+                                "punctuated_word": "regresar.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "prefiero",
+                                "start": 43.03143,
+                                "end": 43.09857,
+                                "confidence": 0.85980767,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "Prefiero",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "vivir",
+                                "start": 43.09857,
+                                "end": 43.165714,
+                                "confidence": 0.9691849,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "vivir",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 43.165714,
+                                "end": 43.232857,
+                                "confidence": 0.679098,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "en",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ir",
+                                "start": 43.232857,
+                                "end": 43.3,
+                                "confidence": 0.18311517,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "ir",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "a",
+                                "start": 43.3,
+                                "end": 43.55,
+                                "confidence": 0.8240229,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "los",
+                                "start": 43.55,
+                                "end": 43.8,
+                                "confidence": 0.52077174,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "los",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ojos",
+                                "start": 43.8,
+                                "end": 44.3,
+                                "confidence": 0.19728324,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9540482,
+                                "punctuated_word": "ojos,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Un minuto de silencio es lo que estoy pidiendo. Un minuto de tu tiempo no estaría de más. ¿Para qué hoy te interese mi alma ya no está muriendo? Te equivocaste en lo absoluto, no intentes regresar. Prefiero vivir en ir a los ojos,",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Un minuto de silencio es lo que estoy pidiendo.",
+                                            "start": 24.695,
+                                            "end": 27.195,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Un minuto de tu tiempo no estaría de más.",
+                                            "start": 30.43,
+                                            "end": 33.25,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿Para qué hoy te interese mi alma ya no está muriendo?",
+                                            "start": 35.39,
+                                            "end": 38.77,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Te equivocaste en lo absoluto, no intentes regresar.",
+                                            "start": 40.99,
+                                            "end": 43.03143,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Prefiero vivir en ir a los ojos,",
+                                            "start": 43.03143,
+                                            "end": 44.3,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 44.0,
+                                    "start": 24.695,
+                                    "end": 44.3,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 24.695,
+                "end": 27.195,
+                "confidence": 0.9606955,
+                "channel": 0.0,
+                "transcript": "Un minuto de silencio es lo que estoy pidiendo.",
+                "words": [
+                    {
+                        "word": "un",
+                        "start": 24.695,
+                        "end": 25.195,
+                        "confidence": 0.81969464,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "Un",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "minuto",
+                        "start": 25.335,
+                        "end": 25.415,
+                        "confidence": 0.9972861,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "minuto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "de",
+                        "start": 25.415,
+                        "end": 25.575,
+                        "confidence": 0.998664,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "silencio",
+                        "start": 25.575,
+                        "end": 25.975,
+                        "confidence": 0.9997993,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "silencio",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 25.975,
+                        "end": 26.135,
+                        "confidence": 0.9969572,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "lo",
+                        "start": 26.135,
+                        "end": 26.295,
+                        "confidence": 0.9994886,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "lo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 26.295,
+                        "end": 26.455,
+                        "confidence": 0.9986811,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "estoy",
+                        "start": 26.455,
+                        "end": 26.695,
+                        "confidence": 0.9994147,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "estoy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pidiendo",
+                        "start": 26.695,
+                        "end": 27.195,
+                        "confidence": 0.8362737,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9885638,
+                        "punctuated_word": "pidiendo.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "2af2ec3e-d083-4db6-8564-d4afd6acbef7",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 30.43,
+                "end": 33.25,
+                "confidence": 0.9633844,
+                "channel": 0.0,
+                "transcript": "Un minuto de tu tiempo no estaría de más.",
+                "words": [
+                    {
+                        "word": "un",
+                        "start": 30.43,
+                        "end": 30.67,
+                        "confidence": 0.9950984,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Un",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "minuto",
+                        "start": 30.67,
+                        "end": 31.07,
+                        "confidence": 0.99906415,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "minuto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "de",
+                        "start": 31.07,
+                        "end": 31.230001,
+                        "confidence": 0.998221,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tu",
+                        "start": 31.230001,
+                        "end": 31.470001,
+                        "confidence": 0.99782735,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tu",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tiempo",
+                        "start": 31.470001,
+                        "end": 31.710001,
+                        "confidence": 0.99822885,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tiempo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 31.710001,
+                        "end": 32.03,
+                        "confidence": 0.96833146,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "estaría",
+                        "start": 32.03,
+                        "end": 32.510002,
+                        "confidence": 0.9635876,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "estaría",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "de",
+                        "start": 32.510002,
+                        "end": 32.75,
+                        "confidence": 0.9206511,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "más",
+                        "start": 32.75,
+                        "end": 33.25,
+                        "confidence": 0.8294499,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "más.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "34a0beee-502b-4e8e-b63a-18524e232c0c",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 35.39,
+                "end": 38.77,
+                "confidence": 0.8663981,
+                "channel": 0.0,
+                "transcript": "¿Para qué hoy te interese mi alma ya no está muriendo?",
+                "words": [
+                    {
+                        "word": "para",
+                        "start": 35.39,
+                        "end": 35.87,
+                        "confidence": 0.75397027,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "¿Para",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "qué",
+                        "start": 35.87,
+                        "end": 36.11,
+                        "confidence": 0.9527411,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "qué",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "hoy",
+                        "start": 36.11,
+                        "end": 36.27,
+                        "confidence": 0.94446534,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "hoy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "te",
+                        "start": 36.27,
+                        "end": 36.510002,
+                        "confidence": 0.9947403,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "te",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "interese",
+                        "start": 36.510002,
+                        "end": 36.91,
+                        "confidence": 0.56461585,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "interese",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "mi",
+                        "start": 36.91,
+                        "end": 37.31,
+                        "confidence": 0.551729,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "mi",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "alma",
+                        "start": 37.31,
+                        "end": 37.55,
+                        "confidence": 0.99958676,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "alma",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ya",
+                        "start": 37.55,
+                        "end": 37.71,
+                        "confidence": 0.9638924,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "ya",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 37.71,
+                        "end": 37.95,
+                        "confidence": 0.84125596,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "está",
+                        "start": 37.95,
+                        "end": 38.27,
+                        "confidence": 0.9675186,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "está",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "muriendo",
+                        "start": 38.27,
+                        "end": 38.77,
+                        "confidence": 0.99586403,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "muriendo?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "212cf1a6-c6e6-4f18-88b6-670d39aed2bf",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 40.99,
+                "end": 44.3,
+                "confidence": 0.76565814,
+                "channel": 0.0,
+                "transcript": "Te equivocaste en lo absoluto, no intentes regresar. Prefiero vivir en ir a los ojos,",
+                "words": [
+                    {
+                        "word": "te",
+                        "start": 40.99,
+                        "end": 41.31,
+                        "confidence": 0.84868795,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "Te",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "equivocaste",
+                        "start": 41.31,
+                        "end": 41.81,
+                        "confidence": 0.99972916,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "equivocaste",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "en",
+                        "start": 41.870003,
+                        "end": 42.03,
+                        "confidence": 0.98091507,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "en",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "lo",
+                        "start": 42.03,
+                        "end": 42.35,
+                        "confidence": 0.6720179,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "lo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "absoluto",
+                        "start": 42.35,
+                        "end": 42.83,
+                        "confidence": 0.96333534,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "absoluto,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 42.83,
+                        "end": 42.897144,
+                        "confidence": 0.8357899,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "intentes",
+                        "start": 42.897144,
+                        "end": 42.964287,
+                        "confidence": 0.9969132,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "intentes",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "regresar",
+                        "start": 42.964287,
+                        "end": 43.03143,
+                        "confidence": 0.95420027,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9380417,
+                        "punctuated_word": "regresar.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "prefiero",
+                        "start": 43.03143,
+                        "end": 43.09857,
+                        "confidence": 0.85980767,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "Prefiero",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "vivir",
+                        "start": 43.09857,
+                        "end": 43.165714,
+                        "confidence": 0.9691849,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "vivir",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "en",
+                        "start": 43.165714,
+                        "end": 43.232857,
+                        "confidence": 0.679098,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "en",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ir",
+                        "start": 43.232857,
+                        "end": 43.3,
+                        "confidence": 0.18311517,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "ir",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "a",
+                        "start": 43.3,
+                        "end": 43.55,
+                        "confidence": 0.8240229,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "los",
+                        "start": 43.55,
+                        "end": 43.8,
+                        "confidence": 0.52077174,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "los",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ojos",
+                        "start": 43.8,
+                        "end": 44.3,
+                        "confidence": 0.19728324,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9540482,
+                        "punctuated_word": "ojos,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ae2f4fcb-5483-46fb-9be9-f6bfe45eda39",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

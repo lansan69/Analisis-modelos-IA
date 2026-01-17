@@ -1,0 +1,489 @@
+{
+    "id": "f7d4c301-c724-4198-ae93-1db9a36e8ebe",
+    "status": "completed",
+    "text": "I think everyone is a leader whether we want to admit it or not. We may be more comfortable at times letting someone else carry the mantle. But those of us who value good leadership always want to be the one in front. And we always make mistakes while we're doing it, learning it. And those that are great leaders truly learn from those mistakes and evolve.",
+    "words": [
+        {
+            "text": "I",
+            "start": 160,
+            "end": 240,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "think",
+            "start": 240,
+            "end": 360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "everyone",
+            "start": 360,
+            "end": 640,
+            "confidence": 0.97998047,
+            "speaker": "A"
+        },
+        {
+            "text": "is",
+            "start": 640,
+            "end": 840,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 840,
+            "end": 1000,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "leader",
+            "start": 1000,
+            "end": 1360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "whether",
+            "start": 1520,
+            "end": 1840,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "we",
+            "start": 1840,
+            "end": 1960,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "want",
+            "start": 1960,
+            "end": 2360,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 2360,
+            "end": 2400,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "admit",
+            "start": 2400,
+            "end": 2640,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 2640,
+            "end": 2840,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "or",
+            "start": 2840,
+            "end": 3000,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "not.",
+            "start": 3000,
+            "end": 3280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "We",
+            "start": 4320,
+            "end": 4640,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "may",
+            "start": 4640,
+            "end": 4880,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 4880,
+            "end": 5040,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "more",
+            "start": 5040,
+            "end": 5200,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "comfortable",
+            "start": 5200,
+            "end": 5760,
+            "confidence": 0.94433594,
+            "speaker": "A"
+        },
+        {
+            "text": "at",
+            "start": 5760,
+            "end": 5920,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "times",
+            "start": 5920,
+            "end": 6400,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "letting",
+            "start": 6400,
+            "end": 7040,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "someone",
+            "start": 7040,
+            "end": 7320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "else",
+            "start": 7320,
+            "end": 7680,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "carry",
+            "start": 7920,
+            "end": 8360,
+            "confidence": 0.9404297,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 8360,
+            "end": 8520,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "mantle.",
+            "start": 8520,
+            "end": 9040,
+            "confidence": 0.8024089,
+            "speaker": "A"
+        },
+        {
+            "text": "But",
+            "start": 9200,
+            "end": 9520,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "those",
+            "start": 9520,
+            "end": 9720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 9720,
+            "end": 9880,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "us",
+            "start": 9880,
+            "end": 10080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "who",
+            "start": 10080,
+            "end": 10400,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "value",
+            "start": 10560,
+            "end": 11120,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "good",
+            "start": 11360,
+            "end": 11680,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "leadership",
+            "start": 11680,
+            "end": 12320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "always",
+            "start": 12400,
+            "end": 12760,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "want",
+            "start": 12760,
+            "end": 13040,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 13040,
+            "end": 13120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 13120,
+            "end": 13240,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 13240,
+            "end": 13400,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "one",
+            "start": 13400,
+            "end": 13600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 13600,
+            "end": 13800,
+            "confidence": 0.5444336,
+            "speaker": "A"
+        },
+        {
+            "text": "front.",
+            "start": 13800,
+            "end": 14160,
+            "confidence": 0.9082031,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 14160,
+            "end": 14320,
+            "confidence": 0.9667969,
+            "speaker": "A"
+        },
+        {
+            "text": "we",
+            "start": 14320,
+            "end": 14440,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "always",
+            "start": 14440,
+            "end": 14720,
+            "confidence": 0.99690753,
+            "speaker": "A"
+        },
+        {
+            "text": "make",
+            "start": 14720,
+            "end": 14920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "mistakes",
+            "start": 14920,
+            "end": 15320,
+            "confidence": 0.9996338,
+            "speaker": "A"
+        },
+        {
+            "text": "while",
+            "start": 15320,
+            "end": 15440,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "we're",
+            "start": 15440,
+            "end": 15600,
+            "confidence": 0.97184247,
+            "speaker": "A"
+        },
+        {
+            "text": "doing",
+            "start": 15600,
+            "end": 15800,
+            "confidence": 0.9482422,
+            "speaker": "A"
+        },
+        {
+            "text": "it,",
+            "start": 15800,
+            "end": 16040,
+            "confidence": 0.9707031,
+            "speaker": "A"
+        },
+        {
+            "text": "learning",
+            "start": 16040,
+            "end": 16440,
+            "confidence": 0.87190753,
+            "speaker": "A"
+        },
+        {
+            "text": "it.",
+            "start": 16440,
+            "end": 16800,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 17120,
+            "end": 17400,
+            "confidence": 0.9609375,
+            "speaker": "A"
+        },
+        {
+            "text": "those",
+            "start": 17400,
+            "end": 17600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 17600,
+            "end": 17800,
+            "confidence": 0.9848633,
+            "speaker": "A"
+        },
+        {
+            "text": "are",
+            "start": 17800,
+            "end": 17960,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "great",
+            "start": 17960,
+            "end": 18160,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "leaders",
+            "start": 18160,
+            "end": 18440,
+            "confidence": 0.7807617,
+            "speaker": "A"
+        },
+        {
+            "text": "truly",
+            "start": 18440,
+            "end": 18720,
+            "confidence": 0.9977214,
+            "speaker": "A"
+        },
+        {
+            "text": "learn",
+            "start": 18720,
+            "end": 19200,
+            "confidence": 0.98746747,
+            "speaker": "A"
+        },
+        {
+            "text": "from",
+            "start": 19200,
+            "end": 19280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "those",
+            "start": 19280,
+            "end": 19400,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "mistakes",
+            "start": 19400,
+            "end": 19800,
+            "confidence": 0.99401855,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 19800,
+            "end": 19960,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "evolve.",
+            "start": 19960,
+            "end": 20320,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "I think everyone is a leader whether we want to admit it or not. We may be more comfortable at times letting someone else carry the mantle. But those of us who value good leadership always want to be the one in front. And we always make mistakes while we're doing it, learning it. And those that are great leaders truly learn from those mistakes and evolve.",
+            "start": 160,
+            "end": 20320,
+            "confidence": 0.9737178,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 21,
+    "language_code": "es"
+}

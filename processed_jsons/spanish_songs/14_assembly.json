@@ -1,0 +1,43 @@
+{
+    "id": "7d91a0c5-c9fa-4919-98d0-41a19cf11fb9",
+    "status": "completed",
+    "text": "Don't.",
+    "words": [
+        {
+            "text": "Don't.",
+            "start": 219070,
+            "end": 234890,
+            "confidence": 0.66381836,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Don't.",
+            "start": 219070,
+            "end": 234890,
+            "confidence": 0.66381836,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [
+        {
+            "summary": "Don't.",
+            "headline": "Don't.",
+            "gist": "Don't.",
+            "start": 219070,
+            "end": 234890
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "Don't.",
+            "start": 219070,
+            "end": 234890,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.51224226
+        }
+    ],
+    "audio_duration": 235,
+    "language_code": "en"
+}

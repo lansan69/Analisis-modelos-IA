@@ -1,0 +1,1098 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "6f40e9af-8d79-4151-b563-a7d83ab5eb12",
+        "sha256": "b00b35eb8d669f85ce2791c3e33dcdffe89056662361a735347f9baf91bac861",
+        "created": "2026-01-17T23:14:36.307000Z",
+        "duration": 254.928,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Es poco decir que daría la vida por tu amor y aún más. Ya no me alcanzan las palabras, no, para explicarte lo que siento yo y todo lo que vas causando en mí. Lo blanco y negro se vuelve color,",
+                        "confidence": 0.99620914,
+                        "words": [
+                            {
+                                "word": "es",
+                                "start": 26.83,
+                                "end": 27.33,
+                                "confidence": 0.65144235,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "poco",
+                                "start": 27.87,
+                                "end": 27.95,
+                                "confidence": 0.995168,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "poco",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "decir",
+                                "start": 27.95,
+                                "end": 28.45,
+                                "confidence": 0.9913645,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "decir",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 29.869999,
+                                "end": 30.03,
+                                "confidence": 0.6717178,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "daría",
+                                "start": 30.03,
+                                "end": 30.53,
+                                "confidence": 0.9870864,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "daría",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "la",
+                                "start": 31.07,
+                                "end": 31.57,
+                                "confidence": 0.9702143,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "la",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "vida",
+                                "start": 32.27,
+                                "end": 32.59,
+                                "confidence": 0.99917454,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "vida",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "por",
+                                "start": 32.59,
+                                "end": 32.83,
+                                "confidence": 0.97822285,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "por",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tu",
+                                "start": 32.83,
+                                "end": 33.15,
+                                "confidence": 0.99620914,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tu",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "amor",
+                                "start": 33.15,
+                                "end": 33.65,
+                                "confidence": 0.99883634,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "amor",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 33.71,
+                                "end": 33.87,
+                                "confidence": 0.8413383,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "aún",
+                                "start": 33.87,
+                                "end": 34.37,
+                                "confidence": 0.97751504,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "aún",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "más",
+                                "start": 34.59,
+                                "end": 35.09,
+                                "confidence": 0.92431813,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "más.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ya",
+                                "start": 38.83,
+                                "end": 38.989998,
+                                "confidence": 0.9981371,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Ya",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 38.989998,
+                                "end": 39.309998,
+                                "confidence": 0.9997204,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "me",
+                                "start": 39.309998,
+                                "end": 39.55,
+                                "confidence": 0.9995882,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "me",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "alcanzan",
+                                "start": 39.55,
+                                "end": 40.05,
+                                "confidence": 0.9976035,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "alcanzan",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "las",
+                                "start": 40.11,
+                                "end": 40.35,
+                                "confidence": 0.9987966,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "las",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "palabras",
+                                "start": 40.35,
+                                "end": 40.85,
+                                "confidence": 0.9220772,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "palabras,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 40.989998,
+                                "end": 41.489998,
+                                "confidence": 0.86696684,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "no,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "para",
+                                "start": 41.965,
+                                "end": 42.465,
+                                "confidence": 0.9829586,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "para",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "explicarte",
+                                "start": 43.005,
+                                "end": 43.085,
+                                "confidence": 0.99996114,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "explicarte",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "lo",
+                                "start": 43.085,
+                                "end": 43.245,
+                                "confidence": 0.998692,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "lo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 43.245,
+                                "end": 43.645,
+                                "confidence": 0.9956196,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "siento",
+                                "start": 43.645,
+                                "end": 44.045002,
+                                "confidence": 0.9995863,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "siento",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "yo",
+                                "start": 44.045002,
+                                "end": 44.545002,
+                                "confidence": 0.9975674,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "yo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 44.685,
+                                "end": 45.185,
+                                "confidence": 0.64790297,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "todo",
+                                "start": 45.325,
+                                "end": 45.725,
+                                "confidence": 0.999038,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "todo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "lo",
+                                "start": 45.725,
+                                "end": 45.965,
+                                "confidence": 0.9976745,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "lo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 45.965,
+                                "end": 46.125,
+                                "confidence": 0.9975648,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "vas",
+                                "start": 46.125,
+                                "end": 46.445,
+                                "confidence": 0.99878114,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "vas",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "causando",
+                                "start": 46.445,
+                                "end": 46.945,
+                                "confidence": 0.9970029,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "causando",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 47.004997,
+                                "end": 47.504997,
+                                "confidence": 0.9818319,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "en",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "mí",
+                                "start": 47.565,
+                                "end": 48.065,
+                                "confidence": 0.97108847,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "mí.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "lo",
+                                "start": 51.405,
+                                "end": 51.645,
+                                "confidence": 0.46989843,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "Lo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "blanco",
+                                "start": 51.645,
+                                "end": 51.965,
+                                "confidence": 0.9990927,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "blanco",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 51.965,
+                                "end": 52.205,
+                                "confidence": 0.99827707,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "negro",
+                                "start": 52.205,
+                                "end": 52.525,
+                                "confidence": 0.99966097,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "negro",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "se",
+                                "start": 52.525,
+                                "end": 52.765,
+                                "confidence": 0.9951256,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "se",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "vuelve",
+                                "start": 52.765,
+                                "end": 53.245,
+                                "confidence": 0.9989699,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "vuelve",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "color",
+                                "start": 53.245,
+                                "end": 53.745,
+                                "confidence": 0.84625006,
+                                "speaker": 0,
+                                "speaker_confidence": 0.98197305,
+                                "punctuated_word": "color,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Es poco decir que daría la vida por tu amor y aún más. Ya no me alcanzan las palabras, no, para explicarte lo que siento yo y todo lo que vas causando en mí. Lo blanco y negro se vuelve color,",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Es poco decir que daría la vida por tu amor y aún más.",
+                                            "start": 26.83,
+                                            "end": 35.09,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Ya no me alcanzan las palabras, no, para explicarte lo que siento yo y todo lo que vas causando en mí.",
+                                            "start": 38.83,
+                                            "end": 48.065,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Lo blanco y negro se vuelve color,",
+                                            "start": 51.405,
+                                            "end": 53.745,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 41.0,
+                                    "start": 26.83,
+                                    "end": 53.745,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 26.83,
+                "end": 27.33,
+                "confidence": 0.65144235,
+                "channel": 0.0,
+                "transcript": "Es",
+                "words": [
+                    {
+                        "word": "es",
+                        "start": 26.83,
+                        "end": 27.33,
+                        "confidence": 0.65144235,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "1cdcc6f5-cfff-4816-b8cf-c0e413d3de96",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 27.87,
+                "end": 28.45,
+                "confidence": 0.9932662,
+                "channel": 0.0,
+                "transcript": "poco decir",
+                "words": [
+                    {
+                        "word": "poco",
+                        "start": 27.87,
+                        "end": 27.95,
+                        "confidence": 0.995168,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "poco",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "decir",
+                        "start": 27.95,
+                        "end": 28.45,
+                        "confidence": 0.9913645,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "decir",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "1bdf5018-984c-451f-a61b-11d4d48a1613",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 29.869999,
+                "end": 30.53,
+                "confidence": 0.8294021,
+                "channel": 0.0,
+                "transcript": "que daría",
+                "words": [
+                    {
+                        "word": "que",
+                        "start": 29.869999,
+                        "end": 30.03,
+                        "confidence": 0.6717178,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "daría",
+                        "start": 30.03,
+                        "end": 30.53,
+                        "confidence": 0.9870864,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "daría",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "90dc9448-eee5-4444-90ef-cdea817ecdc0",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 31.07,
+                "end": 31.57,
+                "confidence": 0.9702143,
+                "channel": 0.0,
+                "transcript": "la",
+                "words": [
+                    {
+                        "word": "la",
+                        "start": 31.07,
+                        "end": 31.57,
+                        "confidence": 0.9702143,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "la",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ef4e43c9-63a7-4f8b-b2a5-0941fa500053",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 32.27,
+                "end": 35.09,
+                "confidence": 0.95937353,
+                "channel": 0.0,
+                "transcript": "vida por tu amor y aún más.",
+                "words": [
+                    {
+                        "word": "vida",
+                        "start": 32.27,
+                        "end": 32.59,
+                        "confidence": 0.99917454,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "vida",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "por",
+                        "start": 32.59,
+                        "end": 32.83,
+                        "confidence": 0.97822285,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "por",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tu",
+                        "start": 32.83,
+                        "end": 33.15,
+                        "confidence": 0.99620914,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tu",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "amor",
+                        "start": 33.15,
+                        "end": 33.65,
+                        "confidence": 0.99883634,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "amor",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 33.71,
+                        "end": 33.87,
+                        "confidence": 0.8413383,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "aún",
+                        "start": 33.87,
+                        "end": 34.37,
+                        "confidence": 0.97751504,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "aún",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "más",
+                        "start": 34.59,
+                        "end": 35.09,
+                        "confidence": 0.92431813,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "más.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "05667670-36ca-4a63-abe9-593254005755",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 38.83,
+                "end": 41.489998,
+                "confidence": 0.96898425,
+                "channel": 0.0,
+                "transcript": "Ya no me alcanzan las palabras, no,",
+                "words": [
+                    {
+                        "word": "ya",
+                        "start": 38.83,
+                        "end": 38.989998,
+                        "confidence": 0.9981371,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Ya",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 38.989998,
+                        "end": 39.309998,
+                        "confidence": 0.9997204,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "me",
+                        "start": 39.309998,
+                        "end": 39.55,
+                        "confidence": 0.9995882,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "me",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "alcanzan",
+                        "start": 39.55,
+                        "end": 40.05,
+                        "confidence": 0.9976035,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "alcanzan",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "las",
+                        "start": 40.11,
+                        "end": 40.35,
+                        "confidence": 0.9987966,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "las",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "palabras",
+                        "start": 40.35,
+                        "end": 40.85,
+                        "confidence": 0.9220772,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "palabras,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 40.989998,
+                        "end": 41.489998,
+                        "confidence": 0.86696684,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "no,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "f4d8af4d-d57c-4b50-9460-7f116531e74b",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 41.965,
+                "end": 42.465,
+                "confidence": 0.9829586,
+                "channel": 0.0,
+                "transcript": "para",
+                "words": [
+                    {
+                        "word": "para",
+                        "start": 41.965,
+                        "end": 42.465,
+                        "confidence": 0.9829586,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "para",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "75b38e73-0ea7-4811-bfa4-0b272a906270",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 43.005,
+                "end": 48.065,
+                "confidence": 0.96787006,
+                "channel": 0.0,
+                "transcript": "explicarte lo que siento yo y todo lo que vas causando en mí.",
+                "words": [
+                    {
+                        "word": "explicarte",
+                        "start": 43.005,
+                        "end": 43.085,
+                        "confidence": 0.99996114,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "explicarte",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "lo",
+                        "start": 43.085,
+                        "end": 43.245,
+                        "confidence": 0.998692,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "lo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 43.245,
+                        "end": 43.645,
+                        "confidence": 0.9956196,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "siento",
+                        "start": 43.645,
+                        "end": 44.045002,
+                        "confidence": 0.9995863,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "siento",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "yo",
+                        "start": 44.045002,
+                        "end": 44.545002,
+                        "confidence": 0.9975674,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "yo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 44.685,
+                        "end": 45.185,
+                        "confidence": 0.64790297,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "todo",
+                        "start": 45.325,
+                        "end": 45.725,
+                        "confidence": 0.999038,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "todo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "lo",
+                        "start": 45.725,
+                        "end": 45.965,
+                        "confidence": 0.9976745,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "lo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 45.965,
+                        "end": 46.125,
+                        "confidence": 0.9975648,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "vas",
+                        "start": 46.125,
+                        "end": 46.445,
+                        "confidence": 0.99878114,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "vas",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "causando",
+                        "start": 46.445,
+                        "end": 46.945,
+                        "confidence": 0.9970029,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "causando",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "en",
+                        "start": 47.004997,
+                        "end": 47.504997,
+                        "confidence": 0.9818319,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "en",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "mí",
+                        "start": 47.565,
+                        "end": 48.065,
+                        "confidence": 0.97108847,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "mí.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e83d890c-fefe-4a49-9371-66dbb0b4b0af",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 51.405,
+                "end": 53.745,
+                "confidence": 0.90103924,
+                "channel": 0.0,
+                "transcript": "Lo blanco y negro se vuelve color,",
+                "words": [
+                    {
+                        "word": "lo",
+                        "start": 51.405,
+                        "end": 51.645,
+                        "confidence": 0.46989843,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "Lo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "blanco",
+                        "start": 51.645,
+                        "end": 51.965,
+                        "confidence": 0.9990927,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "blanco",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 51.965,
+                        "end": 52.205,
+                        "confidence": 0.99827707,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "negro",
+                        "start": 52.205,
+                        "end": 52.525,
+                        "confidence": 0.99966097,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "negro",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "se",
+                        "start": 52.525,
+                        "end": 52.765,
+                        "confidence": 0.9951256,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "se",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "vuelve",
+                        "start": 52.765,
+                        "end": 53.245,
+                        "confidence": 0.9989699,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "vuelve",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "color",
+                        "start": 53.245,
+                        "end": 53.745,
+                        "confidence": 0.84625006,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.98197305,
+                        "punctuated_word": "color,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "96abc01c-fd59-4e35-81fd-3b820b0ed11f",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

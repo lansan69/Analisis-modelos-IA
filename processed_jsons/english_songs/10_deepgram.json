@@ -1,0 +1,498 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "06c505e3-0459-400c-a589-e81133108752",
+        "sha256": "f2e77cee9b04e3db76e3ec0c444ec54237c90236c074dceeb999b6da03b00cc3",
+        "created": "2026-01-17T23:22:41.395000Z",
+        "duration": 186.984,
+        "channels": 1.0,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        },
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 26.0,
+            "output_tokens": 26.0
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "They say the holy water's watered down, and this town's lost its faith. Our colors will fade,",
+                        "confidence": 0.93801016,
+                        "words": [
+                            {
+                                "word": "they",
+                                "start": 8.32,
+                                "end": 8.559999,
+                                "confidence": 0.6622298,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "They",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5767960548400879
+                            },
+                            {
+                                "word": "say",
+                                "start": 8.559999,
+                                "end": 8.88,
+                                "confidence": 0.9332323,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "say",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5724384188652039
+                            },
+                            {
+                                "word": "the",
+                                "start": 8.88,
+                                "end": 9.2,
+                                "confidence": 0.93801016,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "the",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8066933751106262
+                            },
+                            {
+                                "word": "holy",
+                                "start": 9.2,
+                                "end": 9.679999,
+                                "confidence": 0.7209067,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "holy",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.7677880525588989
+                            },
+                            {
+                                "word": "water's",
+                                "start": 9.679999,
+                                "end": 10.179999,
+                                "confidence": 0.81294143,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "water's",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8054361343383789
+                            },
+                            {
+                                "word": "watered",
+                                "start": 10.24,
+                                "end": 10.74,
+                                "confidence": 0.9982999,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "watered",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8320419192314148
+                            },
+                            {
+                                "word": "down",
+                                "start": 10.8,
+                                "end": 11.3,
+                                "confidence": 0.6849374,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "down,",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.7246381640434265
+                            },
+                            {
+                                "word": "and",
+                                "start": 11.84,
+                                "end": 12.08,
+                                "confidence": 0.96399355,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "and",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.7818266749382019
+                            },
+                            {
+                                "word": "this",
+                                "start": 12.08,
+                                "end": 12.32,
+                                "confidence": 0.9972255,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "this",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9351354837417604
+                            },
+                            {
+                                "word": "town's",
+                                "start": 12.32,
+                                "end": 12.719999,
+                                "confidence": 0.98623437,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "town's",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9112140536308287
+                            },
+                            {
+                                "word": "lost",
+                                "start": 12.719999,
+                                "end": 13.12,
+                                "confidence": 0.99969137,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "lost",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9154701828956604
+                            },
+                            {
+                                "word": "its",
+                                "start": 13.12,
+                                "end": 13.44,
+                                "confidence": 0.97430813,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "its",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9379281997680664
+                            },
+                            {
+                                "word": "faith",
+                                "start": 13.44,
+                                "end": 13.94,
+                                "confidence": 0.9125091,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "faith.",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.872758150100708
+                            },
+                            {
+                                "word": "our",
+                                "start": 14.24,
+                                "end": 14.559999,
+                                "confidence": 0.98583,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Our",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9028881192207336
+                            },
+                            {
+                                "word": "colors",
+                                "start": 14.559999,
+                                "end": 15.059999,
+                                "confidence": 0.9873024,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "colors",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8892763257026672
+                            },
+                            {
+                                "word": "will",
+                                "start": 15.2,
+                                "end": 15.44,
+                                "confidence": 0.93620527,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "will",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8784382343292236
+                            },
+                            {
+                                "word": "fade",
+                                "start": 15.44,
+                                "end": 15.94,
+                                "confidence": 0.8162093,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "fade,",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5619356632232666
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: They say the holy water's watered down, and this town's lost its faith. Our colors will fade,",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "They say the holy water's watered down, and this town's lost its faith.",
+                                            "start": 8.32,
+                                            "end": 13.94,
+                                            "sentiment": "negative",
+                                            "sentiment_score": -0.8030896049279433
+                                        },
+                                        {
+                                            "text": "Our colors will fade,",
+                                            "start": 14.24,
+                                            "end": 15.94,
+                                            "sentiment": "negative",
+                                            "sentiment_score": -0.8081345856189728
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 17.0,
+                                    "start": 8.32,
+                                    "end": 15.94,
+                                    "sentiment": "negative",
+                                    "sentiment_score": -0.8042766592081856
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 8.32,
+                "end": 11.3,
+                "confidence": 0.8215083,
+                "channel": 0.0,
+                "transcript": "They say the holy water's watered down,",
+                "words": [
+                    {
+                        "word": "they",
+                        "start": 8.32,
+                        "end": 8.559999,
+                        "confidence": 0.6622298,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "They",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5767960548400879
+                    },
+                    {
+                        "word": "say",
+                        "start": 8.559999,
+                        "end": 8.88,
+                        "confidence": 0.9332323,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "say",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5724384188652039
+                    },
+                    {
+                        "word": "the",
+                        "start": 8.88,
+                        "end": 9.2,
+                        "confidence": 0.93801016,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "the",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8066933751106262
+                    },
+                    {
+                        "word": "holy",
+                        "start": 9.2,
+                        "end": 9.679999,
+                        "confidence": 0.7209067,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "holy",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.7677880525588989
+                    },
+                    {
+                        "word": "water's",
+                        "start": 9.679999,
+                        "end": 10.179999,
+                        "confidence": 0.81294143,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "water's",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8054361343383789
+                    },
+                    {
+                        "word": "watered",
+                        "start": 10.24,
+                        "end": 10.74,
+                        "confidence": 0.9982999,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "watered",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8320419192314148
+                    },
+                    {
+                        "word": "down",
+                        "start": 10.8,
+                        "end": 11.3,
+                        "confidence": 0.6849374,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "down,",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.7246381640434265
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "c9128153-3f8f-4103-bb5b-05b186194d19",
+                "sentiment": "negative",
+                "sentiment_score": -0.7265474455697196
+            },
+            {
+                "start": 11.84,
+                "end": 13.94,
+                "confidence": 0.972327,
+                "channel": 0.0,
+                "transcript": "and this town's lost its faith.",
+                "words": [
+                    {
+                        "word": "and",
+                        "start": 11.84,
+                        "end": 12.08,
+                        "confidence": 0.96399355,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "and",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.7818266749382019
+                    },
+                    {
+                        "word": "this",
+                        "start": 12.08,
+                        "end": 12.32,
+                        "confidence": 0.9972255,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "this",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9351354837417604
+                    },
+                    {
+                        "word": "town's",
+                        "start": 12.32,
+                        "end": 12.719999,
+                        "confidence": 0.98623437,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "town's",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9112140536308287
+                    },
+                    {
+                        "word": "lost",
+                        "start": 12.719999,
+                        "end": 13.12,
+                        "confidence": 0.99969137,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "lost",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9154701828956604
+                    },
+                    {
+                        "word": "its",
+                        "start": 13.12,
+                        "end": 13.44,
+                        "confidence": 0.97430813,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "its",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9379281997680664
+                    },
+                    {
+                        "word": "faith",
+                        "start": 13.44,
+                        "end": 13.94,
+                        "confidence": 0.9125091,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "faith.",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.872758150100708
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e1d1cef0-698e-4639-8886-3e220b3ae278",
+                "sentiment": "negative",
+                "sentiment_score": -0.892388790845871
+            },
+            {
+                "start": 14.24,
+                "end": 15.94,
+                "confidence": 0.9313867,
+                "channel": 0.0,
+                "transcript": "Our colors will fade,",
+                "words": [
+                    {
+                        "word": "our",
+                        "start": 14.24,
+                        "end": 14.559999,
+                        "confidence": 0.98583,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Our",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9028881192207336
+                    },
+                    {
+                        "word": "colors",
+                        "start": 14.559999,
+                        "end": 15.059999,
+                        "confidence": 0.9873024,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "colors",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8892763257026672
+                    },
+                    {
+                        "word": "will",
+                        "start": 15.2,
+                        "end": 15.44,
+                        "confidence": 0.93620527,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "will",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8784382343292236
+                    },
+                    {
+                        "word": "fade",
+                        "start": 15.44,
+                        "end": 15.94,
+                        "confidence": 0.8162093,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "fade,",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5619356632232666
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "3f0eb4b4-0574-40b9-a619-327ec186031b",
+                "sentiment": "negative",
+                "sentiment_score": -0.8081345856189728
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "They say the holy water's watered down, and this town's lost its faith. Our colors will fade,",
+                    "start_word": 0.0,
+                    "end_word": 16.0,
+                    "sentiment": "negative",
+                    "sentiment_score": -0.8257874250411987
+                }
+            ],
+            "average": {
+                "sentiment": "negative",
+                "sentiment_score": -0.8257873975313627
+            }
+        }
+    }
+}

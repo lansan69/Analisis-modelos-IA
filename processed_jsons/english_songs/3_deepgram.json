@@ -1,0 +1,245 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "3a8bb6e0-6252-41d4-9fb7-d03bf1fc9c81",
+        "sha256": "92e6ffc4699a17003c3c31afc74d2362facdb4413628b475f1e557c531d7f51f",
+        "created": "2026-01-17T23:31:22.613000Z",
+        "duration": 228.528,
+        "channels": 1.0,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        },
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 12.0,
+            "output_tokens": 12.0
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "You've seen a song for the brokenhearted.",
+                        "confidence": 0.99091727,
+                        "words": [
+                            {
+                                "word": "you've",
+                                "start": 8.24,
+                                "end": 8.48,
+                                "confidence": 0.48738387,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "You've",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.03350609168410301
+                            },
+                            {
+                                "word": "seen",
+                                "start": 8.48,
+                                "end": 8.8,
+                                "confidence": 0.9937298,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "seen",
+                                "sentiment": "neutral",
+                                "sentiment_score": -0.021938413381576535
+                            },
+                            {
+                                "word": "a",
+                                "start": 8.8,
+                                "end": 9.04,
+                                "confidence": 0.99091727,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.2773195505142212
+                            },
+                            {
+                                "word": "song",
+                                "start": 9.04,
+                                "end": 9.54,
+                                "confidence": 0.9977608,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "song",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.12502533197402954
+                            },
+                            {
+                                "word": "for",
+                                "start": 9.599999,
+                                "end": 9.92,
+                                "confidence": 0.9925648,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "for",
+                                "sentiment": "neutral",
+                                "sentiment_score": -0.06446331739425659
+                            },
+                            {
+                                "word": "the",
+                                "start": 9.92,
+                                "end": 10.24,
+                                "confidence": 0.98525584,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "the",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.14329928159713745
+                            },
+                            {
+                                "word": "brokenhearted",
+                                "start": 10.24,
+                                "end": 10.74,
+                                "confidence": 0.7542117,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "brokenhearted.",
+                                "sentiment": "neutral",
+                                "sentiment_score": -0.14757974445819855
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: You've seen a song for the brokenhearted.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "You've seen a song for the brokenhearted.",
+                                            "start": 8.24,
+                                            "end": 10.74,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.04930982579077993
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 7.0,
+                                    "start": 8.24,
+                                    "end": 10.74,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.04930982579077993
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 8.24,
+                "end": 10.74,
+                "confidence": 0.8859749,
+                "channel": 0.0,
+                "transcript": "You've seen a song for the brokenhearted.",
+                "words": [
+                    {
+                        "word": "you've",
+                        "start": 8.24,
+                        "end": 8.48,
+                        "confidence": 0.48738387,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "You've",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.03350609168410301
+                    },
+                    {
+                        "word": "seen",
+                        "start": 8.48,
+                        "end": 8.8,
+                        "confidence": 0.9937298,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "seen",
+                        "sentiment": "neutral",
+                        "sentiment_score": -0.021938413381576535
+                    },
+                    {
+                        "word": "a",
+                        "start": 8.8,
+                        "end": 9.04,
+                        "confidence": 0.99091727,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.2773195505142212
+                    },
+                    {
+                        "word": "song",
+                        "start": 9.04,
+                        "end": 9.54,
+                        "confidence": 0.9977608,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "song",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.12502533197402954
+                    },
+                    {
+                        "word": "for",
+                        "start": 9.599999,
+                        "end": 9.92,
+                        "confidence": 0.9925648,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "for",
+                        "sentiment": "neutral",
+                        "sentiment_score": -0.06446331739425659
+                    },
+                    {
+                        "word": "the",
+                        "start": 9.92,
+                        "end": 10.24,
+                        "confidence": 0.98525584,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "the",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.14329928159713745
+                    },
+                    {
+                        "word": "brokenhearted",
+                        "start": 10.24,
+                        "end": 10.74,
+                        "confidence": 0.7542117,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "brokenhearted.",
+                        "sentiment": "neutral",
+                        "sentiment_score": -0.14757974445819855
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e073f9dc-958a-4bfb-b0ab-10b35e4f7bcc",
+                "sentiment": "neutral",
+                "sentiment_score": 0.04930982579077993
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "You've seen a song for the brokenhearted.",
+                    "start_word": 0.0,
+                    "end_word": 6.0,
+                    "sentiment": "neutral",
+                    "sentiment_score": 0.021309569478034973
+                }
+            ],
+            "average": {
+                "sentiment": "neutral",
+                "sentiment_score": 0.021309569478034973
+            }
+        }
+    }
+}

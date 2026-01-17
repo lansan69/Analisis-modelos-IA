@@ -1,0 +1,442 @@
+{
+    "text": "I think everyone is a leader, whether we want to admit it or not. We may be more comfortable at times letting someone else carry the mantle, but those of us who value good leadership always want to be the one in front. And we always make mistakes while we're doing it and learning it, and those that are great leaders truly learn from those mistakes and evolve.",
+    "audio_duration": 20.43000030517578,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "I",
+            "start": 0.0,
+            "end": 0.11999999731779099,
+            "confidence": 0.99
+        },
+        {
+            "text": "think",
+            "start": 0.11999999731779099,
+            "end": 0.25999999046325684,
+            "confidence": 0.99
+        },
+        {
+            "text": "everyone",
+            "start": 0.25999999046325684,
+            "end": 0.5799999833106995,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 0.5799999833106995,
+            "end": 0.800000011920929,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 0.800000011920929,
+            "end": 1.2200000286102295,
+            "confidence": 0.99
+        },
+        {
+            "text": "leader",
+            "start": 1.2200000286102295,
+            "end": 1.2200000286102295,
+            "confidence": 0.99
+        },
+        {
+            "text": "whether",
+            "start": 1.2799999713897705,
+            "end": 1.8200000524520874,
+            "confidence": 0.99
+        },
+        {
+            "text": "we",
+            "start": 1.8200000524520874,
+            "end": 2.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "want",
+            "start": 2.0,
+            "end": 2.1600000858306885,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 2.1600000858306885,
+            "end": 2.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "admit",
+            "start": 2.380000114440918,
+            "end": 2.5399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 2.5399999618530273,
+            "end": 2.799999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "or",
+            "start": 2.799999952316284,
+            "end": 2.9200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "not",
+            "start": 2.9200000762939453,
+            "end": 3.359999895095825,
+            "confidence": 0.99
+        },
+        {
+            "text": "We",
+            "start": 4.119999885559082,
+            "end": 4.599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "may",
+            "start": 4.599999904632568,
+            "end": 4.78000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 4.78000020980835,
+            "end": 4.940000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "more",
+            "start": 4.940000057220459,
+            "end": 5.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "comfortable",
+            "start": 5.199999809265137,
+            "end": 5.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "at",
+            "start": 5.559999942779541,
+            "end": 6.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "times",
+            "start": 6.260000228881836,
+            "end": 6.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "letting",
+            "start": 6.260000228881836,
+            "end": 6.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "someone",
+            "start": 6.800000190734863,
+            "end": 7.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "else",
+            "start": 7.199999809265137,
+            "end": 8.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "carry",
+            "start": 8.020000457763672,
+            "end": 8.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 8.239999771118164,
+            "end": 8.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "mantle",
+            "start": 8.800000190734863,
+            "end": 8.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "but",
+            "start": 8.819999694824219,
+            "end": 9.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "those",
+            "start": 9.460000038146973,
+            "end": 9.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 9.680000305175781,
+            "end": 9.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "us",
+            "start": 9.9399995803833,
+            "end": 10.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "who",
+            "start": 10.020000457763672,
+            "end": 10.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "value",
+            "start": 10.579999923706055,
+            "end": 11.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "good",
+            "start": 11.140000343322754,
+            "end": 11.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "leadership",
+            "start": 11.739999771118164,
+            "end": 12.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "always",
+            "start": 12.079999923706055,
+            "end": 12.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "want",
+            "start": 12.680000305175781,
+            "end": 13.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 13.020000457763672,
+            "end": 13.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 13.140000343322754,
+            "end": 13.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 13.260000228881836,
+            "end": 13.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 13.460000038146973,
+            "end": 13.619999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 13.619999885559082,
+            "end": 13.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "front",
+            "start": 13.920000076293945,
+            "end": 13.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "And",
+            "start": 14.100000381469727,
+            "end": 14.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "we",
+            "start": 14.34000015258789,
+            "end": 14.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "always",
+            "start": 14.4399995803833,
+            "end": 14.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "make",
+            "start": 14.65999984741211,
+            "end": 14.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "mistakes",
+            "start": 14.9399995803833,
+            "end": 15.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "while",
+            "start": 15.199999809265137,
+            "end": 15.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "we're",
+            "start": 15.4399995803833,
+            "end": 15.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "doing",
+            "start": 15.5600004196167,
+            "end": 15.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 15.800000190734863,
+            "end": 16.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 16.0,
+            "end": 16.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "learning",
+            "start": 16.15999984741211,
+            "end": 16.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 16.260000228881836,
+            "end": 16.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 16.739999771118164,
+            "end": 17.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "those",
+            "start": 17.459999084472656,
+            "end": 17.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 17.65999984741211,
+            "end": 17.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "are",
+            "start": 17.81999969482422,
+            "end": 17.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "great",
+            "start": 17.8799991607666,
+            "end": 18.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "leaders",
+            "start": 18.100000381469727,
+            "end": 18.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "truly",
+            "start": 18.34000015258789,
+            "end": 18.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "learn",
+            "start": 18.65999984741211,
+            "end": 18.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "from",
+            "start": 18.940000534057617,
+            "end": 19.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "those",
+            "start": 19.139999389648438,
+            "end": 19.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "mistakes",
+            "start": 19.420000076293945,
+            "end": 19.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 19.700000762939453,
+            "end": 20.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "evolve",
+            "start": 20.020000457763672,
+            "end": 20.15999984741211,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "I think everyone is a leader, whether we want to admit it or not.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "We may be more comfortable at times letting someone else carry the mantle, but those of us who value good leadership always want to be the one in front.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "segment": "And we always make mistakes while we're doing it and learning it, and those that are great leaders truly learn from those mistakes and evolve.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.8
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "The Essence of Leadership",
+            "summary": "Everyone possesses leadership qualities, and true leaders learn from their mistakes and evolve over time.",
+            "start": 0,
+            "end": 45
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

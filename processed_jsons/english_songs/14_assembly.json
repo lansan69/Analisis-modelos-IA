@@ -1,0 +1,1695 @@
+{
+    "id": "7f89b724-64ba-480d-b6ee-e9763cc75335",
+    "status": "completed",
+    "text": "Heart beats fast Colors and promises how to be brave how can I love when I'm afraid to fall? But watching you stand alone all of. My doubt Suddenly goes away somehow One step closer I have died every day waiting for you Darling, don't be afraid I have loved you For a thousand years I love you for a thousand years. Time stands still Beauty and old she is I will be brave I will not let anything take away. Standing in. Front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years. I love you for a thousand more. And all along I believed I would find you Time has brought your heart to me I have loved you for a thousand years Love you for a thousand years. One step closer. One step closer. I've died every day waiting for you Darling, don't be afraid I have love I loved you for. A thousand. Years I love you for a thousand. More. And all along I believed I would find you Time has brought your heart to me I loved you for a thousand years I love you for a thousand. Sam.",
+    "words": [
+        {
+            "text": "Heart",
+            "start": 20800,
+            "end": 21040,
+            "confidence": 0.8774414,
+            "speaker": "A"
+        },
+        {
+            "text": "beats",
+            "start": 21840,
+            "end": 22400,
+            "confidence": 0.71899414,
+            "speaker": "A"
+        },
+        {
+            "text": "fast",
+            "start": 23120,
+            "end": 23680,
+            "confidence": 0.8815918,
+            "speaker": "A"
+        },
+        {
+            "text": "Colors",
+            "start": 24400,
+            "end": 25120,
+            "confidence": 0.99780273,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 25280,
+            "end": 25640,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "promises",
+            "start": 25640,
+            "end": 27360,
+            "confidence": 0.9655762,
+            "speaker": "A"
+        },
+        {
+            "text": "how",
+            "start": 29600,
+            "end": 29960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 29960,
+            "end": 30280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 30280,
+            "end": 30640,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "brave",
+            "start": 30720,
+            "end": 31280,
+            "confidence": 0.98706055,
+            "speaker": "A"
+        },
+        {
+            "text": "how",
+            "start": 32300,
+            "end": 32540,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "can",
+            "start": 32540,
+            "end": 32900,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 32900,
+            "end": 33260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "love",
+            "start": 33340,
+            "end": 33740,
+            "confidence": 0.55908203,
+            "speaker": "A"
+        },
+        {
+            "text": "when",
+            "start": 34300,
+            "end": 34700,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 34780,
+            "end": 35660,
+            "confidence": 0.94173175,
+            "speaker": "A"
+        },
+        {
+            "text": "afraid",
+            "start": 35660,
+            "end": 36460,
+            "confidence": 0.9876302,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 37260,
+            "end": 37660,
+            "confidence": 0.9873047,
+            "speaker": "A"
+        },
+        {
+            "text": "fall?",
+            "start": 38380,
+            "end": 38780,
+            "confidence": 0.8076172,
+            "speaker": "A"
+        },
+        {
+            "text": "But",
+            "start": 39500,
+            "end": 39900,
+            "confidence": 0.74902344,
+            "speaker": "A"
+        },
+        {
+            "text": "watching",
+            "start": 39900,
+            "end": 40540,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 40620,
+            "end": 40980,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "stand",
+            "start": 40980,
+            "end": 41340,
+            "confidence": 0.6791992,
+            "speaker": "A"
+        },
+        {
+            "text": "alone",
+            "start": 42620,
+            "end": 43980,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 45020,
+            "end": 45420,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "of.",
+            "start": 45420,
+            "end": 45740,
+            "confidence": 0.9658203,
+            "speaker": "A"
+        },
+        {
+            "text": "My",
+            "start": 45740,
+            "end": 46060,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "doubt",
+            "start": 46140,
+            "end": 46860,
+            "confidence": 0.86848956,
+            "speaker": "B"
+        },
+        {
+            "text": "Suddenly",
+            "start": 47660,
+            "end": 48540,
+            "confidence": 0.9332031,
+            "speaker": "B"
+        },
+        {
+            "text": "goes",
+            "start": 48780,
+            "end": 49500,
+            "confidence": 0.78100586,
+            "speaker": "B"
+        },
+        {
+            "text": "away",
+            "start": 49580,
+            "end": 49980,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "somehow",
+            "start": 50860,
+            "end": 51740,
+            "confidence": 0.8929036,
+            "speaker": "B"
+        },
+        {
+            "text": "One",
+            "start": 54060,
+            "end": 54460,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "step",
+            "start": 55180,
+            "end": 55580,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "closer",
+            "start": 56540,
+            "end": 59420,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 61900,
+            "end": 62100,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "have",
+            "start": 62100,
+            "end": 62380,
+            "confidence": 0.5566406,
+            "speaker": "B"
+        },
+        {
+            "text": "died",
+            "start": 62380,
+            "end": 62940,
+            "confidence": 0.7529297,
+            "speaker": "B"
+        },
+        {
+            "text": "every",
+            "start": 63180,
+            "end": 63580,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "day",
+            "start": 63660,
+            "end": 64060,
+            "confidence": 0.87402344,
+            "speaker": "B"
+        },
+        {
+            "text": "waiting",
+            "start": 64380,
+            "end": 64940,
+            "confidence": 0.8388672,
+            "speaker": "B"
+        },
+        {
+            "text": "for",
+            "start": 65500,
+            "end": 65900,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 65980,
+            "end": 66380,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "Darling,",
+            "start": 66940,
+            "end": 67580,
+            "confidence": 0.99934894,
+            "speaker": "B"
+        },
+        {
+            "text": "don't",
+            "start": 67660,
+            "end": 68220,
+            "confidence": 0.9246419,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 68220,
+            "end": 68620,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "afraid",
+            "start": 68620,
+            "end": 69340,
+            "confidence": 0.9822591,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 69660,
+            "end": 70060,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "have",
+            "start": 70380,
+            "end": 70740,
+            "confidence": 0.9423828,
+            "speaker": "B"
+        },
+        {
+            "text": "loved",
+            "start": 70740,
+            "end": 71380,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 71380,
+            "end": 71660,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "For",
+            "start": 71660,
+            "end": 71980,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 71980,
+            "end": 72260,
+            "confidence": 0.9121094,
+            "speaker": "B"
+        },
+        {
+            "text": "thousand",
+            "start": 72260,
+            "end": 72620,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "years",
+            "start": 74300,
+            "end": 74700,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 75740,
+            "end": 76060,
+            "confidence": 0.9926758,
+            "speaker": "B"
+        },
+        {
+            "text": "love",
+            "start": 76060,
+            "end": 76340,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 76340,
+            "end": 76700,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "for",
+            "start": 76700,
+            "end": 77100,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 77100,
+            "end": 77420,
+            "confidence": 0.8852539,
+            "speaker": "B"
+        },
+        {
+            "text": "thousand",
+            "start": 77420,
+            "end": 77740,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "years.",
+            "start": 79820,
+            "end": 80220,
+            "confidence": 0.7319336,
+            "speaker": "B"
+        },
+        {
+            "text": "Time",
+            "start": 87740,
+            "end": 88140,
+            "confidence": 0.99560547,
+            "speaker": "C"
+        },
+        {
+            "text": "stands",
+            "start": 88940,
+            "end": 89980,
+            "confidence": 0.9333496,
+            "speaker": "C"
+        },
+        {
+            "text": "still",
+            "start": 90140,
+            "end": 90540,
+            "confidence": 0.99365234,
+            "speaker": "C"
+        },
+        {
+            "text": "Beauty",
+            "start": 91580,
+            "end": 92140,
+            "confidence": 0.99072266,
+            "speaker": "C"
+        },
+        {
+            "text": "and",
+            "start": 92460,
+            "end": 92860,
+            "confidence": 0.5390625,
+            "speaker": "C"
+        },
+        {
+            "text": "old",
+            "start": 92860,
+            "end": 93260,
+            "confidence": 0.40039062,
+            "speaker": "C"
+        },
+        {
+            "text": "she",
+            "start": 94200,
+            "end": 94440,
+            "confidence": 0.8354492,
+            "speaker": "C"
+        },
+        {
+            "text": "is",
+            "start": 95400,
+            "end": 95800,
+            "confidence": 0.9951172,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 96760,
+            "end": 97120,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "will",
+            "start": 97120,
+            "end": 97400,
+            "confidence": 0.9975586,
+            "speaker": "C"
+        },
+        {
+            "text": "be",
+            "start": 97400,
+            "end": 97720,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "brave",
+            "start": 97800,
+            "end": 98360,
+            "confidence": 0.9370117,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 99320,
+            "end": 99680,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "will",
+            "start": 99680,
+            "end": 100000,
+            "confidence": 0.99658203,
+            "speaker": "C"
+        },
+        {
+            "text": "not",
+            "start": 100000,
+            "end": 100360,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "let",
+            "start": 100600,
+            "end": 101000,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "anything",
+            "start": 101400,
+            "end": 102600,
+            "confidence": 0.78027344,
+            "speaker": "C"
+        },
+        {
+            "text": "take",
+            "start": 103160,
+            "end": 103560,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "away.",
+            "start": 104600,
+            "end": 105000,
+            "confidence": 0.99658203,
+            "speaker": "C"
+        },
+        {
+            "text": "Standing",
+            "start": 106920,
+            "end": 107760,
+            "confidence": 0.7644043,
+            "speaker": "A"
+        },
+        {
+            "text": "in.",
+            "start": 107760,
+            "end": 108080,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "Front",
+            "start": 108080,
+            "end": 108440,
+            "confidence": 0.85839844,
+            "speaker": "C"
+        },
+        {
+            "text": "of",
+            "start": 109639,
+            "end": 110040,
+            "confidence": 0.98095703,
+            "speaker": "C"
+        },
+        {
+            "text": "me",
+            "start": 110840,
+            "end": 111240,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "Every",
+            "start": 112360,
+            "end": 112760,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "breath",
+            "start": 113240,
+            "end": 113800,
+            "confidence": 0.9177246,
+            "speaker": "C"
+        },
+        {
+            "text": "Every",
+            "start": 114920,
+            "end": 115320,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "hour",
+            "start": 115960,
+            "end": 116360,
+            "confidence": 0.5307617,
+            "speaker": "C"
+        },
+        {
+            "text": "has",
+            "start": 116680,
+            "end": 117080,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "come",
+            "start": 117160,
+            "end": 117560,
+            "confidence": 0.63183594,
+            "speaker": "C"
+        },
+        {
+            "text": "to",
+            "start": 117800,
+            "end": 118200,
+            "confidence": 0.87158203,
+            "speaker": "C"
+        },
+        {
+            "text": "pass",
+            "start": 118600,
+            "end": 119000,
+            "confidence": 0.5048828,
+            "speaker": "C"
+        },
+        {
+            "text": "One",
+            "start": 121240,
+            "end": 121640,
+            "confidence": 0.9609375,
+            "speaker": "C"
+        },
+        {
+            "text": "step",
+            "start": 122280,
+            "end": 122680,
+            "confidence": 0.9980469,
+            "speaker": "C"
+        },
+        {
+            "text": "close",
+            "start": 123400,
+            "end": 123800,
+            "confidence": 0.64990234,
+            "speaker": "C"
+        },
+        {
+            "text": "and",
+            "start": 125620,
+            "end": 125860,
+            "confidence": 0.37304688,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 128900,
+            "end": 129300,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "have",
+            "start": 129300,
+            "end": 129620,
+            "confidence": 0.98779297,
+            "speaker": "C"
+        },
+        {
+            "text": "died",
+            "start": 129620,
+            "end": 130100,
+            "confidence": 0.9169922,
+            "speaker": "C"
+        },
+        {
+            "text": "every",
+            "start": 130340,
+            "end": 130740,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "day",
+            "start": 130820,
+            "end": 131220,
+            "confidence": 0.97216797,
+            "speaker": "C"
+        },
+        {
+            "text": "waiting",
+            "start": 131540,
+            "end": 132100,
+            "confidence": 0.9248047,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 132580,
+            "end": 132980,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 133060,
+            "end": 133460,
+            "confidence": 0.98779297,
+            "speaker": "C"
+        },
+        {
+            "text": "Darling,",
+            "start": 134100,
+            "end": 134660,
+            "confidence": 0.8914388,
+            "speaker": "C"
+        },
+        {
+            "text": "don't",
+            "start": 134820,
+            "end": 135300,
+            "confidence": 0.9145508,
+            "speaker": "C"
+        },
+        {
+            "text": "be",
+            "start": 135380,
+            "end": 135780,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "afraid",
+            "start": 135860,
+            "end": 136500,
+            "confidence": 0.9498698,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 136740,
+            "end": 137140,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "have",
+            "start": 137460,
+            "end": 137820,
+            "confidence": 0.9873047,
+            "speaker": "C"
+        },
+        {
+            "text": "loved",
+            "start": 137820,
+            "end": 138500,
+            "confidence": 0.9975586,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 138500,
+            "end": 138820,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 138820,
+            "end": 139140,
+            "confidence": 0.99658203,
+            "speaker": "C"
+        },
+        {
+            "text": "a",
+            "start": 139140,
+            "end": 139380,
+            "confidence": 0.7158203,
+            "speaker": "C"
+        },
+        {
+            "text": "thousand",
+            "start": 139380,
+            "end": 139700,
+            "confidence": 0.9926758,
+            "speaker": "C"
+        },
+        {
+            "text": "years.",
+            "start": 141220,
+            "end": 141620,
+            "confidence": 0.5307617,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 142900,
+            "end": 143220,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "love",
+            "start": 143220,
+            "end": 143500,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 143500,
+            "end": 143860,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "for",
+            "start": 143860,
+            "end": 144260,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 144260,
+            "end": 144620,
+            "confidence": 0.92041016,
+            "speaker": "B"
+        },
+        {
+            "text": "thousand",
+            "start": 144620,
+            "end": 144980,
+            "confidence": 0.98291016,
+            "speaker": "B"
+        },
+        {
+            "text": "more.",
+            "start": 147060,
+            "end": 147460,
+            "confidence": 0.9589844,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 149540,
+            "end": 149900,
+            "confidence": 0.8261719,
+            "speaker": "C"
+        },
+        {
+            "text": "all",
+            "start": 149900,
+            "end": 150220,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "along",
+            "start": 150220,
+            "end": 150580,
+            "confidence": 0.9980469,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 151060,
+            "end": 151460,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "believed",
+            "start": 151460,
+            "end": 152460,
+            "confidence": 0.97802734,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 152460,
+            "end": 152820,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "would",
+            "start": 153140,
+            "end": 153540,
+            "confidence": 0.99609375,
+            "speaker": "C"
+        },
+        {
+            "text": "find",
+            "start": 153540,
+            "end": 153940,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 154100,
+            "end": 154500,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "Time",
+            "start": 154900,
+            "end": 155300,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "has",
+            "start": 155300,
+            "end": 155660,
+            "confidence": 0.99658203,
+            "speaker": "C"
+        },
+        {
+            "text": "brought",
+            "start": 155660,
+            "end": 156060,
+            "confidence": 0.99975586,
+            "speaker": "C"
+        },
+        {
+            "text": "your",
+            "start": 156060,
+            "end": 156340,
+            "confidence": 0.9448242,
+            "speaker": "C"
+        },
+        {
+            "text": "heart",
+            "start": 156340,
+            "end": 156620,
+            "confidence": 0.99853516,
+            "speaker": "C"
+        },
+        {
+            "text": "to",
+            "start": 156620,
+            "end": 156900,
+            "confidence": 0.99658203,
+            "speaker": "C"
+        },
+        {
+            "text": "me",
+            "start": 156900,
+            "end": 157220,
+            "confidence": 0.99609375,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 157840,
+            "end": 158080,
+            "confidence": 0.90478516,
+            "speaker": "C"
+        },
+        {
+            "text": "have",
+            "start": 158400,
+            "end": 158760,
+            "confidence": 0.6328125,
+            "speaker": "C"
+        },
+        {
+            "text": "loved",
+            "start": 158760,
+            "end": 159440,
+            "confidence": 0.99243164,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 159440,
+            "end": 159720,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 159720,
+            "end": 160000,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "a",
+            "start": 160000,
+            "end": 160280,
+            "confidence": 0.9873047,
+            "speaker": "C"
+        },
+        {
+            "text": "thousand",
+            "start": 160280,
+            "end": 160640,
+            "confidence": 0.9970703,
+            "speaker": "C"
+        },
+        {
+            "text": "years",
+            "start": 162400,
+            "end": 162800,
+            "confidence": 0.9550781,
+            "speaker": "C"
+        },
+        {
+            "text": "Love",
+            "start": 164080,
+            "end": 164440,
+            "confidence": 0.99560547,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 164440,
+            "end": 164760,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 164760,
+            "end": 165080,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "a",
+            "start": 165080,
+            "end": 165440,
+            "confidence": 0.9873047,
+            "speaker": "C"
+        },
+        {
+            "text": "thousand",
+            "start": 165440,
+            "end": 165840,
+            "confidence": 0.99609375,
+            "speaker": "C"
+        },
+        {
+            "text": "years.",
+            "start": 168000,
+            "end": 168400,
+            "confidence": 0.81152344,
+            "speaker": "C"
+        },
+        {
+            "text": "One",
+            "start": 193980,
+            "end": 194220,
+            "confidence": 0.99316406,
+            "speaker": "B"
+        },
+        {
+            "text": "step",
+            "start": 194940,
+            "end": 195340,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "closer.",
+            "start": 196300,
+            "end": 199020,
+            "confidence": 0.96191406,
+            "speaker": "B"
+        },
+        {
+            "text": "One",
+            "start": 204140,
+            "end": 204540,
+            "confidence": 0.9951172,
+            "speaker": "B"
+        },
+        {
+            "text": "step",
+            "start": 205260,
+            "end": 205659,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "closer.",
+            "start": 206540,
+            "end": 209340,
+            "confidence": 0.8256836,
+            "speaker": "B"
+        },
+        {
+            "text": "I've",
+            "start": 211740,
+            "end": 212420,
+            "confidence": 0.97965497,
+            "speaker": "A"
+        },
+        {
+            "text": "died",
+            "start": 212420,
+            "end": 212940,
+            "confidence": 0.6455078,
+            "speaker": "A"
+        },
+        {
+            "text": "every",
+            "start": 213260,
+            "end": 213660,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "day",
+            "start": 213740,
+            "end": 214140,
+            "confidence": 0.9604492,
+            "speaker": "A"
+        },
+        {
+            "text": "waiting",
+            "start": 214380,
+            "end": 214940,
+            "confidence": 0.85253906,
+            "speaker": "A"
+        },
+        {
+            "text": "for",
+            "start": 215500,
+            "end": 215900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 215980,
+            "end": 216380,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Darling,",
+            "start": 216940,
+            "end": 217580,
+            "confidence": 0.93863934,
+            "speaker": "A"
+        },
+        {
+            "text": "don't",
+            "start": 217660,
+            "end": 218220,
+            "confidence": 0.9148763,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 218300,
+            "end": 218700,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "afraid",
+            "start": 218700,
+            "end": 219340,
+            "confidence": 0.8359375,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 219660,
+            "end": 220060,
+            "confidence": 0.8828125,
+            "speaker": "A"
+        },
+        {
+            "text": "have",
+            "start": 220380,
+            "end": 220700,
+            "confidence": 0.9550781,
+            "speaker": "A"
+        },
+        {
+            "text": "love",
+            "start": 220700,
+            "end": 221020,
+            "confidence": 0.95458984,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 221160,
+            "end": 221280,
+            "confidence": 0.6352539,
+            "speaker": "A"
+        },
+        {
+            "text": "loved",
+            "start": 221280,
+            "end": 221520,
+            "confidence": 0.9729004,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 221520,
+            "end": 221720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "for.",
+            "start": 221720,
+            "end": 222000,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "A",
+            "start": 222000,
+            "end": 222280,
+            "confidence": 0.8901367,
+            "speaker": "B"
+        },
+        {
+            "text": "thousand.",
+            "start": 222280,
+            "end": 222600,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "Years",
+            "start": 224360,
+            "end": 224760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 225720,
+            "end": 226080,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "love",
+            "start": 226080,
+            "end": 226400,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 226400,
+            "end": 226760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "for",
+            "start": 226760,
+            "end": 227120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 227120,
+            "end": 227480,
+            "confidence": 0.8979492,
+            "speaker": "A"
+        },
+        {
+            "text": "thousand.",
+            "start": 227480,
+            "end": 227880,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "More.",
+            "start": 229960,
+            "end": 230360,
+            "confidence": 0.9951172,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 232360,
+            "end": 232720,
+            "confidence": 0.81640625,
+            "speaker": "C"
+        },
+        {
+            "text": "all",
+            "start": 232720,
+            "end": 233080,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "along",
+            "start": 233080,
+            "end": 233480,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 233960,
+            "end": 234360,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "believed",
+            "start": 234360,
+            "end": 235360,
+            "confidence": 0.9802246,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 235360,
+            "end": 235720,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "would",
+            "start": 235960,
+            "end": 236360,
+            "confidence": 0.95996094,
+            "speaker": "C"
+        },
+        {
+            "text": "find",
+            "start": 236360,
+            "end": 236760,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 236920,
+            "end": 237320,
+            "confidence": 0.99560547,
+            "speaker": "C"
+        },
+        {
+            "text": "Time",
+            "start": 237800,
+            "end": 238200,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "has",
+            "start": 238200,
+            "end": 238520,
+            "confidence": 0.9941406,
+            "speaker": "C"
+        },
+        {
+            "text": "brought",
+            "start": 238520,
+            "end": 238880,
+            "confidence": 0.91967773,
+            "speaker": "C"
+        },
+        {
+            "text": "your",
+            "start": 238880,
+            "end": 239200,
+            "confidence": 0.9379883,
+            "speaker": "C"
+        },
+        {
+            "text": "heart",
+            "start": 239200,
+            "end": 239520,
+            "confidence": 0.9975586,
+            "speaker": "C"
+        },
+        {
+            "text": "to",
+            "start": 239520,
+            "end": 239800,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "me",
+            "start": 239800,
+            "end": 240120,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 240600,
+            "end": 241000,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "loved",
+            "start": 241400,
+            "end": 242280,
+            "confidence": 0.60424805,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 242280,
+            "end": 242560,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 242560,
+            "end": 242880,
+            "confidence": 0.99853516,
+            "speaker": "C"
+        },
+        {
+            "text": "a",
+            "start": 242880,
+            "end": 243160,
+            "confidence": 0.89746094,
+            "speaker": "C"
+        },
+        {
+            "text": "thousand",
+            "start": 243160,
+            "end": 243480,
+            "confidence": 0.9975586,
+            "speaker": "C"
+        },
+        {
+            "text": "years",
+            "start": 245240,
+            "end": 245640,
+            "confidence": 0.74853516,
+            "speaker": "C"
+        },
+        {
+            "text": "I",
+            "start": 246680,
+            "end": 247000,
+            "confidence": 0.93896484,
+            "speaker": "C"
+        },
+        {
+            "text": "love",
+            "start": 247000,
+            "end": 247280,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "you",
+            "start": 247280,
+            "end": 247640,
+            "confidence": 0.9980469,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 247640,
+            "end": 248000,
+            "confidence": 0.99609375,
+            "speaker": "C"
+        },
+        {
+            "text": "a",
+            "start": 248000,
+            "end": 248320,
+            "confidence": 0.91748047,
+            "speaker": "C"
+        },
+        {
+            "text": "thousand.",
+            "start": 248320,
+            "end": 248680,
+            "confidence": 0.9838867,
+            "speaker": "C"
+        },
+        {
+            "text": "Sam.",
+            "start": 253220,
+            "end": 268820,
+            "confidence": 0.88549805,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Heart beats fast Colors and promises how to be brave how can I love when I'm afraid to fall? But watching you stand alone all of.",
+            "start": 20800,
+            "end": 45740,
+            "confidence": 0.9261443,
+            "speaker": "A"
+        },
+        {
+            "text": "My doubt Suddenly goes away somehow One step closer I have died every day waiting for you Darling, don't be afraid I have loved you For a thousand years I love you for a thousand years.",
+            "start": 45740,
+            "end": 80220,
+            "confidence": 0.9404776,
+            "speaker": "B"
+        },
+        {
+            "text": "Time stands still Beauty and old she is I will be brave I will not let anything take away.",
+            "start": 87740,
+            "end": 105000,
+            "confidence": 0.9151033,
+            "speaker": "C"
+        },
+        {
+            "text": "Standing in.",
+            "start": 106920,
+            "end": 108080,
+            "confidence": 0.8748779,
+            "speaker": "A"
+        },
+        {
+            "text": "Front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years.",
+            "start": 108080,
+            "end": 141620,
+            "confidence": 0.8868513,
+            "speaker": "C"
+        },
+        {
+            "text": "I love you for a thousand more.",
+            "start": 142900,
+            "end": 147460,
+            "confidence": 0.97998047,
+            "speaker": "B"
+        },
+        {
+            "text": "And all along I believed I would find you Time has brought your heart to me I have loved you for a thousand years Love you for a thousand years.",
+            "start": 149540,
+            "end": 168400,
+            "confidence": 0.9661458,
+            "speaker": "C"
+        },
+        {
+            "text": "One step closer. One step closer.",
+            "start": 193980,
+            "end": 209340,
+            "confidence": 0.9624837,
+            "speaker": "B"
+        },
+        {
+            "text": "I've died every day waiting for you Darling, don't be afraid I have love I loved you for.",
+            "start": 211740,
+            "end": 222000,
+            "confidence": 0.91801846,
+            "speaker": "A"
+        },
+        {
+            "text": "A thousand.",
+            "start": 222000,
+            "end": 222600,
+            "confidence": 0.9428711,
+            "speaker": "B"
+        },
+        {
+            "text": "Years I love you for a thousand.",
+            "start": 224360,
+            "end": 227880,
+            "confidence": 0.9832589,
+            "speaker": "A"
+        },
+        {
+            "text": "More.",
+            "start": 229960,
+            "end": 230360,
+            "confidence": 0.9951172,
+            "speaker": "B"
+        },
+        {
+            "text": "And all along I believed I would find you Time has brought your heart to me I loved you for a thousand years I love you for a thousand.",
+            "start": 232360,
+            "end": 248680,
+            "confidence": 0.95427835,
+            "speaker": "C"
+        },
+        {
+            "text": "Sam.",
+            "start": 253220,
+            "end": 268820,
+            "confidence": 0.88549805,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [
+        {
+            "summary": "\"I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years. And all along I believed I would find you \" One step closer.",
+            "headline": "One step closer. My doubt Suddenly goes away somehow One step closer",
+            "gist": "I Love You For A Thousand Years",
+            "start": 20800,
+            "end": 268820
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "Heart beats fast Colors and promises how to be brave how can I love when I'm afraid to fall?",
+            "start": 20800,
+            "end": 38780,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.52520174
+        },
+        {
+            "text": "But watching you stand alone all of my doubt Suddenly goes away somehow One step closer I have died every day waiting for you Darling, don't be afraid I have loved you For a thousand years I love you for a thousand years.",
+            "start": 39500,
+            "end": 80220,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8462731
+        },
+        {
+            "text": "Time stands still Beauty and old she is I will be brave I will not let anything take away Standing in front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years I love you for a thousand more and all along I believed I would find you Time has brought your heart to me I have loved you for a thousand years Love you for a thousand years.",
+            "start": 87740,
+            "end": 168400,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8707825
+        },
+        {
+            "text": "One step closer.",
+            "start": 193980,
+            "end": 199020,
+            "sentiment": "POSITIVE",
+            "confidence": 0.6128547
+        },
+        {
+            "text": "One step closer I've died every day waiting for you Darling, don't be afraid I have love I loved you for a thousand years I love you for a thousand more and all along I believed I would find you Time has brought your heart to me I loved you for a thousand years I love you for a thousand.",
+            "start": 204140,
+            "end": 248680,
+            "sentiment": "POSITIVE",
+            "confidence": 0.86444783
+        },
+        {
+            "text": "Sam.",
+            "start": 253220,
+            "end": 268820,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.67229044
+        }
+    ],
+    "audio_duration": 288,
+    "language_code": "en"
+}

@@ -1,0 +1,742 @@
+{
+    "text": "All day long I think of things, but nothing seems to satisfy. Think I'll lose my mind if I don't find something to pacify. Can you help me? Occupy my brain. Oh, yeah. I need someone to show me the things in life that I can't find. I can't see the things that make true happiness. Yes, I'm a beeline. Make a joke and I will sigh and you will laugh and I will cry. Happiness I cannot feel and love to me is so unreal. And so as you hear these words telling you now all my mistakes, I tell you to end your life, I wish I could burn you alive.",
+    "audio_duration": 171.1699981689453,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "All",
+            "start": 37.34000015258789,
+            "end": 38.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "day",
+            "start": 38.220001220703125,
+            "end": 38.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "long",
+            "start": 38.68000030517578,
+            "end": 38.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 38.959999084472656,
+            "end": 39.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "think",
+            "start": 39.36000061035156,
+            "end": 39.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 39.70000076293945,
+            "end": 40.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "things",
+            "start": 40.099998474121094,
+            "end": 40.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "but",
+            "start": 40.52000045776367,
+            "end": 40.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "nothing",
+            "start": 40.7599983215332,
+            "end": 41.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "seems",
+            "start": 41.380001068115234,
+            "end": 41.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 41.86000061035156,
+            "end": 42.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "satisfy",
+            "start": 42.63999938964844,
+            "end": 43.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Think",
+            "start": 44.060001373291016,
+            "end": 44.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'll",
+            "start": 44.119998931884766,
+            "end": 44.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "lose",
+            "start": 44.52000045776367,
+            "end": 44.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 44.7599983215332,
+            "end": 45.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "mind",
+            "start": 45.20000076293945,
+            "end": 45.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "if",
+            "start": 45.63999938964844,
+            "end": 46.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 46.0,
+            "end": 46.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "don't",
+            "start": 46.31999969482422,
+            "end": 46.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "find",
+            "start": 46.720001220703125,
+            "end": 47.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "something",
+            "start": 47.060001373291016,
+            "end": 47.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 47.63999938964844,
+            "end": 49.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "pacify",
+            "start": 49.2599983215332,
+            "end": 49.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Can",
+            "start": 50.900001525878906,
+            "end": 51.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 51.5,
+            "end": 51.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "help",
+            "start": 51.7599983215332,
+            "end": 52.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 52.220001220703125,
+            "end": 53.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Occupy",
+            "start": 54.2400016784668,
+            "end": 55.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 55.119998931884766,
+            "end": 55.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "brain",
+            "start": 55.68000030517578,
+            "end": 56.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 58.68000030517578,
+            "end": 59.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 59.560001373291016,
+            "end": 60.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 72.69999694824219,
+            "end": 73.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 73.58000183105469,
+            "end": 74.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "someone",
+            "start": 74.0199966430664,
+            "end": 74.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 74.55999755859375,
+            "end": 75.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "show",
+            "start": 75.08000183105469,
+            "end": 75.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 75.4800033569336,
+            "end": 75.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 75.87999725341797,
+            "end": 76.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "things",
+            "start": 76.22000122070312,
+            "end": 76.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 76.72000122070312,
+            "end": 77.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "life",
+            "start": 77.26000213623047,
+            "end": 77.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 77.36000061035156,
+            "end": 77.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 77.77999877929688,
+            "end": 78.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "can't",
+            "start": 78.19999694824219,
+            "end": 78.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "find",
+            "start": 78.94000244140625,
+            "end": 79.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 79.18000030517578,
+            "end": 79.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "can't",
+            "start": 79.62000274658203,
+            "end": 80.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "see",
+            "start": 80.0199966430664,
+            "end": 80.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 80.31999969482422,
+            "end": 80.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "things",
+            "start": 80.66000366210938,
+            "end": 81.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 81.08000183105469,
+            "end": 81.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "make",
+            "start": 81.55999755859375,
+            "end": 81.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "true",
+            "start": 81.77999877929688,
+            "end": 82.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "happiness",
+            "start": 82.5199966430664,
+            "end": 82.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 82.95999908447266,
+            "end": 83.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 83.37999725341797,
+            "end": 84.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 84.0,
+            "end": 84.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "beeline",
+            "start": 84.4000015258789,
+            "end": 84.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "Make",
+            "start": 120.04000091552734,
+            "end": 120.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 120.86000061035156,
+            "end": 121.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "joke",
+            "start": 121.16000366210938,
+            "end": 121.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 121.58000183105469,
+            "end": 121.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 121.94000244140625,
+            "end": 122.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "will",
+            "start": 122.27999877929688,
+            "end": 122.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "sigh",
+            "start": 122.68000030517578,
+            "end": 123.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 123.12000274658203,
+            "end": 123.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 123.5199966430664,
+            "end": 123.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "will",
+            "start": 123.80000305175781,
+            "end": 124.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "laugh",
+            "start": 124.22000122070312,
+            "end": 124.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 124.58000183105469,
+            "end": 124.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 124.9000015258789,
+            "end": 125.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "will",
+            "start": 125.30000305175781,
+            "end": 125.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "cry",
+            "start": 125.76000213623047,
+            "end": 126.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "Happiness",
+            "start": 126.45999908447266,
+            "end": 127.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 127.13999938964844,
+            "end": 127.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "cannot",
+            "start": 127.87999725341797,
+            "end": 128.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "feel",
+            "start": 128.44000244140625,
+            "end": 128.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 128.9600067138672,
+            "end": 129.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 129.3800048828125,
+            "end": 129.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 129.67999267578125,
+            "end": 130.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 130.1199951171875,
+            "end": 130.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 130.4600067138672,
+            "end": 131.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "so",
+            "start": 131.02000427246094,
+            "end": 131.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "unreal",
+            "start": 131.4199981689453,
+            "end": 132.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "And",
+            "start": 143.66000366210938,
+            "end": 144.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "so",
+            "start": 144.4600067138672,
+            "end": 144.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 144.86000061035156,
+            "end": 145.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 145.22000122070312,
+            "end": 145.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "hear",
+            "start": 145.55999755859375,
+            "end": 145.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "these",
+            "start": 145.9199981689453,
+            "end": 146.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "words",
+            "start": 146.66000366210938,
+            "end": 146.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "telling",
+            "start": 146.66000366210938,
+            "end": 147.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 147.39999389648438,
+            "end": 147.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "now",
+            "start": 147.83999633789062,
+            "end": 148.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "all",
+            "start": 148.55999755859375,
+            "end": 149.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 149.05999755859375,
+            "end": 149.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "mistakes",
+            "start": 149.4199981689453,
+            "end": 149.8000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 150.1999969482422,
+            "end": 150.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "tell",
+            "start": 150.3800048828125,
+            "end": 150.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 150.75999450683594,
+            "end": 151.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 151.10000610351562,
+            "end": 151.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "end",
+            "start": 151.82000732421875,
+            "end": 151.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 151.8800048828125,
+            "end": 152.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "life",
+            "start": 152.22000122070312,
+            "end": 152.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 152.72000122070312,
+            "end": 153.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "wish",
+            "start": 153.1999969482422,
+            "end": 153.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 153.3800048828125,
+            "end": 153.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 153.83999633789062,
+            "end": 154.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "burn",
+            "start": 154.10000610351562,
+            "end": 154.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 154.83999633789062,
+            "end": 155.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "alive",
+            "start": 155.32000732421875,
+            "end": 155.75999450683594,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "All day long I think of things, but nothing seems to satisfy.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Think I'll lose my mind if I don't find something to pacify.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Can you help me? Occupy my brain. Oh, yeah.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "I need someone to show me the things in life that I can't find.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "I can't see the things that make true happiness.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.88
+        },
+        {
+            "segment": "Yes, I'm a beeline.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.55
+        },
+        {
+            "segment": "Make a joke and I will sigh and you will laugh and I will cry.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.87
+        },
+        {
+            "segment": "Happiness I cannot feel and love to me is so unreal.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.92
+        },
+        {
+            "segment": "And so as you hear these words telling you now all my mistakes, I tell you to end your life, I wish I could burn you alive.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.96
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Searching for Happiness",
+            "summary": "The speaker expresses deep dissatisfaction with life, feeling a lack of fulfillment and mental distress. There is a plea for help to find true happiness, mixed with feelings of hopelessness and darkness.",
+            "start": 0,
+            "end": 90
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

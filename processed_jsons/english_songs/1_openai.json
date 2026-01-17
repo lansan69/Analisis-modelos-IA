@@ -1,0 +1,612 @@
+{
+    "text": "All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You  All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You",
+    "audio_duration": 278.3399963378906,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "All",
+            "start": 28.020000457763672,
+            "end": 28.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 28.18000030517578,
+            "end": 28.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 28.34000015258789,
+            "end": 28.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 28.420000076293945,
+            "end": 29.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 29.920000076293945,
+            "end": 29.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 29.940000534057617,
+            "end": 29.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 29.959999084472656,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 48.41999816894531,
+            "end": 49.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 49.099998474121094,
+            "end": 49.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 49.779998779296875,
+            "end": 53.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 53.41999816894531,
+            "end": 53.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 53.7599983215332,
+            "end": 53.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 53.779998779296875,
+            "end": 53.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 53.79999923706055,
+            "end": 53.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 72.72000122070312,
+            "end": 74.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 74.12000274658203,
+            "end": 75.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 75.5199966430664,
+            "end": 86.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 86.22000122070312,
+            "end": 87.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 87.0999984741211,
+            "end": 88.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 88.94000244140625,
+            "end": 89.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 89.0,
+            "end": 89.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 119.19999694824219,
+            "end": 119.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 119.23999786376953,
+            "end": 119.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 119.27999877929688,
+            "end": 119.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 119.30000305175781,
+            "end": 119.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 119.31999969482422,
+            "end": 119.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 119.33999633789062,
+            "end": 119.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 119.36000061035156,
+            "end": 119.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 119.37999725341797,
+            "end": 119.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 119.4000015258789,
+            "end": 119.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 119.44000244140625,
+            "end": 119.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 119.45999908447266,
+            "end": 119.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 119.4800033569336,
+            "end": 119.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 119.5,
+            "end": 119.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 119.5199966430664,
+            "end": 119.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 119.54000091552734,
+            "end": 119.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 119.87999725341797,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 149.32000732421875,
+            "end": 149.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 149.32000732421875,
+            "end": 149.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 149.3800048828125,
+            "end": 149.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 149.3800048828125,
+            "end": 149.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 160.97999572753906,
+            "end": 161.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 161.02000427246094,
+            "end": 161.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 161.0399932861328,
+            "end": 161.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 161.05999755859375,
+            "end": 161.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 161.0800018310547,
+            "end": 161.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 161.10000610351562,
+            "end": 163.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 163.4600067138672,
+            "end": 163.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 208.4600067138672,
+            "end": 208.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 208.5,
+            "end": 208.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 208.5399932861328,
+            "end": 208.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 208.55999755859375,
+            "end": 208.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 208.9199981689453,
+            "end": 208.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 208.94000244140625,
+            "end": 208.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 208.9600067138672,
+            "end": 208.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 208.97999572753906,
+            "end": 209.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 209.0,
+            "end": 209.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 209.02000427246094,
+            "end": 209.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 209.0399932861328,
+            "end": 209.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 209.10000610351562,
+            "end": 209.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 209.1199951171875,
+            "end": 209.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 209.13999938964844,
+            "end": 209.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 209.16000366210938,
+            "end": 209.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 209.63999938964844,
+            "end": 239.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 239.13999938964844,
+            "end": 239.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 239.13999938964844,
+            "end": 239.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 239.13999938964844,
+            "end": 239.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 239.13999938964844,
+            "end": 239.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 239.13999938964844,
+            "end": 239.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 263.760009765625,
+            "end": 263.79998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 263.79998779296875,
+            "end": 263.8399963378906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 263.8399963378906,
+            "end": 263.8399963378906,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 263.8399963378906,
+            "end": 263.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 263.94000244140625,
+            "end": 263.9599914550781,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 263.9599914550781,
+            "end": 263.9800109863281,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 263.9800109863281,
+            "end": 264.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 264.0,
+            "end": 264.0199890136719,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 264.0199890136719,
+            "end": 264.0400085449219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 264.0400085449219,
+            "end": 264.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 264.05999755859375,
+            "end": 267.3999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 267.3999938964844,
+            "end": 267.7200012207031,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 267.7200012207031,
+            "end": 267.7200012207031,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 267.7200012207031,
+            "end": 267.7200012207031,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 278.1199951171875,
+            "end": 278.1600036621094,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 278.1600036621094,
+            "end": 278.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Want",
+            "start": 278.17999267578125,
+            "end": 278.20001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 278.20001220703125,
+            "end": 278.2200012207031,
+            "confidence": 0.99
+        },
+        {
+            "text": "Christmas",
+            "start": 278.2200012207031,
+            "end": 278.239990234375,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 278.239990234375,
+            "end": 278.260009765625,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 278.260009765625,
+            "end": 278.2799987792969,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "All I Want For Christmas is You",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "All I Want For Christmas",
+            "summary": "The text repetitively expresses a strong desire for a loved one during Christmas.",
+            "start": 0,
+            "end": 60
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

@@ -1,0 +1,2409 @@
+{
+    "id": "e263d10d-18e1-4669-8478-5951ab9fa3ad",
+    "status": "completed",
+    "text": "They say the holy water's watered down and this town's lost its faith. Our colors will fade eventually so if our time is running out day after day we'll make the mundane a masterpiece. Oh by my oh my, oh my my love I take one look at you. You're taking me out of the ordinary. I want you laying me down to. The dead and buried on the edge. Of your knife Staying drunk in the vibe the angels up in the clouds are jealous Knowing we found this the world will be ordinary you got me kissing the ground we sanctuary Shatter me with your to oh Lord, return me to dust. The angels up in the clouds are jealous Nowhere we found. Hopeless Hallelujah. On this side of heaven's gate. Oh my life hallelujah. Breathe and take my breath away. At your altar I will pray you're the sculpt of the clay oh my my. You're taking me out of the ordinary I want you laying me down so we're dead and buried on the edge of your night staying drunk on your mind the angels up in the clouds know what we found so it's you got me kissing the ground. Angels up in the clouds My j know something so heavenly Higher than next to you see never you're next to me oh my what was in black and white Until I saw your light I thought you had to die to. Fight something so out of the ordinary. How are you laying me down to a dead and buried on the edge of your night Staying drunk on your provide? The angels up in the clouds are jealous Knowing we found something out of the ordinary. You got me kissing the crowd Sanctuary Sanctuary. Turn me to D The angels up in the clouds My dad is know where we found.",
+    "words": [
+        {
+            "text": "They",
+            "start": 8400,
+            "end": 8560,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "say",
+            "start": 8560,
+            "end": 8840,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 8840,
+            "end": 9120,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "holy",
+            "start": 9120,
+            "end": 9600,
+            "confidence": 0.5541992,
+            "speaker": "A"
+        },
+        {
+            "text": "water's",
+            "start": 9600,
+            "end": 10240,
+            "confidence": 0.8408203,
+            "speaker": "A"
+        },
+        {
+            "text": "watered",
+            "start": 10240,
+            "end": 10800,
+            "confidence": 0.8054199,
+            "speaker": "A"
+        },
+        {
+            "text": "down",
+            "start": 10800,
+            "end": 11120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 11840,
+            "end": 12120,
+            "confidence": 0.91796875,
+            "speaker": "A"
+        },
+        {
+            "text": "this",
+            "start": 12120,
+            "end": 12320,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "town's",
+            "start": 12320,
+            "end": 12840,
+            "confidence": 0.9869792,
+            "speaker": "A"
+        },
+        {
+            "text": "lost",
+            "start": 12840,
+            "end": 13080,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "its",
+            "start": 13080,
+            "end": 13400,
+            "confidence": 0.97314453,
+            "speaker": "A"
+        },
+        {
+            "text": "faith.",
+            "start": 13400,
+            "end": 13840,
+            "confidence": 0.9667969,
+            "speaker": "A"
+        },
+        {
+            "text": "Our",
+            "start": 14160,
+            "end": 14480,
+            "confidence": 0.9916992,
+            "speaker": "A"
+        },
+        {
+            "text": "colors",
+            "start": 14480,
+            "end": 15120,
+            "confidence": 0.85375977,
+            "speaker": "A"
+        },
+        {
+            "text": "will",
+            "start": 15120,
+            "end": 15440,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "fade",
+            "start": 15440,
+            "end": 15920,
+            "confidence": 0.8388672,
+            "speaker": "A"
+        },
+        {
+            "text": "eventually",
+            "start": 16400,
+            "end": 17200,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "so",
+            "start": 17360,
+            "end": 17720,
+            "confidence": 0.9760742,
+            "speaker": "A"
+        },
+        {
+            "text": "if",
+            "start": 17720,
+            "end": 18040,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "our",
+            "start": 18040,
+            "end": 18320,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "time",
+            "start": 18320,
+            "end": 18560,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "is",
+            "start": 18560,
+            "end": 18840,
+            "confidence": 0.95703125,
+            "speaker": "A"
+        },
+        {
+            "text": "running",
+            "start": 18840,
+            "end": 19360,
+            "confidence": 0.98950195,
+            "speaker": "A"
+        },
+        {
+            "text": "out",
+            "start": 19360,
+            "end": 19680,
+            "confidence": 0.47973633,
+            "speaker": "A"
+        },
+        {
+            "text": "day",
+            "start": 20800,
+            "end": 21200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "after",
+            "start": 21280,
+            "end": 21680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "day",
+            "start": 21920,
+            "end": 22320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "we'll",
+            "start": 22640,
+            "end": 23040,
+            "confidence": 0.88590497,
+            "speaker": "A"
+        },
+        {
+            "text": "make",
+            "start": 23040,
+            "end": 23320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 23320,
+            "end": 23680,
+            "confidence": 0.66308594,
+            "speaker": "A"
+        },
+        {
+            "text": "mundane",
+            "start": 23760,
+            "end": 24480,
+            "confidence": 0.9373372,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 24880,
+            "end": 25200,
+            "confidence": 0.6411133,
+            "speaker": "A"
+        },
+        {
+            "text": "masterpiece.",
+            "start": 25200,
+            "end": 26160,
+            "confidence": 0.9642741,
+            "speaker": "A"
+        },
+        {
+            "text": "Oh",
+            "start": 26720,
+            "end": 27240,
+            "confidence": 0.8312988,
+            "speaker": "A"
+        },
+        {
+            "text": "by",
+            "start": 27240,
+            "end": 27600,
+            "confidence": 0.5029297,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 27760,
+            "end": 28160,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "oh",
+            "start": 28880,
+            "end": 29200,
+            "confidence": 0.83569336,
+            "speaker": "A"
+        },
+        {
+            "text": "my,",
+            "start": 29200,
+            "end": 29290,
+            "confidence": 0.75634766,
+            "speaker": "A"
+        },
+        {
+            "text": "oh",
+            "start": 29360,
+            "end": 29560,
+            "confidence": 0.8869629,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 29560,
+            "end": 29840,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 29920,
+            "end": 30320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "love",
+            "start": 30480,
+            "end": 30880,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 32320,
+            "end": 32640,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "take",
+            "start": 32640,
+            "end": 32920,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "one",
+            "start": 32920,
+            "end": 33200,
+            "confidence": 0.9838867,
+            "speaker": "A"
+        },
+        {
+            "text": "look",
+            "start": 33200,
+            "end": 33480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "at",
+            "start": 33480,
+            "end": 33720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 33720,
+            "end": 34000,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "You're",
+            "start": 34000,
+            "end": 34320,
+            "confidence": 0.94384766,
+            "speaker": "A"
+        },
+        {
+            "text": "taking",
+            "start": 34320,
+            "end": 34560,
+            "confidence": 0.87402344,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 34560,
+            "end": 34920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "out",
+            "start": 34920,
+            "end": 35280,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 35440,
+            "end": 35760,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 35760,
+            "end": 36000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ordinary.",
+            "start": 36000,
+            "end": 36800,
+            "confidence": 0.91174316,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 37920,
+            "end": 38200,
+            "confidence": 0.65625,
+            "speaker": "B"
+        },
+        {
+            "text": "want",
+            "start": 38200,
+            "end": 38400,
+            "confidence": 0.9350586,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 38400,
+            "end": 38600,
+            "confidence": 0.9897461,
+            "speaker": "B"
+        },
+        {
+            "text": "laying",
+            "start": 38600,
+            "end": 38880,
+            "confidence": 0.93481445,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 38880,
+            "end": 39160,
+            "confidence": 0.98291016,
+            "speaker": "B"
+        },
+        {
+            "text": "down",
+            "start": 39160,
+            "end": 39520,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "to.",
+            "start": 39680,
+            "end": 40000,
+            "confidence": 0.6972656,
+            "speaker": "B"
+        },
+        {
+            "text": "The",
+            "start": 40000,
+            "end": 40240,
+            "confidence": 0.9536133,
+            "speaker": "A"
+        },
+        {
+            "text": "dead",
+            "start": 40240,
+            "end": 40560,
+            "confidence": 0.9968262,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 40560,
+            "end": 40760,
+            "confidence": 0.9638672,
+            "speaker": "A"
+        },
+        {
+            "text": "buried",
+            "start": 40760,
+            "end": 41360,
+            "confidence": 0.9790039,
+            "speaker": "A"
+        },
+        {
+            "text": "on",
+            "start": 42320,
+            "end": 42680,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 42680,
+            "end": 42920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "edge.",
+            "start": 42920,
+            "end": 43120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Of",
+            "start": 43120,
+            "end": 43240,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 43240,
+            "end": 43440,
+            "confidence": 0.9926758,
+            "speaker": "B"
+        },
+        {
+            "text": "knife",
+            "start": 43440,
+            "end": 43840,
+            "confidence": 0.9057617,
+            "speaker": "B"
+        },
+        {
+            "text": "Staying",
+            "start": 44320,
+            "end": 44920,
+            "confidence": 0.9716797,
+            "speaker": "B"
+        },
+        {
+            "text": "drunk",
+            "start": 44920,
+            "end": 45240,
+            "confidence": 0.8688151,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 45240,
+            "end": 45399,
+            "confidence": 0.2993164,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 45399,
+            "end": 45599,
+            "confidence": 0.3618164,
+            "speaker": "B"
+        },
+        {
+            "text": "vibe",
+            "start": 45599,
+            "end": 46080,
+            "confidence": 0.54052734,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 47360,
+            "end": 47680,
+            "confidence": 0.9941406,
+            "speaker": "B"
+        },
+        {
+            "text": "angels",
+            "start": 47680,
+            "end": 48200,
+            "confidence": 0.7644043,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 48200,
+            "end": 48440,
+            "confidence": 0.99609375,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 48440,
+            "end": 48600,
+            "confidence": 0.9316406,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 48600,
+            "end": 48760,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "clouds",
+            "start": 48760,
+            "end": 49440,
+            "confidence": 0.95751953,
+            "speaker": "B"
+        },
+        {
+            "text": "are",
+            "start": 49440,
+            "end": 49800,
+            "confidence": 0.83496094,
+            "speaker": "B"
+        },
+        {
+            "text": "jealous",
+            "start": 49800,
+            "end": 50280,
+            "confidence": 0.8331706,
+            "speaker": "B"
+        },
+        {
+            "text": "Knowing",
+            "start": 50280,
+            "end": 50680,
+            "confidence": 0.80810547,
+            "speaker": "B"
+        },
+        {
+            "text": "we",
+            "start": 50680,
+            "end": 50880,
+            "confidence": 0.9760742,
+            "speaker": "B"
+        },
+        {
+            "text": "found",
+            "start": 50880,
+            "end": 51200,
+            "confidence": 0.28857422,
+            "speaker": "B"
+        },
+        {
+            "text": "this",
+            "start": 51520,
+            "end": 51800,
+            "confidence": 0.6269531,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 51800,
+            "end": 51960,
+            "confidence": 0.29418945,
+            "speaker": "B"
+        },
+        {
+            "text": "world",
+            "start": 51960,
+            "end": 52240,
+            "confidence": 0.5214844,
+            "speaker": "B"
+        },
+        {
+            "text": "will",
+            "start": 52560,
+            "end": 52880,
+            "confidence": 0.6542969,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 52880,
+            "end": 53160,
+            "confidence": 0.99121094,
+            "speaker": "B"
+        },
+        {
+            "text": "ordinary",
+            "start": 53160,
+            "end": 54000,
+            "confidence": 0.99731445,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 55040,
+            "end": 55360,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "got",
+            "start": 55360,
+            "end": 55560,
+            "confidence": 0.99365234,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 55560,
+            "end": 55720,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "kissing",
+            "start": 55720,
+            "end": 56120,
+            "confidence": 0.96695966,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 56120,
+            "end": 56320,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "ground",
+            "start": 56320,
+            "end": 56640,
+            "confidence": 0.58447266,
+            "speaker": "B"
+        },
+        {
+            "text": "we",
+            "start": 56880,
+            "end": 57240,
+            "confidence": 0.24414062,
+            "speaker": "B"
+        },
+        {
+            "text": "sanctuary",
+            "start": 57240,
+            "end": 58000,
+            "confidence": 0.8619792,
+            "speaker": "B"
+        },
+        {
+            "text": "Shatter",
+            "start": 59360,
+            "end": 59840,
+            "confidence": 0.6472168,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 59840,
+            "end": 60160,
+            "confidence": 0.91064453,
+            "speaker": "B"
+        },
+        {
+            "text": "with",
+            "start": 60160,
+            "end": 60360,
+            "confidence": 0.9091797,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 60360,
+            "end": 60560,
+            "confidence": 0.50634766,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 60560,
+            "end": 60880,
+            "confidence": 0.51171875,
+            "speaker": "B"
+        },
+        {
+            "text": "oh",
+            "start": 61420,
+            "end": 61620,
+            "confidence": 0.75024414,
+            "speaker": "B"
+        },
+        {
+            "text": "Lord,",
+            "start": 61620,
+            "end": 61980,
+            "confidence": 0.8880208,
+            "speaker": "B"
+        },
+        {
+            "text": "return",
+            "start": 61980,
+            "end": 62260,
+            "confidence": 0.72021484,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 62260,
+            "end": 62500,
+            "confidence": 0.9946289,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 62500,
+            "end": 62700,
+            "confidence": 0.98535156,
+            "speaker": "B"
+        },
+        {
+            "text": "dust.",
+            "start": 62700,
+            "end": 63260,
+            "confidence": 0.79125977,
+            "speaker": "B"
+        },
+        {
+            "text": "The",
+            "start": 64540,
+            "end": 64860,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "angels",
+            "start": 64860,
+            "end": 65340,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 65340,
+            "end": 65580,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 65580,
+            "end": 65740,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 65740,
+            "end": 65900,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "clouds",
+            "start": 65900,
+            "end": 66620,
+            "confidence": 0.99397784,
+            "speaker": "B"
+        },
+        {
+            "text": "are",
+            "start": 66620,
+            "end": 66940,
+            "confidence": 0.9824219,
+            "speaker": "B"
+        },
+        {
+            "text": "jealous",
+            "start": 66940,
+            "end": 67420,
+            "confidence": 0.95751953,
+            "speaker": "B"
+        },
+        {
+            "text": "Nowhere",
+            "start": 67420,
+            "end": 67820,
+            "confidence": 0.70442706,
+            "speaker": "B"
+        },
+        {
+            "text": "we",
+            "start": 67820,
+            "end": 68020,
+            "confidence": 0.75634766,
+            "speaker": "B"
+        },
+        {
+            "text": "found.",
+            "start": 68020,
+            "end": 68300,
+            "confidence": 0.72265625,
+            "speaker": "B"
+        },
+        {
+            "text": "Hopeless",
+            "start": 70140,
+            "end": 71020,
+            "confidence": 0.94873047,
+            "speaker": "A"
+        },
+        {
+            "text": "Hallelujah.",
+            "start": 71340,
+            "end": 73100,
+            "confidence": 0.819987,
+            "speaker": "A"
+        },
+        {
+            "text": "On",
+            "start": 74460,
+            "end": 74860,
+            "confidence": 0.8798828,
+            "speaker": "A"
+        },
+        {
+            "text": "this",
+            "start": 74860,
+            "end": 75260,
+            "confidence": 0.76904297,
+            "speaker": "A"
+        },
+        {
+            "text": "side",
+            "start": 75420,
+            "end": 75820,
+            "confidence": 0.8588867,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 76060,
+            "end": 76460,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "heaven's",
+            "start": 76620,
+            "end": 77700,
+            "confidence": 0.93828124,
+            "speaker": "A"
+        },
+        {
+            "text": "gate.",
+            "start": 77700,
+            "end": 78140,
+            "confidence": 0.986084,
+            "speaker": "A"
+        },
+        {
+            "text": "Oh",
+            "start": 78780,
+            "end": 79260,
+            "confidence": 0.73706055,
+            "speaker": "B"
+        },
+        {
+            "text": "my",
+            "start": 79260,
+            "end": 79660,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "life",
+            "start": 79740,
+            "end": 80140,
+            "confidence": 0.9868164,
+            "speaker": "B"
+        },
+        {
+            "text": "hallelujah.",
+            "start": 80460,
+            "end": 81660,
+            "confidence": 0.9012044,
+            "speaker": "B"
+        },
+        {
+            "text": "Breathe",
+            "start": 82940,
+            "end": 83660,
+            "confidence": 0.71761066,
+            "speaker": "B"
+        },
+        {
+            "text": "and",
+            "start": 83660,
+            "end": 83900,
+            "confidence": 0.8310547,
+            "speaker": "B"
+        },
+        {
+            "text": "take",
+            "start": 83980,
+            "end": 84380,
+            "confidence": 0.73046875,
+            "speaker": "B"
+        },
+        {
+            "text": "my",
+            "start": 84620,
+            "end": 85020,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "breath",
+            "start": 85100,
+            "end": 85580,
+            "confidence": 0.82543945,
+            "speaker": "B"
+        },
+        {
+            "text": "away.",
+            "start": 85820,
+            "end": 86220,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "At",
+            "start": 87900,
+            "end": 88220,
+            "confidence": 0.7885742,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 88220,
+            "end": 88460,
+            "confidence": 0.9404297,
+            "speaker": "B"
+        },
+        {
+            "text": "altar",
+            "start": 88460,
+            "end": 89060,
+            "confidence": 0.7561849,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 89060,
+            "end": 89300,
+            "confidence": 0.99072266,
+            "speaker": "B"
+        },
+        {
+            "text": "will",
+            "start": 89300,
+            "end": 89540,
+            "confidence": 0.9008789,
+            "speaker": "B"
+        },
+        {
+            "text": "pray",
+            "start": 89540,
+            "end": 90060,
+            "confidence": 0.95166016,
+            "speaker": "B"
+        },
+        {
+            "text": "you're",
+            "start": 90060,
+            "end": 90380,
+            "confidence": 0.95003253,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 90380,
+            "end": 90540,
+            "confidence": 0.9941406,
+            "speaker": "B"
+        },
+        {
+            "text": "sculpt",
+            "start": 90540,
+            "end": 90980,
+            "confidence": 0.81274414,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 90980,
+            "end": 91340,
+            "confidence": 0.73046875,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 91340,
+            "end": 91620,
+            "confidence": 0.96484375,
+            "speaker": "B"
+        },
+        {
+            "text": "clay",
+            "start": 91620,
+            "end": 92140,
+            "confidence": 0.97558594,
+            "speaker": "B"
+        },
+        {
+            "text": "oh",
+            "start": 93160,
+            "end": 93400,
+            "confidence": 0.9785156,
+            "speaker": "B"
+        },
+        {
+            "text": "my",
+            "start": 93400,
+            "end": 93680,
+            "confidence": 0.9824219,
+            "speaker": "B"
+        },
+        {
+            "text": "my.",
+            "start": 93680,
+            "end": 94000,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "You're",
+            "start": 94000,
+            "end": 94320,
+            "confidence": 0.82373047,
+            "speaker": "B"
+        },
+        {
+            "text": "taking",
+            "start": 94320,
+            "end": 94600,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 94600,
+            "end": 94920,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "out",
+            "start": 94920,
+            "end": 95240,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 95400,
+            "end": 95720,
+            "confidence": 0.87939453,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 95720,
+            "end": 96000,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "ordinary",
+            "start": 96000,
+            "end": 96760,
+            "confidence": 0.8944092,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 97880,
+            "end": 98160,
+            "confidence": 0.91845703,
+            "speaker": "B"
+        },
+        {
+            "text": "want",
+            "start": 98160,
+            "end": 98360,
+            "confidence": 0.97314453,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 98360,
+            "end": 98600,
+            "confidence": 0.99365234,
+            "speaker": "B"
+        },
+        {
+            "text": "laying",
+            "start": 98600,
+            "end": 98920,
+            "confidence": 0.95166016,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 98920,
+            "end": 99160,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "down",
+            "start": 99160,
+            "end": 99480,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "so",
+            "start": 99720,
+            "end": 100040,
+            "confidence": 0.4177246,
+            "speaker": "B"
+        },
+        {
+            "text": "we're",
+            "start": 100040,
+            "end": 100280,
+            "confidence": 0.76448566,
+            "speaker": "B"
+        },
+        {
+            "text": "dead",
+            "start": 100280,
+            "end": 100560,
+            "confidence": 0.96240234,
+            "speaker": "B"
+        },
+        {
+            "text": "and",
+            "start": 100560,
+            "end": 100760,
+            "confidence": 0.8051758,
+            "speaker": "B"
+        },
+        {
+            "text": "buried",
+            "start": 100760,
+            "end": 101400,
+            "confidence": 0.7558594,
+            "speaker": "B"
+        },
+        {
+            "text": "on",
+            "start": 102280,
+            "end": 102600,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 102600,
+            "end": 102840,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "edge",
+            "start": 102840,
+            "end": 103120,
+            "confidence": 0.84106445,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 103120,
+            "end": 103280,
+            "confidence": 0.99609375,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 103280,
+            "end": 103480,
+            "confidence": 0.98339844,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 103480,
+            "end": 103800,
+            "confidence": 0.97558594,
+            "speaker": "B"
+        },
+        {
+            "text": "staying",
+            "start": 104360,
+            "end": 104960,
+            "confidence": 0.97265625,
+            "speaker": "B"
+        },
+        {
+            "text": "drunk",
+            "start": 104960,
+            "end": 105240,
+            "confidence": 0.9003906,
+            "speaker": "B"
+        },
+        {
+            "text": "on",
+            "start": 105240,
+            "end": 105400,
+            "confidence": 0.9868164,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 105400,
+            "end": 105600,
+            "confidence": 0.9863281,
+            "speaker": "B"
+        },
+        {
+            "text": "mind",
+            "start": 105600,
+            "end": 105960,
+            "confidence": 0.39233398,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 107400,
+            "end": 107720,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "angels",
+            "start": 107720,
+            "end": 108200,
+            "confidence": 0.9892578,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 108200,
+            "end": 108440,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 108440,
+            "end": 108600,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 108600,
+            "end": 108720,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "clouds",
+            "start": 108720,
+            "end": 109479,
+            "confidence": 0.9617513,
+            "speaker": "B"
+        },
+        {
+            "text": "know",
+            "start": 110200,
+            "end": 110520,
+            "confidence": 0.56640625,
+            "speaker": "B"
+        },
+        {
+            "text": "what",
+            "start": 110520,
+            "end": 110720,
+            "confidence": 0.7368164,
+            "speaker": "B"
+        },
+        {
+            "text": "we",
+            "start": 110720,
+            "end": 110920,
+            "confidence": 0.97998047,
+            "speaker": "B"
+        },
+        {
+            "text": "found",
+            "start": 110920,
+            "end": 111240,
+            "confidence": 0.8984375,
+            "speaker": "B"
+        },
+        {
+            "text": "so",
+            "start": 111320,
+            "end": 111640,
+            "confidence": 0.66064453,
+            "speaker": "B"
+        },
+        {
+            "text": "it's",
+            "start": 111640,
+            "end": 112040,
+            "confidence": 0.7702637,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 115080,
+            "end": 115360,
+            "confidence": 0.67822266,
+            "speaker": "B"
+        },
+        {
+            "text": "got",
+            "start": 115360,
+            "end": 115520,
+            "confidence": 0.9941406,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 115520,
+            "end": 115720,
+            "confidence": 0.9921875,
+            "speaker": "B"
+        },
+        {
+            "text": "kissing",
+            "start": 115720,
+            "end": 116120,
+            "confidence": 0.99609375,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 116120,
+            "end": 116280,
+            "confidence": 0.99316406,
+            "speaker": "B"
+        },
+        {
+            "text": "ground.",
+            "start": 116280,
+            "end": 116600,
+            "confidence": 0.8305664,
+            "speaker": "B"
+        },
+        {
+            "text": "Angels",
+            "start": 125060,
+            "end": 125420,
+            "confidence": 0.98583984,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 125420,
+            "end": 125620,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 125620,
+            "end": 125780,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 125780,
+            "end": 125900,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "clouds",
+            "start": 125900,
+            "end": 126500,
+            "confidence": 0.8334961,
+            "speaker": "B"
+        },
+        {
+            "text": "My",
+            "start": 126580,
+            "end": 126900,
+            "confidence": 0.5751953,
+            "speaker": "B"
+        },
+        {
+            "text": "j",
+            "start": 126900,
+            "end": 127220,
+            "confidence": 0.77978516,
+            "speaker": "B"
+        },
+        {
+            "text": "know",
+            "start": 127380,
+            "end": 127780,
+            "confidence": 0.49389648,
+            "speaker": "B"
+        },
+        {
+            "text": "something",
+            "start": 129460,
+            "end": 129860,
+            "confidence": 0.92333984,
+            "speaker": "B"
+        },
+        {
+            "text": "so",
+            "start": 129860,
+            "end": 130260,
+            "confidence": 0.9868164,
+            "speaker": "B"
+        },
+        {
+            "text": "heavenly",
+            "start": 130260,
+            "end": 131460,
+            "confidence": 0.93200684,
+            "speaker": "B"
+        },
+        {
+            "text": "Higher",
+            "start": 131700,
+            "end": 132060,
+            "confidence": 0.98876953,
+            "speaker": "B"
+        },
+        {
+            "text": "than",
+            "start": 132060,
+            "end": 132380,
+            "confidence": 0.98339844,
+            "speaker": "B"
+        },
+        {
+            "text": "next",
+            "start": 132380,
+            "end": 132740,
+            "confidence": 0.96777344,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 132740,
+            "end": 133100,
+            "confidence": 0.55029297,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 133100,
+            "end": 133380,
+            "confidence": 0.5463867,
+            "speaker": "B"
+        },
+        {
+            "text": "see",
+            "start": 133380,
+            "end": 133700,
+            "confidence": 0.7241211,
+            "speaker": "B"
+        },
+        {
+            "text": "never",
+            "start": 133860,
+            "end": 134220,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "you're",
+            "start": 134220,
+            "end": 134580,
+            "confidence": 0.95003253,
+            "speaker": "B"
+        },
+        {
+            "text": "next",
+            "start": 134580,
+            "end": 134900,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 134980,
+            "end": 135380,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 135460,
+            "end": 135860,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "oh",
+            "start": 136100,
+            "end": 136580,
+            "confidence": 0.7792969,
+            "speaker": "B"
+        },
+        {
+            "text": "my",
+            "start": 136580,
+            "end": 136980,
+            "confidence": 0.9946289,
+            "speaker": "B"
+        },
+        {
+            "text": "what",
+            "start": 138100,
+            "end": 138380,
+            "confidence": 0.5048828,
+            "speaker": "B"
+        },
+        {
+            "text": "was",
+            "start": 138380,
+            "end": 138580,
+            "confidence": 0.90234375,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 138580,
+            "end": 138820,
+            "confidence": 0.70703125,
+            "speaker": "B"
+        },
+        {
+            "text": "black",
+            "start": 138820,
+            "end": 139140,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "and",
+            "start": 139300,
+            "end": 139700,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "white",
+            "start": 139700,
+            "end": 140100,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "Until",
+            "start": 140180,
+            "end": 140580,
+            "confidence": 0.9873047,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 140580,
+            "end": 140860,
+            "confidence": 0.9760742,
+            "speaker": "B"
+        },
+        {
+            "text": "saw",
+            "start": 140860,
+            "end": 141140,
+            "confidence": 0.78564453,
+            "speaker": "B"
+        },
+        {
+            "text": "your",
+            "start": 141300,
+            "end": 141700,
+            "confidence": 0.96435547,
+            "speaker": "B"
+        },
+        {
+            "text": "light",
+            "start": 141860,
+            "end": 142260,
+            "confidence": 0.96191406,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 142420,
+            "end": 142700,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "thought",
+            "start": 142700,
+            "end": 142860,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 142860,
+            "end": 143100,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "had",
+            "start": 143100,
+            "end": 143460,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 143540,
+            "end": 143940,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "die",
+            "start": 144020,
+            "end": 144580,
+            "confidence": 0.84033203,
+            "speaker": "B"
+        },
+        {
+            "text": "to.",
+            "start": 144580,
+            "end": 144980,
+            "confidence": 0.91259766,
+            "speaker": "B"
+        },
+        {
+            "text": "Fight",
+            "start": 145140,
+            "end": 145540,
+            "confidence": 0.54248047,
+            "speaker": "A"
+        },
+        {
+            "text": "something",
+            "start": 145620,
+            "end": 145980,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "so",
+            "start": 145980,
+            "end": 146300,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "out",
+            "start": 146300,
+            "end": 146660,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 146900,
+            "end": 147180,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 147180,
+            "end": 147380,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ordinary.",
+            "start": 147380,
+            "end": 148180,
+            "confidence": 0.93652344,
+            "speaker": "A"
+        },
+        {
+            "text": "How",
+            "start": 149300,
+            "end": 149620,
+            "confidence": 0.8691406,
+            "speaker": "A"
+        },
+        {
+            "text": "are",
+            "start": 149620,
+            "end": 149820,
+            "confidence": 0.87890625,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 149820,
+            "end": 150020,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "laying",
+            "start": 150020,
+            "end": 150340,
+            "confidence": 0.98583984,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 150340,
+            "end": 150580,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "down",
+            "start": 150580,
+            "end": 150900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 151140,
+            "end": 151460,
+            "confidence": 0.8857422,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 151460,
+            "end": 151660,
+            "confidence": 0.9165039,
+            "speaker": "A"
+        },
+        {
+            "text": "dead",
+            "start": 151660,
+            "end": 151940,
+            "confidence": 0.9250488,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 151940,
+            "end": 152180,
+            "confidence": 0.9838867,
+            "speaker": "A"
+        },
+        {
+            "text": "buried",
+            "start": 152180,
+            "end": 152740,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "on",
+            "start": 153700,
+            "end": 154020,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 154020,
+            "end": 154220,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "edge",
+            "start": 154220,
+            "end": 154460,
+            "confidence": 0.94628906,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 154460,
+            "end": 154620,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 154620,
+            "end": 154820,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "night",
+            "start": 154820,
+            "end": 155140,
+            "confidence": 0.48632812,
+            "speaker": "A"
+        },
+        {
+            "text": "Staying",
+            "start": 155780,
+            "end": 156300,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "drunk",
+            "start": 156300,
+            "end": 156580,
+            "confidence": 0.85823566,
+            "speaker": "A"
+        },
+        {
+            "text": "on",
+            "start": 156580,
+            "end": 156740,
+            "confidence": 0.8051758,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 156740,
+            "end": 156890,
+            "confidence": 0.9589844,
+            "speaker": "A"
+        },
+        {
+            "text": "provide?",
+            "start": 156960,
+            "end": 157200,
+            "confidence": 0.8774414,
+            "speaker": "A"
+        },
+        {
+            "text": "The",
+            "start": 158800,
+            "end": 159160,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "angels",
+            "start": 159160,
+            "end": 159680,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "up",
+            "start": 159680,
+            "end": 159880,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 159880,
+            "end": 160040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 160040,
+            "end": 160200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "clouds",
+            "start": 160200,
+            "end": 160800,
+            "confidence": 0.95491534,
+            "speaker": "A"
+        },
+        {
+            "text": "are",
+            "start": 160880,
+            "end": 161200,
+            "confidence": 0.97998047,
+            "speaker": "A"
+        },
+        {
+            "text": "jealous",
+            "start": 161200,
+            "end": 161720,
+            "confidence": 0.9547526,
+            "speaker": "A"
+        },
+        {
+            "text": "Knowing",
+            "start": 161720,
+            "end": 162120,
+            "confidence": 0.967041,
+            "speaker": "A"
+        },
+        {
+            "text": "we",
+            "start": 162120,
+            "end": 162320,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "found",
+            "start": 162320,
+            "end": 162640,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "something",
+            "start": 162720,
+            "end": 163120,
+            "confidence": 0.6196289,
+            "speaker": "A"
+        },
+        {
+            "text": "out",
+            "start": 163440,
+            "end": 163840,
+            "confidence": 0.92041016,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 164000,
+            "end": 164320,
+            "confidence": 0.96728516,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 164320,
+            "end": 164560,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "ordinary.",
+            "start": 164560,
+            "end": 165360,
+            "confidence": 0.9532471,
+            "speaker": "A"
+        },
+        {
+            "text": "You",
+            "start": 166480,
+            "end": 166760,
+            "confidence": 0.9741211,
+            "speaker": "B"
+        },
+        {
+            "text": "got",
+            "start": 166760,
+            "end": 166960,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 166960,
+            "end": 167160,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "kissing",
+            "start": 167160,
+            "end": 167520,
+            "confidence": 0.9938151,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 167520,
+            "end": 167680,
+            "confidence": 0.99365234,
+            "speaker": "B"
+        },
+        {
+            "text": "crowd",
+            "start": 167680,
+            "end": 168160,
+            "confidence": 0.58691406,
+            "speaker": "B"
+        },
+        {
+            "text": "Sanctuary",
+            "start": 168720,
+            "end": 169360,
+            "confidence": 0.8074544,
+            "speaker": "B"
+        },
+        {
+            "text": "Sanctuary.",
+            "start": 169840,
+            "end": 170480,
+            "confidence": 0.71516925,
+            "speaker": "B"
+        },
+        {
+            "text": "Turn",
+            "start": 173440,
+            "end": 173760,
+            "confidence": 0.5385742,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 173760,
+            "end": 173960,
+            "confidence": 0.94384766,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 173960,
+            "end": 174160,
+            "confidence": 0.38671875,
+            "speaker": "B"
+        },
+        {
+            "text": "D",
+            "start": 174160,
+            "end": 174480,
+            "confidence": 0.52197266,
+            "speaker": "B"
+        },
+        {
+            "text": "The",
+            "start": 176000,
+            "end": 176320,
+            "confidence": 0.95996094,
+            "speaker": "B"
+        },
+        {
+            "text": "angels",
+            "start": 176320,
+            "end": 176800,
+            "confidence": 0.9921875,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 176800,
+            "end": 177040,
+            "confidence": 0.9926758,
+            "speaker": "B"
+        },
+        {
+            "text": "in",
+            "start": 177040,
+            "end": 177200,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 177200,
+            "end": 177320,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "clouds",
+            "start": 177320,
+            "end": 177920,
+            "confidence": 0.86002606,
+            "speaker": "B"
+        },
+        {
+            "text": "My",
+            "start": 178000,
+            "end": 178360,
+            "confidence": 0.5415039,
+            "speaker": "B"
+        },
+        {
+            "text": "dad",
+            "start": 178360,
+            "end": 178720,
+            "confidence": 0.4819336,
+            "speaker": "B"
+        },
+        {
+            "text": "is",
+            "start": 178720,
+            "end": 178920,
+            "confidence": 0.54345703,
+            "speaker": "B"
+        },
+        {
+            "text": "know",
+            "start": 178920,
+            "end": 179120,
+            "confidence": 0.54541016,
+            "speaker": "B"
+        },
+        {
+            "text": "where",
+            "start": 179120,
+            "end": 179320,
+            "confidence": 0.33984375,
+            "speaker": "B"
+        },
+        {
+            "text": "we",
+            "start": 179320,
+            "end": 179520,
+            "confidence": 0.9902344,
+            "speaker": "B"
+        },
+        {
+            "text": "found.",
+            "start": 179520,
+            "end": 179840,
+            "confidence": 0.8466797,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "They say the holy water's watered down and this town's lost its faith. Our colors will fade eventually so if our time is running out day after day we'll make the mundane a masterpiece. Oh by my oh my, oh my my love I take one look at you. You're taking me out of the ordinary.",
+            "start": 8400,
+            "end": 36800,
+            "confidence": 0.9229337,
+            "speaker": "A"
+        },
+        {
+            "text": "I want you laying me down to.",
+            "start": 37920,
+            "end": 40000,
+            "confidence": 0.88500977,
+            "speaker": "B"
+        },
+        {
+            "text": "The dead and buried on the edge.",
+            "start": 40000,
+            "end": 43120,
+            "confidence": 0.9839216,
+            "speaker": "A"
+        },
+        {
+            "text": "Of your knife Staying drunk in the vibe the angels up in the clouds are jealous Knowing we found this the world will be ordinary you got me kissing the ground we sanctuary Shatter me with your to oh Lord, return me to dust. The angels up in the clouds are jealous Nowhere we found.",
+            "start": 43120,
+            "end": 68300,
+            "confidence": 0.8142164,
+            "speaker": "B"
+        },
+        {
+            "text": "Hopeless Hallelujah. On this side of heaven's gate.",
+            "start": 70140,
+            "end": 78140,
+            "confidence": 0.89998984,
+            "speaker": "A"
+        },
+        {
+            "text": "Oh my life hallelujah. Breathe and take my breath away. At your altar I will pray you're the sculpt of the clay oh my my. You're taking me out of the ordinary I want you laying me down so we're dead and buried on the edge of your night staying drunk on your mind the angels up in the clouds know what we found so it's you got me kissing the ground. Angels up in the clouds My j know something so heavenly Higher than next to you see never you're next to me oh my what was in black and white Until I saw your light I thought you had to die to.",
+            "start": 78780,
+            "end": 144980,
+            "confidence": 0.8962024,
+            "speaker": "B"
+        },
+        {
+            "text": "Fight something so out of the ordinary. How are you laying me down to a dead and buried on the edge of your night Staying drunk on your provide? The angels up in the clouds are jealous Knowing we found something out of the ordinary.",
+            "start": 145140,
+            "end": 165360,
+            "confidence": 0.93579555,
+            "speaker": "A"
+        },
+        {
+            "text": "You got me kissing the crowd Sanctuary Sanctuary. Turn me to D The angels up in the clouds My dad is know where we found.",
+            "start": 166480,
+            "end": 179840,
+            "confidence": 0.7819922,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [
+        {
+            "summary": "\"Oh by my oh my, oh my my love I take one look at you. You're taking me out of the ordinary. I want you laying me down to the dead and buried on the edge. The angels up in the clouds are jealous Nowhere we found \"",
+            "headline": "You're taking me out of the ordinary. Our colors will fade eventually",
+            "gist": "The Angels Up in the Clouds Are Jealous",
+            "start": 8400,
+            "end": 179840
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "They say the holy water's watered down and this town's lost its faith.",
+            "start": 8400,
+            "end": 13840,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.78797007
+        },
+        {
+            "text": "Our colors will fade eventually so if our time is running out day after day we'll make the mundane a masterpiece.",
+            "start": 14160,
+            "end": 26160,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.55616736
+        },
+        {
+            "text": "Oh by my oh my, oh my my love I take one look at you.",
+            "start": 26720,
+            "end": 34000,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8400614
+        },
+        {
+            "text": "You're taking me out of the ordinary.",
+            "start": 34000,
+            "end": 36800,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.60309243
+        },
+        {
+            "text": "I want you laying me down to the dead and buried on the edge of your knife Staying drunk in the vibe the angels up in the clouds are jealous Knowing we found this the world will be ordinary you got me kissing the ground we sanctuary Shatter me with your to oh Lord, return me to dust.",
+            "start": 37920,
+            "end": 63260,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.62089205
+        },
+        {
+            "text": "The angels up in the clouds are jealous Nowhere we found hopeless Hallelujah.",
+            "start": 64540,
+            "end": 73100,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5120247
+        },
+        {
+            "text": "On this side of heaven's gate.",
+            "start": 74460,
+            "end": 78140,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6131706
+        },
+        {
+            "text": "Oh my life hallelujah.",
+            "start": 78780,
+            "end": 81660,
+            "sentiment": "POSITIVE",
+            "confidence": 0.827062
+        },
+        {
+            "text": "Breathe and take my breath away.",
+            "start": 82940,
+            "end": 86220,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6744283
+        },
+        {
+            "text": "At your altar I will pray you're the sculpt of the clay oh my my.",
+            "start": 87900,
+            "end": 94000,
+            "sentiment": "POSITIVE",
+            "confidence": 0.4930865
+        },
+        {
+            "text": "You're taking me out of the ordinary I want you laying me down so we're dead and buried on the edge of your night staying drunk on your mind the angels up in the clouds know what we found so it's you got me kissing the ground.",
+            "start": 94000,
+            "end": 116600,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.67091835
+        },
+        {
+            "text": "Angels up in the clouds My j know something so heavenly Higher than next to you see never you're next to me oh my what was in black and white Until I saw your light I thought you had to die to fight something so out of the ordinary.",
+            "start": 125060,
+            "end": 148180,
+            "sentiment": "POSITIVE",
+            "confidence": 0.56074643
+        },
+        {
+            "text": "How are you laying me down to a dead and buried on the edge of your night Staying drunk on your provide?",
+            "start": 149300,
+            "end": 157200,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.51967824
+        },
+        {
+            "text": "The angels up in the clouds are jealous Knowing we found something out of the ordinary.",
+            "start": 158800,
+            "end": 165360,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5983291
+        },
+        {
+            "text": "You got me kissing the crowd Sanctuary Sanctuary.",
+            "start": 166480,
+            "end": 170480,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.48659873
+        },
+        {
+            "text": "Turn me to D The angels up in the clouds My dad is know where we found.",
+            "start": 173440,
+            "end": 179840,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.56367147
+        }
+    ],
+    "audio_duration": 187,
+    "language_code": "en"
+}

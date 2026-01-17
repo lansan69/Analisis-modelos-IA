@@ -1,0 +1,48 @@
+{
+    "id": "93ba64da-79c4-4712-a493-a238fa417a62",
+    "status": "completed",
+    "text": "My body gave it.",
+    "words": [
+        {
+            "text": "My",
+            "start": 63960,
+            "end": 64200,
+            "confidence": 0.6567383,
+            "speaker": "A"
+        },
+        {
+            "text": "body",
+            "start": 64520,
+            "end": 65120,
+            "confidence": 0.84749347,
+            "speaker": "A"
+        },
+        {
+            "text": "gave",
+            "start": 65120,
+            "end": 65600,
+            "confidence": 0.7470703,
+            "speaker": "A"
+        },
+        {
+            "text": "it.",
+            "start": 65600,
+            "end": 65880,
+            "confidence": 0.9560547,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "My body gave it.",
+            "start": 63960,
+            "end": 65880,
+            "confidence": 0.8018392,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 118,
+    "language_code": "es"
+}

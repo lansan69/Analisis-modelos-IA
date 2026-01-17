@@ -1,0 +1,2176 @@
+{
+    "id": "bda61cf1-1baa-4c27-a7e1-b059e8c94ee4",
+    "status": "completed",
+    "text": "Going out tonight Changes into something red Her mother doesn't like that kind of dress everything she never had She's showing. Off. Driving too fast Moon is breaking through her hair She's heading for something that she won't forget Having no regrets is all that she really wants. We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything That you've ever dreamed of disappearing when you wait But there's nothing to be afraid of Even when I change It will never change me. And you. Chasing it tonight Doubts around, around her head he's waiting hearts behind a cigarette heart is beating loud And she doesn't want it to stop. Moving. Too fast Moon is lighting up a skin She's falling doesn't even know it yet Having no regrets it's all that she really wants. We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast And I changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes You'll never change me And you. Going out tonight Changes into something rare Her mother doesn't like that kind of trust Reminds her of the missing piece of innocence She loves We're only getting. Older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes.",
+    "words": [
+        {
+            "text": "Going",
+            "start": 8880,
+            "end": 9320,
+            "confidence": 0.9851074,
+            "speaker": "A"
+        },
+        {
+            "text": "out",
+            "start": 9320,
+            "end": 9520,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "tonight",
+            "start": 9520,
+            "end": 10240,
+            "confidence": 0.93570966,
+            "speaker": "A"
+        },
+        {
+            "text": "Changes",
+            "start": 10480,
+            "end": 11200,
+            "confidence": 0.8492839,
+            "speaker": "A"
+        },
+        {
+            "text": "into",
+            "start": 11280,
+            "end": 11640,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "something",
+            "start": 11640,
+            "end": 12320,
+            "confidence": 0.9366862,
+            "speaker": "A"
+        },
+        {
+            "text": "red",
+            "start": 12320,
+            "end": 12640,
+            "confidence": 0.98583984,
+            "speaker": "A"
+        },
+        {
+            "text": "Her",
+            "start": 13280,
+            "end": 13680,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "mother",
+            "start": 13760,
+            "end": 14320,
+            "confidence": 0.9760742,
+            "speaker": "A"
+        },
+        {
+            "text": "doesn't",
+            "start": 14560,
+            "end": 15280,
+            "confidence": 0.99746096,
+            "speaker": "A"
+        },
+        {
+            "text": "like",
+            "start": 15280,
+            "end": 15440,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 15440,
+            "end": 15640,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "kind",
+            "start": 15640,
+            "end": 16000,
+            "confidence": 0.9848633,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 16079,
+            "end": 16360,
+            "confidence": 0.9169922,
+            "speaker": "A"
+        },
+        {
+            "text": "dress",
+            "start": 16360,
+            "end": 16720,
+            "confidence": 0.8105469,
+            "speaker": "A"
+        },
+        {
+            "text": "everything",
+            "start": 16800,
+            "end": 17600,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "she",
+            "start": 17600,
+            "end": 17800,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "never",
+            "start": 17800,
+            "end": 18240,
+            "confidence": 0.8652344,
+            "speaker": "A"
+        },
+        {
+            "text": "had",
+            "start": 18480,
+            "end": 18880,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "She's",
+            "start": 19280,
+            "end": 19760,
+            "confidence": 0.9375,
+            "speaker": "A"
+        },
+        {
+            "text": "showing.",
+            "start": 19760,
+            "end": 20440,
+            "confidence": 0.9892578,
+            "speaker": "A"
+        },
+        {
+            "text": "Off.",
+            "start": 20440,
+            "end": 20800,
+            "confidence": 0.5151367,
+            "speaker": "B"
+        },
+        {
+            "text": "Driving",
+            "start": 24640,
+            "end": 25400,
+            "confidence": 0.8019206,
+            "speaker": "C"
+        },
+        {
+            "text": "too",
+            "start": 25400,
+            "end": 25880,
+            "confidence": 0.9760742,
+            "speaker": "C"
+        },
+        {
+            "text": "fast",
+            "start": 25880,
+            "end": 26160,
+            "confidence": 0.9953613,
+            "speaker": "C"
+        },
+        {
+            "text": "Moon",
+            "start": 26480,
+            "end": 27040,
+            "confidence": 0.99853516,
+            "speaker": "C"
+        },
+        {
+            "text": "is",
+            "start": 27040,
+            "end": 27240,
+            "confidence": 0.99853516,
+            "speaker": "C"
+        },
+        {
+            "text": "breaking",
+            "start": 27240,
+            "end": 27840,
+            "confidence": 0.9584961,
+            "speaker": "C"
+        },
+        {
+            "text": "through",
+            "start": 27840,
+            "end": 28040,
+            "confidence": 0.9975586,
+            "speaker": "C"
+        },
+        {
+            "text": "her",
+            "start": 28040,
+            "end": 28320,
+            "confidence": 0.6113281,
+            "speaker": "C"
+        },
+        {
+            "text": "hair",
+            "start": 28320,
+            "end": 28800,
+            "confidence": 0.6201172,
+            "speaker": "C"
+        },
+        {
+            "text": "She's",
+            "start": 29120,
+            "end": 29760,
+            "confidence": 0.9479167,
+            "speaker": "C"
+        },
+        {
+            "text": "heading",
+            "start": 29760,
+            "end": 30400,
+            "confidence": 0.8860677,
+            "speaker": "C"
+        },
+        {
+            "text": "for",
+            "start": 30400,
+            "end": 30600,
+            "confidence": 0.98583984,
+            "speaker": "C"
+        },
+        {
+            "text": "something",
+            "start": 30600,
+            "end": 31280,
+            "confidence": 0.8727214,
+            "speaker": "C"
+        },
+        {
+            "text": "that",
+            "start": 31280,
+            "end": 31400,
+            "confidence": 0.99072266,
+            "speaker": "C"
+        },
+        {
+            "text": "she",
+            "start": 31400,
+            "end": 31560,
+            "confidence": 0.8125,
+            "speaker": "C"
+        },
+        {
+            "text": "won't",
+            "start": 31560,
+            "end": 31910,
+            "confidence": 0.8516846,
+            "speaker": "C"
+        },
+        {
+            "text": "forget",
+            "start": 32220,
+            "end": 32620,
+            "confidence": 0.9694824,
+            "speaker": "C"
+        },
+        {
+            "text": "Having",
+            "start": 32620,
+            "end": 33260,
+            "confidence": 0.8883464,
+            "speaker": "C"
+        },
+        {
+            "text": "no",
+            "start": 33260,
+            "end": 33460,
+            "confidence": 0.5620117,
+            "speaker": "C"
+        },
+        {
+            "text": "regrets",
+            "start": 33460,
+            "end": 34260,
+            "confidence": 0.9949544,
+            "speaker": "C"
+        },
+        {
+            "text": "is",
+            "start": 34260,
+            "end": 34620,
+            "confidence": 0.9838867,
+            "speaker": "C"
+        },
+        {
+            "text": "all",
+            "start": 34620,
+            "end": 35020,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "that",
+            "start": 35020,
+            "end": 35380,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "she",
+            "start": 35380,
+            "end": 35740,
+            "confidence": 0.98535156,
+            "speaker": "C"
+        },
+        {
+            "text": "really",
+            "start": 35740,
+            "end": 36220,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "wants.",
+            "start": 36220,
+            "end": 37020,
+            "confidence": 0.8601074,
+            "speaker": "C"
+        },
+        {
+            "text": "We're",
+            "start": 40940,
+            "end": 41420,
+            "confidence": 0.9355469,
+            "speaker": "B"
+        },
+        {
+            "text": "only",
+            "start": 41420,
+            "end": 41660,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "getting",
+            "start": 41660,
+            "end": 42420,
+            "confidence": 0.8701172,
+            "speaker": "B"
+        },
+        {
+            "text": "older,",
+            "start": 42420,
+            "end": 43340,
+            "confidence": 0.7375488,
+            "speaker": "B"
+        },
+        {
+            "text": "baby",
+            "start": 43580,
+            "end": 44460,
+            "confidence": 0.9871419,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 44940,
+            "end": 45220,
+            "confidence": 0.9848633,
+            "speaker": "B"
+        },
+        {
+            "text": "I've",
+            "start": 45220,
+            "end": 45580,
+            "confidence": 0.76497394,
+            "speaker": "B"
+        },
+        {
+            "text": "been",
+            "start": 45580,
+            "end": 45740,
+            "confidence": 0.77734375,
+            "speaker": "B"
+        },
+        {
+            "text": "thinking",
+            "start": 45740,
+            "end": 46420,
+            "confidence": 0.87027997,
+            "speaker": "B"
+        },
+        {
+            "text": "about",
+            "start": 46420,
+            "end": 46700,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 47180,
+            "end": 47500,
+            "confidence": 0.47924805,
+            "speaker": "B"
+        },
+        {
+            "text": "later",
+            "start": 47500,
+            "end": 48139,
+            "confidence": 0.6672363,
+            "speaker": "B"
+        },
+        {
+            "text": "Does",
+            "start": 49180,
+            "end": 49580,
+            "confidence": 0.97631836,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 49580,
+            "end": 49860,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 49860,
+            "end": 50220,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "drive",
+            "start": 50380,
+            "end": 51020,
+            "confidence": 0.810791,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 51180,
+            "end": 51540,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "crazy",
+            "start": 51540,
+            "end": 52460,
+            "confidence": 0.9111328,
+            "speaker": "B"
+        },
+        {
+            "text": "just",
+            "start": 52780,
+            "end": 53180,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "how",
+            "start": 53180,
+            "end": 53580,
+            "confidence": 0.55908203,
+            "speaker": "B"
+        },
+        {
+            "text": "fast",
+            "start": 53660,
+            "end": 54140,
+            "confidence": 0.9082031,
+            "speaker": "B"
+        },
+        {
+            "text": "The",
+            "start": 54220,
+            "end": 54500,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 54500,
+            "end": 55180,
+            "confidence": 0.8253581,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
+            "start": 55500,
+            "end": 56140,
+            "confidence": 0.8129883,
+            "speaker": "B"
+        },
+        {
+            "text": "everything",
+            "start": 57260,
+            "end": 58220,
+            "confidence": 0.9978841,
+            "speaker": "B"
+        },
+        {
+            "text": "That",
+            "start": 58220,
+            "end": 58420,
+            "confidence": 0.9921875,
+            "speaker": "B"
+        },
+        {
+            "text": "you've",
+            "start": 58420,
+            "end": 58940,
+            "confidence": 0.93880206,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 58940,
+            "end": 59260,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "dreamed",
+            "start": 59420,
+            "end": 60180,
+            "confidence": 0.8105469,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 60180,
+            "end": 60540,
+            "confidence": 0.9951172,
+            "speaker": "B"
+        },
+        {
+            "text": "disappearing",
+            "start": 61260,
+            "end": 62780,
+            "confidence": 0.921875,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 62780,
+            "end": 63020,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 63020,
+            "end": 63340,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "wait",
+            "start": 63340,
+            "end": 63810,
+            "confidence": 0.85302734,
+            "speaker": "B"
+        },
+        {
+            "text": "But",
+            "start": 65320,
+            "end": 65440,
+            "confidence": 0.99072266,
+            "speaker": "B"
+        },
+        {
+            "text": "there's",
+            "start": 65440,
+            "end": 65840,
+            "confidence": 0.93847656,
+            "speaker": "B"
+        },
+        {
+            "text": "nothing",
+            "start": 65840,
+            "end": 66360,
+            "confidence": 0.90983075,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 66360,
+            "end": 66520,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 66520,
+            "end": 66840,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "afraid",
+            "start": 67240,
+            "end": 68040,
+            "confidence": 0.8701172,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 68120,
+            "end": 68520,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "Even",
+            "start": 69000,
+            "end": 69400,
+            "confidence": 0.99609375,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 69640,
+            "end": 70040,
+            "confidence": 0.99072266,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 70520,
+            "end": 70920,
+            "confidence": 0.71728516,
+            "speaker": "B"
+        },
+        {
+            "text": "change",
+            "start": 71400,
+            "end": 72120,
+            "confidence": 0.7890625,
+            "speaker": "B"
+        },
+        {
+            "text": "It",
+            "start": 72120,
+            "end": 72440,
+            "confidence": 0.48120117,
+            "speaker": "B"
+        },
+        {
+            "text": "will",
+            "start": 73400,
+            "end": 73720,
+            "confidence": 0.9682617,
+            "speaker": "B"
+        },
+        {
+            "text": "never",
+            "start": 73720,
+            "end": 74200,
+            "confidence": 0.9284668,
+            "speaker": "B"
+        },
+        {
+            "text": "change",
+            "start": 74440,
+            "end": 75240,
+            "confidence": 0.7483724,
+            "speaker": "B"
+        },
+        {
+            "text": "me.",
+            "start": 75640,
+            "end": 76040,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 76040,
+            "end": 76400,
+            "confidence": 0.9819336,
+            "speaker": "D"
+        },
+        {
+            "text": "you.",
+            "start": 76400,
+            "end": 76760,
+            "confidence": 0.9970703,
+            "speaker": "D"
+        },
+        {
+            "text": "Chasing",
+            "start": 80600,
+            "end": 81360,
+            "confidence": 0.9967448,
+            "speaker": "E"
+        },
+        {
+            "text": "it",
+            "start": 81360,
+            "end": 81560,
+            "confidence": 0.9975586,
+            "speaker": "E"
+        },
+        {
+            "text": "tonight",
+            "start": 81560,
+            "end": 82120,
+            "confidence": 0.9967448,
+            "speaker": "E"
+        },
+        {
+            "text": "Doubts",
+            "start": 82440,
+            "end": 83000,
+            "confidence": 0.9611003,
+            "speaker": "E"
+        },
+        {
+            "text": "around,",
+            "start": 83000,
+            "end": 83560,
+            "confidence": 0.7739258,
+            "speaker": "E"
+        },
+        {
+            "text": "around",
+            "start": 83560,
+            "end": 84040,
+            "confidence": 0.8737793,
+            "speaker": "E"
+        },
+        {
+            "text": "her",
+            "start": 84040,
+            "end": 84280,
+            "confidence": 0.9584961,
+            "speaker": "E"
+        },
+        {
+            "text": "head",
+            "start": 84280,
+            "end": 84680,
+            "confidence": 0.9511719,
+            "speaker": "E"
+        },
+        {
+            "text": "he's",
+            "start": 85160,
+            "end": 85680,
+            "confidence": 0.8074544,
+            "speaker": "E"
+        },
+        {
+            "text": "waiting",
+            "start": 85680,
+            "end": 86440,
+            "confidence": 0.5888672,
+            "speaker": "E"
+        },
+        {
+            "text": "hearts",
+            "start": 86440,
+            "end": 87040,
+            "confidence": 0.8129883,
+            "speaker": "E"
+        },
+        {
+            "text": "behind",
+            "start": 87040,
+            "end": 87560,
+            "confidence": 0.88549805,
+            "speaker": "E"
+        },
+        {
+            "text": "a",
+            "start": 87560,
+            "end": 87800,
+            "confidence": 0.98291016,
+            "speaker": "E"
+        },
+        {
+            "text": "cigarette",
+            "start": 87800,
+            "end": 88440,
+            "confidence": 0.87386066,
+            "speaker": "E"
+        },
+        {
+            "text": "heart",
+            "start": 88680,
+            "end": 89040,
+            "confidence": 0.8305664,
+            "speaker": "E"
+        },
+        {
+            "text": "is",
+            "start": 89040,
+            "end": 89240,
+            "confidence": 0.9692383,
+            "speaker": "E"
+        },
+        {
+            "text": "beating",
+            "start": 89240,
+            "end": 89640,
+            "confidence": 0.8845215,
+            "speaker": "E"
+        },
+        {
+            "text": "loud",
+            "start": 89720,
+            "end": 90200,
+            "confidence": 0.8630371,
+            "speaker": "E"
+        },
+        {
+            "text": "And",
+            "start": 90200,
+            "end": 90520,
+            "confidence": 0.94677734,
+            "speaker": "E"
+        },
+        {
+            "text": "she",
+            "start": 90520,
+            "end": 90760,
+            "confidence": 0.9995117,
+            "speaker": "E"
+        },
+        {
+            "text": "doesn't",
+            "start": 90760,
+            "end": 91280,
+            "confidence": 0.99960935,
+            "speaker": "E"
+        },
+        {
+            "text": "want",
+            "start": 91280,
+            "end": 91760,
+            "confidence": 0.8652344,
+            "speaker": "E"
+        },
+        {
+            "text": "it",
+            "start": 91760,
+            "end": 92000,
+            "confidence": 0.99609375,
+            "speaker": "E"
+        },
+        {
+            "text": "to",
+            "start": 92000,
+            "end": 92240,
+            "confidence": 0.99902344,
+            "speaker": "E"
+        },
+        {
+            "text": "stop.",
+            "start": 92240,
+            "end": 92840,
+            "confidence": 0.9094238,
+            "speaker": "E"
+        },
+        {
+            "text": "Moving.",
+            "start": 96820,
+            "end": 97380,
+            "confidence": 0.9703776,
+            "speaker": "A"
+        },
+        {
+            "text": "Too",
+            "start": 97380,
+            "end": 97820,
+            "confidence": 0.9394531,
+            "speaker": "F"
+        },
+        {
+            "text": "fast",
+            "start": 97820,
+            "end": 98180,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "Moon",
+            "start": 98500,
+            "end": 99020,
+            "confidence": 0.9980469,
+            "speaker": "F"
+        },
+        {
+            "text": "is",
+            "start": 99020,
+            "end": 99220,
+            "confidence": 0.62158203,
+            "speaker": "F"
+        },
+        {
+            "text": "lighting",
+            "start": 99220,
+            "end": 99860,
+            "confidence": 0.982666,
+            "speaker": "F"
+        },
+        {
+            "text": "up",
+            "start": 99860,
+            "end": 100060,
+            "confidence": 0.9995117,
+            "speaker": "F"
+        },
+        {
+            "text": "a",
+            "start": 100060,
+            "end": 100260,
+            "confidence": 0.45483398,
+            "speaker": "F"
+        },
+        {
+            "text": "skin",
+            "start": 100260,
+            "end": 100740,
+            "confidence": 0.73095703,
+            "speaker": "F"
+        },
+        {
+            "text": "She's",
+            "start": 101140,
+            "end": 101740,
+            "confidence": 0.9793294,
+            "speaker": "F"
+        },
+        {
+            "text": "falling",
+            "start": 101740,
+            "end": 102580,
+            "confidence": 0.8979492,
+            "speaker": "F"
+        },
+        {
+            "text": "doesn't",
+            "start": 102580,
+            "end": 103340,
+            "confidence": 0.9243164,
+            "speaker": "F"
+        },
+        {
+            "text": "even",
+            "start": 103340,
+            "end": 103580,
+            "confidence": 0.9995117,
+            "speaker": "F"
+        },
+        {
+            "text": "know",
+            "start": 103580,
+            "end": 103940,
+            "confidence": 0.71777344,
+            "speaker": "F"
+        },
+        {
+            "text": "it",
+            "start": 103940,
+            "end": 104260,
+            "confidence": 0.9746094,
+            "speaker": "F"
+        },
+        {
+            "text": "yet",
+            "start": 104260,
+            "end": 104660,
+            "confidence": 0.96875,
+            "speaker": "F"
+        },
+        {
+            "text": "Having",
+            "start": 104660,
+            "end": 105220,
+            "confidence": 0.99088544,
+            "speaker": "F"
+        },
+        {
+            "text": "no",
+            "start": 105220,
+            "end": 105460,
+            "confidence": 0.67822266,
+            "speaker": "F"
+        },
+        {
+            "text": "regrets",
+            "start": 105460,
+            "end": 106300,
+            "confidence": 0.95654297,
+            "speaker": "F"
+        },
+        {
+            "text": "it's",
+            "start": 106300,
+            "end": 106740,
+            "confidence": 0.9824219,
+            "speaker": "F"
+        },
+        {
+            "text": "all",
+            "start": 106740,
+            "end": 107020,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "that",
+            "start": 107020,
+            "end": 107380,
+            "confidence": 0.9970703,
+            "speaker": "F"
+        },
+        {
+            "text": "she",
+            "start": 107380,
+            "end": 107780,
+            "confidence": 0.9995117,
+            "speaker": "F"
+        },
+        {
+            "text": "really",
+            "start": 107780,
+            "end": 108300,
+            "confidence": 0.9995117,
+            "speaker": "F"
+        },
+        {
+            "text": "wants.",
+            "start": 108300,
+            "end": 108980,
+            "confidence": 0.98217773,
+            "speaker": "F"
+        },
+        {
+            "text": "We're",
+            "start": 112900,
+            "end": 113380,
+            "confidence": 0.77685547,
+            "speaker": "B"
+        },
+        {
+            "text": "only",
+            "start": 113380,
+            "end": 113660,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "getting",
+            "start": 113660,
+            "end": 114460,
+            "confidence": 0.8639323,
+            "speaker": "B"
+        },
+        {
+            "text": "older,",
+            "start": 114460,
+            "end": 115300,
+            "confidence": 0.7077637,
+            "speaker": "B"
+        },
+        {
+            "text": "baby",
+            "start": 115540,
+            "end": 116420,
+            "confidence": 0.9786784,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 116900,
+            "end": 117180,
+            "confidence": 0.9628906,
+            "speaker": "B"
+        },
+        {
+            "text": "I've",
+            "start": 117180,
+            "end": 117580,
+            "confidence": 0.81347656,
+            "speaker": "B"
+        },
+        {
+            "text": "been",
+            "start": 117580,
+            "end": 117740,
+            "confidence": 0.6225586,
+            "speaker": "B"
+        },
+        {
+            "text": "thinking",
+            "start": 117740,
+            "end": 118460,
+            "confidence": 0.99348956,
+            "speaker": "B"
+        },
+        {
+            "text": "about",
+            "start": 118460,
+            "end": 118740,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 119140,
+            "end": 119500,
+            "confidence": 0.9951172,
+            "speaker": "B"
+        },
+        {
+            "text": "later",
+            "start": 119500,
+            "end": 120180,
+            "confidence": 0.7128906,
+            "speaker": "B"
+        },
+        {
+            "text": "Does",
+            "start": 121220,
+            "end": 121620,
+            "confidence": 0.98535156,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 121620,
+            "end": 121900,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 121900,
+            "end": 122260,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "drive",
+            "start": 122420,
+            "end": 123060,
+            "confidence": 0.86499023,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 123140,
+            "end": 123500,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "crazy",
+            "start": 123500,
+            "end": 124420,
+            "confidence": 0.7833659,
+            "speaker": "B"
+        },
+        {
+            "text": "just",
+            "start": 124740,
+            "end": 125140,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "how",
+            "start": 125300,
+            "end": 125660,
+            "confidence": 0.9794922,
+            "speaker": "B"
+        },
+        {
+            "text": "fast",
+            "start": 125660,
+            "end": 126100,
+            "confidence": 0.96118164,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 126260,
+            "end": 126580,
+            "confidence": 0.7026367,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 126580,
+            "end": 126900,
+            "confidence": 0.5571289,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
+            "start": 127840,
+            "end": 128320,
+            "confidence": 0.8051758,
+            "speaker": "B"
+        },
+        {
+            "text": "everything",
+            "start": 129280,
+            "end": 130080,
+            "confidence": 0.90983075,
+            "speaker": "B"
+        },
+        {
+            "text": "that",
+            "start": 130080,
+            "end": 130400,
+            "confidence": 0.9897461,
+            "speaker": "B"
+        },
+        {
+            "text": "you've",
+            "start": 130400,
+            "end": 130880,
+            "confidence": 0.8536784,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 130880,
+            "end": 131200,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "dreamed",
+            "start": 131280,
+            "end": 132160,
+            "confidence": 0.9042969,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 132160,
+            "end": 132560,
+            "confidence": 0.99609375,
+            "speaker": "B"
+        },
+        {
+            "text": "disappearing",
+            "start": 133200,
+            "end": 134760,
+            "confidence": 0.92275393,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 134760,
+            "end": 135000,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 135000,
+            "end": 135280,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "wake",
+            "start": 135520,
+            "end": 136080,
+            "confidence": 0.99153644,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 136080,
+            "end": 136480,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "But",
+            "start": 137200,
+            "end": 137480,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "there's",
+            "start": 137480,
+            "end": 137840,
+            "confidence": 0.9996745,
+            "speaker": "B"
+        },
+        {
+            "text": "nothing",
+            "start": 137840,
+            "end": 138360,
+            "confidence": 0.8125,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 138360,
+            "end": 138560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 138560,
+            "end": 138880,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "afraid",
+            "start": 139200,
+            "end": 140080,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 140080,
+            "end": 140480,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "Even",
+            "start": 140960,
+            "end": 141360,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 141600,
+            "end": 142000,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 142240,
+            "end": 142520,
+            "confidence": 0.7915039,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 142520,
+            "end": 143280,
+            "confidence": 0.7989909,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
+            "start": 143519,
+            "end": 144080,
+            "confidence": 0.8570964,
+            "speaker": "B"
+        },
+        {
+            "text": "You'll",
+            "start": 145120,
+            "end": 145760,
+            "confidence": 0.89908856,
+            "speaker": "B"
+        },
+        {
+            "text": "never",
+            "start": 145760,
+            "end": 146240,
+            "confidence": 0.9758301,
+            "speaker": "B"
+        },
+        {
+            "text": "change",
+            "start": 146400,
+            "end": 147120,
+            "confidence": 0.8850911,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 147680,
+            "end": 148080,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 148080,
+            "end": 148440,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "you.",
+            "start": 148440,
+            "end": 148800,
+            "confidence": 0.9819336,
+            "speaker": "B"
+        },
+        {
+            "text": "Going",
+            "start": 160860,
+            "end": 161300,
+            "confidence": 0.83691406,
+            "speaker": "A"
+        },
+        {
+            "text": "out",
+            "start": 161300,
+            "end": 161540,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "tonight",
+            "start": 161540,
+            "end": 162220,
+            "confidence": 0.97753906,
+            "speaker": "A"
+        },
+        {
+            "text": "Changes",
+            "start": 162460,
+            "end": 163260,
+            "confidence": 0.95996094,
+            "speaker": "A"
+        },
+        {
+            "text": "into",
+            "start": 163260,
+            "end": 163620,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "something",
+            "start": 163620,
+            "end": 164220,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "rare",
+            "start": 164220,
+            "end": 164700,
+            "confidence": 0.69311523,
+            "speaker": "A"
+        },
+        {
+            "text": "Her",
+            "start": 165260,
+            "end": 165660,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "mother",
+            "start": 165740,
+            "end": 166300,
+            "confidence": 0.9621582,
+            "speaker": "A"
+        },
+        {
+            "text": "doesn't",
+            "start": 166540,
+            "end": 167220,
+            "confidence": 0.99921876,
+            "speaker": "A"
+        },
+        {
+            "text": "like",
+            "start": 167220,
+            "end": 167420,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 167420,
+            "end": 167620,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "kind",
+            "start": 167620,
+            "end": 167980,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 167980,
+            "end": 168260,
+            "confidence": 0.9189453,
+            "speaker": "A"
+        },
+        {
+            "text": "trust",
+            "start": 168260,
+            "end": 168580,
+            "confidence": 0.9855957,
+            "speaker": "A"
+        },
+        {
+            "text": "Reminds",
+            "start": 168580,
+            "end": 169140,
+            "confidence": 0.99869794,
+            "speaker": "A"
+        },
+        {
+            "text": "her",
+            "start": 169140,
+            "end": 169300,
+            "confidence": 0.9897461,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 169300,
+            "end": 169500,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 169500,
+            "end": 169660,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "missing",
+            "start": 169660,
+            "end": 170620,
+            "confidence": 0.8020833,
+            "speaker": "A"
+        },
+        {
+            "text": "piece",
+            "start": 170620,
+            "end": 171060,
+            "confidence": 0.8076172,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 171060,
+            "end": 171300,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "innocence",
+            "start": 171300,
+            "end": 172220,
+            "confidence": 0.83857423,
+            "speaker": "A"
+        },
+        {
+            "text": "She",
+            "start": 172220,
+            "end": 172500,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "loves",
+            "start": 172500,
+            "end": 173260,
+            "confidence": 0.75927734,
+            "speaker": "A"
+        },
+        {
+            "text": "We're",
+            "start": 174940,
+            "end": 175340,
+            "confidence": 0.73551434,
+            "speaker": "A"
+        },
+        {
+            "text": "only",
+            "start": 175340,
+            "end": 175660,
+            "confidence": 0.9794922,
+            "speaker": "A"
+        },
+        {
+            "text": "getting.",
+            "start": 175660,
+            "end": 176420,
+            "confidence": 0.9086914,
+            "speaker": "A"
+        },
+        {
+            "text": "Older,",
+            "start": 176420,
+            "end": 177100,
+            "confidence": 0.6977539,
+            "speaker": "B"
+        },
+        {
+            "text": "baby",
+            "start": 177580,
+            "end": 178380,
+            "confidence": 0.97998047,
+            "speaker": "B"
+        },
+        {
+            "text": "And",
+            "start": 178940,
+            "end": 179220,
+            "confidence": 0.90966797,
+            "speaker": "B"
+        },
+        {
+            "text": "I've",
+            "start": 179220,
+            "end": 179580,
+            "confidence": 0.7447917,
+            "speaker": "B"
+        },
+        {
+            "text": "been",
+            "start": 179580,
+            "end": 179740,
+            "confidence": 0.73095703,
+            "speaker": "B"
+        },
+        {
+            "text": "thinking",
+            "start": 179740,
+            "end": 180420,
+            "confidence": 0.87190753,
+            "speaker": "B"
+        },
+        {
+            "text": "about",
+            "start": 180420,
+            "end": 180700,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 181180,
+            "end": 181500,
+            "confidence": 0.98779297,
+            "speaker": "B"
+        },
+        {
+            "text": "later",
+            "start": 181500,
+            "end": 182140,
+            "confidence": 0.55859375,
+            "speaker": "B"
+        },
+        {
+            "text": "Does",
+            "start": 183100,
+            "end": 183540,
+            "confidence": 0.9963379,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 183540,
+            "end": 183860,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 183860,
+            "end": 184220,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "drive",
+            "start": 184380,
+            "end": 185020,
+            "confidence": 0.81030273,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 185260,
+            "end": 185580,
+            "confidence": 0.98339844,
+            "speaker": "B"
+        },
+        {
+            "text": "crazy",
+            "start": 185580,
+            "end": 186460,
+            "confidence": 0.88395184,
+            "speaker": "B"
+        },
+        {
+            "text": "just",
+            "start": 186780,
+            "end": 187180,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "how",
+            "start": 187260,
+            "end": 187660,
+            "confidence": 0.9892578,
+            "speaker": "B"
+        },
+        {
+            "text": "fast",
+            "start": 187660,
+            "end": 188140,
+            "confidence": 0.9760742,
+            "speaker": "B"
+        },
+        {
+            "text": "The",
+            "start": 188220,
+            "end": 188540,
+            "confidence": 0.7709961,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 188540,
+            "end": 189260,
+            "confidence": 0.8806966,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
+            "start": 189420,
+            "end": 190140,
+            "confidence": 0.81917316,
+            "speaker": "B"
+        },
+        {
+            "text": "everything",
+            "start": 191560,
+            "end": 192200,
+            "confidence": 0.99641925,
+            "speaker": "B"
+        },
+        {
+            "text": "that",
+            "start": 192200,
+            "end": 192400,
+            "confidence": 0.9785156,
+            "speaker": "B"
+        },
+        {
+            "text": "you've",
+            "start": 192400,
+            "end": 192920,
+            "confidence": 0.89192706,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 192920,
+            "end": 193240,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "dreamed",
+            "start": 193320,
+            "end": 194160,
+            "confidence": 0.9022217,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 194160,
+            "end": 194520,
+            "confidence": 0.95166016,
+            "speaker": "B"
+        },
+        {
+            "text": "disappearing",
+            "start": 195240,
+            "end": 196720,
+            "confidence": 0.95029294,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 196720,
+            "end": 197040,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 197040,
+            "end": 197400,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "wake",
+            "start": 197480,
+            "end": 198040,
+            "confidence": 0.992513,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 198120,
+            "end": 198520,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "But",
+            "start": 199160,
+            "end": 199480,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "there's",
+            "start": 199480,
+            "end": 199880,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "nothing",
+            "start": 199880,
+            "end": 200360,
+            "confidence": 0.93880206,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 200360,
+            "end": 200560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 200560,
+            "end": 200920,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "afraid",
+            "start": 201240,
+            "end": 202040,
+            "confidence": 0.81315106,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 202120,
+            "end": 202520,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "Even",
+            "start": 202920,
+            "end": 203320,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 203720,
+            "end": 204120,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 204200,
+            "end": 204560,
+            "confidence": 0.9921875,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 204560,
+            "end": 205240,
+            "confidence": 0.72721356,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
+            "start": 205400,
+            "end": 206120,
+            "confidence": 0.9375,
+            "speaker": "B"
+        },
+        {
+            "text": "everything",
+            "start": 207240,
+            "end": 208160,
+            "confidence": 0.99869794,
+            "speaker": "B"
+        },
+        {
+            "text": "that",
+            "start": 208160,
+            "end": 208400,
+            "confidence": 0.8364258,
+            "speaker": "B"
+        },
+        {
+            "text": "you've",
+            "start": 208400,
+            "end": 208920,
+            "confidence": 0.9135742,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 208920,
+            "end": 209240,
+            "confidence": 0.9785156,
+            "speaker": "B"
+        },
+        {
+            "text": "dreamed",
+            "start": 209400,
+            "end": 210160,
+            "confidence": 0.85961914,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 210160,
+            "end": 210520,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "disappearing",
+            "start": 211240,
+            "end": 212720,
+            "confidence": 0.92089844,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 212720,
+            "end": 213000,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 213000,
+            "end": 213320,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "wake",
+            "start": 213480,
+            "end": 214040,
+            "confidence": 0.9744466,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 214120,
+            "end": 214520,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "But",
+            "start": 215160,
+            "end": 215480,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "there's",
+            "start": 215480,
+            "end": 215880,
+            "confidence": 0.99886066,
+            "speaker": "B"
+        },
+        {
+            "text": "nothing",
+            "start": 215880,
+            "end": 216360,
+            "confidence": 0.90999347,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 216360,
+            "end": 216560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 216560,
+            "end": 216920,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "afraid",
+            "start": 217240,
+            "end": 218040,
+            "confidence": 0.8343099,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 218120,
+            "end": 218520,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "Even",
+            "start": 219000,
+            "end": 219400,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "when",
+            "start": 219720,
+            "end": 220120,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 220200,
+            "end": 220560,
+            "confidence": 0.9921875,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 220560,
+            "end": 221240,
+            "confidence": 0.7267253,
+            "speaker": "B"
+        },
+        {
+            "text": "changes.",
+            "start": 221400,
+            "end": 222200,
+            "confidence": 0.8733724,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Going out tonight Changes into something red Her mother doesn't like that kind of dress everything she never had She's showing.",
+            "start": 8880,
+            "end": 20440,
+            "confidence": 0.95975864,
+            "speaker": "A"
+        },
+        {
+            "text": "Off.",
+            "start": 20440,
+            "end": 20800,
+            "confidence": 0.5151367,
+            "speaker": "B"
+        },
+        {
+            "text": "Driving too fast Moon is breaking through her hair She's heading for something that she won't forget Having no regrets is all that she really wants.",
+            "start": 24640,
+            "end": 37020,
+            "confidence": 0.9056944,
+            "speaker": "C"
+        },
+        {
+            "text": "We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything That you've ever dreamed of disappearing when you wait But there's nothing to be afraid of Even when I change It will never change me.",
+            "start": 40940,
+            "end": 76040,
+            "confidence": 0.8939144,
+            "speaker": "B"
+        },
+        {
+            "text": "And you.",
+            "start": 76040,
+            "end": 76760,
+            "confidence": 0.98950195,
+            "speaker": "D"
+        },
+        {
+            "text": "Chasing it tonight Doubts around, around her head he's waiting hearts behind a cigarette heart is beating loud And she doesn't want it to stop.",
+            "start": 80600,
+            "end": 92840,
+            "confidence": 0.90896547,
+            "speaker": "E"
+        },
+        {
+            "text": "Moving.",
+            "start": 96820,
+            "end": 97380,
+            "confidence": 0.9703776,
+            "speaker": "A"
+        },
+        {
+            "text": "Too fast Moon is lighting up a skin She's falling doesn't even know it yet Having no regrets it's all that she really wants.",
+            "start": 97380,
+            "end": 108980,
+            "confidence": 0.9073181,
+            "speaker": "F"
+        },
+        {
+            "text": "We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast And I changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes You'll never change me And you.",
+            "start": 112900,
+            "end": 148800,
+            "confidence": 0.91725755,
+            "speaker": "B"
+        },
+        {
+            "text": "Going out tonight Changes into something rare Her mother doesn't like that kind of trust Reminds her of the missing piece of innocence She loves We're only getting.",
+            "start": 160860,
+            "end": 176420,
+            "confidence": 0.9317912,
+            "speaker": "A"
+        },
+        {
+            "text": "Older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes.",
+            "start": 176420,
+            "end": 222200,
+            "confidence": 0.93208116,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 241,
+    "language_code": "es"
+}

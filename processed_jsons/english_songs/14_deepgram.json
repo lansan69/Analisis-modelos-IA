@@ -1,0 +1,472 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "140d7869-c19a-495f-b547-356d4b88b268",
+        "sha256": "cb78bd3c0dc846fc9c80e784a550d0ab9356994b0b0213b5b817f475cd74ded8",
+        "created": "2026-01-17T23:24:20.403000Z",
+        "duration": 287.832,
+        "channels": 1.0,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        },
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 22.0,
+            "output_tokens": 22.0
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "I've died every day waiting for you. Darling, don't be afraid. I have loved",
+                        "confidence": 0.9743424,
+                        "words": [
+                            {
+                                "word": "i've",
+                                "start": 211.975,
+                                "end": 212.475,
+                                "confidence": 0.5805463,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "I've",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.21670429408550265
+                            },
+                            {
+                                "word": "died",
+                                "start": 212.535,
+                                "end": 213.035,
+                                "confidence": 0.98533624,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "died",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.22325731813907623
+                            },
+                            {
+                                "word": "every",
+                                "start": 213.41501,
+                                "end": 213.735,
+                                "confidence": 0.6415151,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "every",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.25863802433013916
+                            },
+                            {
+                                "word": "day",
+                                "start": 213.735,
+                                "end": 214.235,
+                                "confidence": 0.9984085,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "day",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.30731433629989624
+                            },
+                            {
+                                "word": "waiting",
+                                "start": 214.375,
+                                "end": 214.875,
+                                "confidence": 0.9550942,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "waiting",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.2840559482574463
+                            },
+                            {
+                                "word": "for",
+                                "start": 215.41501,
+                                "end": 215.91501,
+                                "confidence": 0.9884957,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "for",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4104717969894409
+                            },
+                            {
+                                "word": "you",
+                                "start": 216.13501,
+                                "end": 216.63501,
+                                "confidence": 0.9124067,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "you.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.24119265377521515
+                            },
+                            {
+                                "word": "darling",
+                                "start": 217.015,
+                                "end": 217.515,
+                                "confidence": 0.92617905,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Darling,",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6516470909118652
+                            },
+                            {
+                                "word": "don't",
+                                "start": 217.735,
+                                "end": 218.235,
+                                "confidence": 0.9975632,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "don't",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.48469802737236023
+                            },
+                            {
+                                "word": "be",
+                                "start": 218.455,
+                                "end": 218.85501,
+                                "confidence": 0.9866262,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "be",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5015469789505005
+                            },
+                            {
+                                "word": "afraid",
+                                "start": 218.85501,
+                                "end": 219.35501,
+                                "confidence": 0.92253053,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "afraid.",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6966552734375
+                            },
+                            {
+                                "word": "i",
+                                "start": 220.295,
+                                "end": 220.535,
+                                "confidence": 0.9743424,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "I",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.7898244857788086
+                            },
+                            {
+                                "word": "have",
+                                "start": 220.535,
+                                "end": 220.77501,
+                                "confidence": 0.8511523,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "have",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.8522387742996216
+                            },
+                            {
+                                "word": "loved",
+                                "start": 220.77501,
+                                "end": 221.25,
+                                "confidence": 0.9821755,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "loved",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.37003934383392334
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: I've died every day waiting for you. Darling, don't be afraid. I have loved",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "I've died every day waiting for you.",
+                                            "start": 211.975,
+                                            "end": 216.63501,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.27737633883953094
+                                        },
+                                        {
+                                            "text": "Darling, don't be afraid.",
+                                            "start": 217.015,
+                                            "end": 219.35501,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.5836368426680565
+                                        },
+                                        {
+                                            "text": "I have loved",
+                                            "start": 220.295,
+                                            "end": 221.25,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.6707008679707845
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 14.0,
+                                    "start": 211.975,
+                                    "end": 221.25,
+                                    "sentiment": "positive",
+                                    "sentiment_score": 0.4491631676043783
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 211.975,
+                "end": 213.035,
+                "confidence": 0.7829413,
+                "channel": 0.0,
+                "transcript": "I've died",
+                "words": [
+                    {
+                        "word": "i've",
+                        "start": 211.975,
+                        "end": 212.475,
+                        "confidence": 0.5805463,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "I've",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.21670429408550265
+                    },
+                    {
+                        "word": "died",
+                        "start": 212.535,
+                        "end": 213.035,
+                        "confidence": 0.98533624,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "died",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.22325731813907623
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "2dcaf002-ed4b-4262-87fa-ad56fa5dd499",
+                "sentiment": "neutral",
+                "sentiment_score": 0.21998080611228943
+            },
+            {
+                "start": 213.41501,
+                "end": 214.875,
+                "confidence": 0.86500597,
+                "channel": 0.0,
+                "transcript": "every day waiting",
+                "words": [
+                    {
+                        "word": "every",
+                        "start": 213.41501,
+                        "end": 213.735,
+                        "confidence": 0.6415151,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "every",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.25863802433013916
+                    },
+                    {
+                        "word": "day",
+                        "start": 213.735,
+                        "end": 214.235,
+                        "confidence": 0.9984085,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "day",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.30731433629989624
+                    },
+                    {
+                        "word": "waiting",
+                        "start": 214.375,
+                        "end": 214.875,
+                        "confidence": 0.9550942,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "waiting",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.2840559482574463
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "36c50b24-a7cc-450a-954a-4a4d3c71b7e1",
+                "sentiment": "neutral",
+                "sentiment_score": 0.2833361029624939
+            },
+            {
+                "start": 215.41501,
+                "end": 216.63501,
+                "confidence": 0.9504512,
+                "channel": 0.0,
+                "transcript": "for you.",
+                "words": [
+                    {
+                        "word": "for",
+                        "start": 215.41501,
+                        "end": 215.91501,
+                        "confidence": 0.9884957,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "for",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4104717969894409
+                    },
+                    {
+                        "word": "you",
+                        "start": 216.13501,
+                        "end": 216.63501,
+                        "confidence": 0.9124067,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "you.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.24119265377521515
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "c18cf4f3-11a3-4614-a09c-20bb9bd892f8",
+                "sentiment": "neutral",
+                "sentiment_score": 0.32583222538232803
+            },
+            {
+                "start": 217.015,
+                "end": 219.35501,
+                "confidence": 0.9582248,
+                "channel": 0.0,
+                "transcript": "Darling, don't be afraid.",
+                "words": [
+                    {
+                        "word": "darling",
+                        "start": 217.015,
+                        "end": 217.515,
+                        "confidence": 0.92617905,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Darling,",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6516470909118652
+                    },
+                    {
+                        "word": "don't",
+                        "start": 217.735,
+                        "end": 218.235,
+                        "confidence": 0.9975632,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "don't",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.48469802737236023
+                    },
+                    {
+                        "word": "be",
+                        "start": 218.455,
+                        "end": 218.85501,
+                        "confidence": 0.9866262,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "be",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5015469789505005
+                    },
+                    {
+                        "word": "afraid",
+                        "start": 218.85501,
+                        "end": 219.35501,
+                        "confidence": 0.92253053,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "afraid.",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6966552734375
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "7a0ae078-0b63-44aa-92f2-5a92e6d6ee81",
+                "sentiment": "positive",
+                "sentiment_score": 0.5836368426680565
+            },
+            {
+                "start": 220.295,
+                "end": 221.25,
+                "confidence": 0.93589014,
+                "channel": 0.0,
+                "transcript": "I have loved",
+                "words": [
+                    {
+                        "word": "i",
+                        "start": 220.295,
+                        "end": 220.535,
+                        "confidence": 0.9743424,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "I",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.7898244857788086
+                    },
+                    {
+                        "word": "have",
+                        "start": 220.535,
+                        "end": 220.77501,
+                        "confidence": 0.8511523,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "have",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.8522387742996216
+                    },
+                    {
+                        "word": "loved",
+                        "start": 220.77501,
+                        "end": 221.25,
+                        "confidence": 0.9821755,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "loved",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.37003934383392334
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e6046533-42eb-4b94-8ad5-4adcd2e62d39",
+                "sentiment": "positive",
+                "sentiment_score": 0.6707008679707845
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "I've died every day waiting for you.",
+                    "start_word": 0.0,
+                    "end_word": 6.0,
+                    "sentiment": "neutral",
+                    "sentiment_score": 0.2616235911846161
+                },
+                {
+                    "text": "Darling, don't be afraid. I have loved",
+                    "start_word": 7.0,
+                    "end_word": 13.0,
+                    "sentiment": "positive",
+                    "sentiment_score": 0.6399063467979431
+                }
+            ],
+            "average": {
+                "sentiment": "positive",
+                "sentiment_score": 0.4679595773870295
+            }
+        }
+    }
+}

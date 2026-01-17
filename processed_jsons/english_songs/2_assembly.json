@@ -1,0 +1,34 @@
+{
+    "id": "803d8f3c-d783-4620-99f3-8b8c5e1c74ec",
+    "status": "completed",
+    "text": "The news.",
+    "words": [
+        {
+            "text": "The",
+            "start": 32140,
+            "end": 32260,
+            "confidence": 0.72509766,
+            "speaker": "A"
+        },
+        {
+            "text": "news.",
+            "start": 32260,
+            "end": 32540,
+            "confidence": 0.98046875,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "The news.",
+            "start": 32140,
+            "end": 32540,
+            "confidence": 0.8527832,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 245,
+    "language_code": "es"
+}

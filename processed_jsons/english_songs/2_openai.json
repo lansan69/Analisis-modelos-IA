@@ -1,0 +1,1573 @@
+{
+    "text": "Back in black, I hate to say it, I've been too long, not clear to be a bad guy Yes, I'm letting loose from the noose that's kept me hanging about And if you're looking at the stars, don't you feel me hot? Forget the hurts, cause I'll never die I got nine lives, can't size Losing everyone I've ever known while I was high Yes, I'm high Yes, I'm high Well, I'm high Well, I'm fucking high Yes, I'm fucking high Back in the back of a traveler Number one with a bullet, I'm a power pack Yes, I'm in a band with a gang They got the custody if they want me to hang Oh, I'm back on the track and I'm leaving the fire Nobody's gonna get me on another ride Don't look at me now, I'm just making my pay Don't try to push me, I'm just getting out of my way Oh, I'm high Yes, I'm high Well, I'm high Yes, I'm high Well, I'm high Well, I'm fucking high Yes, I'm fucking high Yes, I'm high Yes, I'm high Yes, I'm high Well, I'm high Yes, I'm high Well, I'm high Yes, I'm high Well, I'm high Well, I'm fucking high Yes, I'm fucking high Oh, yeah Oh, yeah Keep on going Oh, yeah Yeah Oh, yeah Yeah Well, I'm high I'm high I'm high I'm high I'm high I'm high I'm fucking high Yes, I'm fucking high Yeah I'm fucking high I'm high I'm high I'm high",
+    "audio_duration": 244.80999755859375,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Back",
+            "start": 24.860000610351562,
+            "end": 25.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 25.34000015258789,
+            "end": 25.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "black",
+            "start": 25.81999969482422,
+            "end": 26.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 26.299999237060547,
+            "end": 26.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "hate",
+            "start": 26.899999618530273,
+            "end": 26.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 26.959999084472656,
+            "end": 27.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "say",
+            "start": 27.100000381469727,
+            "end": 27.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 27.420000076293945,
+            "end": 27.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "I've",
+            "start": 27.920000076293945,
+            "end": 28.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "been",
+            "start": 28.100000381469727,
+            "end": 28.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "too",
+            "start": 28.15999984741211,
+            "end": 28.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "long",
+            "start": 28.3799991607666,
+            "end": 28.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "not",
+            "start": 28.719999313354492,
+            "end": 29.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "clear",
+            "start": 29.0,
+            "end": 29.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 29.020000457763672,
+            "end": 29.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 29.360000610351562,
+            "end": 29.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 29.6200008392334,
+            "end": 29.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "bad",
+            "start": 29.719999313354492,
+            "end": 29.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "guy",
+            "start": 29.940000534057617,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 29.979999542236328,
+            "end": 30.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 30.200000762939453,
+            "end": 30.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "letting",
+            "start": 30.559999465942383,
+            "end": 30.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "loose",
+            "start": 30.81999969482422,
+            "end": 31.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "from",
+            "start": 31.360000610351562,
+            "end": 31.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 31.959999084472656,
+            "end": 32.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "noose",
+            "start": 32.31999969482422,
+            "end": 32.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "that's",
+            "start": 32.560001373291016,
+            "end": 33.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "kept",
+            "start": 33.400001525878906,
+            "end": 33.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 33.599998474121094,
+            "end": 34.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "hanging",
+            "start": 34.060001373291016,
+            "end": 34.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "about",
+            "start": 34.34000015258789,
+            "end": 34.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "And",
+            "start": 34.779998779296875,
+            "end": 35.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "if",
+            "start": 35.02000045776367,
+            "end": 35.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "you're",
+            "start": 35.099998474121094,
+            "end": 35.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "looking",
+            "start": 35.58000183105469,
+            "end": 35.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "at",
+            "start": 35.58000183105469,
+            "end": 35.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 35.84000015258789,
+            "end": 36.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "stars",
+            "start": 36.08000183105469,
+            "end": 36.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "don't",
+            "start": 36.279998779296875,
+            "end": 36.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 36.400001525878906,
+            "end": 36.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "feel",
+            "start": 36.599998474121094,
+            "end": 36.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 36.68000030517578,
+            "end": 37.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "hot",
+            "start": 37.08000183105469,
+            "end": 37.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Forget",
+            "start": 38.060001373291016,
+            "end": 38.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 38.15999984741211,
+            "end": 38.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "hurts",
+            "start": 38.540000915527344,
+            "end": 38.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "cause",
+            "start": 38.65999984741211,
+            "end": 38.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'll",
+            "start": 38.880001068115234,
+            "end": 39.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "never",
+            "start": 39.040000915527344,
+            "end": 39.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "die",
+            "start": 39.2599983215332,
+            "end": 39.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 39.70000076293945,
+            "end": 40.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "got",
+            "start": 40.0,
+            "end": 40.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "nine",
+            "start": 40.2599983215332,
+            "end": 40.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "lives",
+            "start": 40.880001068115234,
+            "end": 41.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "can't",
+            "start": 41.900001525878906,
+            "end": 42.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "size",
+            "start": 42.119998931884766,
+            "end": 42.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "Losing",
+            "start": 42.619998931884766,
+            "end": 43.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "everyone",
+            "start": 43.060001373291016,
+            "end": 43.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "I've",
+            "start": 43.560001373291016,
+            "end": 43.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "ever",
+            "start": 43.84000015258789,
+            "end": 44.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "known",
+            "start": 44.119998931884766,
+            "end": 44.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "while",
+            "start": 44.2599983215332,
+            "end": 44.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 44.540000915527344,
+            "end": 44.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "was",
+            "start": 44.779998779296875,
+            "end": 44.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 44.939998626708984,
+            "end": 45.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 46.599998474121094,
+            "end": 47.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 47.20000076293945,
+            "end": 47.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 47.58000183105469,
+            "end": 48.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 51.34000015258789,
+            "end": 51.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 51.900001525878906,
+            "end": 52.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 52.459999084472656,
+            "end": 54.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 54.060001373291016,
+            "end": 54.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 54.5,
+            "end": 55.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 55.540000915527344,
+            "end": 55.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 58.7599983215332,
+            "end": 59.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 59.279998779296875,
+            "end": 59.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 59.7599983215332,
+            "end": 59.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 59.91999816894531,
+            "end": 60.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 61.18000030517578,
+            "end": 61.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 61.70000076293945,
+            "end": 62.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 62.0,
+            "end": 62.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 62.619998931884766,
+            "end": 63.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Back",
+            "start": 64.0,
+            "end": 64.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 64.5199966430664,
+            "end": 64.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 64.63999938964844,
+            "end": 64.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "back",
+            "start": 64.95999908447266,
+            "end": 65.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 65.19999694824219,
+            "end": 65.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 65.45999908447266,
+            "end": 65.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "traveler",
+            "start": 65.62000274658203,
+            "end": 66.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "Number",
+            "start": 66.33999633789062,
+            "end": 66.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 66.81999969482422,
+            "end": 67.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "with",
+            "start": 67.05999755859375,
+            "end": 67.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 67.23999786376953,
+            "end": 67.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "bullet",
+            "start": 67.41999816894531,
+            "end": 67.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 67.76000213623047,
+            "end": 67.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 67.91999816894531,
+            "end": 68.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "power",
+            "start": 68.0199966430664,
+            "end": 68.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "pack",
+            "start": 68.36000061035156,
+            "end": 68.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 68.63999938964844,
+            "end": 69.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 69.0,
+            "end": 69.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 69.58000183105469,
+            "end": 69.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 69.81999969482422,
+            "end": 70.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "band",
+            "start": 70.18000030517578,
+            "end": 70.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "with",
+            "start": 70.37999725341797,
+            "end": 70.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 70.81999969482422,
+            "end": 71.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "gang",
+            "start": 71.12000274658203,
+            "end": 71.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "They",
+            "start": 71.5999984741211,
+            "end": 72.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "got",
+            "start": 72.12000274658203,
+            "end": 72.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 72.19999694824219,
+            "end": 72.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "custody",
+            "start": 72.5,
+            "end": 72.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "if",
+            "start": 72.66000366210938,
+            "end": 72.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "they",
+            "start": 72.91999816894531,
+            "end": 73.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "want",
+            "start": 73.12000274658203,
+            "end": 73.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 73.16000366210938,
+            "end": 73.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 73.36000061035156,
+            "end": 73.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "hang",
+            "start": 73.54000091552734,
+            "end": 73.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 73.73999786376953,
+            "end": 74.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 74.0,
+            "end": 74.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "back",
+            "start": 74.23999786376953,
+            "end": 74.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "on",
+            "start": 74.41999816894531,
+            "end": 74.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 74.69999694824219,
+            "end": 74.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "track",
+            "start": 74.69999694824219,
+            "end": 75.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 75.0,
+            "end": 75.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 75.22000122070312,
+            "end": 75.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "leaving",
+            "start": 75.68000030517578,
+            "end": 75.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 75.68000030517578,
+            "end": 76.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "fire",
+            "start": 76.27999877929688,
+            "end": 76.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Nobody's",
+            "start": 76.55999755859375,
+            "end": 77.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "gonna",
+            "start": 77.08000183105469,
+            "end": 77.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "get",
+            "start": 77.18000030517578,
+            "end": 77.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 77.4000015258789,
+            "end": 77.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "on",
+            "start": 77.63999938964844,
+            "end": 77.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "another",
+            "start": 77.76000213623047,
+            "end": 78.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "ride",
+            "start": 78.18000030517578,
+            "end": 78.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Don't",
+            "start": 78.58000183105469,
+            "end": 79.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "look",
+            "start": 79.0999984741211,
+            "end": 79.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "at",
+            "start": 79.30000305175781,
+            "end": 79.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 79.4000015258789,
+            "end": 79.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "now",
+            "start": 79.66000366210938,
+            "end": 79.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 79.95999908447266,
+            "end": 80.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "just",
+            "start": 80.13999938964844,
+            "end": 80.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "making",
+            "start": 80.30000305175781,
+            "end": 80.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 80.63999938964844,
+            "end": 81.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "pay",
+            "start": 81.0999984741211,
+            "end": 81.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Don't",
+            "start": 81.36000061035156,
+            "end": 81.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "try",
+            "start": 81.73999786376953,
+            "end": 81.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 81.86000061035156,
+            "end": 82.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "push",
+            "start": 82.12000274658203,
+            "end": 82.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 82.16000366210938,
+            "end": 82.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 82.31999969482422,
+            "end": 82.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "just",
+            "start": 82.4800033569336,
+            "end": 82.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "getting",
+            "start": 82.62000274658203,
+            "end": 82.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "out",
+            "start": 82.9000015258789,
+            "end": 83.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 83.0999984741211,
+            "end": 83.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 83.22000122070312,
+            "end": 83.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "way",
+            "start": 83.5199966430664,
+            "end": 83.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 83.63999938964844,
+            "end": 83.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 83.91999816894531,
+            "end": 84.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 84.08000183105469,
+            "end": 84.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 85.44000244140625,
+            "end": 86.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 86.16000366210938,
+            "end": 86.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 86.27999877929688,
+            "end": 87.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 87.95999908447266,
+            "end": 88.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 88.69999694824219,
+            "end": 88.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 88.95999908447266,
+            "end": 89.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 90.72000122070312,
+            "end": 91.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 91.44000244140625,
+            "end": 92.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 92.16000366210938,
+            "end": 92.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 92.66000366210938,
+            "end": 93.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 93.37999725341797,
+            "end": 94.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 94.0,
+            "end": 94.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 97.4800033569336,
+            "end": 98.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 98.19999694824219,
+            "end": 98.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 98.58000183105469,
+            "end": 98.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 98.94000244140625,
+            "end": 99.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 99.94000244140625,
+            "end": 100.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 100.66000366210938,
+            "end": 100.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 100.9000015258789,
+            "end": 101.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 101.63999938964844,
+            "end": 102.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 116.41999816894531,
+            "end": 117.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 117.81999969482422,
+            "end": 117.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 117.81999969482422,
+            "end": 117.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 117.81999969482422,
+            "end": 117.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 117.83999633789062,
+            "end": 117.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 117.83999633789062,
+            "end": 122.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 124.54000091552734,
+            "end": 125.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 125.95999908447266,
+            "end": 126.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 126.05999755859375,
+            "end": 130.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 141.36000061035156,
+            "end": 141.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 142.39999389648438,
+            "end": 142.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 142.4199981689453,
+            "end": 142.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 143.02000427246094,
+            "end": 144.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 144.22000122070312,
+            "end": 144.60000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 144.60000610351562,
+            "end": 145.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 146.05999755859375,
+            "end": 146.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 146.5399932861328,
+            "end": 146.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 146.86000061035156,
+            "end": 147.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 147.72000122070312,
+            "end": 148.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 148.9199981689453,
+            "end": 149.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 149.4600067138672,
+            "end": 150.8000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 150.8000030517578,
+            "end": 151.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 151.3800048828125,
+            "end": 152.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 152.94000244140625,
+            "end": 154.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 154.9199981689453,
+            "end": 156.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 156.1199951171875,
+            "end": 156.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 156.52000427246094,
+            "end": 156.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 156.83999633789062,
+            "end": 157.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 157.44000244140625,
+            "end": 158.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 158.55999755859375,
+            "end": 158.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 158.8800048828125,
+            "end": 159.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 159.5,
+            "end": 160.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 162.32000732421875,
+            "end": 163.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 163.52000427246094,
+            "end": 164.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 164.72000122070312,
+            "end": 165.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 165.72000122070312,
+            "end": 166.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "Keep",
+            "start": 166.67999267578125,
+            "end": 167.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "on",
+            "start": 167.8800048828125,
+            "end": 168.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "going",
+            "start": 168.0800018310547,
+            "end": 168.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 169.63999938964844,
+            "end": 170.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 170.39999389648438,
+            "end": 171.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yeah",
+            "start": 172.67999267578125,
+            "end": 174.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 174.4199981689453,
+            "end": 175.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 175.82000732421875,
+            "end": 176.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yeah",
+            "start": 178.0800018310547,
+            "end": 178.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Well",
+            "start": 179.47999572753906,
+            "end": 179.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 179.94000244140625,
+            "end": 180.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 180.77999877929688,
+            "end": 180.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 181.05999755859375,
+            "end": 182.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 182.4600067138672,
+            "end": 183.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 183.4199981689453,
+            "end": 184.8000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 184.8000030517578,
+            "end": 185.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 186.5,
+            "end": 187.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 187.1999969482422,
+            "end": 187.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 187.52000427246094,
+            "end": 187.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 187.52000427246094,
+            "end": 187.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 190.17999267578125,
+            "end": 190.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 190.8800048828125,
+            "end": 191.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 191.97999572753906,
+            "end": 193.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 193.3800048828125,
+            "end": 194.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 194.77999877929688,
+            "end": 195.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yes",
+            "start": 195.47999572753906,
+            "end": 196.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 196.52000427246094,
+            "end": 196.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 196.75999450683594,
+            "end": 197.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 197.32000732421875,
+            "end": 198.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yeah",
+            "start": 198.63999938964844,
+            "end": 199.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 201.16000366210938,
+            "end": 202.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "fucking",
+            "start": 202.55999755859375,
+            "end": 202.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 202.94000244140625,
+            "end": 203.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 228.63999938964844,
+            "end": 228.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 228.63999938964844,
+            "end": 230.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 230.02000427246094,
+            "end": 230.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 230.05999755859375,
+            "end": 230.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 236.75999450683594,
+            "end": 238.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "high",
+            "start": 238.0800018310547,
+            "end": 239.39999389648438,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Back in black, I hate to say it, I've been too long, not clear to be a bad guy",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Yes, I'm letting loose from the noose that's kept me hanging about",
+            "sentiment": "POSITIVE",
+            "confidence": 0.75
+        },
+        {
+            "segment": "And if you're looking at the stars, don't you feel me hot? Forget the hurts, cause I'll never die",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Yes, I'm high Yes, I'm high Well, I'm high Well, I'm fucking high",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Well, I'm back in the back of a traveler",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "Don't look at me now, I'm just making my pay Don't try to push me, I'm just getting out of my way",
+            "sentiment": "POSITIVE",
+            "confidence": 0.7
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Back in Black",
+            "summary": "The lyrics express feelings of returning with strength and a sense of liberation, though tinged with previous struggles.",
+            "start": 0,
+            "end": 130
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

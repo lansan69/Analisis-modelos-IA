@@ -1,0 +1,425 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "85804802-9bcb-4776-bf1d-070abd5b88a6",
+        "sha256": "247edd842b18e43ebf609eb7b40de4bf595c3e26a9fbb922d78f3d7b78f1aae9",
+        "created": "2026-01-17T23:13:00.009000Z",
+        "duration": 240.72,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Siento que me desconoces, siento que tocarme ahora te da igual, te da igual,",
+                        "confidence": 0.94841194,
+                        "words": [
+                            {
+                                "word": "siento",
+                                "start": 14.155,
+                                "end": 14.3949995,
+                                "confidence": 0.6586264,
+                                "speaker": 0,
+                                "speaker_confidence": 0.91472673,
+                                "punctuated_word": "Siento",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 14.3949995,
+                                "end": 14.715,
+                                "confidence": 0.91881657,
+                                "speaker": 0,
+                                "speaker_confidence": 0.91472673,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "me",
+                                "start": 14.715,
+                                "end": 14.795,
+                                "confidence": 0.9072915,
+                                "speaker": 0,
+                                "speaker_confidence": 0.91472673,
+                                "punctuated_word": "me",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "desconoces",
+                                "start": 14.795,
+                                "end": 15.295,
+                                "confidence": 0.86500293,
+                                "speaker": 0,
+                                "speaker_confidence": 0.91472673,
+                                "punctuated_word": "desconoces,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "siento",
+                                "start": 17.355,
+                                "end": 17.755,
+                                "confidence": 0.98820555,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "siento",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 17.755,
+                                "end": 18.154999,
+                                "confidence": 0.9775982,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tocarme",
+                                "start": 18.154999,
+                                "end": 18.654999,
+                                "confidence": 0.9875541,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tocarme",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ahora",
+                                "start": 18.875,
+                                "end": 19.375,
+                                "confidence": 0.94841194,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "ahora",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "te",
+                                "start": 19.755,
+                                "end": 19.914999,
+                                "confidence": 0.85865223,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "te",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "da",
+                                "start": 19.914999,
+                                "end": 20.235,
+                                "confidence": 0.99613297,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "da",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "igual",
+                                "start": 20.235,
+                                "end": 20.735,
+                                "confidence": 0.9323492,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "igual,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "te",
+                                "start": 22.955,
+                                "end": 23.195,
+                                "confidence": 0.97491825,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9716573,
+                                "punctuated_word": "te",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "da",
+                                "start": 23.195,
+                                "end": 23.355,
+                                "confidence": 0.9961367,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9716573,
+                                "punctuated_word": "da",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "igual",
+                                "start": 23.355,
+                                "end": 23.855,
+                                "confidence": 0.8181776,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9716573,
+                                "punctuated_word": "igual,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Siento que me desconoces, siento que tocarme ahora te da igual, te da igual,",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Siento que me desconoces, siento que tocarme ahora te da igual, te da igual,",
+                                            "start": 14.155,
+                                            "end": 23.855,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 14.0,
+                                    "start": 14.155,
+                                    "end": 23.855,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 14.155,
+                "end": 15.295,
+                "confidence": 0.8374343,
+                "channel": 0.0,
+                "transcript": "Siento que me desconoces,",
+                "words": [
+                    {
+                        "word": "siento",
+                        "start": 14.155,
+                        "end": 14.3949995,
+                        "confidence": 0.6586264,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.91472673,
+                        "punctuated_word": "Siento",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 14.3949995,
+                        "end": 14.715,
+                        "confidence": 0.91881657,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.91472673,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "me",
+                        "start": 14.715,
+                        "end": 14.795,
+                        "confidence": 0.9072915,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.91472673,
+                        "punctuated_word": "me",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "desconoces",
+                        "start": 14.795,
+                        "end": 15.295,
+                        "confidence": 0.86500293,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.91472673,
+                        "punctuated_word": "desconoces,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "d7e15ef7-b910-4560-addd-1dbf6ff28b3d",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 17.355,
+                "end": 19.375,
+                "confidence": 0.9754424,
+                "channel": 0.0,
+                "transcript": "siento que tocarme ahora",
+                "words": [
+                    {
+                        "word": "siento",
+                        "start": 17.355,
+                        "end": 17.755,
+                        "confidence": 0.98820555,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "siento",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 17.755,
+                        "end": 18.154999,
+                        "confidence": 0.9775982,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tocarme",
+                        "start": 18.154999,
+                        "end": 18.654999,
+                        "confidence": 0.9875541,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tocarme",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ahora",
+                        "start": 18.875,
+                        "end": 19.375,
+                        "confidence": 0.94841194,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "ahora",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "82d18393-b768-47d6-8978-aa72ff48f7fd",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 19.755,
+                "end": 20.735,
+                "confidence": 0.9290448,
+                "channel": 0.0,
+                "transcript": "te da igual,",
+                "words": [
+                    {
+                        "word": "te",
+                        "start": 19.755,
+                        "end": 19.914999,
+                        "confidence": 0.85865223,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "te",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "da",
+                        "start": 19.914999,
+                        "end": 20.235,
+                        "confidence": 0.99613297,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "da",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "igual",
+                        "start": 20.235,
+                        "end": 20.735,
+                        "confidence": 0.9323492,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "igual,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "9c97b058-4778-4621-b71c-61fce64f891a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 22.955,
+                "end": 23.855,
+                "confidence": 0.92974424,
+                "channel": 0.0,
+                "transcript": "te da igual,",
+                "words": [
+                    {
+                        "word": "te",
+                        "start": 22.955,
+                        "end": 23.195,
+                        "confidence": 0.97491825,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9716573,
+                        "punctuated_word": "te",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "da",
+                        "start": 23.195,
+                        "end": 23.355,
+                        "confidence": 0.9961367,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9716573,
+                        "punctuated_word": "da",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "igual",
+                        "start": 23.355,
+                        "end": 23.855,
+                        "confidence": 0.8181776,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9716573,
+                        "punctuated_word": "igual,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "5214ff0f-4be4-4cc6-b90a-fed8f73e44a1",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

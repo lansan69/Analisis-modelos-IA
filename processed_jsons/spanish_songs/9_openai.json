@@ -1,0 +1,849 @@
+{
+    "text": "Unida yo estaba Ahogada en soledad Mi corazón lloraba De un vacío total Todo lo intenté Por donde quiera te busqué Eras tú Mi necesidad Triste y desolada Ya no pude soportar Más desesperada Era imposible estar Todo lo intenté Por donde quiera te busqué Eras tú Mi necesidad Desde mi rostro hoy Llegaste tú Y todo cambió Llegaste tú La esperanza triunfó Llegaste tú Volví a nacer Por tanto tiempo quise Encontrar la solución A ese gran vacío Que llevaba en mi interior Todo lo intenté Por donde quiera te busqué Eras tú Mi necesidad Desde mi rostro hoy Llegaste tú Y todo cambió Llegaste tú La esperanza triunfó Llegaste tú Volví a nacer Llegaste tú Llegaste tú Y todo cambió Llegaste tú La esperanza triunfó Llegaste tú Volví a nacer Subtitulado por CIRUSBMAX",
+    "audio_duration": 246.9499969482422,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Unida",
+            "start": 0.0,
+            "end": 2.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 2.380000114440918,
+            "end": 3.059999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "estaba",
+            "start": 3.059999942779541,
+            "end": 4.21999979019165,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ahogada",
+            "start": 4.21999979019165,
+            "end": 5.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 5.579999923706055,
+            "end": 5.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "soledad",
+            "start": 5.960000038146973,
+            "end": 7.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mi",
+            "start": 7.679999828338623,
+            "end": 8.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "corazón",
+            "start": 8.779999732971191,
+            "end": 9.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "lloraba",
+            "start": 9.199999809265137,
+            "end": 10.359999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "De",
+            "start": 10.359999656677246,
+            "end": 11.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 11.319999694824219,
+            "end": 11.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "vacío",
+            "start": 11.65999984741211,
+            "end": 12.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "total",
+            "start": 12.420000076293945,
+            "end": 14.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "Todo",
+            "start": 14.0600004196167,
+            "end": 15.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 15.460000038146973,
+            "end": 15.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "intenté",
+            "start": 15.979999542236328,
+            "end": 17.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 17.040000915527344,
+            "end": 17.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "donde",
+            "start": 17.920000076293945,
+            "end": 18.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "quiera",
+            "start": 18.15999984741211,
+            "end": 18.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 18.760000228881836,
+            "end": 19.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "busqué",
+            "start": 19.360000610351562,
+            "end": 20.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eras",
+            "start": 20.440000534057617,
+            "end": 21.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 21.84000015258789,
+            "end": 23.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mi",
+            "start": 23.239999771118164,
+            "end": 23.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesidad",
+            "start": 23.920000076293945,
+            "end": 25.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Triste",
+            "start": 27.260000228881836,
+            "end": 28.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 28.65999984741211,
+            "end": 29.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "desolada",
+            "start": 29.579999923706055,
+            "end": 30.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ya",
+            "start": 30.3799991607666,
+            "end": 31.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 31.219999313354492,
+            "end": 31.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "pude",
+            "start": 31.799999237060547,
+            "end": 31.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "soportar",
+            "start": 31.959999084472656,
+            "end": 33.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Más",
+            "start": 33.939998626708984,
+            "end": 35.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "desesperada",
+            "start": 35.34000015258789,
+            "end": 36.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Era",
+            "start": 36.7400016784668,
+            "end": 37.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "imposible",
+            "start": 37.720001220703125,
+            "end": 38.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "estar",
+            "start": 38.720001220703125,
+            "end": 40.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Todo",
+            "start": 40.41999816894531,
+            "end": 41.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 41.81999969482422,
+            "end": 42.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "intenté",
+            "start": 42.31999969482422,
+            "end": 43.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 43.34000015258789,
+            "end": 44.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "donde",
+            "start": 44.20000076293945,
+            "end": 44.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "quiera",
+            "start": 44.439998626708984,
+            "end": 45.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 45.02000045776367,
+            "end": 45.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "busqué",
+            "start": 45.65999984741211,
+            "end": 46.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eras",
+            "start": 46.52000045776367,
+            "end": 47.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 47.91999816894531,
+            "end": 49.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mi",
+            "start": 49.31999969482422,
+            "end": 50.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesidad",
+            "start": 50.18000030517578,
+            "end": 51.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Desde",
+            "start": 52.86000061035156,
+            "end": 54.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 54.220001220703125,
+            "end": 54.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "rostro",
+            "start": 54.47999954223633,
+            "end": 56.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "hoy",
+            "start": 56.119998931884766,
+            "end": 58.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 58.91999816894531,
+            "end": 59.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 59.91999816894531,
+            "end": 63.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 64.54000091552734,
+            "end": 65.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 65.94000244140625,
+            "end": 66.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "cambió",
+            "start": 66.69999694824219,
+            "end": 70.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 70.04000091552734,
+            "end": 73.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 73.04000091552734,
+            "end": 75.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 77.41999816894531,
+            "end": 78.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "esperanza",
+            "start": 78.81999969482422,
+            "end": 79.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "triunfó",
+            "start": 79.76000213623047,
+            "end": 83.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 83.18000030517578,
+            "end": 86.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 86.19999694824219,
+            "end": 89.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "Volví",
+            "start": 91.31999969482422,
+            "end": 92.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 92.72000122070312,
+            "end": 93.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "nacer",
+            "start": 93.5199966430664,
+            "end": 93.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 106.36000061035156,
+            "end": 107.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "tanto",
+            "start": 107.05999755859375,
+            "end": 107.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiempo",
+            "start": 107.55999755859375,
+            "end": 108.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "quise",
+            "start": 108.45999908447266,
+            "end": 109.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Encontrar",
+            "start": 109.4000015258789,
+            "end": 110.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 110.4800033569336,
+            "end": 111.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "solución",
+            "start": 111.31999969482422,
+            "end": 112.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "A",
+            "start": 112.66000366210938,
+            "end": 114.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "ese",
+            "start": 114.05999755859375,
+            "end": 114.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "gran",
+            "start": 114.16000366210938,
+            "end": 114.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "vacío",
+            "start": 114.66000366210938,
+            "end": 115.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Que",
+            "start": 115.58000183105469,
+            "end": 116.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "llevaba",
+            "start": 116.5999984741211,
+            "end": 117.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 117.36000061035156,
+            "end": 117.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 117.54000091552734,
+            "end": 118.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "interior",
+            "start": 118.18000030517578,
+            "end": 118.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Todo",
+            "start": 119.80000305175781,
+            "end": 120.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 120.68000030517578,
+            "end": 121.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "intenté",
+            "start": 121.22000122070312,
+            "end": 122.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 122.26000213623047,
+            "end": 123.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "donde",
+            "start": 123.19999694824219,
+            "end": 123.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "quiera",
+            "start": 123.33999633789062,
+            "end": 123.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 123.91999816894531,
+            "end": 124.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "busqué",
+            "start": 124.55999755859375,
+            "end": 125.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eras",
+            "start": 125.5999984741211,
+            "end": 127.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 127.0,
+            "end": 128.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mi",
+            "start": 128.39999389648438,
+            "end": 129.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesidad",
+            "start": 129.05999755859375,
+            "end": 130.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "Desde",
+            "start": 131.72000122070312,
+            "end": 133.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 133.1199951171875,
+            "end": 133.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "rostro",
+            "start": 133.32000732421875,
+            "end": 134.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "hoy",
+            "start": 134.67999267578125,
+            "end": 137.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 137.89999389648438,
+            "end": 138.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 138.83999633789062,
+            "end": 142.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 143.47999572753906,
+            "end": 144.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 144.8800048828125,
+            "end": 145.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "cambió",
+            "start": 145.6199951171875,
+            "end": 149.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 149.25999450683594,
+            "end": 152.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 152.13999938964844,
+            "end": 154.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 156.33999633789062,
+            "end": 157.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "esperanza",
+            "start": 157.74000549316406,
+            "end": 158.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "triunfó",
+            "start": 158.67999267578125,
+            "end": 162.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 162.5,
+            "end": 165.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 165.10000610351562,
+            "end": 169.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Volví",
+            "start": 170.25999450683594,
+            "end": 171.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 171.66000366210938,
+            "end": 172.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "nacer",
+            "start": 172.3800048828125,
+            "end": 172.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 199.22000122070312,
+            "end": 200.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 200.6199951171875,
+            "end": 202.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 202.6199951171875,
+            "end": 204.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 204.02000427246094,
+            "end": 204.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 204.02000427246094,
+            "end": 204.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 204.02000427246094,
+            "end": 204.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "cambió",
+            "start": 204.5800018310547,
+            "end": 206.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 213.32000732421875,
+            "end": 214.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 214.72000122070312,
+            "end": 216.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 216.1199951171875,
+            "end": 216.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "esperanza",
+            "start": 216.9600067138672,
+            "end": 217.8000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "triunfó",
+            "start": 217.8000030517578,
+            "end": 220.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Llegaste",
+            "start": 220.4199981689453,
+            "end": 224.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 224.36000061035156,
+            "end": 226.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Volví",
+            "start": 229.5,
+            "end": 230.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 230.89999389648438,
+            "end": 231.60000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "nacer",
+            "start": 231.60000610351562,
+            "end": 231.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "Subtitulado",
+            "start": 245.52000427246094,
+            "end": 246.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 246.9199981689453,
+            "end": 246.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "CIRUSBMAX",
+            "start": 246.9199981689453,
+            "end": 246.9199981689453,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Unida yo estaba Ahogada en soledad Mi corazón lloraba De un vacío total Todo lo intenté Por donde quiera te busqué Eras tú Mi necesidad",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Triste y desolada Ya no pude soportar Más desesperada Era imposible estar",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Desde mi rostro hoy Llegaste tú Y todo cambió Llegaste tú La esperanza triunfó",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        },
+        {
+            "segment": "Llegaste tú Volví a nacer",
+            "sentiment": "POSITIVE",
+            "confidence": 0.93
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Emotional Struggle and Transformation",
+            "summary": "The speaker expresses deep feelings of loneliness and despair, reflecting on a significant emptiness in their life until the arrival of a transformative love.",
+            "start": 0,
+            "end": 180
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

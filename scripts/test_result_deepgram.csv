@@ -1,0 +1,2 @@
+Song,Duration (s),Confidence (%),Diarization,Sentiment Available,Estimated Cost ($),Words Count,Full JSON File
+1.mp3,54.43,99.58,Yes (1 speakers),No,0.0039,178,1_full_data_deepgram.json

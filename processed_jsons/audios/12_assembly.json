@@ -1,0 +1,118 @@
+{
+    "id": "0a5e865f-2eba-424c-98b5-a868eedcafd4",
+    "status": "completed",
+    "text": "Estoy muy, muy, muy molesta por eso. Tú no luces molesta, es el Botox.",
+    "words": [
+        {
+            "text": "Estoy",
+            "start": 640,
+            "end": 1120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "muy,",
+            "start": 1120,
+            "end": 1440,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "muy,",
+            "start": 1680,
+            "end": 2000,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 2000,
+            "end": 2320,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "molesta",
+            "start": 3040,
+            "end": 3760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 3920,
+            "end": 4200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "eso.",
+            "start": 4200,
+            "end": 4480,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "Tú",
+            "start": 5280,
+            "end": 5720,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 5720,
+            "end": 6000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "luces",
+            "start": 6160,
+            "end": 6680,
+            "confidence": 0.9145508,
+            "speaker": "A"
+        },
+        {
+            "text": "molesta,",
+            "start": 6680,
+            "end": 7280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 8320,
+            "end": 8600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 8600,
+            "end": 8760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Botox.",
+            "start": 8760,
+            "end": 9680,
+            "confidence": 0.81136066,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Estoy muy, muy, muy molesta por eso. Tú no luces molesta, es el Botox.",
+            "start": 640,
+            "end": 9680,
+            "confidence": 0.9292748,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 11,
+    "language_code": "es"
+}

@@ -1,0 +1,942 @@
+{
+    "text": "Winch a- Winch a- Winch a- Win- Winch Just one touch, I can Winch a- Winch a- Win- Wind Just one touch, I can Feel my body give in Winch a- Win- Winch a- Win- Winch Just one to touch, I can Feel my body- Feel it Feel my body body body for you Feel my body body body for you My body body body body for you Winch a- Winch a- Winch a- Win- Winch Just one touch, I can Winch a- Win- Winch a- Winch a- Win- Winch Just one touch, I can Feel my body give in Winch a- Winch a- Winch a- Win- Winch Just one touch, I can Feel my body body body for you Feel my body body body body for you",
+    "audio_duration": 117.37000274658203,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Winch",
+            "start": 0.0,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 0.5199999809265137,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 0.5199999809265137,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 0.5199999809265137,
+            "end": 1.0199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 1.0199999809265137,
+            "end": 1.2200000286102295,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 1.2200000286102295,
+            "end": 1.4800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 1.4800000190734863,
+            "end": 1.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 1.559999942779541,
+            "end": 1.8200000524520874,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 1.8200000524520874,
+            "end": 1.8200000524520874,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 1.8200000524520874,
+            "end": 1.899999976158142,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 1.899999976158142,
+            "end": 2.0799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 2.0799999237060547,
+            "end": 2.2799999713897705,
+            "confidence": 0.99
+        },
+        {
+            "text": "Just",
+            "start": 2.2799999713897705,
+            "end": 2.5999999046325684,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 2.5999999046325684,
+            "end": 2.859999895095825,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 2.859999895095825,
+            "end": 3.0999999046325684,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 3.259999990463257,
+            "end": 3.5399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "can",
+            "start": 3.5399999618530273,
+            "end": 3.700000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 3.700000047683716,
+            "end": 4.139999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 4.139999866485596,
+            "end": 4.320000171661377,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 4.320000171661377,
+            "end": 4.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 4.420000076293945,
+            "end": 4.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 4.420000076293945,
+            "end": 4.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 4.920000076293945,
+            "end": 5.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 5.199999809265137,
+            "end": 5.28000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 5.28000020980835,
+            "end": 5.599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "Wind",
+            "start": 5.599999904632568,
+            "end": 5.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "Just",
+            "start": 5.960000038146973,
+            "end": 6.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 6.260000228881836,
+            "end": 6.679999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 6.679999828338623,
+            "end": 6.860000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 6.920000076293945,
+            "end": 7.28000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "can",
+            "start": 7.28000020980835,
+            "end": 7.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 7.579999923706055,
+            "end": 7.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 7.960000038146973,
+            "end": 8.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 8.260000228881836,
+            "end": 12.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "give",
+            "start": 12.539999961853027,
+            "end": 12.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 12.960000038146973,
+            "end": 14.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 14.800000190734863,
+            "end": 15.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 15.399999618530273,
+            "end": 15.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 15.720000267028809,
+            "end": 15.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 15.739999771118164,
+            "end": 15.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 15.739999771118164,
+            "end": 15.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 15.739999771118164,
+            "end": 16.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 16.100000381469727,
+            "end": 16.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 16.299999237060547,
+            "end": 16.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 16.860000610351562,
+            "end": 16.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 16.860000610351562,
+            "end": 16.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 16.860000610351562,
+            "end": 17.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Just",
+            "start": 17.15999984741211,
+            "end": 17.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 17.579999923706055,
+            "end": 18.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 18.1200008392334,
+            "end": 18.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 18.1200008392334,
+            "end": 18.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 18.34000015258789,
+            "end": 18.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "can",
+            "start": 18.540000915527344,
+            "end": 18.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 20.739999771118164,
+            "end": 21.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 21.34000015258789,
+            "end": 21.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 21.34000015258789,
+            "end": 21.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 21.34000015258789,
+            "end": 26.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 26.260000228881836,
+            "end": 26.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 26.440000534057617,
+            "end": 26.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 26.68000030517578,
+            "end": 26.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 26.68000030517578,
+            "end": 27.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 27.100000381469727,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 29.979999542236328,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 33.5,
+            "end": 34.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 34.099998474121094,
+            "end": 34.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 34.70000076293945,
+            "end": 35.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 35.880001068115234,
+            "end": 35.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 35.880001068115234,
+            "end": 36.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 36.2400016784668,
+            "end": 36.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 36.2400016784668,
+            "end": 38.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "My",
+            "start": 48.91999816894531,
+            "end": 49.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 49.52000045776367,
+            "end": 50.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 50.119998931884766,
+            "end": 50.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 50.119998931884766,
+            "end": 50.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 50.47999954223633,
+            "end": 52.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 52.02000045776367,
+            "end": 52.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 52.560001373291016,
+            "end": 52.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 52.560001373291016,
+            "end": 52.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 52.97999954223633,
+            "end": 53.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 53.02000045776367,
+            "end": 53.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 53.02000045776367,
+            "end": 53.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 53.36000061035156,
+            "end": 53.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 53.70000076293945,
+            "end": 54.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 54.02000045776367,
+            "end": 54.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 54.02000045776367,
+            "end": 54.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 54.20000076293945,
+            "end": 54.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 54.34000015258789,
+            "end": 54.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 54.52000045776367,
+            "end": 54.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 54.52000045776367,
+            "end": 54.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "Just",
+            "start": 54.7599983215332,
+            "end": 55.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 55.119998931884766,
+            "end": 55.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 55.400001525878906,
+            "end": 55.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 56.040000915527344,
+            "end": 56.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "can",
+            "start": 56.060001373291016,
+            "end": 56.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 56.279998779296875,
+            "end": 56.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 56.63999938964844,
+            "end": 56.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 56.779998779296875,
+            "end": 56.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 56.959999084472656,
+            "end": 56.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 56.959999084472656,
+            "end": 57.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 57.040000915527344,
+            "end": 57.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 57.279998779296875,
+            "end": 57.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 57.5,
+            "end": 57.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 57.779998779296875,
+            "end": 57.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 57.779998779296875,
+            "end": 58.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 58.099998474121094,
+            "end": 58.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 58.119998931884766,
+            "end": 58.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 58.119998931884766,
+            "end": 58.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 58.18000030517578,
+            "end": 58.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "Just",
+            "start": 58.47999954223633,
+            "end": 58.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 58.720001220703125,
+            "end": 59.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 59.13999938964844,
+            "end": 59.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 59.5,
+            "end": 59.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "can",
+            "start": 59.79999923706055,
+            "end": 60.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 60.099998474121094,
+            "end": 60.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 60.47999954223633,
+            "end": 60.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 60.7599983215332,
+            "end": 65.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "give",
+            "start": 65.08000183105469,
+            "end": 65.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 65.4800033569336,
+            "end": 67.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 67.83999633789062,
+            "end": 68.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 68.5999984741211,
+            "end": 68.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 68.5999984741211,
+            "end": 68.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 68.5999984741211,
+            "end": 70.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 70.30000305175781,
+            "end": 70.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 70.30000305175781,
+            "end": 70.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 70.30000305175781,
+            "end": 70.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 70.86000061035156,
+            "end": 70.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 70.86000061035156,
+            "end": 70.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Win",
+            "start": 70.86000061035156,
+            "end": 70.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 70.86000061035156,
+            "end": 70.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winch",
+            "start": 70.86000061035156,
+            "end": 82.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Just",
+            "start": 82.55999755859375,
+            "end": 83.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "one",
+            "start": 83.13999938964844,
+            "end": 83.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 83.4800033569336,
+            "end": 83.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 83.77999877929688,
+            "end": 84.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "can",
+            "start": 84.18000030517578,
+            "end": 84.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 114.55999755859375,
+            "end": 115.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 115.18000030517578,
+            "end": 115.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 115.18000030517578,
+            "end": 115.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 115.4800033569336,
+            "end": 115.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 115.83999633789062,
+            "end": 116.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 116.23999786376953,
+            "end": 116.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 116.55999755859375,
+            "end": 116.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Feel",
+            "start": 116.55999755859375,
+            "end": 116.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 116.63999938964844,
+            "end": 116.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 116.68000030517578,
+            "end": 116.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 116.69999694824219,
+            "end": 116.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 116.72000122070312,
+            "end": 116.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 116.72000122070312,
+            "end": 117.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 117.33999633789062,
+            "end": 117.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 117.33999633789062,
+            "end": 117.33999633789062,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Winch a- Winch a- Winch a- Win- Winch Just one touch, I can Winch a- Winch a- Win- Wind Just one touch, I can Feel my body give in",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Body and Touch",
+            "summary": "The repeated themes of touch and surrender emphasize a sense of desire and connection.",
+            "start": 0,
+            "end": 50
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

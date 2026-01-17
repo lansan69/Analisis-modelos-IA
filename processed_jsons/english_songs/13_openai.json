@@ -1,0 +1,2345 @@
+{
+    "text": "I love it when you call me señorita I wish I could pretend I didn't need ya But every touch is ooh-la-la-la It's true, ooh-la-la-la Ooh, I should be runnin' Ooh, you keep me comin' for ya Then in Miami The air was hot from summer rain Sweat drippin' off me Before I even knew her name La-la-la-la You felt like ooh-la-la-la, yeah, no Sapphire and moonlight We danced for hours in the same tequila sunrise Her body fit right in my hands La-la-la-la You felt like ooh-la-la-la, yeah I love it when you call me señorita I wish I could pretend I didn't need ya But every touch is ooh-la-la-la It's true, ooh-la-la-la Ooh, I should be runnin' Ooh, you know I love it when you call me señorita I wish I could pretend I didn't need ya But every touch is ooh-la-la-la It's true, ooh-la-la-la Ooh, I should be runnin' Ooh, you keep me comin' for ya Back in the hotel There's just some things that never change You say we're just friends But friends don't know the way you taste La-la-la-la, ooh Girl, you know it's been a long time comin' Don't you let me fall, oh-oh-oh Ooh, when your lips undress me Hooked on your tongue Ooh, none of your kisses deadly don't stop I love it when you call me señorita I wish I could pretend I didn't need ya But every touch is ooh-la-la-la It's true, ooh-la-la-la Ooh, I should be runnin' Ooh, you know I love it when you call me señorita I wish I could pretend I didn't need ya But every touch is ooh-la-la-la It's true, ooh-la-la-la Ooh, I should be runnin' Ooh, you keep me comin' for ya All along, I've been comin' for ya And I hope it meant something to ya Call my name, I'll be comin' for ya Comin' for ya, for ya For ya Oh, she loves it when I call her For ya Ooh, I should be runnin' Ooh, you keep me comin' for ya",
+    "audio_duration": 191.32000732421875,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "I",
+            "start": 0.0,
+            "end": 0.800000011920929,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 0.800000011920929,
+            "end": 16.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 16.0,
+            "end": 16.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 16.219999313354492,
+            "end": 16.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 16.420000076293945,
+            "end": 16.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "call",
+            "start": 16.68000030517578,
+            "end": 17.200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 17.200000762939453,
+            "end": 18.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "señorita",
+            "start": 18.100000381469727,
+            "end": 19.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 19.219999313354492,
+            "end": 19.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "wish",
+            "start": 19.84000015258789,
+            "end": 20.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 20.020000457763672,
+            "end": 20.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 20.3799991607666,
+            "end": 20.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "pretend",
+            "start": 20.559999465942383,
+            "end": 21.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 21.18000030517578,
+            "end": 21.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "didn't",
+            "start": 21.81999969482422,
+            "end": 22.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 22.6200008392334,
+            "end": 23.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 23.139999389648438,
+            "end": 23.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "But",
+            "start": 23.360000610351562,
+            "end": 23.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "every",
+            "start": 23.639999389648438,
+            "end": 24.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 24.360000610351562,
+            "end": 24.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 24.68000030517578,
+            "end": 25.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 25.079999923706055,
+            "end": 25.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 25.6200008392334,
+            "end": 25.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 25.6200008392334,
+            "end": 25.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 25.84000015258789,
+            "end": 26.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "It's",
+            "start": 26.18000030517578,
+            "end": 26.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "true",
+            "start": 26.959999084472656,
+            "end": 27.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 27.3799991607666,
+            "end": 27.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 27.68000030517578,
+            "end": 27.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 27.68000030517578,
+            "end": 27.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 27.940000534057617,
+            "end": 28.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 28.479999542236328,
+            "end": 29.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 29.139999389648438,
+            "end": 29.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "should",
+            "start": 29.540000915527344,
+            "end": 29.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 29.739999771118164,
+            "end": 30.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "runnin",
+            "start": 30.020000457763672,
+            "end": 30.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 30.739999771118164,
+            "end": 31.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 31.18000030517578,
+            "end": 31.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "keep",
+            "start": 31.540000915527344,
+            "end": 31.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 31.780000686645508,
+            "end": 32.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 32.119998931884766,
+            "end": 32.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 32.63999938964844,
+            "end": 33.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 33.119998931884766,
+            "end": 33.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Then",
+            "start": 33.279998779296875,
+            "end": 33.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 33.65999984741211,
+            "end": 34.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Miami",
+            "start": 34.380001068115234,
+            "end": 34.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "The",
+            "start": 34.560001373291016,
+            "end": 35.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "air",
+            "start": 35.779998779296875,
+            "end": 35.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "was",
+            "start": 35.939998626708984,
+            "end": 36.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "hot",
+            "start": 36.20000076293945,
+            "end": 36.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "from",
+            "start": 36.400001525878906,
+            "end": 36.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "summer",
+            "start": 36.63999938964844,
+            "end": 37.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "rain",
+            "start": 37.220001220703125,
+            "end": 37.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sweat",
+            "start": 37.439998626708984,
+            "end": 37.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "drippin",
+            "start": 37.720001220703125,
+            "end": 38.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "off",
+            "start": 38.18000030517578,
+            "end": 38.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 38.58000183105469,
+            "end": 39.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "Before",
+            "start": 39.2599983215332,
+            "end": 39.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 39.959999084472656,
+            "end": 40.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "even",
+            "start": 40.400001525878906,
+            "end": 40.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "knew",
+            "start": 40.779998779296875,
+            "end": 41.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "her",
+            "start": 41.0,
+            "end": 41.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "name",
+            "start": 41.31999969482422,
+            "end": 41.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 41.619998931884766,
+            "end": 42.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 42.36000061035156,
+            "end": 42.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 42.36000061035156,
+            "end": 42.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 42.81999969482422,
+            "end": 44.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 44.15999984741211,
+            "end": 44.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "felt",
+            "start": 44.81999969482422,
+            "end": 45.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "like",
+            "start": 45.119998931884766,
+            "end": 45.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 45.599998474121094,
+            "end": 45.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 45.81999969482422,
+            "end": 46.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 46.119998931884766,
+            "end": 46.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 46.279998779296875,
+            "end": 46.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 46.880001068115234,
+            "end": 47.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 47.91999816894531,
+            "end": 49.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sapphire",
+            "start": 49.040000915527344,
+            "end": 50.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 50.2400016784668,
+            "end": 51.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "moonlight",
+            "start": 51.220001220703125,
+            "end": 51.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "We",
+            "start": 51.220001220703125,
+            "end": 52.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "danced",
+            "start": 52.08000183105469,
+            "end": 52.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 52.279998779296875,
+            "end": 52.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "hours",
+            "start": 52.81999969482422,
+            "end": 53.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 53.040000915527344,
+            "end": 53.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 53.41999816894531,
+            "end": 53.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "same",
+            "start": 53.599998474121094,
+            "end": 54.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "tequila",
+            "start": 54.02000045776367,
+            "end": 54.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "sunrise",
+            "start": 54.400001525878906,
+            "end": 55.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Her",
+            "start": 55.380001068115234,
+            "end": 56.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "body",
+            "start": 56.20000076293945,
+            "end": 56.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "fit",
+            "start": 56.540000915527344,
+            "end": 56.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "right",
+            "start": 56.939998626708984,
+            "end": 57.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 57.220001220703125,
+            "end": 57.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 57.400001525878906,
+            "end": 58.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "hands",
+            "start": 58.099998474121094,
+            "end": 58.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 58.099998474121094,
+            "end": 58.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 58.52000045776367,
+            "end": 58.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 58.58000183105469,
+            "end": 59.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 59.31999969482422,
+            "end": 60.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 60.380001068115234,
+            "end": 61.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "felt",
+            "start": 61.220001220703125,
+            "end": 61.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "like",
+            "start": 61.52000045776367,
+            "end": 62.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 62.08000183105469,
+            "end": 62.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 62.5,
+            "end": 62.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 62.5,
+            "end": 62.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 62.63999938964844,
+            "end": 63.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "yeah",
+            "start": 63.58000183105469,
+            "end": 64.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 64.36000061035156,
+            "end": 64.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 64.76000213623047,
+            "end": 65.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 65.22000122070312,
+            "end": 65.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 65.4800033569336,
+            "end": 65.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 65.66000366210938,
+            "end": 65.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "call",
+            "start": 65.9000015258789,
+            "end": 66.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 66.41999816894531,
+            "end": 67.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "señorita",
+            "start": 67.16000366210938,
+            "end": 68.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 68.4000015258789,
+            "end": 69.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "wish",
+            "start": 69.04000091552734,
+            "end": 69.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 69.23999786376953,
+            "end": 69.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 69.5999984741211,
+            "end": 69.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "pretend",
+            "start": 69.77999877929688,
+            "end": 70.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 70.45999908447266,
+            "end": 71.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "didn't",
+            "start": 71.05999755859375,
+            "end": 71.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 71.80000305175781,
+            "end": 72.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 72.27999877929688,
+            "end": 72.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "But",
+            "start": 72.55999755859375,
+            "end": 73.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "every",
+            "start": 73.13999938964844,
+            "end": 73.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 73.58000183105469,
+            "end": 73.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 73.87999725341797,
+            "end": 74.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 74.30000305175781,
+            "end": 74.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 74.83999633789062,
+            "end": 74.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 74.86000061035156,
+            "end": 75.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 75.0199966430664,
+            "end": 75.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "It's",
+            "start": 75.5999984741211,
+            "end": 76.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "true",
+            "start": 76.18000030517578,
+            "end": 76.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 76.58000183105469,
+            "end": 76.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 76.94000244140625,
+            "end": 76.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 76.94000244140625,
+            "end": 77.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 77.18000030517578,
+            "end": 77.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 77.77999877929688,
+            "end": 78.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 78.45999908447266,
+            "end": 78.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "should",
+            "start": 78.73999786376953,
+            "end": 78.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 78.95999908447266,
+            "end": 79.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "runnin",
+            "start": 79.30000305175781,
+            "end": 79.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 79.95999908447266,
+            "end": 80.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 80.36000061035156,
+            "end": 80.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "know",
+            "start": 80.76000213623047,
+            "end": 81.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 81.0,
+            "end": 81.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 81.33999633789062,
+            "end": 81.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 81.62000274658203,
+            "end": 81.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 81.9000015258789,
+            "end": 82.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 82.08000183105469,
+            "end": 82.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "call",
+            "start": 82.30000305175781,
+            "end": 82.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 82.80000305175781,
+            "end": 83.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "señorita",
+            "start": 83.80000305175781,
+            "end": 84.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 84.86000061035156,
+            "end": 85.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "wish",
+            "start": 85.41999816894531,
+            "end": 85.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 85.62000274658203,
+            "end": 86.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 86.08000183105469,
+            "end": 86.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "pretend",
+            "start": 86.18000030517578,
+            "end": 86.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 86.83999633789062,
+            "end": 87.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "didn't",
+            "start": 87.45999908447266,
+            "end": 88.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 88.19999694824219,
+            "end": 88.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 88.72000122070312,
+            "end": 89.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "But",
+            "start": 89.04000091552734,
+            "end": 89.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "every",
+            "start": 89.5199966430664,
+            "end": 90.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 90.0,
+            "end": 90.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 90.30000305175781,
+            "end": 90.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 90.69999694824219,
+            "end": 91.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 91.27999877929688,
+            "end": 91.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 91.27999877929688,
+            "end": 91.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 91.45999908447266,
+            "end": 91.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "It's",
+            "start": 91.91999816894531,
+            "end": 92.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "true",
+            "start": 92.58000183105469,
+            "end": 92.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 93.0,
+            "end": 93.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 93.37999725341797,
+            "end": 93.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 93.37999725341797,
+            "end": 93.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 93.76000213623047,
+            "end": 94.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 94.4800033569336,
+            "end": 94.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 94.76000213623047,
+            "end": 95.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "should",
+            "start": 95.22000122070312,
+            "end": 95.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 95.36000061035156,
+            "end": 95.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "runnin",
+            "start": 95.66000366210938,
+            "end": 96.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 96.5999984741211,
+            "end": 96.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 96.73999786376953,
+            "end": 97.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "keep",
+            "start": 97.19999694824219,
+            "end": 97.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 97.44000244140625,
+            "end": 97.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 97.73999786376953,
+            "end": 98.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 98.27999877929688,
+            "end": 98.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 98.86000061035156,
+            "end": 98.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Back",
+            "start": 98.94000244140625,
+            "end": 99.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 99.26000213623047,
+            "end": 99.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 99.4800033569336,
+            "end": 99.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "hotel",
+            "start": 99.83999633789062,
+            "end": 100.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "There's",
+            "start": 100.37999725341797,
+            "end": 101.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "just",
+            "start": 101.36000061035156,
+            "end": 101.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "some",
+            "start": 101.55999755859375,
+            "end": 101.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "things",
+            "start": 101.87999725341797,
+            "end": 102.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 102.08000183105469,
+            "end": 102.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "never",
+            "start": 102.37999725341797,
+            "end": 102.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "change",
+            "start": 102.73999786376953,
+            "end": 103.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 103.12000274658203,
+            "end": 103.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "say",
+            "start": 103.19999694824219,
+            "end": 103.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "we're",
+            "start": 103.5999984741211,
+            "end": 103.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "just",
+            "start": 103.9000015258789,
+            "end": 104.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "friends",
+            "start": 104.22000122070312,
+            "end": 104.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "But",
+            "start": 104.5999984741211,
+            "end": 105.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "friends",
+            "start": 105.33999633789062,
+            "end": 105.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "don't",
+            "start": 105.62000274658203,
+            "end": 105.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "know",
+            "start": 105.91999816894531,
+            "end": 106.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 106.26000213623047,
+            "end": 106.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "way",
+            "start": 106.58000183105469,
+            "end": 106.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 106.73999786376953,
+            "end": 107.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "taste",
+            "start": 107.0,
+            "end": 107.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 107.41999816894531,
+            "end": 107.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 107.76000213623047,
+            "end": 107.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 107.9000015258789,
+            "end": 108.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 108.5199966430664,
+            "end": 109.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 110.69999694824219,
+            "end": 110.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Girl",
+            "start": 110.69999694824219,
+            "end": 110.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 110.9800033569336,
+            "end": 111.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "know",
+            "start": 111.12000274658203,
+            "end": 111.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "it's",
+            "start": 111.23999786376953,
+            "end": 111.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "been",
+            "start": 111.33999633789062,
+            "end": 111.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 111.4800033569336,
+            "end": 111.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "long",
+            "start": 111.77999877929688,
+            "end": 111.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "time",
+            "start": 111.77999877929688,
+            "end": 112.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 112.08000183105469,
+            "end": 112.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Don't",
+            "start": 112.31999969482422,
+            "end": 112.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 112.4800033569336,
+            "end": 112.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "let",
+            "start": 112.62000274658203,
+            "end": 112.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 112.73999786376953,
+            "end": 112.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "fall",
+            "start": 112.9800033569336,
+            "end": 113.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 113.54000091552734,
+            "end": 114.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 114.69999694824219,
+            "end": 114.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 114.69999694824219,
+            "end": 115.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 115.08000183105469,
+            "end": 115.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 115.5199966430664,
+            "end": 115.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 115.87999725341797,
+            "end": 116.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "lips",
+            "start": 116.08000183105469,
+            "end": 116.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "undress",
+            "start": 116.4800033569336,
+            "end": 116.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 116.91999816894531,
+            "end": 117.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hooked",
+            "start": 117.19999694824219,
+            "end": 117.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "on",
+            "start": 117.62000274658203,
+            "end": 117.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 117.87999725341797,
+            "end": 118.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "tongue",
+            "start": 118.23999786376953,
+            "end": 118.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 118.94000244140625,
+            "end": 119.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "none",
+            "start": 119.5999984741211,
+            "end": 120.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 120.0199966430664,
+            "end": 120.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 120.0199966430664,
+            "end": 120.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "kisses",
+            "start": 120.4800033569336,
+            "end": 120.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "deadly",
+            "start": 120.5999984741211,
+            "end": 121.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "don't",
+            "start": 121.22000122070312,
+            "end": 121.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "stop",
+            "start": 121.86000061035156,
+            "end": 122.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 122.0199966430664,
+            "end": 122.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 122.36000061035156,
+            "end": 122.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 122.66000366210938,
+            "end": 122.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 122.95999908447266,
+            "end": 123.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 123.05999755859375,
+            "end": 123.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "call",
+            "start": 123.31999969482422,
+            "end": 123.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 123.83999633789062,
+            "end": 124.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "señorita",
+            "start": 124.62000274658203,
+            "end": 125.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 125.83999633789062,
+            "end": 126.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "wish",
+            "start": 126.44000244140625,
+            "end": 126.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 126.66000366210938,
+            "end": 127.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 127.04000091552734,
+            "end": 127.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "pretend",
+            "start": 127.19999694824219,
+            "end": 127.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 127.86000061035156,
+            "end": 128.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "didn't",
+            "start": 128.4199981689453,
+            "end": 129.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 129.25999450683594,
+            "end": 129.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 129.74000549316406,
+            "end": 129.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "But",
+            "start": 129.97999572753906,
+            "end": 130.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "every",
+            "start": 130.5399932861328,
+            "end": 131.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 131.0,
+            "end": 131.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 131.33999633789062,
+            "end": 131.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 131.8800048828125,
+            "end": 131.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 131.97999572753906,
+            "end": 132.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 132.27999877929688,
+            "end": 132.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 132.4600067138672,
+            "end": 133.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "It's",
+            "start": 133.05999755859375,
+            "end": 133.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "true",
+            "start": 133.67999267578125,
+            "end": 134.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 134.0,
+            "end": 134.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 134.3000030517578,
+            "end": 134.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 134.3000030517578,
+            "end": 134.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 134.63999938964844,
+            "end": 135.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 135.17999267578125,
+            "end": 135.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 135.86000061035156,
+            "end": 136.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "should",
+            "start": 136.3000030517578,
+            "end": 136.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 136.36000061035156,
+            "end": 136.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "runnin",
+            "start": 136.72000122070312,
+            "end": 137.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 137.39999389648438,
+            "end": 137.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 137.9199981689453,
+            "end": 138.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "know",
+            "start": 138.1999969482422,
+            "end": 138.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 138.47999572753906,
+            "end": 138.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "love",
+            "start": 138.77999877929688,
+            "end": 139.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 139.05999755859375,
+            "end": 139.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 139.33999633789062,
+            "end": 139.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 139.5,
+            "end": 139.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "call",
+            "start": 139.74000549316406,
+            "end": 140.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 140.32000732421875,
+            "end": 141.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "señorita",
+            "start": 141.0800018310547,
+            "end": 142.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 142.27999877929688,
+            "end": 142.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "wish",
+            "start": 142.86000061035156,
+            "end": 143.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 143.05999755859375,
+            "end": 143.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 143.5,
+            "end": 143.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "pretend",
+            "start": 143.6199951171875,
+            "end": 144.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 144.27999877929688,
+            "end": 144.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "didn't",
+            "start": 144.9199981689453,
+            "end": 145.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "need",
+            "start": 145.63999938964844,
+            "end": 146.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 146.13999938964844,
+            "end": 146.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "But",
+            "start": 146.39999389648438,
+            "end": 146.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "every",
+            "start": 146.97999572753906,
+            "end": 147.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "touch",
+            "start": 147.44000244140625,
+            "end": 147.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 147.75999450683594,
+            "end": 148.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 148.17999267578125,
+            "end": 148.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 148.36000061035156,
+            "end": 148.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 148.72000122070312,
+            "end": 148.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 148.9199981689453,
+            "end": 149.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "It's",
+            "start": 149.72000122070312,
+            "end": 150.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "true",
+            "start": 150.16000366210938,
+            "end": 150.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "ooh",
+            "start": 150.36000061035156,
+            "end": 150.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 150.82000732421875,
+            "end": 150.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 150.82000732421875,
+            "end": 150.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 150.97999572753906,
+            "end": 151.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 151.52000427246094,
+            "end": 152.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 152.25999450683594,
+            "end": 152.6999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "should",
+            "start": 152.6999969482422,
+            "end": 152.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 152.77999877929688,
+            "end": 153.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "runnin",
+            "start": 153.10000610351562,
+            "end": 153.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 153.97999572753906,
+            "end": 154.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 154.1999969482422,
+            "end": 154.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "keep",
+            "start": 154.82000732421875,
+            "end": 154.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 154.8800048828125,
+            "end": 155.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 155.17999267578125,
+            "end": 155.6999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 155.6999969482422,
+            "end": 156.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 156.36000061035156,
+            "end": 156.60000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "All",
+            "start": 157.39999389648438,
+            "end": 157.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "along",
+            "start": 157.9600067138672,
+            "end": 158.60000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "I've",
+            "start": 158.83999633789062,
+            "end": 158.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "been",
+            "start": 158.97999572753906,
+            "end": 159.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 159.27999877929688,
+            "end": 159.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 159.9600067138672,
+            "end": 160.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 160.39999389648438,
+            "end": 160.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "And",
+            "start": 160.5399932861328,
+            "end": 162.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 162.10000610351562,
+            "end": 162.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "hope",
+            "start": 162.33999633789062,
+            "end": 162.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 162.74000549316406,
+            "end": 163.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "meant",
+            "start": 163.33999633789062,
+            "end": 163.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "something",
+            "start": 163.39999389648438,
+            "end": 163.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 163.9199981689453,
+            "end": 164.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 164.6199951171875,
+            "end": 164.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Call",
+            "start": 165.33999633789062,
+            "end": 166.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 166.13999938964844,
+            "end": 166.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "name",
+            "start": 166.5,
+            "end": 166.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'll",
+            "start": 166.9199981689453,
+            "end": 167.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 167.22000122070312,
+            "end": 167.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 167.5399932861328,
+            "end": 168.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 168.05999755859375,
+            "end": 169.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 169.47999572753906,
+            "end": 169.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Comin",
+            "start": 169.47999572753906,
+            "end": 170.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 170.0399932861328,
+            "end": 171.60000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 171.60000610351562,
+            "end": 171.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 171.67999267578125,
+            "end": 172.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 172.05999755859375,
+            "end": 173.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 175.44000244140625,
+            "end": 176.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 176.24000549316406,
+            "end": 177.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 177.3800048828125,
+            "end": 178.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "she",
+            "start": 178.17999267578125,
+            "end": 178.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "loves",
+            "start": 178.39999389648438,
+            "end": 178.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 178.97999572753906,
+            "end": 179.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "when",
+            "start": 179.3000030517578,
+            "end": 179.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 179.44000244140625,
+            "end": 179.6999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "call",
+            "start": 179.6999969482422,
+            "end": 179.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "her",
+            "start": 179.9600067138672,
+            "end": 180.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "For",
+            "start": 180.33999633789062,
+            "end": 181.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 181.8800048828125,
+            "end": 182.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 184.4600067138672,
+            "end": 185.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 185.1999969482422,
+            "end": 185.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "should",
+            "start": 185.39999389648438,
+            "end": 185.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 185.63999938964844,
+            "end": 185.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "runnin",
+            "start": 185.94000244140625,
+            "end": 186.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ooh",
+            "start": 186.94000244140625,
+            "end": 187.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 187.05999755859375,
+            "end": 187.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "keep",
+            "start": 187.4600067138672,
+            "end": 187.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 187.63999938964844,
+            "end": 188.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "comin",
+            "start": 188.02000427246094,
+            "end": 188.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "for",
+            "start": 188.52000427246094,
+            "end": 189.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 189.0800018310547,
+            "end": 189.27999877929688,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Señorita's Call",
+            "summary": "A romantic expression of desire and connection between two individuals, emphasizing the passionate moments shared during a summer encounter.",
+            "start": 0,
+            "end": 219
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "diarization": "Not Available in Whisper-V1"
+}

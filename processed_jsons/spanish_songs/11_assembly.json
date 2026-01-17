@@ -1,0 +1,1266 @@
+{
+    "id": "66d94897-fdbb-4973-bcd5-28043d408c85",
+    "status": "completed",
+    "text": "Me perdí buscando ese lugar Todo por tratar de demostrar Olvidé que sin tu amor no valgo nada Y tomé una vuelta equivocada. Me quedé sin movimiento Sin saber por dónde regresar Lleno de remordimiento. Dejándote detrás Fingir ser alguien más Y llorar y llorar No sirve de nada Ahora que te perdí Te quiero recuperar Ven, sálvame, despiértame rescátame. Del sufrimiento. Oh no. Del sufrimiento. Tengo la esperanza que el dolor cambie Y se transforme en tu perdón Navegar en un mar sin fantasmas Y la luz de tu amor sea mi mapa. Juro que es verdad, no miento. Que. Mi voluntad se cambia Pero sola yo. No puedo No sé cómo lograr mi alma Reparar y llorar y llorar No sirve de nada Que te perdí Te quiero recuperar Ven, sálvame, despiértame rescátame del sufrimiento Del sufrimiento Del sufrimiento Del sufrimiento del sufrimiento. Ni llorar y llorar No sirve de nada Ahora que te perdí Te quiero recuperar Ven, sálvame, despiértame rescátame del sufrimiento. Del sufrimiento.",
+    "words": [
+        {
+            "text": "Me",
+            "start": 49500,
+            "end": 49620,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "perdí",
+            "start": 49620,
+            "end": 50220,
+            "confidence": 0.91064453,
+            "speaker": "A"
+        },
+        {
+            "text": "buscando",
+            "start": 50220,
+            "end": 50980,
+            "confidence": 0.958374,
+            "speaker": "A"
+        },
+        {
+            "text": "ese",
+            "start": 50980,
+            "end": 51220,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "lugar",
+            "start": 51220,
+            "end": 51900,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Todo",
+            "start": 53660,
+            "end": 54020,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 54020,
+            "end": 54340,
+            "confidence": 0.9326172,
+            "speaker": "A"
+        },
+        {
+            "text": "tratar",
+            "start": 54340,
+            "end": 54900,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 54900,
+            "end": 55180,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "demostrar",
+            "start": 55180,
+            "end": 55900,
+            "confidence": 0.80688477,
+            "speaker": "A"
+        },
+        {
+            "text": "Olvidé",
+            "start": 57740,
+            "end": 58820,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 58820,
+            "end": 59060,
+            "confidence": 0.9707031,
+            "speaker": "A"
+        },
+        {
+            "text": "sin",
+            "start": 59060,
+            "end": 59420,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "tu",
+            "start": 59500,
+            "end": 59780,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "amor",
+            "start": 59780,
+            "end": 60140,
+            "confidence": 0.9699707,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 60940,
+            "end": 61260,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "valgo",
+            "start": 61260,
+            "end": 62020,
+            "confidence": 0.9699707,
+            "speaker": "A"
+        },
+        {
+            "text": "nada",
+            "start": 62020,
+            "end": 62540,
+            "confidence": 0.8886719,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 66360,
+            "end": 66520,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "tomé",
+            "start": 66520,
+            "end": 67560,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 67880,
+            "end": 68280,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "vuelta",
+            "start": 68360,
+            "end": 69400,
+            "confidence": 0.7137044,
+            "speaker": "A"
+        },
+        {
+            "text": "equivocada.",
+            "start": 69720,
+            "end": 71080,
+            "confidence": 0.9793701,
+            "speaker": "A"
+        },
+        {
+            "text": "Me",
+            "start": 74760,
+            "end": 75000,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "quedé",
+            "start": 75000,
+            "end": 75640,
+            "confidence": 0.87402344,
+            "speaker": "B"
+        },
+        {
+            "text": "sin",
+            "start": 75640,
+            "end": 75840,
+            "confidence": 0.90478516,
+            "speaker": "B"
+        },
+        {
+            "text": "movimiento",
+            "start": 75840,
+            "end": 76840,
+            "confidence": 0.7784831,
+            "speaker": "B"
+        },
+        {
+            "text": "Sin",
+            "start": 79000,
+            "end": 79280,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "saber",
+            "start": 79280,
+            "end": 79640,
+            "confidence": 0.98535156,
+            "speaker": "B"
+        },
+        {
+            "text": "por",
+            "start": 79800,
+            "end": 80119,
+            "confidence": 0.9399414,
+            "speaker": "B"
+        },
+        {
+            "text": "dónde",
+            "start": 80119,
+            "end": 80680,
+            "confidence": 0.7714844,
+            "speaker": "B"
+        },
+        {
+            "text": "regresar",
+            "start": 80680,
+            "end": 82120,
+            "confidence": 0.97477216,
+            "speaker": "B"
+        },
+        {
+            "text": "Lleno",
+            "start": 83240,
+            "end": 83840,
+            "confidence": 0.8741862,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 83840,
+            "end": 84040,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "remordimiento.",
+            "start": 84040,
+            "end": 85240,
+            "confidence": 0.83235675,
+            "speaker": "B"
+        },
+        {
+            "text": "Dejándote",
+            "start": 87240,
+            "end": 88400,
+            "confidence": 0.89277345,
+            "speaker": "C"
+        },
+        {
+            "text": "detrás",
+            "start": 88400,
+            "end": 89000,
+            "confidence": 0.9811198,
+            "speaker": "C"
+        },
+        {
+            "text": "Fingir",
+            "start": 89320,
+            "end": 90160,
+            "confidence": 0.94710284,
+            "speaker": "C"
+        },
+        {
+            "text": "ser",
+            "start": 90160,
+            "end": 90360,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "alguien",
+            "start": 90360,
+            "end": 90720,
+            "confidence": 0.9378255,
+            "speaker": "C"
+        },
+        {
+            "text": "más",
+            "start": 90720,
+            "end": 91080,
+            "confidence": 0.8803711,
+            "speaker": "C"
+        },
+        {
+            "text": "Y",
+            "start": 91080,
+            "end": 91400,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "llorar",
+            "start": 91400,
+            "end": 92200,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 93240,
+            "end": 93560,
+            "confidence": 0.9707031,
+            "speaker": "C"
+        },
+        {
+            "text": "llorar",
+            "start": 93560,
+            "end": 94200,
+            "confidence": 0.8728841,
+            "speaker": "C"
+        },
+        {
+            "text": "No",
+            "start": 96180,
+            "end": 96260,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "sirve",
+            "start": 96260,
+            "end": 96580,
+            "confidence": 0.8927409,
+            "speaker": "C"
+        },
+        {
+            "text": "de",
+            "start": 96740,
+            "end": 96980,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "nada",
+            "start": 96980,
+            "end": 97300,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "Ahora",
+            "start": 97460,
+            "end": 97860,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 97860,
+            "end": 98060,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "te",
+            "start": 98060,
+            "end": 98220,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "perdí",
+            "start": 98220,
+            "end": 99060,
+            "confidence": 0.96500653,
+            "speaker": "C"
+        },
+        {
+            "text": "Te",
+            "start": 99620,
+            "end": 99900,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "quiero",
+            "start": 99900,
+            "end": 100260,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "recuperar",
+            "start": 100260,
+            "end": 102740,
+            "confidence": 0.6616211,
+            "speaker": "C"
+        },
+        {
+            "text": "Ven,",
+            "start": 103860,
+            "end": 104260,
+            "confidence": 0.62353516,
+            "speaker": "C"
+        },
+        {
+            "text": "sálvame,",
+            "start": 104420,
+            "end": 105300,
+            "confidence": 0.96884763,
+            "speaker": "C"
+        },
+        {
+            "text": "despiértame",
+            "start": 106020,
+            "end": 107460,
+            "confidence": 0.8708984,
+            "speaker": "C"
+        },
+        {
+            "text": "rescátame.",
+            "start": 108100,
+            "end": 109620,
+            "confidence": 0.9475586,
+            "speaker": "C"
+        },
+        {
+            "text": "Del",
+            "start": 111779,
+            "end": 112180,
+            "confidence": 0.7270508,
+            "speaker": "A"
+        },
+        {
+            "text": "sufrimiento.",
+            "start": 112260,
+            "end": 112900,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Oh",
+            "start": 116580,
+            "end": 116980,
+            "confidence": 0.9667969,
+            "speaker": "C"
+        },
+        {
+            "text": "no.",
+            "start": 117060,
+            "end": 117460,
+            "confidence": 0.62158203,
+            "speaker": "C"
+        },
+        {
+            "text": "Del",
+            "start": 120340,
+            "end": 120740,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "sufrimiento.",
+            "start": 120740,
+            "end": 121540,
+            "confidence": 0.9746094,
+            "speaker": "B"
+        },
+        {
+            "text": "Tengo",
+            "start": 130000,
+            "end": 130360,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "la",
+            "start": 130360,
+            "end": 130560,
+            "confidence": 0.73095703,
+            "speaker": "B"
+        },
+        {
+            "text": "esperanza",
+            "start": 130560,
+            "end": 131320,
+            "confidence": 0.9543457,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 131320,
+            "end": 131640,
+            "confidence": 0.73095703,
+            "speaker": "B"
+        },
+        {
+            "text": "el",
+            "start": 131640,
+            "end": 131840,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "dolor",
+            "start": 131840,
+            "end": 132240,
+            "confidence": 0.87060547,
+            "speaker": "B"
+        },
+        {
+            "text": "cambie",
+            "start": 133760,
+            "end": 134480,
+            "confidence": 0.77319336,
+            "speaker": "B"
+        },
+        {
+            "text": "Y",
+            "start": 134560,
+            "end": 134800,
+            "confidence": 0.87402344,
+            "speaker": "B"
+        },
+        {
+            "text": "se",
+            "start": 134800,
+            "end": 134920,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "transforme",
+            "start": 134920,
+            "end": 135760,
+            "confidence": 0.83740234,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 135760,
+            "end": 135880,
+            "confidence": 0.6791992,
+            "speaker": "B"
+        },
+        {
+            "text": "tu",
+            "start": 135880,
+            "end": 136160,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "perdón",
+            "start": 136240,
+            "end": 137280,
+            "confidence": 0.8833008,
+            "speaker": "B"
+        },
+        {
+            "text": "Navegar",
+            "start": 138240,
+            "end": 139120,
+            "confidence": 0.9526367,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 139920,
+            "end": 140200,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "un",
+            "start": 140200,
+            "end": 140440,
+            "confidence": 0.9770508,
+            "speaker": "B"
+        },
+        {
+            "text": "mar",
+            "start": 140440,
+            "end": 140800,
+            "confidence": 0.73095703,
+            "speaker": "B"
+        },
+        {
+            "text": "sin",
+            "start": 141760,
+            "end": 142120,
+            "confidence": 0.77734375,
+            "speaker": "B"
+        },
+        {
+            "text": "fantasmas",
+            "start": 142120,
+            "end": 143360,
+            "confidence": 0.83095706,
+            "speaker": "B"
+        },
+        {
+            "text": "Y",
+            "start": 146720,
+            "end": 147040,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "la",
+            "start": 147040,
+            "end": 147280,
+            "confidence": 0.9770508,
+            "speaker": "B"
+        },
+        {
+            "text": "luz",
+            "start": 147280,
+            "end": 148000,
+            "confidence": 0.98535156,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 148160,
+            "end": 148480,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "tu",
+            "start": 148480,
+            "end": 148760,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "amor",
+            "start": 148760,
+            "end": 149280,
+            "confidence": 0.7807617,
+            "speaker": "B"
+        },
+        {
+            "text": "sea",
+            "start": 150240,
+            "end": 150640,
+            "confidence": 0.81689453,
+            "speaker": "B"
+        },
+        {
+            "text": "mi",
+            "start": 150640,
+            "end": 151000,
+            "confidence": 0.82714844,
+            "speaker": "B"
+        },
+        {
+            "text": "mapa.",
+            "start": 151000,
+            "end": 152000,
+            "confidence": 0.68603516,
+            "speaker": "B"
+        },
+        {
+            "text": "Juro",
+            "start": 155200,
+            "end": 155720,
+            "confidence": 0.9621582,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 155720,
+            "end": 155960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 155960,
+            "end": 156120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "verdad,",
+            "start": 156120,
+            "end": 156680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 156680,
+            "end": 157040,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "miento.",
+            "start": 157280,
+            "end": 157840,
+            "confidence": 0.8688965,
+            "speaker": "A"
+        },
+        {
+            "text": "Que.",
+            "start": 159660,
+            "end": 159820,
+            "confidence": 0.77734375,
+            "speaker": "C"
+        },
+        {
+            "text": "Mi",
+            "start": 159820,
+            "end": 160060,
+            "confidence": 0.66503906,
+            "speaker": "A"
+        },
+        {
+            "text": "voluntad",
+            "start": 160060,
+            "end": 160900,
+            "confidence": 0.9108073,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 160900,
+            "end": 161260,
+            "confidence": 0.41552734,
+            "speaker": "A"
+        },
+        {
+            "text": "cambia",
+            "start": 161340,
+            "end": 162620,
+            "confidence": 0.8001302,
+            "speaker": "A"
+        },
+        {
+            "text": "Pero",
+            "start": 163740,
+            "end": 164140,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "sola",
+            "start": 164140,
+            "end": 164700,
+            "confidence": 0.951416,
+            "speaker": "A"
+        },
+        {
+            "text": "yo.",
+            "start": 164700,
+            "end": 165060,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "No",
+            "start": 165060,
+            "end": 165420,
+            "confidence": 0.8520508,
+            "speaker": "C"
+        },
+        {
+            "text": "puedo",
+            "start": 165580,
+            "end": 166620,
+            "confidence": 0.94018555,
+            "speaker": "C"
+        },
+        {
+            "text": "No",
+            "start": 167740,
+            "end": 167980,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "sé",
+            "start": 167980,
+            "end": 168180,
+            "confidence": 0.5620117,
+            "speaker": "C"
+        },
+        {
+            "text": "cómo",
+            "start": 168180,
+            "end": 168700,
+            "confidence": 0.79996747,
+            "speaker": "C"
+        },
+        {
+            "text": "lograr",
+            "start": 168700,
+            "end": 169660,
+            "confidence": 0.87565106,
+            "speaker": "C"
+        },
+        {
+            "text": "mi",
+            "start": 169900,
+            "end": 170180,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "alma",
+            "start": 170180,
+            "end": 170540,
+            "confidence": 0.9260254,
+            "speaker": "C"
+        },
+        {
+            "text": "Reparar",
+            "start": 170540,
+            "end": 171660,
+            "confidence": 0.90559894,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 171660,
+            "end": 171860,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "llorar",
+            "start": 171860,
+            "end": 172620,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 173660,
+            "end": 173980,
+            "confidence": 0.5620117,
+            "speaker": "C"
+        },
+        {
+            "text": "llorar",
+            "start": 173980,
+            "end": 174780,
+            "confidence": 0.9900716,
+            "speaker": "C"
+        },
+        {
+            "text": "No",
+            "start": 176380,
+            "end": 176660,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "sirve",
+            "start": 176660,
+            "end": 177100,
+            "confidence": 0.79313153,
+            "speaker": "C"
+        },
+        {
+            "text": "de",
+            "start": 177180,
+            "end": 177460,
+            "confidence": 0.6791992,
+            "speaker": "C"
+        },
+        {
+            "text": "nada",
+            "start": 177460,
+            "end": 177820,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "Que",
+            "start": 178220,
+            "end": 178540,
+            "confidence": 0.98535156,
+            "speaker": "C"
+        },
+        {
+            "text": "te",
+            "start": 178540,
+            "end": 178780,
+            "confidence": 0.9916992,
+            "speaker": "C"
+        },
+        {
+            "text": "perdí",
+            "start": 178780,
+            "end": 179660,
+            "confidence": 0.9638672,
+            "speaker": "C"
+        },
+        {
+            "text": "Te",
+            "start": 180140,
+            "end": 180420,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "quiero",
+            "start": 180420,
+            "end": 180740,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "recuperar",
+            "start": 180740,
+            "end": 183100,
+            "confidence": 0.845459,
+            "speaker": "C"
+        },
+        {
+            "text": "Ven,",
+            "start": 184220,
+            "end": 184620,
+            "confidence": 0.5605469,
+            "speaker": "C"
+        },
+        {
+            "text": "sálvame,",
+            "start": 184860,
+            "end": 185820,
+            "confidence": 0.92148435,
+            "speaker": "C"
+        },
+        {
+            "text": "despiértame",
+            "start": 186460,
+            "end": 187900,
+            "confidence": 0.90546876,
+            "speaker": "C"
+        },
+        {
+            "text": "rescátame",
+            "start": 188540,
+            "end": 189980,
+            "confidence": 0.87226564,
+            "speaker": "C"
+        },
+        {
+            "text": "del",
+            "start": 192520,
+            "end": 192720,
+            "confidence": 0.8955078,
+            "speaker": "C"
+        },
+        {
+            "text": "sufrimiento",
+            "start": 192720,
+            "end": 193400,
+            "confidence": 0.9863281,
+            "speaker": "C"
+        },
+        {
+            "text": "Del",
+            "start": 196440,
+            "end": 196840,
+            "confidence": 0.7685547,
+            "speaker": "C"
+        },
+        {
+            "text": "sufrimiento",
+            "start": 196840,
+            "end": 197640,
+            "confidence": 0.8404948,
+            "speaker": "C"
+        },
+        {
+            "text": "Del",
+            "start": 200760,
+            "end": 201160,
+            "confidence": 0.98046875,
+            "speaker": "C"
+        },
+        {
+            "text": "sufrimiento",
+            "start": 201160,
+            "end": 201800,
+            "confidence": 0.8930664,
+            "speaker": "C"
+        },
+        {
+            "text": "Del",
+            "start": 205000,
+            "end": 205360,
+            "confidence": 0.9873047,
+            "speaker": "C"
+        },
+        {
+            "text": "sufrimiento",
+            "start": 205360,
+            "end": 206120,
+            "confidence": 0.84733075,
+            "speaker": "C"
+        },
+        {
+            "text": "del",
+            "start": 209240,
+            "end": 209640,
+            "confidence": 0.9692383,
+            "speaker": "C"
+        },
+        {
+            "text": "sufrimiento.",
+            "start": 209640,
+            "end": 210280,
+            "confidence": 0.97998047,
+            "speaker": "C"
+        },
+        {
+            "text": "Ni",
+            "start": 218120,
+            "end": 218480,
+            "confidence": 0.47851562,
+            "speaker": "C"
+        },
+        {
+            "text": "llorar",
+            "start": 218480,
+            "end": 219320,
+            "confidence": 0.99820966,
+            "speaker": "C"
+        },
+        {
+            "text": "y",
+            "start": 220420,
+            "end": 220540,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "llorar",
+            "start": 220540,
+            "end": 221620,
+            "confidence": 0.8860677,
+            "speaker": "C"
+        },
+        {
+            "text": "No",
+            "start": 222900,
+            "end": 223220,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "sirve",
+            "start": 223220,
+            "end": 223860,
+            "confidence": 0.8979492,
+            "speaker": "C"
+        },
+        {
+            "text": "de",
+            "start": 223860,
+            "end": 224060,
+            "confidence": 0.99902344,
+            "speaker": "C"
+        },
+        {
+            "text": "nada",
+            "start": 224060,
+            "end": 224420,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "Ahora",
+            "start": 224500,
+            "end": 224900,
+            "confidence": 0.99365234,
+            "speaker": "C"
+        },
+        {
+            "text": "que",
+            "start": 224900,
+            "end": 225140,
+            "confidence": 0.6225586,
+            "speaker": "C"
+        },
+        {
+            "text": "te",
+            "start": 225140,
+            "end": 225340,
+            "confidence": 1.0,
+            "speaker": "C"
+        },
+        {
+            "text": "perdí",
+            "start": 225340,
+            "end": 226100,
+            "confidence": 0.94466144,
+            "speaker": "C"
+        },
+        {
+            "text": "Te",
+            "start": 226580,
+            "end": 226860,
+            "confidence": 0.9868164,
+            "speaker": "C"
+        },
+        {
+            "text": "quiero",
+            "start": 226860,
+            "end": 227300,
+            "confidence": 0.84887695,
+            "speaker": "C"
+        },
+        {
+            "text": "recuperar",
+            "start": 227460,
+            "end": 229780,
+            "confidence": 0.83813477,
+            "speaker": "C"
+        },
+        {
+            "text": "Ven,",
+            "start": 230900,
+            "end": 231300,
+            "confidence": 0.9892578,
+            "speaker": "C"
+        },
+        {
+            "text": "sálvame,",
+            "start": 231460,
+            "end": 232340,
+            "confidence": 0.9986328,
+            "speaker": "C"
+        },
+        {
+            "text": "despiértame",
+            "start": 233140,
+            "end": 234580,
+            "confidence": 0.97382814,
+            "speaker": "C"
+        },
+        {
+            "text": "rescátame",
+            "start": 235140,
+            "end": 236500,
+            "confidence": 0.90664065,
+            "speaker": "C"
+        },
+        {
+            "text": "del",
+            "start": 238900,
+            "end": 239300,
+            "confidence": 0.5493164,
+            "speaker": "C"
+        },
+        {
+            "text": "sufrimiento.",
+            "start": 239300,
+            "end": 240020,
+            "confidence": 0.92057294,
+            "speaker": "C"
+        },
+        {
+            "text": "Del",
+            "start": 247460,
+            "end": 247820,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "sufrimiento.",
+            "start": 247820,
+            "end": 248660,
+            "confidence": 0.9593099,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Me perdí buscando ese lugar Todo por tratar de demostrar Olvidé que sin tu amor no valgo nada Y tomé una vuelta equivocada.",
+            "start": 49500,
+            "end": 71080,
+            "confidence": 0.9577106,
+            "speaker": "A"
+        },
+        {
+            "text": "Me quedé sin movimiento Sin saber por dónde regresar Lleno de remordimiento.",
+            "start": 74760,
+            "end": 85240,
+            "confidence": 0.9110786,
+            "speaker": "B"
+        },
+        {
+            "text": "Dejándote detrás Fingir ser alguien más Y llorar y llorar No sirve de nada Ahora que te perdí Te quiero recuperar Ven, sálvame, despiértame rescátame.",
+            "start": 87240,
+            "end": 109620,
+            "confidence": 0.9364023,
+            "speaker": "C"
+        },
+        {
+            "text": "Del sufrimiento.",
+            "start": 111779,
+            "end": 112900,
+            "confidence": 0.8586426,
+            "speaker": "A"
+        },
+        {
+            "text": "Oh no.",
+            "start": 116580,
+            "end": 117460,
+            "confidence": 0.79418945,
+            "speaker": "C"
+        },
+        {
+            "text": "Del sufrimiento. Tengo la esperanza que el dolor cambie Y se transforme en tu perdón Navegar en un mar sin fantasmas Y la luz de tu amor sea mi mapa.",
+            "start": 120340,
+            "end": 152000,
+            "confidence": 0.88831055,
+            "speaker": "B"
+        },
+        {
+            "text": "Juro que es verdad, no miento.",
+            "start": 155200,
+            "end": 157840,
+            "confidence": 0.9716797,
+            "speaker": "A"
+        },
+        {
+            "text": "Que.",
+            "start": 159660,
+            "end": 159820,
+            "confidence": 0.77734375,
+            "speaker": "C"
+        },
+        {
+            "text": "Mi voluntad se cambia Pero sola yo.",
+            "start": 159820,
+            "end": 165060,
+            "confidence": 0.7194127,
+            "speaker": "A"
+        },
+        {
+            "text": "No puedo No sé cómo lograr mi alma Reparar y llorar y llorar No sirve de nada Que te perdí Te quiero recuperar Ven, sálvame, despiértame rescátame del sufrimiento Del sufrimiento Del sufrimiento Del sufrimiento del sufrimiento. Ni llorar y llorar No sirve de nada Ahora que te perdí Te quiero recuperar Ven, sálvame, despiértame rescátame del sufrimiento.",
+            "start": 165060,
+            "end": 240020,
+            "confidence": 0.8950103,
+            "speaker": "C"
+        },
+        {
+            "text": "Del sufrimiento.",
+            "start": 247460,
+            "end": 248660,
+            "confidence": 0.9781901,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 301,
+    "language_code": "es"
+}

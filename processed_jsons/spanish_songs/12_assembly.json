@@ -1,0 +1,1343 @@
+{
+    "id": "031ef85e-0d91-4ef4-b9fc-c73b32482b69",
+    "status": "completed",
+    "text": "Tú induces mi canción le das un. Buen sabor. Cada situación. Siempre. Quién podría ser mejor. Contigo sale el sol sazonas min. Siempre se derrite el corazón tan solo. Con una mirada son tus besos es. Tu voz que tienen mi alma enajenada. Nuestro amor sabe a chocolate un corazón de bombón que late nuest Nuestro amor sabe a chocolate. Receta de pasión amor sin com. Siempre se derrite el corazón tan solo. Con una mirada son tus besos es. Tu voz que tiene en mi alma enajenada. Nuestro amor se había hecho volante un corazón de bombón que la Nuestro amor se había hecho con la t. Oh. Una probada y no más verás que te hace volar el cielo en tu. Parada así me quiero quedar Una probada. Y no más verás que te hace. Volar el cielo en tu parada así me quiero quedar. Contigo. Nuestro amor se ve chocolate. Nuestra moza. Ve a chocolate un corazón de bombón gelate nuestro amor sabe a chocolate.",
+    "words": [
+        {
+            "text": "Tú",
+            "start": 22080,
+            "end": 22480,
+            "confidence": 0.9675293,
+            "speaker": "A"
+        },
+        {
+            "text": "induces",
+            "start": 23680,
+            "end": 24640,
+            "confidence": 0.77473956,
+            "speaker": "A"
+        },
+        {
+            "text": "mi",
+            "start": 24720,
+            "end": 25080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "canción",
+            "start": 25080,
+            "end": 26000,
+            "confidence": 0.9909668,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 27440,
+            "end": 27800,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "das",
+            "start": 27800,
+            "end": 28160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un.",
+            "start": 28160,
+            "end": 28520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Buen",
+            "start": 28520,
+            "end": 28880,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "sabor.",
+            "start": 29040,
+            "end": 29520,
+            "confidence": 0.81103516,
+            "speaker": "B"
+        },
+        {
+            "text": "Cada",
+            "start": 32060,
+            "end": 32300,
+            "confidence": 0.61865234,
+            "speaker": "A"
+        },
+        {
+            "text": "situación.",
+            "start": 32460,
+            "end": 33580,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Siempre.",
+            "start": 35580,
+            "end": 35980,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "Quién",
+            "start": 52860,
+            "end": 53660,
+            "confidence": 0.9238281,
+            "speaker": "D"
+        },
+        {
+            "text": "podría",
+            "start": 54540,
+            "end": 55500,
+            "confidence": 0.883138,
+            "speaker": "D"
+        },
+        {
+            "text": "ser",
+            "start": 55500,
+            "end": 55740,
+            "confidence": 0.6791992,
+            "speaker": "D"
+        },
+        {
+            "text": "mejor.",
+            "start": 56140,
+            "end": 56540,
+            "confidence": 0.8808594,
+            "speaker": "D"
+        },
+        {
+            "text": "Contigo",
+            "start": 58460,
+            "end": 59380,
+            "confidence": 0.8930664,
+            "speaker": "A"
+        },
+        {
+            "text": "sale",
+            "start": 59380,
+            "end": 60260,
+            "confidence": 0.86450195,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 60260,
+            "end": 60420,
+            "confidence": 0.98095703,
+            "speaker": "A"
+        },
+        {
+            "text": "sol",
+            "start": 60420,
+            "end": 60700,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "sazonas",
+            "start": 62300,
+            "end": 63340,
+            "confidence": 0.79138184,
+            "speaker": "A"
+        },
+        {
+            "text": "min.",
+            "start": 63340,
+            "end": 63660,
+            "confidence": 0.42749023,
+            "speaker": "A"
+        },
+        {
+            "text": "Siempre",
+            "start": 66760,
+            "end": 67000,
+            "confidence": 1.0,
+            "speaker": "D"
+        },
+        {
+            "text": "se",
+            "start": 68200,
+            "end": 68600,
+            "confidence": 0.8520508,
+            "speaker": "D"
+        },
+        {
+            "text": "derrite",
+            "start": 68920,
+            "end": 70160,
+            "confidence": 0.78515625,
+            "speaker": "D"
+        },
+        {
+            "text": "el",
+            "start": 70160,
+            "end": 70480,
+            "confidence": 0.9941406,
+            "speaker": "D"
+        },
+        {
+            "text": "corazón",
+            "start": 70480,
+            "end": 71400,
+            "confidence": 0.9580078,
+            "speaker": "D"
+        },
+        {
+            "text": "tan",
+            "start": 71880,
+            "end": 72360,
+            "confidence": 0.8112793,
+            "speaker": "D"
+        },
+        {
+            "text": "solo.",
+            "start": 72360,
+            "end": 72680,
+            "confidence": 0.81689453,
+            "speaker": "D"
+        },
+        {
+            "text": "Con",
+            "start": 73240,
+            "end": 73640,
+            "confidence": 0.8520508,
+            "speaker": "E"
+        },
+        {
+            "text": "una",
+            "start": 73720,
+            "end": 74120,
+            "confidence": 0.8520508,
+            "speaker": "E"
+        },
+        {
+            "text": "mirada",
+            "start": 74520,
+            "end": 75480,
+            "confidence": 1.0,
+            "speaker": "E"
+        },
+        {
+            "text": "son",
+            "start": 76120,
+            "end": 76520,
+            "confidence": 1.0,
+            "speaker": "E"
+        },
+        {
+            "text": "tus",
+            "start": 76520,
+            "end": 77040,
+            "confidence": 0.8886719,
+            "speaker": "E"
+        },
+        {
+            "text": "besos",
+            "start": 77040,
+            "end": 77880,
+            "confidence": 0.7741699,
+            "speaker": "E"
+        },
+        {
+            "text": "es.",
+            "start": 78200,
+            "end": 78520,
+            "confidence": 0.99902344,
+            "speaker": "E"
+        },
+        {
+            "text": "Tu",
+            "start": 78520,
+            "end": 78800,
+            "confidence": 0.6791992,
+            "speaker": "D"
+        },
+        {
+            "text": "voz",
+            "start": 78800,
+            "end": 79320,
+            "confidence": 0.97216797,
+            "speaker": "D"
+        },
+        {
+            "text": "que",
+            "start": 79480,
+            "end": 79799,
+            "confidence": 1.0,
+            "speaker": "D"
+        },
+        {
+            "text": "tienen",
+            "start": 79799,
+            "end": 81000,
+            "confidence": 0.689209,
+            "speaker": "D"
+        },
+        {
+            "text": "mi",
+            "start": 81000,
+            "end": 81200,
+            "confidence": 0.9995117,
+            "speaker": "D"
+        },
+        {
+            "text": "alma",
+            "start": 81200,
+            "end": 81600,
+            "confidence": 1.0,
+            "speaker": "D"
+        },
+        {
+            "text": "enajenada.",
+            "start": 81600,
+            "end": 83160,
+            "confidence": 0.7570801,
+            "speaker": "D"
+        },
+        {
+            "text": "Nuestro",
+            "start": 87800,
+            "end": 88480,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "amor",
+            "start": 88480,
+            "end": 88840,
+            "confidence": 0.9992676,
+            "speaker": "F"
+        },
+        {
+            "text": "sabe",
+            "start": 88840,
+            "end": 89400,
+            "confidence": 0.85180664,
+            "speaker": "F"
+        },
+        {
+            "text": "a",
+            "start": 89400,
+            "end": 89680,
+            "confidence": 0.9394531,
+            "speaker": "F"
+        },
+        {
+            "text": "chocolate",
+            "start": 89680,
+            "end": 90920,
+            "confidence": 0.74401855,
+            "speaker": "F"
+        },
+        {
+            "text": "un",
+            "start": 91480,
+            "end": 91840,
+            "confidence": 0.9897461,
+            "speaker": "F"
+        },
+        {
+            "text": "corazón",
+            "start": 91840,
+            "end": 92720,
+            "confidence": 0.90738934,
+            "speaker": "F"
+        },
+        {
+            "text": "de",
+            "start": 92720,
+            "end": 93000,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "bombón",
+            "start": 93000,
+            "end": 93800,
+            "confidence": 0.79264325,
+            "speaker": "F"
+        },
+        {
+            "text": "que",
+            "start": 93880,
+            "end": 94240,
+            "confidence": 0.8017578,
+            "speaker": "F"
+        },
+        {
+            "text": "late",
+            "start": 94240,
+            "end": 95000,
+            "confidence": 0.9104004,
+            "speaker": "F"
+        },
+        {
+            "text": "nuest",
+            "start": 95320,
+            "end": 95710,
+            "confidence": 0.61328125,
+            "speaker": "F"
+        },
+        {
+            "text": "Nuestro",
+            "start": 95860,
+            "end": 96260,
+            "confidence": 0.7182617,
+            "speaker": "F"
+        },
+        {
+            "text": "amor",
+            "start": 96260,
+            "end": 96700,
+            "confidence": 0.998291,
+            "speaker": "F"
+        },
+        {
+            "text": "sabe",
+            "start": 96700,
+            "end": 97140,
+            "confidence": 0.7644043,
+            "speaker": "F"
+        },
+        {
+            "text": "a",
+            "start": 97140,
+            "end": 97380,
+            "confidence": 0.9394531,
+            "speaker": "F"
+        },
+        {
+            "text": "chocolate.",
+            "start": 97380,
+            "end": 98740,
+            "confidence": 0.9864502,
+            "speaker": "F"
+        },
+        {
+            "text": "Receta",
+            "start": 122260,
+            "end": 123300,
+            "confidence": 0.98795575,
+            "speaker": "D"
+        },
+        {
+            "text": "de",
+            "start": 123300,
+            "end": 123620,
+            "confidence": 0.9980469,
+            "speaker": "D"
+        },
+        {
+            "text": "pasión",
+            "start": 123700,
+            "end": 124660,
+            "confidence": 0.7858887,
+            "speaker": "D"
+        },
+        {
+            "text": "amor",
+            "start": 126260,
+            "end": 126700,
+            "confidence": 0.9926758,
+            "speaker": "D"
+        },
+        {
+            "text": "sin",
+            "start": 126700,
+            "end": 127060,
+            "confidence": 0.66748047,
+            "speaker": "D"
+        },
+        {
+            "text": "com.",
+            "start": 127220,
+            "end": 127610,
+            "confidence": 0.1459961,
+            "speaker": "D"
+        },
+        {
+            "text": "Siempre",
+            "start": 130640,
+            "end": 130880,
+            "confidence": 1.0,
+            "speaker": "D"
+        },
+        {
+            "text": "se",
+            "start": 132080,
+            "end": 132480,
+            "confidence": 0.6220703,
+            "speaker": "D"
+        },
+        {
+            "text": "derrite",
+            "start": 132640,
+            "end": 134000,
+            "confidence": 0.9345703,
+            "speaker": "D"
+        },
+        {
+            "text": "el",
+            "start": 134000,
+            "end": 134320,
+            "confidence": 0.984375,
+            "speaker": "D"
+        },
+        {
+            "text": "corazón",
+            "start": 134320,
+            "end": 135200,
+            "confidence": 0.80826825,
+            "speaker": "D"
+        },
+        {
+            "text": "tan",
+            "start": 135760,
+            "end": 136200,
+            "confidence": 0.8112793,
+            "speaker": "D"
+        },
+        {
+            "text": "solo.",
+            "start": 136200,
+            "end": 136560,
+            "confidence": 0.8803711,
+            "speaker": "D"
+        },
+        {
+            "text": "Con",
+            "start": 137120,
+            "end": 137520,
+            "confidence": 0.9399414,
+            "speaker": "E"
+        },
+        {
+            "text": "una",
+            "start": 137600,
+            "end": 138000,
+            "confidence": 0.8520508,
+            "speaker": "E"
+        },
+        {
+            "text": "mirada",
+            "start": 138400,
+            "end": 139440,
+            "confidence": 1.0,
+            "speaker": "E"
+        },
+        {
+            "text": "son",
+            "start": 140000,
+            "end": 140360,
+            "confidence": 1.0,
+            "speaker": "E"
+        },
+        {
+            "text": "tus",
+            "start": 140360,
+            "end": 140880,
+            "confidence": 0.8876953,
+            "speaker": "E"
+        },
+        {
+            "text": "besos",
+            "start": 140880,
+            "end": 141760,
+            "confidence": 0.8864746,
+            "speaker": "E"
+        },
+        {
+            "text": "es.",
+            "start": 142000,
+            "end": 142320,
+            "confidence": 0.6225586,
+            "speaker": "E"
+        },
+        {
+            "text": "Tu",
+            "start": 142320,
+            "end": 142640,
+            "confidence": 0.5620117,
+            "speaker": "D"
+        },
+        {
+            "text": "voz",
+            "start": 142640,
+            "end": 143200,
+            "confidence": 0.8276367,
+            "speaker": "D"
+        },
+        {
+            "text": "que",
+            "start": 143280,
+            "end": 143640,
+            "confidence": 1.0,
+            "speaker": "D"
+        },
+        {
+            "text": "tiene",
+            "start": 143640,
+            "end": 143999,
+            "confidence": 0.72998047,
+            "speaker": "D"
+        },
+        {
+            "text": "en",
+            "start": 144560,
+            "end": 144840,
+            "confidence": 0.52001953,
+            "speaker": "D"
+        },
+        {
+            "text": "mi",
+            "start": 144840,
+            "end": 145040,
+            "confidence": 0.72998047,
+            "speaker": "D"
+        },
+        {
+            "text": "alma",
+            "start": 145040,
+            "end": 145600,
+            "confidence": 0.9667969,
+            "speaker": "D"
+        },
+        {
+            "text": "enajenada.",
+            "start": 145680,
+            "end": 146960,
+            "confidence": 0.8063965,
+            "speaker": "D"
+        },
+        {
+            "text": "Nuestro",
+            "start": 151600,
+            "end": 152440,
+            "confidence": 0.7675781,
+            "speaker": "F"
+        },
+        {
+            "text": "amor",
+            "start": 152440,
+            "end": 152800,
+            "confidence": 0.95703125,
+            "speaker": "F"
+        },
+        {
+            "text": "se",
+            "start": 152800,
+            "end": 153040,
+            "confidence": 0.95703125,
+            "speaker": "F"
+        },
+        {
+            "text": "había",
+            "start": 153040,
+            "end": 153320,
+            "confidence": 0.5904541,
+            "speaker": "F"
+        },
+        {
+            "text": "hecho",
+            "start": 153320,
+            "end": 153600,
+            "confidence": 0.7800293,
+            "speaker": "F"
+        },
+        {
+            "text": "volante",
+            "start": 153840,
+            "end": 154720,
+            "confidence": 0.58947754,
+            "speaker": "F"
+        },
+        {
+            "text": "un",
+            "start": 155280,
+            "end": 155640,
+            "confidence": 0.6191406,
+            "speaker": "F"
+        },
+        {
+            "text": "corazón",
+            "start": 155640,
+            "end": 156640,
+            "confidence": 0.82454425,
+            "speaker": "F"
+        },
+        {
+            "text": "de",
+            "start": 156640,
+            "end": 156960,
+            "confidence": 0.98876953,
+            "speaker": "F"
+        },
+        {
+            "text": "bombón",
+            "start": 156960,
+            "end": 157720,
+            "confidence": 0.87890625,
+            "speaker": "F"
+        },
+        {
+            "text": "que",
+            "start": 157720,
+            "end": 158040,
+            "confidence": 0.8881836,
+            "speaker": "F"
+        },
+        {
+            "text": "la",
+            "start": 158040,
+            "end": 158400,
+            "confidence": 0.5605469,
+            "speaker": "F"
+        },
+        {
+            "text": "Nuestro",
+            "start": 159740,
+            "end": 160140,
+            "confidence": 0.8894043,
+            "speaker": "F"
+        },
+        {
+            "text": "amor",
+            "start": 160140,
+            "end": 160500,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "se",
+            "start": 160500,
+            "end": 160700,
+            "confidence": 0.6738281,
+            "speaker": "F"
+        },
+        {
+            "text": "había",
+            "start": 160700,
+            "end": 161100,
+            "confidence": 0.93530273,
+            "speaker": "F"
+        },
+        {
+            "text": "hecho",
+            "start": 161100,
+            "end": 161420,
+            "confidence": 0.90649414,
+            "speaker": "F"
+        },
+        {
+            "text": "con",
+            "start": 161580,
+            "end": 161980,
+            "confidence": 0.53759766,
+            "speaker": "F"
+        },
+        {
+            "text": "la",
+            "start": 161980,
+            "end": 162380,
+            "confidence": 0.9975586,
+            "speaker": "F"
+        },
+        {
+            "text": "t.",
+            "start": 162460,
+            "end": 162860,
+            "confidence": 0.90527344,
+            "speaker": "F"
+        },
+        {
+            "text": "Oh.",
+            "start": 163340,
+            "end": 163740,
+            "confidence": 0.6777344,
+            "speaker": "F"
+        },
+        {
+            "text": "Una",
+            "start": 165420,
+            "end": 165820,
+            "confidence": 0.8774414,
+            "speaker": "G"
+        },
+        {
+            "text": "probada",
+            "start": 165820,
+            "end": 166540,
+            "confidence": 0.90250653,
+            "speaker": "G"
+        },
+        {
+            "text": "y",
+            "start": 166540,
+            "end": 166740,
+            "confidence": 0.98876953,
+            "speaker": "G"
+        },
+        {
+            "text": "no",
+            "start": 166740,
+            "end": 166940,
+            "confidence": 0.8886719,
+            "speaker": "G"
+        },
+        {
+            "text": "más",
+            "start": 166940,
+            "end": 167260,
+            "confidence": 0.97021484,
+            "speaker": "G"
+        },
+        {
+            "text": "verás",
+            "start": 167420,
+            "end": 167860,
+            "confidence": 0.94018555,
+            "speaker": "G"
+        },
+        {
+            "text": "que",
+            "start": 167860,
+            "end": 168020,
+            "confidence": 1.0,
+            "speaker": "G"
+        },
+        {
+            "text": "te",
+            "start": 168020,
+            "end": 168140,
+            "confidence": 1.0,
+            "speaker": "G"
+        },
+        {
+            "text": "hace",
+            "start": 168140,
+            "end": 168380,
+            "confidence": 0.67822266,
+            "speaker": "G"
+        },
+        {
+            "text": "volar",
+            "start": 168460,
+            "end": 169020,
+            "confidence": 0.83691406,
+            "speaker": "G"
+        },
+        {
+            "text": "el",
+            "start": 169260,
+            "end": 169500,
+            "confidence": 1.0,
+            "speaker": "G"
+        },
+        {
+            "text": "cielo",
+            "start": 169500,
+            "end": 169900,
+            "confidence": 0.87402344,
+            "speaker": "G"
+        },
+        {
+            "text": "en",
+            "start": 169900,
+            "end": 170060,
+            "confidence": 1.0,
+            "speaker": "G"
+        },
+        {
+            "text": "tu.",
+            "start": 170060,
+            "end": 170220,
+            "confidence": 0.99609375,
+            "speaker": "G"
+        },
+        {
+            "text": "Parada",
+            "start": 170220,
+            "end": 171020,
+            "confidence": 0.8371582,
+            "speaker": "F"
+        },
+        {
+            "text": "así",
+            "start": 171180,
+            "end": 171580,
+            "confidence": 0.77734375,
+            "speaker": "F"
+        },
+        {
+            "text": "me",
+            "start": 171580,
+            "end": 171820,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "quiero",
+            "start": 171820,
+            "end": 172380,
+            "confidence": 0.95214844,
+            "speaker": "F"
+        },
+        {
+            "text": "quedar",
+            "start": 172380,
+            "end": 173020,
+            "confidence": 0.8046875,
+            "speaker": "F"
+        },
+        {
+            "text": "Una",
+            "start": 173180,
+            "end": 173540,
+            "confidence": 0.9892578,
+            "speaker": "F"
+        },
+        {
+            "text": "probada.",
+            "start": 173540,
+            "end": 174180,
+            "confidence": 0.8878581,
+            "speaker": "F"
+        },
+        {
+            "text": "Y",
+            "start": 174180,
+            "end": 174420,
+            "confidence": 0.81689453,
+            "speaker": "G"
+        },
+        {
+            "text": "no",
+            "start": 174420,
+            "end": 174700,
+            "confidence": 0.59814453,
+            "speaker": "G"
+        },
+        {
+            "text": "más",
+            "start": 174700,
+            "end": 174980,
+            "confidence": 0.9995117,
+            "speaker": "G"
+        },
+        {
+            "text": "verás",
+            "start": 174980,
+            "end": 175500,
+            "confidence": 0.6789551,
+            "speaker": "G"
+        },
+        {
+            "text": "que",
+            "start": 175500,
+            "end": 175779,
+            "confidence": 0.9628906,
+            "speaker": "G"
+        },
+        {
+            "text": "te",
+            "start": 175779,
+            "end": 175900,
+            "confidence": 1.0,
+            "speaker": "G"
+        },
+        {
+            "text": "hace.",
+            "start": 175900,
+            "end": 176140,
+            "confidence": 0.8520508,
+            "speaker": "G"
+        },
+        {
+            "text": "Volar",
+            "start": 176140,
+            "end": 176940,
+            "confidence": 0.7963867,
+            "speaker": "F"
+        },
+        {
+            "text": "el",
+            "start": 177020,
+            "end": 177260,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "cielo",
+            "start": 177260,
+            "end": 177620,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "en",
+            "start": 177620,
+            "end": 177860,
+            "confidence": 0.9667969,
+            "speaker": "F"
+        },
+        {
+            "text": "tu",
+            "start": 177860,
+            "end": 178060,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "parada",
+            "start": 178060,
+            "end": 178780,
+            "confidence": 0.8388672,
+            "speaker": "F"
+        },
+        {
+            "text": "así",
+            "start": 178940,
+            "end": 179340,
+            "confidence": 0.77734375,
+            "speaker": "F"
+        },
+        {
+            "text": "me",
+            "start": 179340,
+            "end": 179620,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "quiero",
+            "start": 179620,
+            "end": 180140,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "quedar.",
+            "start": 180140,
+            "end": 180940,
+            "confidence": 0.79752606,
+            "speaker": "F"
+        },
+        {
+            "text": "Contigo.",
+            "start": 187100,
+            "end": 188220,
+            "confidence": 0.8688151,
+            "speaker": "H"
+        },
+        {
+            "text": "Nuestro",
+            "start": 196280,
+            "end": 196680,
+            "confidence": 0.83935547,
+            "speaker": "I"
+        },
+        {
+            "text": "amor",
+            "start": 196680,
+            "end": 197160,
+            "confidence": 0.9987793,
+            "speaker": "I"
+        },
+        {
+            "text": "se",
+            "start": 197160,
+            "end": 197520,
+            "confidence": 0.6748047,
+            "speaker": "I"
+        },
+        {
+            "text": "ve",
+            "start": 197520,
+            "end": 197840,
+            "confidence": 0.6015625,
+            "speaker": "I"
+        },
+        {
+            "text": "chocolate.",
+            "start": 197840,
+            "end": 199320,
+            "confidence": 0.8590088,
+            "speaker": "I"
+        },
+        {
+            "text": "Nuestra",
+            "start": 201960,
+            "end": 202760,
+            "confidence": 0.85131836,
+            "speaker": "J"
+        },
+        {
+            "text": "moza.",
+            "start": 202760,
+            "end": 203320,
+            "confidence": 0.5588379,
+            "speaker": "J"
+        },
+        {
+            "text": "Ve",
+            "start": 203320,
+            "end": 203600,
+            "confidence": 0.35766602,
+            "speaker": "F"
+        },
+        {
+            "text": "a",
+            "start": 203600,
+            "end": 203840,
+            "confidence": 0.8203125,
+            "speaker": "F"
+        },
+        {
+            "text": "chocolate",
+            "start": 203840,
+            "end": 205000,
+            "confidence": 0.8201904,
+            "speaker": "F"
+        },
+        {
+            "text": "un",
+            "start": 205560,
+            "end": 205920,
+            "confidence": 0.77734375,
+            "speaker": "F"
+        },
+        {
+            "text": "corazón",
+            "start": 205920,
+            "end": 206960,
+            "confidence": 0.8531901,
+            "speaker": "F"
+        },
+        {
+            "text": "de",
+            "start": 206960,
+            "end": 207280,
+            "confidence": 1.0,
+            "speaker": "F"
+        },
+        {
+            "text": "bombón",
+            "start": 207280,
+            "end": 208040,
+            "confidence": 0.87027997,
+            "speaker": "F"
+        },
+        {
+            "text": "gelate",
+            "start": 208120,
+            "end": 209000,
+            "confidence": 0.80566406,
+            "speaker": "F"
+        },
+        {
+            "text": "nuestro",
+            "start": 209720,
+            "end": 210320,
+            "confidence": 0.99902344,
+            "speaker": "F"
+        },
+        {
+            "text": "amor",
+            "start": 210320,
+            "end": 210680,
+            "confidence": 0.95214844,
+            "speaker": "F"
+        },
+        {
+            "text": "sabe",
+            "start": 210760,
+            "end": 211320,
+            "confidence": 0.7319336,
+            "speaker": "F"
+        },
+        {
+            "text": "a",
+            "start": 211320,
+            "end": 211560,
+            "confidence": 0.67822266,
+            "speaker": "F"
+        },
+        {
+            "text": "chocolate.",
+            "start": 211560,
+            "end": 212920,
+            "confidence": 0.90063477,
+            "speaker": "F"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Tú induces mi canción le das un.",
+            "start": 22080,
+            "end": 28520,
+            "confidence": 0.9617513,
+            "speaker": "A"
+        },
+        {
+            "text": "Buen sabor.",
+            "start": 28520,
+            "end": 29520,
+            "confidence": 0.9055176,
+            "speaker": "B"
+        },
+        {
+            "text": "Cada situación.",
+            "start": 32060,
+            "end": 33580,
+            "confidence": 0.8092041,
+            "speaker": "A"
+        },
+        {
+            "text": "Siempre.",
+            "start": 35580,
+            "end": 35980,
+            "confidence": 0.9995117,
+            "speaker": "C"
+        },
+        {
+            "text": "Quién podría ser mejor.",
+            "start": 52860,
+            "end": 56540,
+            "confidence": 0.84175617,
+            "speaker": "D"
+        },
+        {
+            "text": "Contigo sale el sol sazonas min.",
+            "start": 58460,
+            "end": 63660,
+            "confidence": 0.75323486,
+            "speaker": "A"
+        },
+        {
+            "text": "Siempre se derrite el corazón tan solo.",
+            "start": 66760,
+            "end": 72680,
+            "confidence": 0.88821846,
+            "speaker": "D"
+        },
+        {
+            "text": "Con una mirada son tus besos es.",
+            "start": 73240,
+            "end": 78520,
+            "confidence": 0.9094238,
+            "speaker": "E"
+        },
+        {
+            "text": "Tu voz que tienen mi alma enajenada.",
+            "start": 78520,
+            "end": 83160,
+            "confidence": 0.871024,
+            "speaker": "D"
+        },
+        {
+            "text": "Nuestro amor sabe a chocolate un corazón de bombón que late nuest Nuestro amor sabe a chocolate.",
+            "start": 87800,
+            "end": 98740,
+            "confidence": 0.87980145,
+            "speaker": "F"
+        },
+        {
+            "text": "Receta de pasión amor sin com. Siempre se derrite el corazón tan solo.",
+            "start": 122260,
+            "end": 136560,
+            "confidence": 0.81684446,
+            "speaker": "D"
+        },
+        {
+            "text": "Con una mirada son tus besos es.",
+            "start": 137120,
+            "end": 142320,
+            "confidence": 0.88410294,
+            "speaker": "E"
+        },
+        {
+            "text": "Tu voz que tiene en mi alma enajenada.",
+            "start": 142320,
+            "end": 146960,
+            "confidence": 0.7678528,
+            "speaker": "D"
+        },
+        {
+            "text": "Nuestro amor se había hecho volante un corazón de bombón que la Nuestro amor se había hecho con la t. Oh.",
+            "start": 151600,
+            "end": 163740,
+            "confidence": 0.80594695,
+            "speaker": "F"
+        },
+        {
+            "text": "Una probada y no más verás que te hace volar el cielo en tu.",
+            "start": 165420,
+            "end": 170220,
+            "confidence": 0.9252174,
+            "speaker": "G"
+        },
+        {
+            "text": "Parada así me quiero quedar Una probada.",
+            "start": 170220,
+            "end": 174180,
+            "confidence": 0.89263624,
+            "speaker": "F"
+        },
+        {
+            "text": "Y no más verás que te hace.",
+            "start": 174180,
+            "end": 176140,
+            "confidence": 0.8440639,
+            "speaker": "G"
+        },
+        {
+            "text": "Volar el cielo en tu parada así me quiero quedar.",
+            "start": 176140,
+            "end": 180940,
+            "confidence": 0.91769207,
+            "speaker": "F"
+        },
+        {
+            "text": "Contigo.",
+            "start": 187100,
+            "end": 188220,
+            "confidence": 0.8688151,
+            "speaker": "H"
+        },
+        {
+            "text": "Nuestro amor se ve chocolate.",
+            "start": 196280,
+            "end": 199320,
+            "confidence": 0.7947022,
+            "speaker": "I"
+        },
+        {
+            "text": "Nuestra moza.",
+            "start": 201960,
+            "end": 203320,
+            "confidence": 0.7050781,
+            "speaker": "J"
+        },
+        {
+            "text": "Ve a chocolate un corazón de bombón gelate nuestro amor sabe a chocolate.",
+            "start": 203320,
+            "end": 212920,
+            "confidence": 0.81281614,
+            "speaker": "F"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 256,
+    "language_code": "es"
+}
