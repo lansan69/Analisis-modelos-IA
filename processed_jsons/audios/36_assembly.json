@@ -1,0 +1,489 @@
+{
+    "id": "d2b70a14-1554-48d6-872e-0f3e69426a4d",
+    "status": "completed",
+    "text": "Buenas tardes, hablo con Don Aldo Mario Antonio Arancibia Morales, saluda Mayra Pavesi, ejecutiva de Fashions Park. Le llamo para darle la bienvenida a la tarjeta y corroborar algunos datos. Le indico para su seguridad que llamada está siendo grabada y su tarjeta fue habilitada con fecha 2 de septiembre de 2023 en la sucursal de Plaza Victoria y tiene un cupo inicial de 85 mil pesos.",
+    "words": [
+        {
+            "text": "Buenas",
+            "start": 5520,
+            "end": 5760,
+            "confidence": 0.88793945,
+            "speaker": "A"
+        },
+        {
+            "text": "tardes,",
+            "start": 5760,
+            "end": 6040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "hablo",
+            "start": 6040,
+            "end": 6280,
+            "confidence": 0.90356445,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 6280,
+            "end": 6440,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Don",
+            "start": 6440,
+            "end": 6640,
+            "confidence": 0.92871094,
+            "speaker": "A"
+        },
+        {
+            "text": "Aldo",
+            "start": 6640,
+            "end": 6960,
+            "confidence": 0.9807129,
+            "speaker": "A"
+        },
+        {
+            "text": "Mario",
+            "start": 6960,
+            "end": 7280,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Antonio",
+            "start": 7280,
+            "end": 7600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Arancibia",
+            "start": 7600,
+            "end": 8400,
+            "confidence": 0.7558594,
+            "speaker": "A"
+        },
+        {
+            "text": "Morales,",
+            "start": 8400,
+            "end": 8720,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "saluda",
+            "start": 10720,
+            "end": 11080,
+            "confidence": 0.97021484,
+            "speaker": "A"
+        },
+        {
+            "text": "Mayra",
+            "start": 11080,
+            "end": 11400,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Pavesi,",
+            "start": 11400,
+            "end": 11920,
+            "confidence": 0.81363934,
+            "speaker": "A"
+        },
+        {
+            "text": "ejecutiva",
+            "start": 11920,
+            "end": 12240,
+            "confidence": 0.9835612,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 12240,
+            "end": 12320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashions",
+            "start": 12320,
+            "end": 12800,
+            "confidence": 0.8033447,
+            "speaker": "A"
+        },
+        {
+            "text": "Park.",
+            "start": 12800,
+            "end": 13200,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Le",
+            "start": 13200,
+            "end": 13360,
+            "confidence": 0.5463867,
+            "speaker": "A"
+        },
+        {
+            "text": "llamo",
+            "start": 13360,
+            "end": 13680,
+            "confidence": 0.9972331,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 13680,
+            "end": 13760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "darle",
+            "start": 13760,
+            "end": 13920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 13920,
+            "end": 14000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "bienvenida",
+            "start": 14000,
+            "end": 14280,
+            "confidence": 0.9746094,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 14280,
+            "end": 14440,
+            "confidence": 0.69677734,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 14440,
+            "end": 14600,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 14600,
+            "end": 14960,
+            "confidence": 0.98323566,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 14960,
+            "end": 15040,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "corroborar",
+            "start": 15040,
+            "end": 15560,
+            "confidence": 0.8694336,
+            "speaker": "A"
+        },
+        {
+            "text": "algunos",
+            "start": 15560,
+            "end": 15920,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "datos.",
+            "start": 15920,
+            "end": 16399,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Le",
+            "start": 20400,
+            "end": 20680,
+            "confidence": 0.5571289,
+            "speaker": "A"
+        },
+        {
+            "text": "indico",
+            "start": 20680,
+            "end": 21080,
+            "confidence": 0.8391113,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 21080,
+            "end": 21240,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 21240,
+            "end": 21400,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "seguridad",
+            "start": 21400,
+            "end": 21720,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 21720,
+            "end": 21840,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "llamada",
+            "start": 21840,
+            "end": 22200,
+            "confidence": 0.80354816,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 22200,
+            "end": 22360,
+            "confidence": 0.8857422,
+            "speaker": "A"
+        },
+        {
+            "text": "siendo",
+            "start": 22360,
+            "end": 22560,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "grabada",
+            "start": 22560,
+            "end": 22880,
+            "confidence": 0.9930013,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 22880,
+            "end": 23000,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 23000,
+            "end": 23120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 23120,
+            "end": 23440,
+            "confidence": 0.99527997,
+            "speaker": "A"
+        },
+        {
+            "text": "fue",
+            "start": 23440,
+            "end": 23520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "habilitada",
+            "start": 23520,
+            "end": 24320,
+            "confidence": 0.9658203,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 24560,
+            "end": 24800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "fecha",
+            "start": 24800,
+            "end": 25160,
+            "confidence": 0.96533203,
+            "speaker": "A"
+        },
+        {
+            "text": "2",
+            "start": 25160,
+            "end": 25480,
+            "confidence": 0.95215,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 25480,
+            "end": 25720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "septiembre",
+            "start": 25720,
+            "end": 26200,
+            "confidence": 0.9852295,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 26200,
+            "end": 26320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "2023",
+            "start": 26320,
+            "end": 26960,
+            "confidence": 0.9998,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 26960,
+            "end": 27160,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 27160,
+            "end": 27280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sucursal",
+            "start": 27280,
+            "end": 27680,
+            "confidence": 0.9242188,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 27680,
+            "end": 27760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Plaza",
+            "start": 27760,
+            "end": 27920,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "Victoria",
+            "start": 27920,
+            "end": 28480,
+            "confidence": 0.8857422,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 28480,
+            "end": 28560,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "tiene",
+            "start": 28560,
+            "end": 28680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 28680,
+            "end": 28800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cupo",
+            "start": 28800,
+            "end": 29040,
+            "confidence": 0.935791,
+            "speaker": "A"
+        },
+        {
+            "text": "inicial",
+            "start": 29040,
+            "end": 29280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 29280,
+            "end": 29360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "85",
+            "start": 29360,
+            "end": 29960,
+            "confidence": 0.75103,
+            "speaker": "A"
+        },
+        {
+            "text": "mil",
+            "start": 29960,
+            "end": 30200,
+            "confidence": 0.9667969,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos.",
+            "start": 30200,
+            "end": 30640,
+            "confidence": 0.8930664,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Buenas tardes, hablo con Don Aldo Mario Antonio Arancibia Morales, saluda Mayra Pavesi, ejecutiva de Fashions Park. Le llamo para darle la bienvenida a la tarjeta y corroborar algunos datos. Le indico para su seguridad que llamada está siendo grabada y su tarjeta fue habilitada con fecha 2 de septiembre de 2023 en la sucursal de Plaza Victoria y tiene un cupo inicial de 85 mil pesos.",
+            "start": 5520,
+            "end": 30640,
+            "confidence": 0.93935794,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 31,
+    "language_code": "es"
+}

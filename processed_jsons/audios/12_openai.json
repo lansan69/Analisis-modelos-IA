@@ -95,24 +95,19 @@
             "confidence": 0.95
         },
         {
-            "segment": "¿Tú no luces molesta?",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.85
-        },
-        {
-            "segment": "Es el botox.",
+            "segment": "¿Tú no luces molesta? Es el botox.",
             "sentiment": "NEUTRAL",
-            "confidence": 0.7
+            "confidence": 0.6
         }
     ],
     "chapters": [
         {
-            "headline": "Expresión de Malestar",
-            "summary": "El hablante expresa su molestia sobre un tema y pregunta sobre la apariencia de malestar de otra persona.",
+            "headline": "Expresión de descontento",
+            "summary": "La hablante expresa su molestia acerca de una situación, mencionando su estado emocional y haciendo referencia al uso de botox.",
             "start": 0,
-            "end": 15
+            "end": 10
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "spanish"
 }

@@ -1,11 +1,1231 @@
 {
-    "id": "bd06ebda-17db-4034-9b00-f32b75938d45",
+    "id": "57ef93e2-39b8-4e2c-8d43-7d7507ff3679",
     "status": "completed",
-    "text": "",
-    "words": [],
-    "utterances": [],
+    "text": "Por qué los soviéticos fabricaron máscaras de gas con un cuerno extraño, ya que la gente piensa que ese bulto extraño no tenía ningún sentido práctico, pero en realidad este cuerno era lo único que evitaba que un soldado quedara completamente ciego dentro de una nube de gas real en pleno combate. Ya que las primeras máscaras de gas tenían un fallo grave, porque en el momento en que respirabas dentro de ellas, los lentes se empañaban al instante debido al vapor y al calor del aliento, arruinando la visibilidad y sentenciando de muerte al soldado. Pero quitarse la máscara para limpiarlos habría sido extremadamente peligroso. Es por esto que los diseñadores soviéticos decidieron crear algo brillantemente simple pero efectivo. Y es que pusieron un cuerno de goma blanda integrado directamente en el frente de la máscara de gas, provocando que cuando los lentes se empañaban, el soldado podía presionar un dedo desde afuera y actuaba como un limpiaparabrisas incorporado, despejando el vidrio al instante, sin romper el sello ni exponerse al gas.",
+    "words": [
+        {
+            "text": "Por",
+            "start": 80,
+            "end": 240,
+            "confidence": 0.9897461,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 240,
+            "end": 400,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 400,
+            "end": 480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "soviéticos",
+            "start": 480,
+            "end": 1000,
+            "confidence": 0.9231445,
+            "speaker": "A"
+        },
+        {
+            "text": "fabricaron",
+            "start": 1000,
+            "end": 1480,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "máscaras",
+            "start": 1480,
+            "end": 1920,
+            "confidence": 0.8881836,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 1920,
+            "end": 2000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "gas",
+            "start": 2000,
+            "end": 2280,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 2280,
+            "end": 2520,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 2520,
+            "end": 2640,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "cuerno",
+            "start": 2640,
+            "end": 3000,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "extraño,",
+            "start": 3000,
+            "end": 3360,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 3360,
+            "end": 3560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 3560,
+            "end": 3680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 3680,
+            "end": 3800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "gente",
+            "start": 3800,
+            "end": 4000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "piensa",
+            "start": 4000,
+            "end": 4280,
+            "confidence": 0.9798177,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 4280,
+            "end": 4480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ese",
+            "start": 4480,
+            "end": 4600,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "bulto",
+            "start": 4600,
+            "end": 5080,
+            "confidence": 0.8416341,
+            "speaker": "A"
+        },
+        {
+            "text": "extraño",
+            "start": 5080,
+            "end": 5440,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 5440,
+            "end": 5600,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tenía",
+            "start": 5600,
+            "end": 6000,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "ningún",
+            "start": 6000,
+            "end": 6320,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "sentido",
+            "start": 6320,
+            "end": 6520,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "práctico,",
+            "start": 6520,
+            "end": 7080,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 7080,
+            "end": 7280,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 7280,
+            "end": 7360,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "realidad",
+            "start": 7360,
+            "end": 7640,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "este",
+            "start": 7640,
+            "end": 7920,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "cuerno",
+            "start": 7920,
+            "end": 8400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "era",
+            "start": 8400,
+            "end": 8600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 8600,
+            "end": 8760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "único",
+            "start": 8760,
+            "end": 9000,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 9000,
+            "end": 9120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "evitaba",
+            "start": 9120,
+            "end": 9520,
+            "confidence": 0.7672526,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 9520,
+            "end": 9720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 9720,
+            "end": 9880,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "soldado",
+            "start": 9880,
+            "end": 10240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "quedara",
+            "start": 10240,
+            "end": 10800,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "completamente",
+            "start": 10800,
+            "end": 11280,
+            "confidence": 0.99576825,
+            "speaker": "A"
+        },
+        {
+            "text": "ciego",
+            "start": 11280,
+            "end": 11800,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "dentro",
+            "start": 11800,
+            "end": 12080,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 12080,
+            "end": 12160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 12160,
+            "end": 12280,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "nube",
+            "start": 12280,
+            "end": 12560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 12560,
+            "end": 12640,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "gas",
+            "start": 12640,
+            "end": 12840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "real",
+            "start": 12840,
+            "end": 13040,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 13040,
+            "end": 13200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pleno",
+            "start": 13200,
+            "end": 13400,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "combate.",
+            "start": 13400,
+            "end": 13760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Ya",
+            "start": 13760,
+            "end": 13960,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 13960,
+            "end": 14080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 14080,
+            "end": 14160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "primeras",
+            "start": 14160,
+            "end": 14440,
+            "confidence": 0.9838867,
+            "speaker": "A"
+        },
+        {
+            "text": "máscaras",
+            "start": 14440,
+            "end": 14800,
+            "confidence": 0.9978841,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 14800,
+            "end": 14880,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "gas",
+            "start": 14880,
+            "end": 15120,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "tenían",
+            "start": 15120,
+            "end": 15520,
+            "confidence": 0.99487305,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 15520,
+            "end": 15600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "fallo",
+            "start": 15600,
+            "end": 15800,
+            "confidence": 0.99731445,
+            "speaker": "A"
+        },
+        {
+            "text": "grave,",
+            "start": 15800,
+            "end": 16119,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "porque",
+            "start": 16119,
+            "end": 16360,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 16360,
+            "end": 16480,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 16480,
+            "end": 16560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "momento",
+            "start": 16560,
+            "end": 16760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 16760,
+            "end": 16920,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 16920,
+            "end": 17040,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "respirabas",
+            "start": 17040,
+            "end": 17680,
+            "confidence": 0.92993164,
+            "speaker": "A"
+        },
+        {
+            "text": "dentro",
+            "start": 17680,
+            "end": 17840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 17840,
+            "end": 17920,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "ellas,",
+            "start": 17920,
+            "end": 18400,
+            "confidence": 0.9059245,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 18400,
+            "end": 18560,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "lentes",
+            "start": 18560,
+            "end": 18840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 18840,
+            "end": 19040,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "empañaban",
+            "start": 19040,
+            "end": 19680,
+            "confidence": 0.95422363,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 19680,
+            "end": 19760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "instante",
+            "start": 19760,
+            "end": 20080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "debido",
+            "start": 20080,
+            "end": 20400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 20400,
+            "end": 20520,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "vapor",
+            "start": 20520,
+            "end": 20800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 20800,
+            "end": 21000,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 21000,
+            "end": 21120,
+            "confidence": 0.95996094,
+            "speaker": "A"
+        },
+        {
+            "text": "calor",
+            "start": 21120,
+            "end": 21320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 21320,
+            "end": 21480,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "aliento,",
+            "start": 21480,
+            "end": 21840,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "arruinando",
+            "start": 21840,
+            "end": 22480,
+            "confidence": 0.99970704,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 22480,
+            "end": 22560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "visibilidad",
+            "start": 22560,
+            "end": 23000,
+            "confidence": 0.99397784,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 23000,
+            "end": 23200,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "sentenciando",
+            "start": 23200,
+            "end": 23760,
+            "confidence": 0.9737549,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 23760,
+            "end": 23840,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "muerte",
+            "start": 23840,
+            "end": 24160,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 24160,
+            "end": 24240,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "soldado.",
+            "start": 24240,
+            "end": 24600,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "Pero",
+            "start": 24600,
+            "end": 24840,
+            "confidence": 0.7885742,
+            "speaker": "A"
+        },
+        {
+            "text": "quitarse",
+            "start": 24840,
+            "end": 25200,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 25200,
+            "end": 25320,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "máscara",
+            "start": 25320,
+            "end": 25600,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 25600,
+            "end": 25720,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "limpiarlos",
+            "start": 25720,
+            "end": 26240,
+            "confidence": 0.9805908,
+            "speaker": "A"
+        },
+        {
+            "text": "habría",
+            "start": 26240,
+            "end": 26720,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "sido",
+            "start": 26720,
+            "end": 26920,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "extremadamente",
+            "start": 26920,
+            "end": 27400,
+            "confidence": 0.9939453,
+            "speaker": "A"
+        },
+        {
+            "text": "peligroso.",
+            "start": 27400,
+            "end": 28080,
+            "confidence": 0.9238281,
+            "speaker": "A"
+        },
+        {
+            "text": "Es",
+            "start": 28080,
+            "end": 28240,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 28240,
+            "end": 28320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "esto",
+            "start": 28320,
+            "end": 28440,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 28440,
+            "end": 28600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 28600,
+            "end": 28720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "diseñadores",
+            "start": 28720,
+            "end": 29200,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "soviéticos",
+            "start": 29200,
+            "end": 29840,
+            "confidence": 0.95400393,
+            "speaker": "A"
+        },
+        {
+            "text": "decidieron",
+            "start": 29840,
+            "end": 30280,
+            "confidence": 0.99938965,
+            "speaker": "A"
+        },
+        {
+            "text": "crear",
+            "start": 30280,
+            "end": 30520,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "algo",
+            "start": 30520,
+            "end": 30720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "brillantemente",
+            "start": 30720,
+            "end": 31360,
+            "confidence": 0.9326172,
+            "speaker": "A"
+        },
+        {
+            "text": "simple",
+            "start": 31360,
+            "end": 31640,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 31640,
+            "end": 31910,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "efectivo.",
+            "start": 32060,
+            "end": 32380,
+            "confidence": 0.9074707,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 32380,
+            "end": 32540,
+            "confidence": 0.63720703,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 32540,
+            "end": 32620,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 32620,
+            "end": 32700,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pusieron",
+            "start": 32700,
+            "end": 33020,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 33020,
+            "end": 33100,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "cuerno",
+            "start": 33100,
+            "end": 33460,
+            "confidence": 0.85335284,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 33460,
+            "end": 33580,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "goma",
+            "start": 33580,
+            "end": 33820,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "blanda",
+            "start": 33820,
+            "end": 34140,
+            "confidence": 0.9241536,
+            "speaker": "A"
+        },
+        {
+            "text": "integrado",
+            "start": 34140,
+            "end": 34700,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "directamente",
+            "start": 34700,
+            "end": 35060,
+            "confidence": 0.9742839,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 35060,
+            "end": 35260,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 35260,
+            "end": 35380,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "frente",
+            "start": 35380,
+            "end": 35620,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 35620,
+            "end": 35740,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 35740,
+            "end": 35860,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "máscara",
+            "start": 35860,
+            "end": 36220,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 36220,
+            "end": 36300,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "gas,",
+            "start": 36300,
+            "end": 36540,
+            "confidence": 0.9082031,
+            "speaker": "A"
+        },
+        {
+            "text": "provocando",
+            "start": 36540,
+            "end": 36980,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 36980,
+            "end": 37140,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cuando",
+            "start": 37140,
+            "end": 37260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 37260,
+            "end": 37380,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "lentes",
+            "start": 37380,
+            "end": 37660,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 37660,
+            "end": 37820,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "empañaban,",
+            "start": 37820,
+            "end": 38540,
+            "confidence": 0.99108887,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 38540,
+            "end": 38620,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "soldado",
+            "start": 38620,
+            "end": 38900,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "podía",
+            "start": 38900,
+            "end": 39260,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "presionar",
+            "start": 39260,
+            "end": 39620,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 39620,
+            "end": 39740,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "dedo",
+            "start": 39740,
+            "end": 39980,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "desde",
+            "start": 39980,
+            "end": 40180,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "afuera",
+            "start": 40180,
+            "end": 40460,
+            "confidence": 0.9949544,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 40460,
+            "end": 40620,
+            "confidence": 0.9838867,
+            "speaker": "A"
+        },
+        {
+            "text": "actuaba",
+            "start": 40620,
+            "end": 40980,
+            "confidence": 0.9601237,
+            "speaker": "A"
+        },
+        {
+            "text": "como",
+            "start": 40980,
+            "end": 41100,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 41100,
+            "end": 41180,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "limpiaparabrisas",
+            "start": 41180,
+            "end": 42140,
+            "confidence": 0.98498535,
+            "speaker": "A"
+        },
+        {
+            "text": "incorporado,",
+            "start": 42140,
+            "end": 42620,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "despejando",
+            "start": 42620,
+            "end": 43180,
+            "confidence": 0.99677736,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 43180,
+            "end": 43260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "vidrio",
+            "start": 43260,
+            "end": 43540,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 43540,
+            "end": 43700,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "instante,",
+            "start": 43700,
+            "end": 43980,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "sin",
+            "start": 43980,
+            "end": 44180,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "romper",
+            "start": 44180,
+            "end": 44500,
+            "confidence": 0.9842122,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 44500,
+            "end": 44660,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "sello",
+            "start": 44660,
+            "end": 44980,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "ni",
+            "start": 44980,
+            "end": 45220,
+            "confidence": 0.9433594,
+            "speaker": "A"
+        },
+        {
+            "text": "exponerse",
+            "start": 45220,
+            "end": 45660,
+            "confidence": 0.99816895,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 45660,
+            "end": 45740,
+            "confidence": 0.9916992,
+            "speaker": "A"
+        },
+        {
+            "text": "gas.",
+            "start": 45740,
+            "end": 46060,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Por qué los soviéticos fabricaron máscaras de gas con un cuerno extraño, ya que la gente piensa que ese bulto extraño no tenía ningún sentido práctico, pero en realidad este cuerno era lo único que evitaba que un soldado quedara completamente ciego dentro de una nube de gas real en pleno combate. Ya que las primeras máscaras de gas tenían un fallo grave, porque en el momento en que respirabas dentro de ellas, los lentes se empañaban al instante debido al vapor y al calor del aliento, arruinando la visibilidad y sentenciando de muerte al soldado. Pero quitarse la máscara para limpiarlos habría sido extremadamente peligroso. Es por esto que los diseñadores soviéticos decidieron crear algo brillantemente simple pero efectivo. Y es que pusieron un cuerno de goma blanda integrado directamente en el frente de la máscara de gas, provocando que cuando los lentes se empañaban, el soldado podía presionar un dedo desde afuera y actuaba como un limpiaparabrisas incorporado, despejando el vidrio al instante, sin romper el sello ni exponerse al gas.",
+            "start": 80,
+            "end": 46060,
+            "confidence": 0.9835484,
+            "speaker": "A"
+        }
+    ],
     "chapters": [],
     "sentiment_analysis_results": [],
     "audio_duration": 47,
-    "language_code": "en"
+    "language_code": "es"
 }

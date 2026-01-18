@@ -1,276 +1,1092 @@
 {
-    "text": "We are turning right to Session Road We are turning right to Session Road We are turning right to Session Road We are turning right to Session Road We are turning right to Session Road We are turning right to Session Road",
+    "text": "♪ Ya no importa cada noche que esperé Cada calle o laberinto que crucé Porque el cielo ha conspirado a mi favor Y a un segundo de rendirme te encontré Pie con pie, el corazón se me desarma Me haces bien, me enciendes luces Y en mi alma creo en ti Y en este amor que me ha vuelto indestructible Que detuvo mi caída libre creo en ti Y mi dolor se quedó kilómetros atrás Mis fantasmas hoy por fin están en paz ♪ El pasado es un mal sueño que acabó O un incendio que en tus brazos apagó Cuando estaba a medio paso de caer Mis silencios se encontraron con tu voz Te seguí y reescribiste mi futuro Es aquí mi único lugar seguro creo en ti Y en este amor que me ha vuelto indestructible Que detuvo mi caída libre creo en ti Y mi dolor se quedó kilómetros atrás Mis fantasmas hoy por fin están en paz En paz En paz En paz En paz En paz En paz",
     "audio_duration": 170.77000427246094,
     "confidence": 0.36787944117144233,
     "words": [
         {
-            "text": "We",
-            "start": 29.799999237060547,
-            "end": 29.84000015258789,
+            "text": "♪",
+            "start": 6.360000133514404,
+            "end": 7.739999771118164,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 29.84000015258789,
-            "end": 29.860000610351562,
+            "text": "Ya",
+            "start": 16.40999984741211,
+            "end": 17.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "turning",
-            "start": 29.860000610351562,
-            "end": 29.8799991607666,
+            "text": "no",
+            "start": 17.100000381469727,
+            "end": 17.420000076293945,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 29.8799991607666,
-            "end": 29.899999618530273,
+            "text": "importa",
+            "start": 17.420000076293945,
+            "end": 17.84000015258789,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 29.899999618530273,
-            "end": 29.920000076293945,
+            "text": "cada",
+            "start": 17.84000015258789,
+            "end": 18.639999389648438,
             "confidence": 0.99
         },
         {
-            "text": "Session",
-            "start": 29.920000076293945,
-            "end": 29.959999084472656,
+            "text": "noche",
+            "start": 18.639999389648438,
+            "end": 19.299999237060547,
             "confidence": 0.99
         },
         {
-            "text": "Road",
-            "start": 29.959999084472656,
-            "end": 29.979999542236328,
+            "text": "que",
+            "start": 19.299999237060547,
+            "end": 19.899999618530273,
             "confidence": 0.99
         },
         {
-            "text": "We",
-            "start": 59.779998779296875,
-            "end": 59.81999969482422,
+            "text": "esperé",
+            "start": 19.899999618530273,
+            "end": 20.959999084472656,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 59.81999969482422,
-            "end": 59.86000061035156,
+            "text": "Cada",
+            "start": 22.149999618530273,
+            "end": 22.84000015258789,
             "confidence": 0.99
         },
         {
-            "text": "turning",
-            "start": 59.86000061035156,
-            "end": 59.880001068115234,
+            "text": "calle",
+            "start": 22.84000015258789,
+            "end": 23.440000534057617,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 59.880001068115234,
-            "end": 59.900001525878906,
+            "text": "o",
+            "start": 23.440000534057617,
+            "end": 24.479999542236328,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 59.900001525878906,
-            "end": 59.91999816894531,
+            "text": "laberinto",
+            "start": 24.479999542236328,
+            "end": 24.81999969482422,
             "confidence": 0.99
         },
         {
-            "text": "Session",
-            "start": 59.91999816894531,
-            "end": 59.959999084472656,
+            "text": "que",
+            "start": 24.81999969482422,
+            "end": 25.520000457763672,
             "confidence": 0.99
         },
         {
-            "text": "Road",
-            "start": 59.959999084472656,
-            "end": 59.97999954223633,
+            "text": "crucé",
+            "start": 25.520000457763672,
+            "end": 26.200000762939453,
             "confidence": 0.99
         },
         {
-            "text": "We",
-            "start": 83.31999969482422,
-            "end": 84.72000122070312,
+            "text": "Porque",
+            "start": 27.200000762939453,
+            "end": 28.260000228881836,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 84.72000122070312,
-            "end": 86.12000274658203,
+            "text": "el",
+            "start": 28.260000228881836,
+            "end": 28.639999389648438,
             "confidence": 0.99
         },
         {
-            "text": "turning",
-            "start": 86.12000274658203,
-            "end": 87.63999938964844,
+            "text": "cielo",
+            "start": 28.639999389648438,
+            "end": 28.959999084472656,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 87.63999938964844,
-            "end": 87.63999938964844,
+            "text": "ha",
+            "start": 28.959999084472656,
+            "end": 29.520000457763672,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 87.63999938964844,
-            "end": 87.63999938964844,
+            "text": "conspirado",
+            "start": 29.520000457763672,
+            "end": 30.440000534057617,
             "confidence": 0.99
         },
         {
-            "text": "Session",
-            "start": 87.63999938964844,
-            "end": 87.81999969482422,
+            "text": "a",
+            "start": 30.440000534057617,
+            "end": 30.81999969482422,
             "confidence": 0.99
         },
         {
-            "text": "Road",
-            "start": 87.81999969482422,
-            "end": 87.81999969482422,
+            "text": "mi",
+            "start": 30.81999969482422,
+            "end": 31.079999923706055,
             "confidence": 0.99
         },
         {
-            "text": "We",
-            "start": 117.18000030517578,
+            "text": "favor",
+            "start": 31.079999923706055,
+            "end": 32.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 32.400001525878906,
+            "end": 33.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 33.720001220703125,
+            "end": 33.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 33.84000015258789,
+            "end": 34.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "segundo",
+            "start": 34.220001220703125,
+            "end": 34.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 34.619998931884766,
+            "end": 35.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "rendirme",
+            "start": 35.560001373291016,
+            "end": 36.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 36.2400016784668,
+            "end": 36.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "encontré",
+            "start": 36.599998474121094,
+            "end": 37.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pie",
+            "start": 37.68000030517578,
+            "end": 39.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 39.0,
+            "end": 39.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "pie",
+            "start": 39.7599983215332,
+            "end": 40.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 40.2400016784668,
+            "end": 41.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "corazón",
+            "start": 41.380001068115234,
+            "end": 41.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 41.900001525878906,
+            "end": 42.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 42.52000045776367,
+            "end": 42.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "desarma",
+            "start": 42.97999954223633,
+            "end": 43.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Me",
+            "start": 43.7400016784668,
+            "end": 44.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "haces",
+            "start": 44.459999084472656,
+            "end": 45.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "bien",
+            "start": 45.279998779296875,
+            "end": 46.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 46.900001525878906,
+            "end": 47.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "enciendes",
+            "start": 47.34000015258789,
+            "end": 47.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "luces",
+            "start": 47.34000015258789,
+            "end": 48.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 48.040000915527344,
+            "end": 48.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 48.52000045776367,
+            "end": 48.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 48.52000045776367,
+            "end": 49.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "alma",
+            "start": 49.31999969482422,
+            "end": 49.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "creo",
+            "start": 49.31999969482422,
+            "end": 50.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 50.459999084472656,
+            "end": 50.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "ti",
+            "start": 50.97999954223633,
+            "end": 51.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 51.619998931884766,
+            "end": 52.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 52.15999984741211,
+            "end": 52.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "este",
+            "start": 52.439998626708984,
+            "end": 53.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "amor",
+            "start": 53.560001373291016,
+            "end": 54.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 54.58000183105469,
+            "end": 55.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 55.08000183105469,
+            "end": 55.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "ha",
+            "start": 55.279998779296875,
+            "end": 55.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "vuelto",
+            "start": 55.65999984741211,
+            "end": 55.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "indestructible",
+            "start": 55.70000076293945,
+            "end": 57.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Que",
+            "start": 57.31999969482422,
+            "end": 57.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "detuvo",
+            "start": 57.939998626708984,
+            "end": 58.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 58.5,
+            "end": 59.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "caída",
+            "start": 59.08000183105469,
+            "end": 59.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "libre",
+            "start": 59.720001220703125,
+            "end": 60.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "creo",
+            "start": 60.5,
+            "end": 61.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 61.84000015258789,
+            "end": 62.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "ti",
+            "start": 62.400001525878906,
+            "end": 62.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 62.7400016784668,
+            "end": 63.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 63.34000015258789,
+            "end": 64.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "dolor",
+            "start": 64.55999755859375,
+            "end": 65.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 65.55999755859375,
+            "end": 66.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "quedó",
+            "start": 66.81999969482422,
+            "end": 67.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "kilómetros",
+            "start": 67.27999877929688,
+            "end": 68.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "atrás",
+            "start": 68.62000274658203,
+            "end": 70.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mis",
+            "start": 70.33999633789062,
+            "end": 71.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "fantasmas",
+            "start": 71.73999786376953,
+            "end": 73.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "hoy",
+            "start": 73.13999938964844,
+            "end": 74.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 74.27999877929688,
+            "end": 74.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "fin",
+            "start": 74.68000030517578,
+            "end": 75.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "están",
+            "start": 75.5999984741211,
+            "end": 76.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 76.58000183105469,
+            "end": 77.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 77.58000183105469,
+            "end": 77.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪",
+            "start": 82.45999908447266,
+            "end": 83.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "El",
+            "start": 89.06999969482422,
+            "end": 89.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "pasado",
+            "start": 89.58000183105469,
+            "end": 90.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 90.4000015258789,
+            "end": 90.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 90.77999877929688,
+            "end": 91.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "mal",
+            "start": 91.19999694824219,
+            "end": 91.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "sueño",
+            "start": 91.5,
+            "end": 91.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 91.9000015258789,
+            "end": 92.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "acabó",
+            "start": 92.4000015258789,
+            "end": 93.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 94.16000366210938,
+            "end": 95.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 95.18000030517578,
+            "end": 95.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "incendio",
+            "start": 95.58000183105469,
+            "end": 96.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 96.0999984741211,
+            "end": 96.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 96.55999755859375,
+            "end": 96.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "tus",
+            "start": 96.68000030517578,
+            "end": 96.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "brazos",
+            "start": 96.9800033569336,
+            "end": 97.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "apagó",
+            "start": 97.5199966430664,
+            "end": 99.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "Cuando",
+            "start": 100.38999938964844,
+            "end": 100.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "estaba",
+            "start": 100.9000015258789,
+            "end": 101.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 101.83999633789062,
+            "end": 102.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "medio",
+            "start": 102.31999969482422,
+            "end": 102.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "paso",
+            "start": 102.55999755859375,
+            "end": 102.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 102.95999908447266,
+            "end": 104.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "caer",
+            "start": 104.0,
+            "end": 105.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mis",
+            "start": 105.69999694824219,
+            "end": 106.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "silencios",
+            "start": 106.4000015258789,
+            "end": 107.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 107.22000122070312,
+            "end": 108.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "encontraron",
+            "start": 108.5,
+            "end": 108.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 108.76000213623047,
+            "end": 109.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "tu",
+            "start": 109.0199966430664,
+            "end": 110.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "voz",
+            "start": 110.44000244140625,
+            "end": 110.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Te",
+            "start": 110.62000274658203,
+            "end": 112.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "seguí",
+            "start": 112.0199966430664,
+            "end": 113.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 113.41999816894531,
+            "end": 114.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "reescribiste",
+            "start": 114.08000183105469,
+            "end": 114.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 114.80000305175781,
+            "end": 115.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "futuro",
+            "start": 115.45999908447266,
+            "end": 116.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "Es",
+            "start": 116.26000213623047,
+            "end": 117.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "aquí",
+            "start": 117.66000366210938,
             "end": 118.58000183105469,
             "confidence": 0.99
         },
         {
-            "text": "are",
+            "text": "mi",
             "start": 118.58000183105469,
-            "end": 119.9800033569336,
+            "end": 119.55999755859375,
             "confidence": 0.99
         },
         {
-            "text": "turning",
-            "start": 119.9800033569336,
-            "end": 119.9800033569336,
+            "text": "único",
+            "start": 119.55999755859375,
+            "end": 120.04000091552734,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 119.9800033569336,
-            "end": 119.9800033569336,
+            "text": "lugar",
+            "start": 120.04000091552734,
+            "end": 120.87999725341797,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 119.9800033569336,
-            "end": 119.9800033569336,
+            "text": "seguro",
+            "start": 120.87999725341797,
+            "end": 121.94000244140625,
             "confidence": 0.99
         },
         {
-            "text": "Session",
-            "start": 119.9800033569336,
-            "end": 119.9800033569336,
+            "text": "creo",
+            "start": 121.94000244140625,
+            "end": 123.08000183105469,
             "confidence": 0.99
         },
         {
-            "text": "Road",
-            "start": 119.9800033569336,
-            "end": 119.9800033569336,
+            "text": "en",
+            "start": 123.08000183105469,
+            "end": 123.5999984741211,
             "confidence": 0.99
         },
         {
-            "text": "We",
-            "start": 146.0399932861328,
-            "end": 147.44000244140625,
+            "text": "ti",
+            "start": 123.5999984741211,
+            "end": 124.5199966430664,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 147.44000244140625,
-            "end": 148.83999633789062,
+            "text": "Y",
+            "start": 124.5199966430664,
+            "end": 124.86000061035156,
             "confidence": 0.99
         },
         {
-            "text": "turning",
-            "start": 148.83999633789062,
-            "end": 149.97999572753906,
+            "text": "en",
+            "start": 124.86000061035156,
+            "end": 124.9800033569336,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 149.97999572753906,
-            "end": 149.97999572753906,
+            "text": "este",
+            "start": 124.9800033569336,
+            "end": 126.08000183105469,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 149.97999572753906,
-            "end": 149.97999572753906,
+            "text": "amor",
+            "start": 126.08000183105469,
+            "end": 127.0,
             "confidence": 0.99
         },
         {
-            "text": "Session",
-            "start": 149.97999572753906,
-            "end": 149.97999572753906,
+            "text": "que",
+            "start": 127.0,
+            "end": 127.62000274658203,
             "confidence": 0.99
         },
         {
-            "text": "Road",
-            "start": 149.97999572753906,
-            "end": 149.97999572753906,
+            "text": "me",
+            "start": 127.62000274658203,
+            "end": 127.76000213623047,
             "confidence": 0.99
         },
         {
-            "text": "We",
-            "start": 170.6199951171875,
-            "end": 170.66000366210938,
+            "text": "ha",
+            "start": 127.76000213623047,
+            "end": 128.1999969482422,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 170.66000366210938,
-            "end": 170.67999267578125,
+            "text": "vuelto",
+            "start": 128.1999969482422,
+            "end": 128.24000549316406,
             "confidence": 0.99
         },
         {
-            "text": "turning",
-            "start": 170.67999267578125,
-            "end": 170.67999267578125,
+            "text": "indestructible",
+            "start": 128.24000549316406,
+            "end": 129.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 170.67999267578125,
-            "end": 170.67999267578125,
+            "text": "Que",
+            "start": 129.8000030517578,
+            "end": 130.5,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 170.67999267578125,
-            "end": 170.6999969482422,
+            "text": "detuvo",
+            "start": 130.5,
+            "end": 131.0800018310547,
             "confidence": 0.99
         },
         {
-            "text": "Session",
-            "start": 170.6999969482422,
-            "end": 170.72000122070312,
+            "text": "mi",
+            "start": 131.0800018310547,
+            "end": 131.86000061035156,
             "confidence": 0.99
         },
         {
-            "text": "Road",
-            "start": 170.72000122070312,
+            "text": "caída",
+            "start": 131.86000061035156,
+            "end": 132.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "libre",
+            "start": 132.3000030517578,
+            "end": 133.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "creo",
+            "start": 133.0399932861328,
+            "end": 134.3000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 134.3000030517578,
+            "end": 134.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "ti",
+            "start": 134.89999389648438,
+            "end": 135.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 135.52000427246094,
+            "end": 136.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 136.0399932861328,
+            "end": 137.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "dolor",
+            "start": 137.13999938964844,
+            "end": 138.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 138.22000122070312,
+            "end": 139.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "quedó",
+            "start": 139.47999572753906,
+            "end": 139.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "kilómetros",
+            "start": 139.82000732421875,
+            "end": 141.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "atrás",
+            "start": 141.1199951171875,
+            "end": 142.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mis",
+            "start": 142.83999633789062,
+            "end": 144.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "fantasmas",
+            "start": 144.24000549316406,
+            "end": 145.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "hoy",
+            "start": 145.63999938964844,
+            "end": 146.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 146.72000122070312,
+            "end": 147.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "fin",
+            "start": 147.25999450683594,
+            "end": 148.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "están",
+            "start": 148.0800018310547,
+            "end": 149.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 149.10000610351562,
+            "end": 151.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 151.3800048828125,
+            "end": 151.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "En",
+            "start": 153.1199951171875,
+            "end": 154.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 154.52000427246094,
+            "end": 154.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "En",
+            "start": 156.55999755859375,
+            "end": 157.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 157.9600067138672,
+            "end": 159.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "En",
+            "start": 164.83999633789062,
+            "end": 166.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 166.24000549316406,
+            "end": 166.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "En",
+            "start": 166.25999450683594,
+            "end": 166.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 166.5800018310547,
+            "end": 166.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "En",
+            "start": 167.0399932861328,
+            "end": 168.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 168.44000244140625,
+            "end": 169.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "En",
+            "start": 169.83999633789062,
+            "end": 170.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "paz",
+            "start": 170.44000244140625,
             "end": 170.74000549316406,
             "confidence": 0.99
         }
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "We are turning right to Session Road",
-            "sentiment": "NEUTRAL",
+            "segment": "Ya no importa cada noche que esperé Cada calle o laberinto que crucé Porque el cielo ha conspirado a mi favor Y a un segundo de rendirme te encontré",
+            "sentiment": "POSITIVE",
             "confidence": 0.95
+        },
+        {
+            "segment": "Pie con pie, el corazón se me desarma Me haces bien, me enciendes luces Y en mi alma creo en ti",
+            "sentiment": "POSITIVE",
+            "confidence": 0.96
+        },
+        {
+            "segment": "Y en este amor que me ha vuelto indestructible Que detuvo mi caída libre creo en ti Y mi dolor se quedó kilómetros atrás",
+            "sentiment": "POSITIVE",
+            "confidence": 0.97
+        },
+        {
+            "segment": "El pasado es un mal sueño que acabó O un incendio que en tus brazosapagó",
+            "sentiment": "POSITIVE",
+            "confidence": 0.94
+        },
+        {
+            "segment": "Cuando estaba a medio paso de caer Mis silencios se encontraron con tu voz",
+            "sentiment": "POSITIVE",
+            "confidence": 0.92
+        },
+        {
+            "segment": "Te seguí y reescribiste mi futuro Es aquí mi único lugar seguro",
+            "sentiment": "POSITIVE",
+            "confidence": 0.93
+        },
+        {
+            "segment": "creo en ti Y en este amor que me ha vuelto indestructible Que detuvo mi caída libre creo en ti Y mi dolor se quedó kilómetros atrás",
+            "sentiment": "POSITIVE",
+            "confidence": 0.97
         }
     ],
     "chapters": [
         {
-            "headline": "Direction to Session Road",
-            "summary": "Repeating the direction towards Session Road.",
+            "headline": "Finding Indestructible Love",
+            "summary": "The speaker reflects on the journey of overcoming past pain and finding a love that makes them feel invincible.",
             "start": 0,
-            "end": 5
+            "end": 100
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "spanish"
 }

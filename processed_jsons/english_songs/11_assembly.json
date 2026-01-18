@@ -1,2176 +1,2346 @@
 {
-    "id": "bda61cf1-1baa-4c27-a7e1-b059e8c94ee4",
+    "id": "2040084e-db34-45dc-85c9-26002d5ea71a",
     "status": "completed",
-    "text": "Going out tonight Changes into something red Her mother doesn't like that kind of dress everything she never had She's showing. Off. Driving too fast Moon is breaking through her hair She's heading for something that she won't forget Having no regrets is all that she really wants. We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything That you've ever dreamed of disappearing when you wait But there's nothing to be afraid of Even when I change It will never change me. And you. Chasing it tonight Doubts around, around her head he's waiting hearts behind a cigarette heart is beating loud And she doesn't want it to stop. Moving. Too fast Moon is lighting up a skin She's falling doesn't even know it yet Having no regrets it's all that she really wants. We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast And I changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes You'll never change me And you. Going out tonight Changes into something rare Her mother doesn't like that kind of trust Reminds her of the missing piece of innocence She loves We're only getting. Older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes.",
+    "text": "Going out tonight Changes into something red her mother doesn't like that kind of dress Everything she never had she's showing up. Driving too fast Moon is breaking through. Her hair she's heading for something that. She won't forget Having no regrets is all that she really wants. We'Re only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast the night changes Everything that you've ever dreamed of Disappearing when you wake, wake up but there's nothing to be afraid of Even when the night changes it will never. Change Me and you. Chasing it tonight Doubts are running around her head he's waiting hides behind a cigarette Heart is beating loud and she doesn't want it to stop. Moving too fast Moon is lighting up her skin she's falling doesn't even know it yet Having no regrets it's all that she really wants. We'Re only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast at night changes Everything that you've ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes you will never change Me and you. Going out tonight Changes into something red her mother doesn't like that kind of trust Reminds her of the missing piece of innocence she loves. Only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast the night changes Everything that you ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes Everything that you've ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes Never change, baby it will never change baby it will never. Change Me and you.",
     "words": [
         {
             "text": "Going",
-            "start": 8880,
-            "end": 9320,
-            "confidence": 0.9851074,
+            "start": 8800,
+            "end": 9040,
+            "confidence": 0.9760742,
             "speaker": "A"
         },
         {
             "text": "out",
-            "start": 9320,
-            "end": 9520,
+            "start": 9120,
+            "end": 9480,
             "confidence": 0.99658203,
             "speaker": "A"
         },
         {
             "text": "tonight",
-            "start": 9520,
-            "end": 10240,
-            "confidence": 0.93570966,
+            "start": 9480,
+            "end": 10080,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "Changes",
             "start": 10480,
-            "end": 11200,
-            "confidence": 0.8492839,
+            "end": 11240,
+            "confidence": 0.9992676,
             "speaker": "A"
         },
         {
             "text": "into",
-            "start": 11280,
-            "end": 11640,
-            "confidence": 0.9980469,
+            "start": 11240,
+            "end": 11600,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
             "text": "something",
-            "start": 11640,
-            "end": 12320,
-            "confidence": 0.9366862,
+            "start": 11600,
+            "end": 12000,
+            "confidence": 0.99609375,
             "speaker": "A"
         },
         {
             "text": "red",
-            "start": 12320,
-            "end": 12640,
-            "confidence": 0.98583984,
+            "start": 12160,
+            "end": 12560,
+            "confidence": 0.98876953,
             "speaker": "A"
         },
         {
-            "text": "Her",
-            "start": 13280,
-            "end": 13680,
-            "confidence": 0.99853516,
+            "text": "her",
+            "start": 13120,
+            "end": 13520,
+            "confidence": 1.0,
             "speaker": "A"
         },
         {
             "text": "mother",
-            "start": 13760,
-            "end": 14320,
-            "confidence": 0.9760742,
+            "start": 13680,
+            "end": 14160,
+            "confidence": 0.8964844,
             "speaker": "A"
         },
         {
             "text": "doesn't",
-            "start": 14560,
-            "end": 15280,
-            "confidence": 0.99746096,
+            "start": 14480,
+            "end": 15200,
+            "confidence": 0.9991862,
             "speaker": "A"
         },
         {
             "text": "like",
-            "start": 15280,
+            "start": 15200,
             "end": 15440,
-            "confidence": 0.99902344,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "that",
             "start": 15440,
-            "end": 15640,
-            "confidence": 0.99609375,
+            "end": 15680,
+            "confidence": 0.9946289,
             "speaker": "A"
         },
         {
             "text": "kind",
-            "start": 15640,
-            "end": 16000,
-            "confidence": 0.9848633,
+            "start": 15680,
+            "end": 15959,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "of",
-            "start": 16079,
-            "end": 16360,
-            "confidence": 0.9169922,
+            "start": 15959,
+            "end": 16240,
+            "confidence": 0.97558594,
             "speaker": "A"
         },
         {
             "text": "dress",
-            "start": 16360,
-            "end": 16720,
-            "confidence": 0.8105469,
+            "start": 16240,
+            "end": 16640,
+            "confidence": 0.91430664,
             "speaker": "A"
         },
         {
-            "text": "everything",
+            "text": "Everything",
             "start": 16800,
-            "end": 17600,
-            "confidence": 0.99853516,
+            "end": 17200,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "she",
-            "start": 17600,
-            "end": 17800,
-            "confidence": 0.99853516,
+            "start": 17360,
+            "end": 17720,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "never",
-            "start": 17800,
-            "end": 18240,
-            "confidence": 0.8652344,
+            "start": 17720,
+            "end": 18080,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "had",
-            "start": 18480,
-            "end": 18880,
-            "confidence": 0.99902344,
+            "start": 18400,
+            "end": 18800,
+            "confidence": 0.99560547,
             "speaker": "A"
         },
         {
-            "text": "She's",
+            "text": "she's",
             "start": 19280,
-            "end": 19760,
-            "confidence": 0.9375,
+            "end": 19720,
+            "confidence": 0.9737956,
             "speaker": "A"
         },
         {
-            "text": "showing.",
-            "start": 19760,
-            "end": 20440,
-            "confidence": 0.9892578,
+            "text": "showing",
+            "start": 19720,
+            "end": 20200,
+            "confidence": 0.90185547,
             "speaker": "A"
         },
         {
-            "text": "Off.",
-            "start": 20440,
-            "end": 20800,
-            "confidence": 0.5151367,
-            "speaker": "B"
+            "text": "up.",
+            "start": 20200,
+            "end": 20560,
+            "confidence": 0.7993164,
+            "speaker": "A"
         },
         {
             "text": "Driving",
-            "start": 24640,
-            "end": 25400,
-            "confidence": 0.8019206,
-            "speaker": "C"
+            "start": 24560,
+            "end": 25120,
+            "confidence": 0.99316406,
+            "speaker": "A"
         },
         {
             "text": "too",
-            "start": 25400,
-            "end": 25880,
-            "confidence": 0.9760742,
-            "speaker": "C"
+            "start": 25200,
+            "end": 25600,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "fast",
-            "start": 25880,
-            "end": 26160,
-            "confidence": 0.9953613,
-            "speaker": "C"
+            "start": 25600,
+            "end": 26080,
+            "confidence": 0.9951172,
+            "speaker": "A"
         },
         {
             "text": "Moon",
-            "start": 26480,
-            "end": 27040,
-            "confidence": 0.99853516,
-            "speaker": "C"
+            "start": 26400,
+            "end": 26920,
+            "confidence": 0.97265625,
+            "speaker": "A"
         },
         {
             "text": "is",
-            "start": 27040,
-            "end": 27240,
+            "start": 26920,
+            "end": 27200,
             "confidence": 0.99853516,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "breaking",
-            "start": 27240,
-            "end": 27840,
-            "confidence": 0.9584961,
-            "speaker": "C"
+            "start": 27200,
+            "end": 27680,
+            "confidence": 0.96875,
+            "speaker": "A"
         },
         {
-            "text": "through",
-            "start": 27840,
-            "end": 28040,
-            "confidence": 0.9975586,
-            "speaker": "C"
+            "text": "through.",
+            "start": 27680,
+            "end": 27960,
+            "confidence": 0.9970703,
+            "speaker": "A"
         },
         {
-            "text": "her",
-            "start": 28040,
-            "end": 28320,
-            "confidence": 0.6113281,
-            "speaker": "C"
+            "text": "Her",
+            "start": 27960,
+            "end": 28240,
+            "confidence": 0.9892578,
+            "speaker": "B"
         },
         {
             "text": "hair",
-            "start": 28320,
-            "end": 28800,
-            "confidence": 0.6201172,
-            "speaker": "C"
+            "start": 28240,
+            "end": 28640,
+            "confidence": 0.95703125,
+            "speaker": "B"
         },
         {
-            "text": "She's",
-            "start": 29120,
-            "end": 29760,
-            "confidence": 0.9479167,
-            "speaker": "C"
+            "text": "she's",
+            "start": 29040,
+            "end": 29720,
+            "confidence": 0.90527344,
+            "speaker": "B"
         },
         {
             "text": "heading",
-            "start": 29760,
-            "end": 30400,
-            "confidence": 0.8860677,
-            "speaker": "C"
+            "start": 29720,
+            "end": 30200,
+            "confidence": 0.89038086,
+            "speaker": "B"
         },
         {
             "text": "for",
-            "start": 30400,
-            "end": 30600,
-            "confidence": 0.98583984,
-            "speaker": "C"
+            "start": 30200,
+            "end": 30480,
+            "confidence": 0.9921875,
+            "speaker": "B"
         },
         {
             "text": "something",
-            "start": 30600,
-            "end": 31280,
-            "confidence": 0.8727214,
-            "speaker": "C"
+            "start": 30480,
+            "end": 30880,
+            "confidence": 0.9926758,
+            "speaker": "B"
         },
         {
-            "text": "that",
-            "start": 31280,
+            "text": "that.",
+            "start": 31120,
             "end": 31400,
-            "confidence": 0.99072266,
-            "speaker": "C"
+            "confidence": 0.9682617,
+            "speaker": "B"
         },
         {
-            "text": "she",
+            "text": "She",
             "start": 31400,
-            "end": 31560,
-            "confidence": 0.8125,
-            "speaker": "C"
+            "end": 31600,
+            "confidence": 0.55322266,
+            "speaker": "A"
         },
         {
             "text": "won't",
-            "start": 31560,
+            "start": 31600,
             "end": 31910,
-            "confidence": 0.8516846,
-            "speaker": "C"
+            "confidence": 0.80444336,
+            "speaker": "A"
         },
         {
             "text": "forget",
-            "start": 32220,
-            "end": 32620,
-            "confidence": 0.9694824,
-            "speaker": "C"
+            "start": 32140,
+            "end": 32540,
+            "confidence": 0.9802246,
+            "speaker": "A"
         },
         {
             "text": "Having",
-            "start": 32620,
-            "end": 33260,
-            "confidence": 0.8883464,
-            "speaker": "C"
+            "start": 32700,
+            "end": 33100,
+            "confidence": 0.98876953,
+            "speaker": "A"
         },
         {
             "text": "no",
-            "start": 33260,
+            "start": 33100,
             "end": 33460,
-            "confidence": 0.5620117,
-            "speaker": "C"
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "regrets",
             "start": 33460,
-            "end": 34260,
-            "confidence": 0.9949544,
-            "speaker": "C"
+            "end": 34220,
+            "confidence": 0.9983724,
+            "speaker": "A"
         },
         {
             "text": "is",
-            "start": 34260,
-            "end": 34620,
-            "confidence": 0.9838867,
-            "speaker": "C"
+            "start": 34220,
+            "end": 34500,
+            "confidence": 0.9428711,
+            "speaker": "A"
         },
         {
             "text": "all",
-            "start": 34620,
-            "end": 35020,
+            "start": 34500,
+            "end": 34860,
             "confidence": 1.0,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "that",
-            "start": 35020,
-            "end": 35380,
+            "start": 34860,
+            "end": 35260,
             "confidence": 0.99902344,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "she",
-            "start": 35380,
-            "end": 35740,
-            "confidence": 0.98535156,
-            "speaker": "C"
+            "start": 35260,
+            "end": 35660,
+            "confidence": 0.9272461,
+            "speaker": "A"
         },
         {
             "text": "really",
-            "start": 35740,
-            "end": 36220,
+            "start": 35660,
+            "end": 36060,
             "confidence": 0.9995117,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "wants.",
-            "start": 36220,
-            "end": 37020,
-            "confidence": 0.8601074,
-            "speaker": "C"
+            "start": 36140,
+            "end": 37180,
+            "confidence": 0.8244629,
+            "speaker": "A"
         },
         {
-            "text": "We're",
-            "start": 40940,
-            "end": 41420,
-            "confidence": 0.9355469,
+            "text": "We'Re",
+            "start": 40860,
+            "end": 41260,
+            "confidence": 0.8619792,
             "speaker": "B"
         },
         {
             "text": "only",
-            "start": 41420,
-            "end": 41660,
-            "confidence": 0.99902344,
+            "start": 41260,
+            "end": 41580,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "getting",
             "start": 41660,
-            "end": 42420,
-            "confidence": 0.8701172,
+            "end": 42060,
+            "confidence": 0.99609375,
             "speaker": "B"
         },
         {
             "text": "older,",
-            "start": 42420,
-            "end": 43340,
-            "confidence": 0.7375488,
+            "start": 42460,
+            "end": 43460,
+            "confidence": 0.9760742,
             "speaker": "B"
         },
         {
             "text": "baby",
-            "start": 43580,
-            "end": 44460,
-            "confidence": 0.9871419,
+            "start": 43460,
+            "end": 44300,
+            "confidence": 0.84847003,
             "speaker": "B"
         },
         {
-            "text": "And",
-            "start": 44940,
-            "end": 45220,
-            "confidence": 0.9848633,
+            "text": "and",
+            "start": 44860,
+            "end": 45180,
+            "confidence": 0.99121094,
             "speaker": "B"
         },
         {
             "text": "I've",
-            "start": 45220,
-            "end": 45580,
-            "confidence": 0.76497394,
+            "start": 45180,
+            "end": 45500,
+            "confidence": 0.9892578,
             "speaker": "B"
         },
         {
             "text": "been",
-            "start": 45580,
-            "end": 45740,
-            "confidence": 0.77734375,
+            "start": 45500,
+            "end": 45700,
+            "confidence": 0.97558594,
             "speaker": "B"
         },
         {
             "text": "thinking",
-            "start": 45740,
-            "end": 46420,
-            "confidence": 0.87027997,
-            "speaker": "B"
-        },
-        {
-            "text": "about",
-            "start": 46420,
-            "end": 46700,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "it",
-            "start": 47180,
-            "end": 47500,
-            "confidence": 0.47924805,
-            "speaker": "B"
-        },
-        {
-            "text": "later",
-            "start": 47500,
-            "end": 48139,
-            "confidence": 0.6672363,
-            "speaker": "B"
-        },
-        {
-            "text": "Does",
-            "start": 49180,
-            "end": 49580,
-            "confidence": 0.97631836,
-            "speaker": "B"
-        },
-        {
-            "text": "it",
-            "start": 49580,
-            "end": 49860,
+            "start": 45700,
+            "end": 46260,
             "confidence": 0.99853516,
             "speaker": "B"
         },
         {
-            "text": "ever",
-            "start": 49860,
-            "end": 50220,
+            "text": "about",
+            "start": 46260,
+            "end": 46620,
             "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 47100,
+            "end": 47460,
+            "confidence": 0.9589844,
+            "speaker": "B"
+        },
+        {
+            "text": "lately",
+            "start": 47460,
+            "end": 48139,
+            "confidence": 0.8054199,
+            "speaker": "B"
+        },
+        {
+            "text": "does",
+            "start": 49100,
+            "end": 49460,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 49460,
+            "end": 49780,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "ever",
+            "start": 49780,
+            "end": 50140,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "drive",
             "start": 50380,
-            "end": 51020,
-            "confidence": 0.810791,
+            "end": 50860,
+            "confidence": 0.90722656,
             "speaker": "B"
         },
         {
             "text": "you",
-            "start": 51180,
-            "end": 51540,
-            "confidence": 0.99658203,
+            "start": 51100,
+            "end": 51420,
+            "confidence": 0.9794922,
             "speaker": "B"
         },
         {
             "text": "crazy",
-            "start": 51540,
-            "end": 52460,
-            "confidence": 0.9111328,
+            "start": 51420,
+            "end": 52220,
+            "confidence": 0.8432617,
             "speaker": "B"
         },
         {
-            "text": "just",
-            "start": 52780,
-            "end": 53180,
-            "confidence": 0.9995117,
+            "text": "Just",
+            "start": 52700,
+            "end": 53100,
+            "confidence": 0.9975586,
             "speaker": "B"
         },
         {
             "text": "how",
             "start": 53180,
             "end": 53580,
-            "confidence": 0.55908203,
+            "confidence": 0.98876953,
             "speaker": "B"
         },
         {
             "text": "fast",
             "start": 53660,
             "end": 54140,
-            "confidence": 0.9082031,
+            "confidence": 0.9782715,
             "speaker": "B"
         },
         {
-            "text": "The",
-            "start": 54220,
+            "text": "the",
+            "start": 54140,
             "end": 54500,
-            "confidence": 0.9980469,
+            "confidence": 0.9921875,
             "speaker": "B"
         },
         {
             "text": "night",
             "start": 54500,
-            "end": 55180,
-            "confidence": 0.8253581,
+            "end": 54860,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
             "text": "changes",
-            "start": 55500,
-            "end": 56140,
-            "confidence": 0.8129883,
+            "start": 55420,
+            "end": 56300,
+            "confidence": 0.99731445,
             "speaker": "B"
         },
         {
-            "text": "everything",
-            "start": 57260,
-            "end": 58220,
-            "confidence": 0.9978841,
+            "text": "Everything",
+            "start": 57180,
+            "end": 57580,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
-            "text": "That",
-            "start": 58220,
-            "end": 58420,
-            "confidence": 0.9921875,
+            "text": "that",
+            "start": 58060,
+            "end": 58380,
+            "confidence": 0.99658203,
             "speaker": "B"
         },
         {
             "text": "you've",
-            "start": 58420,
-            "end": 58940,
-            "confidence": 0.93880206,
+            "start": 58380,
+            "end": 58860,
+            "confidence": 0.9954427,
             "speaker": "B"
         },
         {
             "text": "ever",
-            "start": 58940,
-            "end": 59260,
+            "start": 58860,
+            "end": 59180,
             "confidence": 0.99853516,
             "speaker": "B"
         },
         {
             "text": "dreamed",
-            "start": 59420,
-            "end": 60180,
-            "confidence": 0.8105469,
+            "start": 59340,
+            "end": 60060,
+            "confidence": 0.9239502,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 60180,
-            "end": 60540,
-            "confidence": 0.9951172,
+            "start": 60060,
+            "end": 60380,
+            "confidence": 0.98583984,
             "speaker": "B"
         },
         {
-            "text": "disappearing",
-            "start": 61260,
-            "end": 62780,
-            "confidence": 0.921875,
+            "text": "Disappearing",
+            "start": 61180,
+            "end": 62460,
+            "confidence": 0.8717041,
             "speaker": "B"
         },
         {
             "text": "when",
-            "start": 62780,
-            "end": 63020,
-            "confidence": 0.9975586,
-            "speaker": "B"
-        },
-        {
-            "text": "you",
-            "start": 63020,
-            "end": 63340,
-            "confidence": 0.99902344,
-            "speaker": "B"
-        },
-        {
-            "text": "wait",
-            "start": 63340,
-            "end": 63810,
-            "confidence": 0.85302734,
-            "speaker": "B"
-        },
-        {
-            "text": "But",
-            "start": 65320,
-            "end": 65440,
-            "confidence": 0.99072266,
-            "speaker": "B"
-        },
-        {
-            "text": "there's",
-            "start": 65440,
-            "end": 65840,
-            "confidence": 0.93847656,
-            "speaker": "B"
-        },
-        {
-            "text": "nothing",
-            "start": 65840,
-            "end": 66360,
-            "confidence": 0.90983075,
-            "speaker": "B"
-        },
-        {
-            "text": "to",
-            "start": 66360,
-            "end": 66520,
-            "confidence": 0.99853516,
-            "speaker": "B"
-        },
-        {
-            "text": "be",
-            "start": 66520,
-            "end": 66840,
-            "confidence": 0.99853516,
-            "speaker": "B"
-        },
-        {
-            "text": "afraid",
-            "start": 67240,
-            "end": 68040,
-            "confidence": 0.8701172,
-            "speaker": "B"
-        },
-        {
-            "text": "of",
-            "start": 68120,
-            "end": 68520,
+            "start": 62620,
+            "end": 62940,
             "confidence": 0.9980469,
             "speaker": "B"
         },
         {
+            "text": "you",
+            "start": 62940,
+            "end": 63260,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "wake,",
+            "start": 63340,
+            "end": 63810,
+            "confidence": 0.83740234,
+            "speaker": "B"
+        },
+        {
+            "text": "wake",
+            "start": 63880,
+            "end": 64080,
+            "confidence": 0.8623047,
+            "speaker": "B"
+        },
+        {
+            "text": "up",
+            "start": 64080,
+            "end": 64360,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "but",
+            "start": 65080,
+            "end": 65400,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "there's",
+            "start": 65400,
+            "end": 65760,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "nothing",
+            "start": 65760,
+            "end": 66160,
+            "confidence": 0.9794922,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 66160,
+            "end": 66440,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 66440,
+            "end": 66760,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "afraid",
+            "start": 67160,
+            "end": 67880,
+            "confidence": 0.99869794,
+            "speaker": "B"
+        },
+        {
+            "text": "of",
+            "start": 67880,
+            "end": 68280,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
             "text": "Even",
-            "start": 69000,
-            "end": 69400,
-            "confidence": 0.99609375,
+            "start": 68760,
+            "end": 69160,
+            "confidence": 0.9902344,
             "speaker": "B"
         },
         {
             "text": "when",
             "start": 69640,
             "end": 70040,
-            "confidence": 0.99072266,
+            "confidence": 0.99609375,
             "speaker": "B"
         },
         {
-            "text": "I",
-            "start": 70520,
-            "end": 70920,
-            "confidence": 0.71728516,
+            "text": "the",
+            "start": 70040,
+            "end": 70400,
+            "confidence": 0.5473633,
             "speaker": "B"
         },
         {
-            "text": "change",
+            "text": "night",
+            "start": 70400,
+            "end": 70760,
+            "confidence": 0.6958008,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
             "start": 71400,
-            "end": 72120,
-            "confidence": 0.7890625,
+            "end": 72280,
+            "confidence": 0.9968262,
             "speaker": "B"
         },
         {
-            "text": "It",
-            "start": 72120,
-            "end": 72440,
-            "confidence": 0.48120117,
+            "text": "it",
+            "start": 73080,
+            "end": 73400,
+            "confidence": 0.99560547,
             "speaker": "B"
         },
         {
             "text": "will",
             "start": 73400,
-            "end": 73720,
-            "confidence": 0.9682617,
+            "end": 73680,
+            "confidence": 0.9892578,
             "speaker": "B"
         },
         {
-            "text": "never",
-            "start": 73720,
-            "end": 74200,
-            "confidence": 0.9284668,
+            "text": "never.",
+            "start": 73680,
+            "end": 74040,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
-            "text": "change",
-            "start": 74440,
-            "end": 75240,
-            "confidence": 0.7483724,
-            "speaker": "B"
-        },
-        {
-            "text": "me.",
-            "start": 75640,
-            "end": 76040,
+            "text": "Change",
+            "start": 74360,
+            "end": 74760,
             "confidence": 0.99853516,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
-            "text": "And",
-            "start": 76040,
-            "end": 76400,
-            "confidence": 0.9819336,
-            "speaker": "D"
+            "text": "Me",
+            "start": 75560,
+            "end": 75960,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 75960,
+            "end": 76360,
+            "confidence": 0.98876953,
+            "speaker": "A"
         },
         {
             "text": "you.",
-            "start": 76400,
+            "start": 76360,
             "end": 76760,
-            "confidence": 0.9970703,
-            "speaker": "D"
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "Chasing",
             "start": 80600,
-            "end": 81360,
-            "confidence": 0.9967448,
-            "speaker": "E"
+            "end": 81080,
+            "confidence": 0.7590332,
+            "speaker": "C"
         },
         {
             "text": "it",
-            "start": 81360,
-            "end": 81560,
-            "confidence": 0.9975586,
-            "speaker": "E"
+            "start": 81080,
+            "end": 81440,
+            "confidence": 0.9946289,
+            "speaker": "C"
         },
         {
             "text": "tonight",
-            "start": 81560,
-            "end": 82120,
-            "confidence": 0.9967448,
-            "speaker": "E"
+            "start": 81440,
+            "end": 82040,
+            "confidence": 0.98323566,
+            "speaker": "C"
         },
         {
             "text": "Doubts",
-            "start": 82440,
-            "end": 83000,
-            "confidence": 0.9611003,
-            "speaker": "E"
+            "start": 82360,
+            "end": 82920,
+            "confidence": 0.6559245,
+            "speaker": "C"
         },
         {
-            "text": "around,",
-            "start": 83000,
-            "end": 83560,
-            "confidence": 0.7739258,
-            "speaker": "E"
+            "text": "are",
+            "start": 82920,
+            "end": 83200,
+            "confidence": 0.8959961,
+            "speaker": "C"
+        },
+        {
+            "text": "running",
+            "start": 83200,
+            "end": 83680,
+            "confidence": 0.6442871,
+            "speaker": "C"
         },
         {
             "text": "around",
-            "start": 83560,
-            "end": 84040,
-            "confidence": 0.8737793,
-            "speaker": "E"
+            "start": 83680,
+            "end": 83960,
+            "confidence": 0.8510742,
+            "speaker": "C"
         },
         {
             "text": "her",
-            "start": 84040,
-            "end": 84280,
-            "confidence": 0.9584961,
-            "speaker": "E"
+            "start": 83960,
+            "end": 84200,
+            "confidence": 0.9394531,
+            "speaker": "C"
         },
         {
             "text": "head",
-            "start": 84280,
-            "end": 84680,
-            "confidence": 0.9511719,
-            "speaker": "E"
+            "start": 84200,
+            "end": 84520,
+            "confidence": 0.99853516,
+            "speaker": "C"
         },
         {
             "text": "he's",
-            "start": 85160,
-            "end": 85680,
-            "confidence": 0.8074544,
-            "speaker": "E"
+            "start": 85080,
+            "end": 85640,
+            "confidence": 0.74104816,
+            "speaker": "C"
         },
         {
             "text": "waiting",
-            "start": 85680,
-            "end": 86440,
-            "confidence": 0.5888672,
-            "speaker": "E"
+            "start": 85640,
+            "end": 86120,
+            "confidence": 0.73535156,
+            "speaker": "C"
         },
         {
-            "text": "hearts",
-            "start": 86440,
-            "end": 87040,
-            "confidence": 0.8129883,
-            "speaker": "E"
+            "text": "hides",
+            "start": 86360,
+            "end": 86920,
+            "confidence": 0.91674805,
+            "speaker": "C"
         },
         {
             "text": "behind",
-            "start": 87040,
-            "end": 87560,
-            "confidence": 0.88549805,
-            "speaker": "E"
+            "start": 86920,
+            "end": 87320,
+            "confidence": 0.9995117,
+            "speaker": "C"
         },
         {
             "text": "a",
-            "start": 87560,
-            "end": 87800,
-            "confidence": 0.98291016,
-            "speaker": "E"
+            "start": 87400,
+            "end": 87720,
+            "confidence": 0.9892578,
+            "speaker": "C"
         },
         {
             "text": "cigarette",
-            "start": 87800,
-            "end": 88440,
-            "confidence": 0.87386066,
-            "speaker": "E"
+            "start": 87720,
+            "end": 88520,
+            "confidence": 0.8984375,
+            "speaker": "C"
         },
         {
-            "text": "heart",
-            "start": 88680,
-            "end": 89040,
-            "confidence": 0.8305664,
-            "speaker": "E"
+            "text": "Heart",
+            "start": 88600,
+            "end": 88960,
+            "confidence": 0.9121094,
+            "speaker": "C"
         },
         {
             "text": "is",
-            "start": 89040,
+            "start": 88960,
             "end": 89240,
-            "confidence": 0.9692383,
-            "speaker": "E"
+            "confidence": 0.9267578,
+            "speaker": "C"
         },
         {
             "text": "beating",
             "start": 89240,
             "end": 89640,
-            "confidence": 0.8845215,
-            "speaker": "E"
+            "confidence": 0.78393555,
+            "speaker": "C"
         },
         {
             "text": "loud",
-            "start": 89720,
-            "end": 90200,
-            "confidence": 0.8630371,
-            "speaker": "E"
+            "start": 89640,
+            "end": 90120,
+            "confidence": 0.95947266,
+            "speaker": "C"
         },
         {
-            "text": "And",
-            "start": 90200,
-            "end": 90520,
-            "confidence": 0.94677734,
-            "speaker": "E"
+            "text": "and",
+            "start": 90120,
+            "end": 90400,
+            "confidence": 0.9663086,
+            "speaker": "C"
         },
         {
             "text": "she",
-            "start": 90520,
-            "end": 90760,
-            "confidence": 0.9995117,
-            "speaker": "E"
+            "start": 90400,
+            "end": 90640,
+            "confidence": 0.9980469,
+            "speaker": "C"
         },
         {
             "text": "doesn't",
-            "start": 90760,
-            "end": 91280,
-            "confidence": 0.99960935,
-            "speaker": "E"
+            "start": 90640,
+            "end": 91200,
+            "confidence": 0.99869794,
+            "speaker": "C"
         },
         {
             "text": "want",
-            "start": 91280,
-            "end": 91760,
-            "confidence": 0.8652344,
-            "speaker": "E"
+            "start": 91200,
+            "end": 91560,
+            "confidence": 0.99902344,
+            "speaker": "C"
         },
         {
             "text": "it",
-            "start": 91760,
-            "end": 92000,
+            "start": 91560,
+            "end": 91880,
             "confidence": 0.99609375,
-            "speaker": "E"
+            "speaker": "C"
         },
         {
             "text": "to",
-            "start": 92000,
-            "end": 92240,
-            "confidence": 0.99902344,
-            "speaker": "E"
+            "start": 91880,
+            "end": 92120,
+            "confidence": 0.9970703,
+            "speaker": "C"
         },
         {
             "text": "stop.",
-            "start": 92240,
-            "end": 92840,
-            "confidence": 0.9094238,
-            "speaker": "E"
+            "start": 92120,
+            "end": 92440,
+            "confidence": 0.9248047,
+            "speaker": "C"
         },
         {
-            "text": "Moving.",
+            "text": "Moving",
             "start": 96820,
-            "end": 97380,
-            "confidence": 0.9703776,
+            "end": 97140,
+            "confidence": 0.89282227,
             "speaker": "A"
         },
         {
-            "text": "Too",
-            "start": 97380,
-            "end": 97820,
-            "confidence": 0.9394531,
-            "speaker": "F"
+            "text": "too",
+            "start": 97140,
+            "end": 97540,
+            "confidence": 0.9970703,
+            "speaker": "A"
         },
         {
             "text": "fast",
-            "start": 97820,
-            "end": 98180,
-            "confidence": 1.0,
-            "speaker": "F"
+            "start": 97620,
+            "end": 98100,
+            "confidence": 0.99975586,
+            "speaker": "A"
         },
         {
             "text": "Moon",
-            "start": 98500,
-            "end": 99020,
-            "confidence": 0.9980469,
-            "speaker": "F"
+            "start": 98420,
+            "end": 98940,
+            "confidence": 0.98779297,
+            "speaker": "A"
         },
         {
             "text": "is",
-            "start": 99020,
+            "start": 98940,
             "end": 99220,
-            "confidence": 0.62158203,
-            "speaker": "F"
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "lighting",
             "start": 99220,
-            "end": 99860,
-            "confidence": 0.982666,
-            "speaker": "F"
+            "end": 99700,
+            "confidence": 0.9362793,
+            "speaker": "A"
         },
         {
             "text": "up",
-            "start": 99860,
-            "end": 100060,
+            "start": 99700,
+            "end": 99940,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
-            "text": "a",
-            "start": 100060,
-            "end": 100260,
-            "confidence": 0.45483398,
-            "speaker": "F"
+            "text": "her",
+            "start": 99940,
+            "end": 100140,
+            "confidence": 0.9433594,
+            "speaker": "A"
         },
         {
             "text": "skin",
-            "start": 100260,
-            "end": 100740,
-            "confidence": 0.73095703,
-            "speaker": "F"
+            "start": 100140,
+            "end": 100580,
+            "confidence": 0.88842773,
+            "speaker": "A"
         },
         {
-            "text": "She's",
-            "start": 101140,
-            "end": 101740,
-            "confidence": 0.9793294,
-            "speaker": "F"
+            "text": "she's",
+            "start": 101060,
+            "end": 101700,
+            "confidence": 0.9978841,
+            "speaker": "A"
         },
         {
             "text": "falling",
-            "start": 101740,
-            "end": 102580,
-            "confidence": 0.8979492,
-            "speaker": "F"
+            "start": 101700,
+            "end": 102260,
+            "confidence": 0.8466797,
+            "speaker": "A"
         },
         {
             "text": "doesn't",
-            "start": 102580,
-            "end": 103340,
-            "confidence": 0.9243164,
-            "speaker": "F"
+            "start": 102500,
+            "end": 103220,
+            "confidence": 0.99527997,
+            "speaker": "A"
         },
         {
             "text": "even",
-            "start": 103340,
-            "end": 103580,
+            "start": 103220,
+            "end": 103540,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "know",
-            "start": 103580,
-            "end": 103940,
-            "confidence": 0.71777344,
-            "speaker": "F"
+            "start": 103540,
+            "end": 103900,
+            "confidence": 0.79785156,
+            "speaker": "A"
         },
         {
             "text": "it",
-            "start": 103940,
-            "end": 104260,
-            "confidence": 0.9746094,
-            "speaker": "F"
+            "start": 103900,
+            "end": 104180,
+            "confidence": 0.9824219,
+            "speaker": "A"
         },
         {
             "text": "yet",
-            "start": 104260,
-            "end": 104660,
-            "confidence": 0.96875,
-            "speaker": "F"
+            "start": 104180,
+            "end": 104500,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "Having",
             "start": 104660,
-            "end": 105220,
-            "confidence": 0.99088544,
-            "speaker": "F"
+            "end": 105060,
+            "confidence": 0.8671875,
+            "speaker": "A"
         },
         {
             "text": "no",
-            "start": 105220,
+            "start": 105140,
             "end": 105460,
-            "confidence": 0.67822266,
-            "speaker": "F"
+            "confidence": 0.9951172,
+            "speaker": "A"
         },
         {
             "text": "regrets",
             "start": 105460,
-            "end": 106300,
-            "confidence": 0.95654297,
-            "speaker": "F"
+            "end": 106220,
+            "confidence": 0.9923503,
+            "speaker": "A"
         },
         {
             "text": "it's",
-            "start": 106300,
-            "end": 106740,
-            "confidence": 0.9824219,
-            "speaker": "F"
+            "start": 106220,
+            "end": 106580,
+            "confidence": 0.8146159,
+            "speaker": "A"
         },
         {
             "text": "all",
-            "start": 106740,
-            "end": 107020,
+            "start": 106580,
+            "end": 106900,
             "confidence": 1.0,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "that",
-            "start": 107020,
-            "end": 107380,
-            "confidence": 0.9970703,
-            "speaker": "F"
+            "start": 106900,
+            "end": 107300,
+            "confidence": 0.99316406,
+            "speaker": "A"
         },
         {
             "text": "she",
-            "start": 107380,
-            "end": 107780,
-            "confidence": 0.9995117,
-            "speaker": "F"
+            "start": 107300,
+            "end": 107700,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "really",
-            "start": 107780,
-            "end": 108300,
-            "confidence": 0.9995117,
-            "speaker": "F"
+            "start": 107700,
+            "end": 108100,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "wants.",
-            "start": 108300,
-            "end": 108980,
-            "confidence": 0.98217773,
-            "speaker": "F"
+            "start": 108180,
+            "end": 109940,
+            "confidence": 0.97802734,
+            "speaker": "A"
         },
         {
-            "text": "We're",
-            "start": 112900,
-            "end": 113380,
-            "confidence": 0.77685547,
+            "text": "We'Re",
+            "start": 112820,
+            "end": 113300,
+            "confidence": 0.9892578,
             "speaker": "B"
         },
         {
             "text": "only",
-            "start": 113380,
-            "end": 113660,
+            "start": 113300,
+            "end": 113620,
             "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "getting",
-            "start": 113660,
-            "end": 114460,
-            "confidence": 0.8639323,
+            "start": 113620,
+            "end": 114020,
+            "confidence": 0.9682617,
             "speaker": "B"
         },
         {
             "text": "older,",
-            "start": 114460,
-            "end": 115300,
-            "confidence": 0.7077637,
+            "start": 114420,
+            "end": 115460,
+            "confidence": 0.98217773,
             "speaker": "B"
         },
         {
             "text": "baby",
-            "start": 115540,
-            "end": 116420,
-            "confidence": 0.9786784,
+            "start": 115460,
+            "end": 116260,
+            "confidence": 0.9716797,
             "speaker": "B"
         },
         {
-            "text": "And",
+            "text": "and",
             "start": 116900,
-            "end": 117180,
-            "confidence": 0.9628906,
+            "end": 117220,
+            "confidence": 0.9614258,
             "speaker": "B"
         },
         {
             "text": "I've",
-            "start": 117180,
-            "end": 117580,
-            "confidence": 0.81347656,
+            "start": 117220,
+            "end": 117540,
+            "confidence": 0.9329427,
             "speaker": "B"
         },
         {
             "text": "been",
-            "start": 117580,
-            "end": 117740,
-            "confidence": 0.6225586,
+            "start": 117540,
+            "end": 117700,
+            "confidence": 0.99609375,
             "speaker": "B"
         },
         {
             "text": "thinking",
-            "start": 117740,
-            "end": 118460,
-            "confidence": 0.99348956,
+            "start": 117700,
+            "end": 118220,
+            "confidence": 0.7602539,
             "speaker": "B"
         },
         {
             "text": "about",
-            "start": 118460,
-            "end": 118740,
-            "confidence": 0.9995117,
+            "start": 118220,
+            "end": 118580,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "it",
-            "start": 119140,
-            "end": 119500,
-            "confidence": 0.9951172,
-            "speaker": "B"
-        },
-        {
-            "text": "later",
-            "start": 119500,
-            "end": 120180,
-            "confidence": 0.7128906,
-            "speaker": "B"
-        },
-        {
-            "text": "Does",
-            "start": 121220,
-            "end": 121620,
+            "start": 119060,
+            "end": 119460,
             "confidence": 0.98535156,
             "speaker": "B"
         },
         {
+            "text": "lately",
+            "start": 119460,
+            "end": 120180,
+            "confidence": 0.9016113,
+            "speaker": "B"
+        },
+        {
+            "text": "does",
+            "start": 121140,
+            "end": 121500,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
             "text": "it",
-            "start": 121620,
-            "end": 121900,
-            "confidence": 0.99853516,
+            "start": 121500,
+            "end": 121820,
+            "confidence": 1.0,
             "speaker": "B"
         },
         {
             "text": "ever",
-            "start": 121900,
-            "end": 122260,
-            "confidence": 0.9995117,
+            "start": 121820,
+            "end": 122180,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "drive",
-            "start": 122420,
-            "end": 123060,
-            "confidence": 0.86499023,
+            "start": 122340,
+            "end": 122820,
+            "confidence": 0.82543945,
             "speaker": "B"
         },
         {
             "text": "you",
-            "start": 123140,
-            "end": 123500,
-            "confidence": 0.9975586,
+            "start": 123060,
+            "end": 123420,
+            "confidence": 0.99560547,
             "speaker": "B"
         },
         {
             "text": "crazy",
-            "start": 123500,
-            "end": 124420,
-            "confidence": 0.7833659,
+            "start": 123420,
+            "end": 124260,
+            "confidence": 0.92903644,
             "speaker": "B"
         },
         {
-            "text": "just",
-            "start": 124740,
-            "end": 125140,
-            "confidence": 0.9995117,
+            "text": "Just",
+            "start": 124660,
+            "end": 125060,
+            "confidence": 0.99609375,
             "speaker": "B"
         },
         {
             "text": "how",
-            "start": 125300,
-            "end": 125660,
-            "confidence": 0.9794922,
+            "start": 125140,
+            "end": 125540,
+            "confidence": 0.76660156,
             "speaker": "B"
         },
         {
             "text": "fast",
-            "start": 125660,
+            "start": 125620,
             "end": 126100,
-            "confidence": 0.96118164,
+            "confidence": 0.8640137,
             "speaker": "B"
         },
         {
-            "text": "And",
-            "start": 126260,
-            "end": 126580,
-            "confidence": 0.7026367,
+            "text": "at",
+            "start": 126180,
+            "end": 126460,
+            "confidence": 0.50634766,
             "speaker": "B"
         },
         {
-            "text": "I",
-            "start": 126580,
-            "end": 126900,
-            "confidence": 0.5571289,
+            "text": "night",
+            "start": 126460,
+            "end": 126740,
+            "confidence": 0.9135742,
             "speaker": "B"
         },
         {
             "text": "changes",
-            "start": 127840,
+            "start": 127760,
             "end": 128320,
-            "confidence": 0.8051758,
+            "confidence": 0.92626953,
             "speaker": "B"
         },
         {
-            "text": "everything",
-            "start": 129280,
-            "end": 130080,
-            "confidence": 0.90983075,
+            "text": "Everything",
+            "start": 129200,
+            "end": 129600,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "that",
             "start": 130080,
             "end": 130400,
-            "confidence": 0.9897461,
+            "confidence": 0.99365234,
             "speaker": "B"
         },
         {
             "text": "you've",
             "start": 130400,
-            "end": 130880,
-            "confidence": 0.8536784,
+            "end": 130800,
+            "confidence": 0.8432617,
             "speaker": "B"
         },
         {
             "text": "ever",
-            "start": 130880,
-            "end": 131200,
-            "confidence": 0.9980469,
+            "start": 130800,
+            "end": 131120,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "dreamed",
-            "start": 131280,
-            "end": 132160,
-            "confidence": 0.9042969,
+            "start": 131360,
+            "end": 132000,
+            "confidence": 0.9949951,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 132160,
-            "end": 132560,
-            "confidence": 0.99609375,
+            "start": 132000,
+            "end": 132320,
+            "confidence": 0.96728516,
             "speaker": "B"
         },
         {
-            "text": "disappearing",
-            "start": 133200,
-            "end": 134760,
-            "confidence": 0.92275393,
+            "text": "Disappearing",
+            "start": 133120,
+            "end": 134480,
+            "confidence": 0.8800049,
             "speaker": "B"
         },
         {
             "text": "when",
-            "start": 134760,
-            "end": 135000,
+            "start": 134640,
+            "end": 134960,
             "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "you",
-            "start": 135000,
+            "start": 134960,
             "end": 135280,
-            "confidence": 1.0,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
             "text": "wake",
-            "start": 135520,
-            "end": 136080,
-            "confidence": 0.99153644,
+            "start": 135440,
+            "end": 135960,
+            "confidence": 0.9975586,
             "speaker": "B"
         },
         {
             "text": "up",
-            "start": 136080,
-            "end": 136480,
-            "confidence": 1.0,
+            "start": 135960,
+            "end": 136320,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
-            "text": "But",
-            "start": 137200,
-            "end": 137480,
-            "confidence": 0.99902344,
+            "text": "but",
+            "start": 137120,
+            "end": 137440,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
             "text": "there's",
-            "start": 137480,
-            "end": 137840,
-            "confidence": 0.9996745,
+            "start": 137440,
+            "end": 137800,
+            "confidence": 0.9991862,
             "speaker": "B"
         },
         {
             "text": "nothing",
-            "start": 137840,
-            "end": 138360,
-            "confidence": 0.8125,
+            "start": 137800,
+            "end": 138120,
+            "confidence": 0.78027344,
             "speaker": "B"
         },
         {
             "text": "to",
-            "start": 138360,
-            "end": 138560,
+            "start": 138120,
+            "end": 138440,
             "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "be",
-            "start": 138560,
-            "end": 138880,
-            "confidence": 0.99853516,
+            "start": 138440,
+            "end": 138800,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "afraid",
-            "start": 139200,
-            "end": 140080,
-            "confidence": 0.9975586,
+            "start": 139040,
+            "end": 139840,
+            "confidence": 0.8391927,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 140080,
-            "end": 140480,
-            "confidence": 0.9975586,
+            "start": 139920,
+            "end": 140320,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "Even",
-            "start": 140960,
-            "end": 141360,
-            "confidence": 0.99902344,
+            "start": 140800,
+            "end": 141200,
+            "confidence": 0.9975586,
             "speaker": "B"
         },
         {
             "text": "when",
             "start": 141600,
             "end": 142000,
-            "confidence": 0.9980469,
-            "speaker": "B"
-        },
-        {
-            "text": "the",
-            "start": 142240,
-            "end": 142520,
-            "confidence": 0.7915039,
-            "speaker": "B"
-        },
-        {
-            "text": "night",
-            "start": 142520,
-            "end": 143280,
-            "confidence": 0.7989909,
-            "speaker": "B"
-        },
-        {
-            "text": "changes",
-            "start": 143519,
-            "end": 144080,
-            "confidence": 0.8570964,
-            "speaker": "B"
-        },
-        {
-            "text": "You'll",
-            "start": 145120,
-            "end": 145760,
-            "confidence": 0.89908856,
-            "speaker": "B"
-        },
-        {
-            "text": "never",
-            "start": 145760,
-            "end": 146240,
-            "confidence": 0.9758301,
-            "speaker": "B"
-        },
-        {
-            "text": "change",
-            "start": 146400,
-            "end": 147120,
-            "confidence": 0.8850911,
-            "speaker": "B"
-        },
-        {
-            "text": "me",
-            "start": 147680,
-            "end": 148080,
             "confidence": 0.99902344,
             "speaker": "B"
         },
         {
-            "text": "And",
-            "start": 148080,
-            "end": 148440,
+            "text": "the",
+            "start": 142080,
+            "end": 142440,
+            "confidence": 0.9873047,
+            "speaker": "B"
+        },
+        {
+            "text": "night",
+            "start": 142440,
+            "end": 142800,
+            "confidence": 0.9951172,
+            "speaker": "B"
+        },
+        {
+            "text": "changes",
+            "start": 143440,
+            "end": 144320,
+            "confidence": 0.9946289,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 145120,
+            "end": 145440,
+            "confidence": 0.6464844,
+            "speaker": "B"
+        },
+        {
+            "text": "will",
+            "start": 145440,
+            "end": 145680,
+            "confidence": 0.64746094,
+            "speaker": "B"
+        },
+        {
+            "text": "never",
+            "start": 145680,
+            "end": 146000,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "change",
+            "start": 146320,
+            "end": 146720,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "Me",
+            "start": 147600,
+            "end": 148000,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "and",
+            "start": 148000,
+            "end": 148400,
             "confidence": 0.99853516,
             "speaker": "B"
         },
         {
             "text": "you.",
-            "start": 148440,
+            "start": 148400,
             "end": 148800,
-            "confidence": 0.9819336,
+            "confidence": 0.9951172,
             "speaker": "B"
         },
         {
             "text": "Going",
-            "start": 160860,
-            "end": 161300,
-            "confidence": 0.83691406,
+            "start": 160780,
+            "end": 161020,
+            "confidence": 0.9584961,
             "speaker": "A"
         },
         {
             "text": "out",
-            "start": 161300,
-            "end": 161540,
-            "confidence": 0.99072266,
+            "start": 161100,
+            "end": 161460,
+            "confidence": 0.9770508,
             "speaker": "A"
         },
         {
             "text": "tonight",
-            "start": 161540,
-            "end": 162220,
-            "confidence": 0.97753906,
+            "start": 161460,
+            "end": 162060,
+            "confidence": 0.7263997,
             "speaker": "A"
         },
         {
             "text": "Changes",
             "start": 162460,
-            "end": 163260,
-            "confidence": 0.95996094,
+            "end": 163220,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "into",
-            "start": 163260,
-            "end": 163620,
-            "confidence": 0.99658203,
+            "start": 163220,
+            "end": 163580,
+            "confidence": 0.9951172,
             "speaker": "A"
         },
         {
             "text": "something",
-            "start": 163620,
-            "end": 164220,
+            "start": 163660,
+            "end": 164060,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "red",
+            "start": 164140,
+            "end": 164540,
+            "confidence": 0.77734375,
+            "speaker": "A"
+        },
+        {
+            "text": "her",
+            "start": 165180,
+            "end": 165580,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "rare",
-            "start": 164220,
-            "end": 164700,
-            "confidence": 0.69311523,
-            "speaker": "A"
-        },
-        {
-            "text": "Her",
-            "start": 165260,
-            "end": 165660,
-            "confidence": 0.99658203,
-            "speaker": "A"
-        },
-        {
             "text": "mother",
-            "start": 165740,
-            "end": 166300,
-            "confidence": 0.9621582,
+            "start": 165660,
+            "end": 166140,
+            "confidence": 0.82470703,
             "speaker": "A"
         },
         {
             "text": "doesn't",
-            "start": 166540,
-            "end": 167220,
-            "confidence": 0.99921876,
+            "start": 166460,
+            "end": 167100,
+            "confidence": 0.93684894,
             "speaker": "A"
         },
         {
             "text": "like",
-            "start": 167220,
+            "start": 167100,
             "end": 167420,
-            "confidence": 0.99902344,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "that",
             "start": 167420,
-            "end": 167620,
-            "confidence": 0.99560547,
+            "end": 167700,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "kind",
-            "start": 167620,
-            "end": 167980,
-            "confidence": 0.99316406,
+            "start": 167700,
+            "end": 167900,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
             "text": "of",
-            "start": 167980,
-            "end": 168260,
-            "confidence": 0.9189453,
+            "start": 167900,
+            "end": 168100,
+            "confidence": 0.98535156,
             "speaker": "A"
         },
         {
             "text": "trust",
-            "start": 168260,
-            "end": 168580,
-            "confidence": 0.9855957,
+            "start": 168100,
+            "end": 168500,
+            "confidence": 0.76782227,
             "speaker": "A"
         },
         {
             "text": "Reminds",
-            "start": 168580,
-            "end": 169140,
-            "confidence": 0.99869794,
+            "start": 168500,
+            "end": 169060,
+            "confidence": 0.94954425,
             "speaker": "A"
         },
         {
             "text": "her",
-            "start": 169140,
-            "end": 169300,
-            "confidence": 0.9897461,
+            "start": 169060,
+            "end": 169260,
+            "confidence": 0.9921875,
             "speaker": "A"
         },
         {
             "text": "of",
-            "start": 169300,
+            "start": 169260,
             "end": 169500,
-            "confidence": 0.9980469,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
             "text": "the",
             "start": 169500,
-            "end": 169660,
-            "confidence": 0.9921875,
+            "end": 169740,
+            "confidence": 0.9951172,
             "speaker": "A"
         },
         {
             "text": "missing",
-            "start": 169660,
-            "end": 170620,
-            "confidence": 0.8020833,
-            "speaker": "A"
-        },
-        {
-            "text": "piece",
-            "start": 170620,
-            "end": 171060,
+            "start": 169740,
+            "end": 170500,
             "confidence": 0.8076172,
             "speaker": "A"
         },
         {
+            "text": "piece",
+            "start": 170500,
+            "end": 170900,
+            "confidence": 0.8850911,
+            "speaker": "A"
+        },
+        {
             "text": "of",
-            "start": 171060,
-            "end": 171300,
-            "confidence": 0.99902344,
+            "start": 170900,
+            "end": 171220,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "innocence",
-            "start": 171300,
-            "end": 172220,
-            "confidence": 0.83857423,
+            "start": 171220,
+            "end": 171980,
+            "confidence": 0.83203125,
             "speaker": "A"
         },
         {
-            "text": "She",
-            "start": 172220,
-            "end": 172500,
-            "confidence": 0.9765625,
+            "text": "she",
+            "start": 172060,
+            "end": 172420,
+            "confidence": 0.8930664,
             "speaker": "A"
         },
         {
-            "text": "loves",
-            "start": 172500,
-            "end": 173260,
-            "confidence": 0.75927734,
+            "text": "loves.",
+            "start": 172420,
+            "end": 173420,
+            "confidence": 0.9680176,
             "speaker": "A"
         },
         {
-            "text": "We're",
-            "start": 174940,
-            "end": 175340,
-            "confidence": 0.73551434,
-            "speaker": "A"
+            "text": "Only",
+            "start": 175180,
+            "end": 175580,
+            "confidence": 0.9638672,
+            "speaker": "B"
         },
         {
-            "text": "only",
-            "start": 175340,
-            "end": 175660,
-            "confidence": 0.9794922,
-            "speaker": "A"
-        },
-        {
-            "text": "getting.",
+            "text": "getting",
             "start": 175660,
-            "end": 176420,
-            "confidence": 0.9086914,
-            "speaker": "A"
+            "end": 176060,
+            "confidence": 0.98339844,
+            "speaker": "B"
         },
         {
-            "text": "Older,",
-            "start": 176420,
-            "end": 177100,
-            "confidence": 0.6977539,
+            "text": "older,",
+            "start": 176460,
+            "end": 177500,
+            "confidence": 0.99731445,
             "speaker": "B"
         },
         {
             "text": "baby",
-            "start": 177580,
-            "end": 178380,
-            "confidence": 0.97998047,
+            "start": 177500,
+            "end": 178300,
+            "confidence": 0.98339844,
             "speaker": "B"
         },
         {
-            "text": "And",
-            "start": 178940,
-            "end": 179220,
-            "confidence": 0.90966797,
+            "text": "and",
+            "start": 178860,
+            "end": 179180,
+            "confidence": 0.9370117,
             "speaker": "B"
         },
         {
             "text": "I've",
-            "start": 179220,
-            "end": 179580,
-            "confidence": 0.7447917,
+            "start": 179180,
+            "end": 179540,
+            "confidence": 0.9536133,
             "speaker": "B"
         },
         {
             "text": "been",
-            "start": 179580,
+            "start": 179540,
             "end": 179740,
-            "confidence": 0.73095703,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
             "text": "thinking",
             "start": 179740,
-            "end": 180420,
-            "confidence": 0.87190753,
+            "end": 180260,
+            "confidence": 0.99194336,
             "speaker": "B"
         },
         {
             "text": "about",
-            "start": 180420,
-            "end": 180700,
-            "confidence": 0.99902344,
+            "start": 180260,
+            "end": 180620,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "it",
-            "start": 181180,
-            "end": 181500,
-            "confidence": 0.98779297,
+            "start": 181100,
+            "end": 181460,
+            "confidence": 0.98095703,
             "speaker": "B"
         },
         {
-            "text": "later",
-            "start": 181500,
+            "text": "lately",
+            "start": 181460,
             "end": 182140,
-            "confidence": 0.55859375,
+            "confidence": 0.87524414,
             "speaker": "B"
         },
         {
-            "text": "Does",
+            "text": "does",
             "start": 183100,
-            "end": 183540,
-            "confidence": 0.9963379,
+            "end": 183460,
+            "confidence": 0.9946289,
             "speaker": "B"
         },
         {
             "text": "it",
-            "start": 183540,
-            "end": 183860,
-            "confidence": 0.99658203,
+            "start": 183460,
+            "end": 183780,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "ever",
-            "start": 183860,
-            "end": 184220,
-            "confidence": 0.9995117,
+            "start": 183780,
+            "end": 184140,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "drive",
-            "start": 184380,
-            "end": 185020,
-            "confidence": 0.81030273,
+            "start": 184300,
+            "end": 184780,
+            "confidence": 0.79589844,
             "speaker": "B"
         },
         {
             "text": "you",
-            "start": 185260,
-            "end": 185580,
-            "confidence": 0.98339844,
+            "start": 185100,
+            "end": 185420,
+            "confidence": 0.93652344,
             "speaker": "B"
         },
         {
             "text": "crazy",
-            "start": 185580,
-            "end": 186460,
-            "confidence": 0.88395184,
+            "start": 185420,
+            "end": 186220,
+            "confidence": 0.9941406,
             "speaker": "B"
         },
         {
-            "text": "just",
-            "start": 186780,
-            "end": 187180,
-            "confidence": 0.9995117,
+            "text": "Just",
+            "start": 186620,
+            "end": 187020,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
             "text": "how",
-            "start": 187260,
-            "end": 187660,
-            "confidence": 0.9892578,
+            "start": 187180,
+            "end": 187580,
+            "confidence": 0.9951172,
             "speaker": "B"
         },
         {
             "text": "fast",
-            "start": 187660,
-            "end": 188140,
-            "confidence": 0.9760742,
+            "start": 187580,
+            "end": 188060,
+            "confidence": 0.8251953,
             "speaker": "B"
         },
         {
-            "text": "The",
-            "start": 188220,
-            "end": 188540,
-            "confidence": 0.7709961,
+            "text": "the",
+            "start": 188140,
+            "end": 188500,
+            "confidence": 0.99072266,
             "speaker": "B"
         },
         {
             "text": "night",
-            "start": 188540,
-            "end": 189260,
-            "confidence": 0.8806966,
+            "start": 188500,
+            "end": 188860,
+            "confidence": 0.9970703,
             "speaker": "B"
         },
         {
             "text": "changes",
             "start": 189420,
-            "end": 190140,
-            "confidence": 0.81917316,
+            "end": 190300,
+            "confidence": 0.99243164,
             "speaker": "B"
         },
         {
-            "text": "everything",
+            "text": "Everything",
             "start": 191560,
-            "end": 192200,
-            "confidence": 0.99641925,
+            "end": 191800,
+            "confidence": 0.98779297,
             "speaker": "B"
         },
         {
             "text": "that",
-            "start": 192200,
-            "end": 192400,
-            "confidence": 0.9785156,
+            "start": 192120,
+            "end": 192440,
+            "confidence": 0.98535156,
             "speaker": "B"
         },
         {
-            "text": "you've",
-            "start": 192400,
-            "end": 192920,
-            "confidence": 0.89192706,
+            "text": "you",
+            "start": 192440,
+            "end": 192760,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "ever",
-            "start": 192920,
-            "end": 193240,
-            "confidence": 0.9970703,
+            "start": 192760,
+            "end": 193160,
+            "confidence": 0.9921875,
             "speaker": "B"
         },
         {
             "text": "dreamed",
             "start": 193320,
-            "end": 194160,
-            "confidence": 0.9022217,
+            "end": 194040,
+            "confidence": 0.85424805,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 194160,
-            "end": 194520,
-            "confidence": 0.95166016,
+            "start": 194040,
+            "end": 194360,
+            "confidence": 0.9121094,
             "speaker": "B"
         },
         {
-            "text": "disappearing",
-            "start": 195240,
-            "end": 196720,
-            "confidence": 0.95029294,
+            "text": "Disappearing",
+            "start": 195160,
+            "end": 196520,
+            "confidence": 0.9855957,
             "speaker": "B"
         },
         {
             "text": "when",
-            "start": 196720,
-            "end": 197040,
-            "confidence": 0.99902344,
+            "start": 196600,
+            "end": 196960,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "you",
-            "start": 197040,
-            "end": 197400,
+            "start": 196960,
+            "end": 197320,
             "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "wake",
-            "start": 197480,
-            "end": 198040,
-            "confidence": 0.992513,
+            "start": 197400,
+            "end": 197880,
+            "confidence": 0.98535156,
             "speaker": "B"
         },
         {
             "text": "up",
-            "start": 198120,
-            "end": 198520,
-            "confidence": 0.9995117,
+            "start": 197880,
+            "end": 198280,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
-            "text": "But",
-            "start": 199160,
-            "end": 199480,
+            "text": "but",
+            "start": 199080,
+            "end": 199400,
             "confidence": 0.9970703,
             "speaker": "B"
         },
         {
             "text": "there's",
-            "start": 199480,
-            "end": 199880,
-            "confidence": 0.99853516,
+            "start": 199400,
+            "end": 199760,
+            "confidence": 0.9847005,
             "speaker": "B"
         },
         {
             "text": "nothing",
-            "start": 199880,
-            "end": 200360,
-            "confidence": 0.93880206,
+            "start": 199760,
+            "end": 200160,
+            "confidence": 0.9592285,
             "speaker": "B"
         },
         {
             "text": "to",
-            "start": 200360,
-            "end": 200560,
-            "confidence": 0.9995117,
+            "start": 200160,
+            "end": 200440,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "be",
-            "start": 200560,
-            "end": 200920,
-            "confidence": 0.9995117,
+            "start": 200440,
+            "end": 200760,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "afraid",
-            "start": 201240,
-            "end": 202040,
-            "confidence": 0.81315106,
+            "start": 201080,
+            "end": 201880,
+            "confidence": 0.93896484,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 202120,
-            "end": 202520,
-            "confidence": 0.9980469,
+            "start": 201880,
+            "end": 202280,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "Even",
-            "start": 202920,
-            "end": 203320,
+            "start": 202760,
+            "end": 203160,
             "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "when",
-            "start": 203720,
-            "end": 204120,
-            "confidence": 0.99853516,
+            "start": 203640,
+            "end": 204040,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "the",
-            "start": 204200,
-            "end": 204560,
-            "confidence": 0.9921875,
+            "start": 204040,
+            "end": 204440,
+            "confidence": 0.9970703,
             "speaker": "B"
         },
         {
             "text": "night",
-            "start": 204560,
-            "end": 205240,
-            "confidence": 0.72721356,
+            "start": 204440,
+            "end": 204840,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "changes",
             "start": 205400,
-            "end": 206120,
-            "confidence": 0.9375,
+            "end": 206280,
+            "confidence": 0.99853516,
             "speaker": "B"
         },
         {
-            "text": "everything",
-            "start": 207240,
-            "end": 208160,
-            "confidence": 0.99869794,
+            "text": "Everything",
+            "start": 207319,
+            "end": 207720,
+            "confidence": 0.9980469,
             "speaker": "B"
         },
         {
             "text": "that",
-            "start": 208160,
-            "end": 208400,
-            "confidence": 0.8364258,
+            "start": 208120,
+            "end": 208440,
+            "confidence": 0.89453125,
             "speaker": "B"
         },
         {
             "text": "you've",
-            "start": 208400,
-            "end": 208920,
-            "confidence": 0.9135742,
+            "start": 208440,
+            "end": 208840,
+            "confidence": 0.94954425,
             "speaker": "B"
         },
         {
             "text": "ever",
-            "start": 208920,
-            "end": 209240,
-            "confidence": 0.9785156,
+            "start": 208840,
+            "end": 209160,
+            "confidence": 0.98876953,
             "speaker": "B"
         },
         {
             "text": "dreamed",
-            "start": 209400,
-            "end": 210160,
-            "confidence": 0.85961914,
+            "start": 209320,
+            "end": 210040,
+            "confidence": 0.8886719,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 210160,
-            "end": 210520,
-            "confidence": 0.9975586,
+            "start": 210040,
+            "end": 210360,
+            "confidence": 0.99609375,
             "speaker": "B"
         },
         {
-            "text": "disappearing",
-            "start": 211240,
-            "end": 212720,
-            "confidence": 0.92089844,
+            "text": "Disappearing",
+            "start": 211160,
+            "end": 212440,
+            "confidence": 0.8869629,
             "speaker": "B"
         },
         {
             "text": "when",
-            "start": 212720,
-            "end": 213000,
-            "confidence": 0.99902344,
+            "start": 212600,
+            "end": 212960,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "you",
-            "start": 213000,
+            "start": 212960,
             "end": 213320,
-            "confidence": 0.99902344,
+            "confidence": 0.99853516,
             "speaker": "B"
         },
         {
             "text": "wake",
-            "start": 213480,
-            "end": 214040,
-            "confidence": 0.9744466,
+            "start": 213400,
+            "end": 213880,
+            "confidence": 0.9790039,
             "speaker": "B"
         },
         {
             "text": "up",
-            "start": 214120,
-            "end": 214520,
-            "confidence": 1.0,
+            "start": 213880,
+            "end": 214280,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
-            "text": "But",
-            "start": 215160,
-            "end": 215480,
+            "text": "but",
+            "start": 215080,
+            "end": 215400,
             "confidence": 0.9975586,
             "speaker": "B"
         },
         {
             "text": "there's",
-            "start": 215480,
-            "end": 215880,
-            "confidence": 0.99886066,
+            "start": 215400,
+            "end": 215760,
+            "confidence": 0.99283856,
             "speaker": "B"
         },
         {
             "text": "nothing",
-            "start": 215880,
-            "end": 216360,
-            "confidence": 0.90999347,
+            "start": 215760,
+            "end": 216160,
+            "confidence": 0.9663086,
             "speaker": "B"
         },
         {
             "text": "to",
-            "start": 216360,
-            "end": 216560,
-            "confidence": 0.9995117,
+            "start": 216160,
+            "end": 216440,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "be",
-            "start": 216560,
-            "end": 216920,
-            "confidence": 0.9995117,
+            "start": 216440,
+            "end": 216760,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "afraid",
-            "start": 217240,
-            "end": 218040,
-            "confidence": 0.8343099,
+            "start": 217080,
+            "end": 217880,
+            "confidence": 0.8929036,
             "speaker": "B"
         },
         {
             "text": "of",
-            "start": 218120,
-            "end": 218520,
-            "confidence": 0.9980469,
+            "start": 217880,
+            "end": 218280,
+            "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "Even",
-            "start": 219000,
-            "end": 219400,
+            "start": 218840,
+            "end": 219240,
             "confidence": 0.99902344,
             "speaker": "B"
         },
         {
             "text": "when",
-            "start": 219720,
-            "end": 220120,
-            "confidence": 0.99902344,
+            "start": 219640,
+            "end": 220040,
+            "confidence": 0.9995117,
             "speaker": "B"
         },
         {
             "text": "the",
-            "start": 220200,
-            "end": 220560,
-            "confidence": 0.9921875,
+            "start": 220040,
+            "end": 220440,
+            "confidence": 0.9975586,
             "speaker": "B"
         },
         {
             "text": "night",
-            "start": 220560,
-            "end": 221240,
-            "confidence": 0.7267253,
+            "start": 220440,
+            "end": 220840,
+            "confidence": 0.99853516,
             "speaker": "B"
         },
         {
-            "text": "changes.",
+            "text": "changes",
             "start": 221400,
-            "end": 222200,
-            "confidence": 0.8733724,
+            "end": 222280,
+            "confidence": 0.9975586,
             "speaker": "B"
+        },
+        {
+            "text": "Never",
+            "start": 223860,
+            "end": 224100,
+            "confidence": 0.9902344,
+            "speaker": "B"
+        },
+        {
+            "text": "change,",
+            "start": 224340,
+            "end": 224740,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "baby",
+            "start": 225460,
+            "end": 226260,
+            "confidence": 0.9920247,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 227140,
+            "end": 227420,
+            "confidence": 0.9091797,
+            "speaker": "B"
+        },
+        {
+            "text": "will",
+            "start": 227420,
+            "end": 227700,
+            "confidence": 0.9946289,
+            "speaker": "B"
+        },
+        {
+            "text": "never",
+            "start": 227700,
+            "end": 228100,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "change",
+            "start": 228340,
+            "end": 228740,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "baby",
+            "start": 229460,
+            "end": 230260,
+            "confidence": 0.9835612,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 231060,
+            "end": 231380,
+            "confidence": 0.7211914,
+            "speaker": "B"
+        },
+        {
+            "text": "will",
+            "start": 231380,
+            "end": 231660,
+            "confidence": 0.9746094,
+            "speaker": "B"
+        },
+        {
+            "text": "never.",
+            "start": 231660,
+            "end": 232020,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "Change",
+            "start": 232340,
+            "end": 232740,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "Me",
+            "start": 233620,
+            "end": 233980,
+            "confidence": 0.9873047,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 233980,
+            "end": 234340,
+            "confidence": 0.9916992,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 234420,
+            "end": 234820,
+            "confidence": 0.99560547,
+            "speaker": "A"
         }
     ],
     "utterances": [
         {
-            "text": "Going out tonight Changes into something red Her mother doesn't like that kind of dress everything she never had She's showing.",
-            "start": 8880,
-            "end": 20440,
-            "confidence": 0.95975864,
+            "text": "Going out tonight Changes into something red her mother doesn't like that kind of dress Everything she never had she's showing up. Driving too fast Moon is breaking through.",
+            "start": 8800,
+            "end": 27960,
+            "confidence": 0.97662425,
             "speaker": "A"
         },
         {
-            "text": "Off.",
-            "start": 20440,
-            "end": 20800,
-            "confidence": 0.5151367,
+            "text": "Her hair she's heading for something that.",
+            "start": 27960,
+            "end": 31400,
+            "confidence": 0.95643836,
             "speaker": "B"
         },
         {
-            "text": "Driving too fast Moon is breaking through her hair She's heading for something that she won't forget Having no regrets is all that she really wants.",
-            "start": 24640,
-            "end": 37020,
-            "confidence": 0.9056944,
+            "text": "She won't forget Having no regrets is all that she really wants.",
+            "start": 31400,
+            "end": 37180,
+            "confidence": 0.9180569,
+            "speaker": "A"
+        },
+        {
+            "text": "We'Re only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast the night changes Everything that you've ever dreamed of Disappearing when you wake, wake up but there's nothing to be afraid of Even when the night changes it will never.",
+            "start": 40860,
+            "end": 74040,
+            "confidence": 0.9553414,
+            "speaker": "B"
+        },
+        {
+            "text": "Change Me and you.",
+            "start": 74360,
+            "end": 76760,
+            "confidence": 0.9953613,
+            "speaker": "A"
+        },
+        {
+            "text": "Chasing it tonight Doubts are running around her head he's waiting hides behind a cigarette Heart is beating loud and she doesn't want it to stop.",
+            "start": 80600,
+            "end": 92440,
+            "confidence": 0.902494,
             "speaker": "C"
         },
         {
-            "text": "We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything That you've ever dreamed of disappearing when you wait But there's nothing to be afraid of Even when I change It will never change me.",
-            "start": 40940,
-            "end": 76040,
-            "confidence": 0.8939144,
-            "speaker": "B"
-        },
-        {
-            "text": "And you.",
-            "start": 76040,
-            "end": 76760,
-            "confidence": 0.98950195,
-            "speaker": "D"
-        },
-        {
-            "text": "Chasing it tonight Doubts around, around her head he's waiting hearts behind a cigarette heart is beating loud And she doesn't want it to stop.",
-            "start": 80600,
-            "end": 92840,
-            "confidence": 0.90896547,
-            "speaker": "E"
-        },
-        {
-            "text": "Moving.",
+            "text": "Moving too fast Moon is lighting up her skin she's falling doesn't even know it yet Having no regrets it's all that she really wants.",
             "start": 96820,
-            "end": 97380,
-            "confidence": 0.9703776,
+            "end": 109940,
+            "confidence": 0.95591146,
             "speaker": "A"
         },
         {
-            "text": "Too fast Moon is lighting up a skin She's falling doesn't even know it yet Having no regrets it's all that she really wants.",
-            "start": 97380,
-            "end": 108980,
-            "confidence": 0.9073181,
-            "speaker": "F"
-        },
-        {
-            "text": "We're only getting older, baby And I've been thinking about it later Does it ever drive you crazy just how fast And I changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes You'll never change me And you.",
-            "start": 112900,
+            "text": "We'Re only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast at night changes Everything that you've ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes you will never change Me and you.",
+            "start": 112820,
             "end": 148800,
-            "confidence": 0.91725755,
+            "confidence": 0.9390402,
             "speaker": "B"
         },
         {
-            "text": "Going out tonight Changes into something rare Her mother doesn't like that kind of trust Reminds her of the missing piece of innocence She loves We're only getting.",
-            "start": 160860,
-            "end": 176420,
-            "confidence": 0.9317912,
+            "text": "Going out tonight Changes into something red her mother doesn't like that kind of trust Reminds her of the missing piece of innocence she loves.",
+            "start": 160780,
+            "end": 173420,
+            "confidence": 0.9302669,
             "speaker": "A"
         },
         {
-            "text": "Older, baby And I've been thinking about it later Does it ever drive you crazy just how fast The night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes everything that you've ever dreamed of disappearing when you wake up But there's nothing to be afraid of Even when the night changes.",
-            "start": 176420,
-            "end": 222200,
-            "confidence": 0.93208116,
+            "text": "Only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast the night changes Everything that you ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes Everything that you've ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes Never change, baby it will never change baby it will never.",
+            "start": 175180,
+            "end": 232020,
+            "confidence": 0.9716634,
             "speaker": "B"
+        },
+        {
+            "text": "Change Me and you.",
+            "start": 232340,
+            "end": 234820,
+            "confidence": 0.98913574,
+            "speaker": "A"
         }
     ],
-    "chapters": [],
-    "sentiment_analysis_results": [],
+    "chapters": [
+        {
+            "summary": "Going out tonight Changes into something red her mother doesn't like that kind of dress Everything she never had she's showing up. Having no regrets is all that she really wants. Only getting older, baby and I've been thinking about it lately does it ever drive you crazy.",
+            "headline": "The night changes Everything that you've ever dreamed of Disappearing when you wake",
+            "gist": "Only Getting Older",
+            "start": 8800,
+            "end": 234820
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "Going out tonight Changes into something red her mother doesn't like that kind of dress Everything she never had she's showing up.",
+            "start": 8800,
+            "end": 20560,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.65752965
+        },
+        {
+            "text": "Driving too fast Moon is breaking through her hair she's heading for something that she won't forget Having no regrets is all that she really wants we're only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast the night changes Everything that you've ever dreamed of Disappearing when you wake, wake up but there's nothing to be afraid of Even when the night changes it will never change Me and you chasing it tonight Doubts are running around her head he's waiting hides behind a cigarette Heart is beating loud and she doesn't want it to stop.",
+            "start": 24560,
+            "end": 92440,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.600935
+        },
+        {
+            "text": "Moving too fast Moon is lighting up her skin she's falling doesn't even know it yet Having no regrets it's all that she really wants we're only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast at night changes Everything that you've ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes you will never change Me and you.",
+            "start": 96820,
+            "end": 148800,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.56331044
+        },
+        {
+            "text": "Going out tonight Changes into something red her mother doesn't like that kind of trust Reminds her of the missing piece of innocence she loves Only getting older, baby and I've been thinking about it lately does it ever drive you crazy Just how fast the night changes Everything that you ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes Everything that you've ever dreamed of Disappearing when you wake up but there's nothing to be afraid of Even when the night changes Never change, baby it will never change baby it will never change Me and you.",
+            "start": 160780,
+            "end": 234820,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5953871
+        }
+    ],
     "audio_duration": 241,
-    "language_code": "es"
+    "language_code": "en"
 }

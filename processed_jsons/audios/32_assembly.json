@@ -1,0 +1,62 @@
+{
+    "id": "18aa60cd-a623-4721-9976-fed294a1af3f",
+    "status": "completed",
+    "text": "¿Ya, ahora sí? ¿Claro, iCloud, cierto?",
+    "words": [
+        {
+            "text": "¿Ya,",
+            "start": 15360,
+            "end": 15520,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "ahora",
+            "start": 15520,
+            "end": 15840,
+            "confidence": 0.8395996,
+            "speaker": "A"
+        },
+        {
+            "text": "sí?",
+            "start": 15840,
+            "end": 16239,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Claro,",
+            "start": 27840,
+            "end": 28400,
+            "confidence": 0.99088544,
+            "speaker": "A"
+        },
+        {
+            "text": "iCloud,",
+            "start": 28560,
+            "end": 29280,
+            "confidence": 0.93701,
+            "speaker": "A"
+        },
+        {
+            "text": "cierto?",
+            "start": 29920,
+            "end": 30400,
+            "confidence": 0.9378255,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "¿Ya, ahora sí? ¿Claro, iCloud, cierto?",
+            "start": 15360,
+            "end": 30400,
+            "confidence": 0.918294,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 32,
+    "language_code": "es"
+}

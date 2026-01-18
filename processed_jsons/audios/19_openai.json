@@ -1,0 +1,388 @@
+{
+    "text": "Researchers at the University of Tsukuba have created a mind-blowing robotic floor that lets you walk freely inside virtual reality. It's called CirculaFloor, and it uses real-time motion tracking to predict your next step before you even take it. No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+    "audio_duration": 17.280000686645508,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Researchers",
+            "start": 0.0,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "at",
+            "start": 0.5199999809265137,
+            "end": 0.7799999713897705,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 0.7799999713897705,
+            "end": 0.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "University",
+            "start": 0.9800000190734863,
+            "end": 1.4199999570846558,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 1.4199999570846558,
+            "end": 1.600000023841858,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tsukuba",
+            "start": 1.600000023841858,
+            "end": 1.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "have",
+            "start": 1.9800000190734863,
+            "end": 2.319999933242798,
+            "confidence": 0.99
+        },
+        {
+            "text": "created",
+            "start": 2.319999933242798,
+            "end": 2.680000066757202,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 2.680000066757202,
+            "end": 3.0799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "mind",
+            "start": 3.0799999237060547,
+            "end": 3.4200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "blowing",
+            "start": 3.4200000762939453,
+            "end": 3.680000066757202,
+            "confidence": 0.99
+        },
+        {
+            "text": "robotic",
+            "start": 3.680000066757202,
+            "end": 4.360000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "floor",
+            "start": 4.360000133514404,
+            "end": 4.639999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 4.639999866485596,
+            "end": 4.940000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "lets",
+            "start": 4.940000057220459,
+            "end": 5.139999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 5.139999866485596,
+            "end": 5.360000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "walk",
+            "start": 5.360000133514404,
+            "end": 5.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "freely",
+            "start": 5.539999961853027,
+            "end": 5.940000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "inside",
+            "start": 5.940000057220459,
+            "end": 6.340000152587891,
+            "confidence": 0.99
+        },
+        {
+            "text": "virtual",
+            "start": 6.340000152587891,
+            "end": 6.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "reality",
+            "start": 6.760000228881836,
+            "end": 7.21999979019165,
+            "confidence": 0.99
+        },
+        {
+            "text": "It's",
+            "start": 7.440000057220459,
+            "end": 7.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "called",
+            "start": 7.440000057220459,
+            "end": 7.71999979019165,
+            "confidence": 0.99
+        },
+        {
+            "text": "CirculaFloor",
+            "start": 7.71999979019165,
+            "end": 8.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 8.579999923706055,
+            "end": 8.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 8.680000305175781,
+            "end": 9.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "uses",
+            "start": 9.079999923706055,
+            "end": 9.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "real",
+            "start": 9.079999923706055,
+            "end": 9.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "time",
+            "start": 9.380000114440918,
+            "end": 9.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "motion",
+            "start": 9.5600004196167,
+            "end": 9.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "tracking",
+            "start": 9.920000076293945,
+            "end": 10.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 10.220000267028809,
+            "end": 10.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "predict",
+            "start": 10.479999542236328,
+            "end": 10.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 10.739999771118164,
+            "end": 10.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "next",
+            "start": 10.960000038146973,
+            "end": 11.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "step",
+            "start": 11.220000267028809,
+            "end": 11.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "before",
+            "start": 11.4399995803833,
+            "end": 11.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 11.680000305175781,
+            "end": 11.859999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "even",
+            "start": 11.859999656677246,
+            "end": 12.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "take",
+            "start": 12.140000343322754,
+            "end": 12.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 12.420000076293945,
+            "end": 12.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 12.600000381469727,
+            "end": 12.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "matter",
+            "start": 12.720000267028809,
+            "end": 12.819999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "which",
+            "start": 12.819999694824219,
+            "end": 13.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "direction",
+            "start": 13.260000228881836,
+            "end": 13.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 13.5600004196167,
+            "end": 13.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "walk",
+            "start": 13.84000015258789,
+            "end": 14.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 14.239999771118164,
+            "end": 14.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "new",
+            "start": 14.319999694824219,
+            "end": 14.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "floor",
+            "start": 14.5600004196167,
+            "end": 14.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "piece",
+            "start": 14.760000228881836,
+            "end": 15.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 15.039999961853027,
+            "end": 15.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "always",
+            "start": 15.300000190734863,
+            "end": 15.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "sliding",
+            "start": 15.699999809265137,
+            "end": 15.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "into",
+            "start": 15.979999542236328,
+            "end": 16.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "place",
+            "start": 16.280000686645508,
+            "end": 16.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "under",
+            "start": 16.559999465942383,
+            "end": 16.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 16.81999969482422,
+            "end": 17.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "feet",
+            "start": 17.1200008392334,
+            "end": 17.260000228881836,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Researchers at the University of Tsukuba have created a mind-blowing robotic floor that lets you walk freely inside virtual reality.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        },
+        {
+            "segment": "It's called CirculaFloor, and it uses real-time motion tracking to predict your next step before you even take it.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.92
+        },
+        {
+            "segment": "No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Introduction to CirculaFloor",
+            "summary": "The University of Tsukuba has developed a new robotic floor called CirculaFloor that enhances virtual reality experiences.",
+            "start": 0,
+            "end": 20
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "english"
+}

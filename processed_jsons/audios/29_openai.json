@@ -1,0 +1,632 @@
+{
+    "text": "Hola, muy buenos días. ¿Habló con la señora Jéssica Cornejo Muñoz? Sí, con ella. Señora Jéssica, mucho gusto. Le hablo Isidora Núñez, ejecutiva de Fashion Store, de la tienda de ropa. Le comento el motivo de este llamado es para darle la bienvenida a su tarjeta de crédito Fashion Store y confirmar algunos datos para finalizar este proceso. Muy bien. Para su seguridad, le comento que la llamada se está grabando y su tarjeta se aperturó el día 1 de septiembre del 2023, para realizar la remursal de antofagasta y le autorizaron 150.000 pesos de copa inicial.",
+    "audio_duration": 30.139999389648438,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Hola",
+            "start": 0.9800000190734863,
+            "end": 1.4600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 1.5800000429153442,
+            "end": 1.7599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "buenos",
+            "start": 1.7599999904632568,
+            "end": 1.899999976158142,
+            "confidence": 0.99
+        },
+        {
+            "text": "días",
+            "start": 1.899999976158142,
+            "end": 2.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Habló",
+            "start": 2.380000114440918,
+            "end": 2.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 2.380000114440918,
+            "end": 2.5399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 2.5399999618530273,
+            "end": 2.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "señora",
+            "start": 2.9800000190734863,
+            "end": 2.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jéssica",
+            "start": 2.9800000190734863,
+            "end": 3.299999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "Cornejo",
+            "start": 3.299999952316284,
+            "end": 3.799999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "Muñoz",
+            "start": 3.799999952316284,
+            "end": 4.340000152587891,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sí",
+            "start": 5.039999961853027,
+            "end": 5.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 5.260000228881836,
+            "end": 5.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "ella",
+            "start": 5.5,
+            "end": 5.679999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "Señora",
+            "start": 6.21999979019165,
+            "end": 6.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jéssica",
+            "start": 6.380000114440918,
+            "end": 6.659999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucho",
+            "start": 6.820000171661377,
+            "end": 6.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "gusto",
+            "start": 6.960000038146973,
+            "end": 7.21999979019165,
+            "confidence": 0.99
+        },
+        {
+            "text": "Le",
+            "start": 7.320000171661377,
+            "end": 7.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "hablo",
+            "start": 7.440000057220459,
+            "end": 7.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Isidora",
+            "start": 7.5,
+            "end": 7.840000152587891,
+            "confidence": 0.99
+        },
+        {
+            "text": "Núñez",
+            "start": 7.840000152587891,
+            "end": 8.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "ejecutiva",
+            "start": 8.380000114440918,
+            "end": 8.640000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 8.640000343322754,
+            "end": 8.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "Fashion",
+            "start": 8.960000038146973,
+            "end": 9.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "Store",
+            "start": 9.180000305175781,
+            "end": 9.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 9.380000114440918,
+            "end": 9.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 9.5,
+            "end": 9.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "tienda",
+            "start": 9.739999771118164,
+            "end": 9.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 9.779999732971191,
+            "end": 10.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "ropa",
+            "start": 10.199999809265137,
+            "end": 10.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "Le",
+            "start": 11.039999961853027,
+            "end": 11.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "comento",
+            "start": 11.399999618530273,
+            "end": 11.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 11.399999618530273,
+            "end": 12.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "motivo",
+            "start": 12.039999961853027,
+            "end": 12.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 12.039999961853027,
+            "end": 12.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "este",
+            "start": 12.239999771118164,
+            "end": 12.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "llamado",
+            "start": 12.34000015258789,
+            "end": 12.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 12.600000381469727,
+            "end": 12.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 12.84000015258789,
+            "end": 12.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "darle",
+            "start": 12.9399995803833,
+            "end": 13.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 13.100000381469727,
+            "end": 13.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "bienvenida",
+            "start": 13.4399995803833,
+            "end": 13.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 13.680000305175781,
+            "end": 13.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 13.800000190734863,
+            "end": 14.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 14.100000381469727,
+            "end": 14.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 14.239999771118164,
+            "end": 14.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "crédito",
+            "start": 14.479999542236328,
+            "end": 14.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Fashion",
+            "start": 14.699999809265137,
+            "end": 15.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "Store",
+            "start": 15.119999885559082,
+            "end": 15.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 15.260000228881836,
+            "end": 15.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "confirmar",
+            "start": 15.539999961853027,
+            "end": 15.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "algunos",
+            "start": 15.960000038146973,
+            "end": 16.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "datos",
+            "start": 16.260000228881836,
+            "end": 16.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 16.479999542236328,
+            "end": 16.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "finalizar",
+            "start": 16.739999771118164,
+            "end": 17.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "este",
+            "start": 17.15999984741211,
+            "end": 17.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "proceso",
+            "start": 17.459999084472656,
+            "end": 17.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "Muy",
+            "start": 18.399999618530273,
+            "end": 18.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "bien",
+            "start": 18.719999313354492,
+            "end": 18.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "Para",
+            "start": 19.18000030517578,
+            "end": 19.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 19.31999969482422,
+            "end": 19.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "seguridad",
+            "start": 19.559999465942383,
+            "end": 19.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 19.8799991607666,
+            "end": 20.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "comento",
+            "start": 20.280000686645508,
+            "end": 20.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 20.280000686645508,
+            "end": 20.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 20.360000610351562,
+            "end": 20.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "llamada",
+            "start": 20.639999389648438,
+            "end": 20.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 20.65999984741211,
+            "end": 20.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "está",
+            "start": 20.899999618530273,
+            "end": 20.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "grabando",
+            "start": 20.979999542236328,
+            "end": 21.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 21.239999771118164,
+            "end": 21.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 21.399999618530273,
+            "end": 21.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 21.739999771118164,
+            "end": 21.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 21.81999969482422,
+            "end": 22.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "aperturó",
+            "start": 22.020000457763672,
+            "end": 22.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 22.280000686645508,
+            "end": 22.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "día",
+            "start": 22.440000534057617,
+            "end": 22.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "1",
+            "start": 22.579999923706055,
+            "end": 22.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 22.920000076293945,
+            "end": 23.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "septiembre",
+            "start": 23.040000915527344,
+            "end": 23.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 23.440000534057617,
+            "end": 23.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "2023",
+            "start": 23.68000030517578,
+            "end": 24.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 24.299999237060547,
+            "end": 24.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "realizar",
+            "start": 24.559999465942383,
+            "end": 24.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 24.899999618530273,
+            "end": 25.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "remursal",
+            "start": 25.15999984741211,
+            "end": 25.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 25.540000915527344,
+            "end": 25.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "antofagasta",
+            "start": 25.739999771118164,
+            "end": 26.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 26.360000610351562,
+            "end": 27.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 27.040000915527344,
+            "end": 27.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "autorizaron",
+            "start": 27.18000030517578,
+            "end": 27.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "150",
+            "start": 27.719999313354492,
+            "end": 28.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "000",
+            "start": 28.440000534057617,
+            "end": 28.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "pesos",
+            "start": 28.739999771118164,
+            "end": 28.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 28.84000015258789,
+            "end": 29.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "copa",
+            "start": 29.1200008392334,
+            "end": 29.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "inicial",
+            "start": 29.299999237060547,
+            "end": 29.68000030517578,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Hola, muy buenos días. ¿Habló con la señora Jéssica Cornejo Muñoz?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Sí, con ella. Señora Jéssica, mucho gusto.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Le hablo Isidora Núñez, ejecutiva de Fashion Store, de la tienda de ropa.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Le comento el motivo de este llamado es para darle la bienvenida a su tarjeta de crédito Fashion Store y confirmar algunos datos para finalizar este proceso.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        },
+        {
+            "segment": "Muy bien. Para su seguridad, le comento que la llamada se está grabando y su tarjeta se aperturó el día 1 de septiembre del 2023, para realizar la remursal de antofagasta y le autorizaron 150.000 pesos de copa inicial.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Bienvenida a Fashion Store",
+            "summary": "Isidora Núñez da la bienvenida a la señora Jéssica Cornejo Muñoz por su tarjeta de crédito Fashion Store y confirma información para finalizar el proceso.",
+            "start": 0,
+            "end": 120
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

@@ -1,0 +1,111 @@
+{
+    "id": "4ff28c2b-c891-4b23-bdf0-fb146f5ccb6a",
+    "status": "completed",
+    "text": "No, me lo hacía así como dejito para ver. Tú teniste tirarlo cuando.",
+    "words": [
+        {
+            "text": "No,",
+            "start": 560,
+            "end": 640,
+            "confidence": 0.89453125,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 640,
+            "end": 760,
+            "confidence": 0.75439453,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 760,
+            "end": 880,
+            "confidence": 0.60791016,
+            "speaker": "A"
+        },
+        {
+            "text": "hacía",
+            "start": 880,
+            "end": 1080,
+            "confidence": 0.5091553,
+            "speaker": "A"
+        },
+        {
+            "text": "así",
+            "start": 1080,
+            "end": 1200,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "como",
+            "start": 1200,
+            "end": 1320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "dejito",
+            "start": 1320,
+            "end": 4960,
+            "confidence": 0.68391925,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 4960,
+            "end": 5280,
+            "confidence": 0.55908203,
+            "speaker": "A"
+        },
+        {
+            "text": "ver.",
+            "start": 5280,
+            "end": 5600,
+            "confidence": 0.54345703,
+            "speaker": "A"
+        },
+        {
+            "text": "Tú",
+            "start": 26000,
+            "end": 26320,
+            "confidence": 0.8840332,
+            "speaker": "A"
+        },
+        {
+            "text": "teniste",
+            "start": 26320,
+            "end": 26720,
+            "confidence": 0.876709,
+            "speaker": "A"
+        },
+        {
+            "text": "tirarlo",
+            "start": 26720,
+            "end": 27360,
+            "confidence": 0.8635254,
+            "speaker": "A"
+        },
+        {
+            "text": "cuando.",
+            "start": 27600,
+            "end": 28000,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "No, me lo hacía así como dejito para ver. Tú teniste tirarlo cuando.",
+            "start": 560,
+            "end": 28000,
+            "confidence": 0.7795191,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 30,
+    "language_code": "es"
+}

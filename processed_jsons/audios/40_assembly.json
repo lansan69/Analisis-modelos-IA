@@ -1,0 +1,419 @@
+{
+    "id": "ab9e6884-9983-41d6-bee3-b847ebb5b0d6",
+    "status": "completed",
+    "text": "Y el convenio de UNIRES y también lo puede realizar de manera presencial en todas nuestras tiendas a lo largo del país. Ante cualquier otra duda o consulta se puede comunicar de manera gratuita con nuestro CodeCenter 8001-3490. Por mi parte me despido y le deseo una muy buena tarde. Gracias por su tiempo, Donaldo. Hasta luego.",
+    "words": [
+        {
+            "text": "Y",
+            "start": 160,
+            "end": 280,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 280,
+            "end": 400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "convenio",
+            "start": 400,
+            "end": 640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 640,
+            "end": 760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "UNIRES",
+            "start": 760,
+            "end": 1280,
+            "confidence": 0.939209,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 1360,
+            "end": 1600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "también",
+            "start": 1600,
+            "end": 1680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 1680,
+            "end": 1760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 1760,
+            "end": 1960,
+            "confidence": 0.5961914,
+            "speaker": "A"
+        },
+        {
+            "text": "realizar",
+            "start": 1960,
+            "end": 2360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 2360,
+            "end": 2480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "manera",
+            "start": 2480,
+            "end": 2680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "presencial",
+            "start": 2680,
+            "end": 3080,
+            "confidence": 0.92578125,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 3080,
+            "end": 3240,
+            "confidence": 0.9223633,
+            "speaker": "A"
+        },
+        {
+            "text": "todas",
+            "start": 3240,
+            "end": 3360,
+            "confidence": 0.7561035,
+            "speaker": "A"
+        },
+        {
+            "text": "nuestras",
+            "start": 3360,
+            "end": 3600,
+            "confidence": 0.86450195,
+            "speaker": "A"
+        },
+        {
+            "text": "tiendas",
+            "start": 3600,
+            "end": 4000,
+            "confidence": 0.9938151,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 4000,
+            "end": 4160,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 4160,
+            "end": 4240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "largo",
+            "start": 4240,
+            "end": 4400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 4400,
+            "end": 4520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "país.",
+            "start": 4520,
+            "end": 4800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Ante",
+            "start": 5040,
+            "end": 5480,
+            "confidence": 0.81469727,
+            "speaker": "A"
+        },
+        {
+            "text": "cualquier",
+            "start": 5480,
+            "end": 5720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "otra",
+            "start": 5720,
+            "end": 5920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "duda",
+            "start": 5920,
+            "end": 6160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 6160,
+            "end": 6320,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "consulta",
+            "start": 6320,
+            "end": 6600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 6600,
+            "end": 6760,
+            "confidence": 0.67822266,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 6760,
+            "end": 6920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "comunicar",
+            "start": 6920,
+            "end": 7240,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 7240,
+            "end": 7360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "manera",
+            "start": 7360,
+            "end": 7560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "gratuita",
+            "start": 7560,
+            "end": 8080,
+            "confidence": 0.95426434,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 8080,
+            "end": 8360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "nuestro",
+            "start": 8360,
+            "end": 8760,
+            "confidence": 0.90185547,
+            "speaker": "A"
+        },
+        {
+            "text": "CodeCenter",
+            "start": 8760,
+            "end": 9714,
+            "confidence": 0.82991,
+            "speaker": "A"
+        },
+        {
+            "text": "8001-3490.",
+            "start": 9926,
+            "end": 10880,
+            "confidence": 0.82991,
+            "speaker": "A"
+        },
+        {
+            "text": "Por",
+            "start": 10960,
+            "end": 11240,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "mi",
+            "start": 11240,
+            "end": 11360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "parte",
+            "start": 11360,
+            "end": 11480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 11480,
+            "end": 11600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "despido",
+            "start": 11600,
+            "end": 11840,
+            "confidence": 0.9699707,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 11840,
+            "end": 12000,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 12000,
+            "end": 12120,
+            "confidence": 0.48413086,
+            "speaker": "A"
+        },
+        {
+            "text": "deseo",
+            "start": 12120,
+            "end": 12560,
+            "confidence": 0.9248047,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 12560,
+            "end": 12840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 12840,
+            "end": 12960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "buena",
+            "start": 12960,
+            "end": 13160,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "tarde.",
+            "start": 13160,
+            "end": 13520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Gracias",
+            "start": 13680,
+            "end": 14120,
+            "confidence": 0.9067383,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 14120,
+            "end": 14240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 14240,
+            "end": 14320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tiempo,",
+            "start": 14320,
+            "end": 14520,
+            "confidence": 0.85009766,
+            "speaker": "A"
+        },
+        {
+            "text": "Donaldo.",
+            "start": 14520,
+            "end": 15240,
+            "confidence": 0.9658203,
+            "speaker": "A"
+        },
+        {
+            "text": "Hasta",
+            "start": 15240,
+            "end": 15360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "luego.",
+            "start": 15360,
+            "end": 15760,
+            "confidence": 0.97477216,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Y el convenio de UNIRES y también lo puede realizar de manera presencial en todas nuestras tiendas a lo largo del país. Ante cualquier otra duda o consulta se puede comunicar de manera gratuita con nuestro CodeCenter 8001-3490. Por mi parte me despido y le deseo una muy buena tarde. Gracias por su tiempo, Donaldo. Hasta luego.",
+            "start": 160,
+            "end": 15760,
+            "confidence": 0.9483434,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 19,
+    "language_code": "es"
+}

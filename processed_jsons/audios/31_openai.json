@@ -1,0 +1,225 @@
+{
+    "text": "No, no las quiero así como de mojón. Las tengo copiadas en el... Espérame un momentito para ver. Espérame, espérame. ¿Cómo te gustó este? ¿Tú te fuiste a tirarlo o cuando...?",
+    "audio_duration": 29.670000076293945,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "No",
+            "start": 0.0,
+            "end": 0.41999998688697815,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 0.5,
+            "end": 0.699999988079071,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 0.699999988079071,
+            "end": 0.9599999785423279,
+            "confidence": 0.99
+        },
+        {
+            "text": "quiero",
+            "start": 0.9599999785423279,
+            "end": 1.0399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 1.0399999618530273,
+            "end": 1.2200000286102295,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 1.2200000286102295,
+            "end": 1.340000033378601,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 1.340000033378601,
+            "end": 1.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "mojón",
+            "start": 1.5,
+            "end": 1.7599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "Las",
+            "start": 2.559999942779541,
+            "end": 2.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "tengo",
+            "start": 2.559999942779541,
+            "end": 2.640000104904175,
+            "confidence": 0.99
+        },
+        {
+            "text": "copiadas",
+            "start": 2.640000104904175,
+            "end": 3.0999999046325684,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 3.0999999046325684,
+            "end": 3.299999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 3.299999952316284,
+            "end": 4.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "Espérame",
+            "start": 4.260000228881836,
+            "end": 4.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 4.440000057220459,
+            "end": 4.679999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "momentito",
+            "start": 4.679999828338623,
+            "end": 4.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 4.739999771118164,
+            "end": 5.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "ver",
+            "start": 5.239999771118164,
+            "end": 5.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Espérame",
+            "start": 6.659999847412109,
+            "end": 7.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "espérame",
+            "start": 7.179999828338623,
+            "end": 7.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Cómo",
+            "start": 12.600000381469727,
+            "end": 12.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 12.779999732971191,
+            "end": 13.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "gustó",
+            "start": 13.220000267028809,
+            "end": 13.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "este",
+            "start": 13.420000076293945,
+            "end": 13.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Tú",
+            "start": 25.440000534057617,
+            "end": 25.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 25.959999084472656,
+            "end": 26.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "fuiste",
+            "start": 26.479999542236328,
+            "end": 26.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 26.540000915527344,
+            "end": 26.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "tirarlo",
+            "start": 26.979999542236328,
+            "end": 27.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "o",
+            "start": 27.360000610351562,
+            "end": 27.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuando",
+            "start": 27.68000030517578,
+            "end": 28.440000534057617,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "No, no las quiero así como de mojón.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Las tengo copiadas en el... Espérame un momentito para ver.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.65
+        },
+        {
+            "segment": "Espérame, espérame. ¿Cómo te gustó este?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        },
+        {
+            "segment": "¿Tú te fuiste a tirarlo o cuando...?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Conversation about preferences",
+            "summary": "The speaker expresses a dislike for a certain way of doing something and asks for clarification.",
+            "start": 0,
+            "end": 10
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

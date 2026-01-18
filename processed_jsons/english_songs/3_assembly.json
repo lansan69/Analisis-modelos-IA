@@ -1,20 +1,20 @@
 {
-    "id": "24791e38-9f6c-4a15-9c62-afe8d8bc53ca",
+    "id": "4463616d-ff10-4990-870a-7302b6946f1b",
     "status": "completed",
-    "text": "This ain't a song for the brokenhearted. A silent prayer for 50 parties. And I ain't gonna be just the. Face in the crowd. You're gonna hear my voice when I shout it out. It's my life. It's now or never. I ain't gonna live forever. I just wanna live my life. It's my life. My heart is like an open highway. Like you said I did it my way. I just wanna. Hits my life. Misses Four ones who stood their ground. Tommy and Gina knelt back down. Tomorrow's getting hotter, make no mistake looking even lucky. Got to make your own breaks. It's my life and it's now never. I ain't going to live forever. I just want to live a life. It's my life. My heart looks like an open highway. Like Frank Instead I'm dead in my. Way I just want to live but I alive. It's my. Life with us now or never. I ain't going to live forever. I just want to live my life. It's my life. My heart is like an open highway. But like I said I'm getting my way. I just want to live my life. It's my life, yeah, it's now never. I ain't going to live up ever. I just want to live my life. My life like an open highway. But make it said I get in my way. I just want to live alive. It's my life. It.",
+    "text": "This ain't a song for the brokenhearted. A silent prayer for 50 parties. And I ain't gonna be just the face in the crowd. You're gonna hear my voice when I shout it out. It's my life. It's now or never. I ain't gonna live forever. I just wanna live my life. It's my life. My heart is like an open highway like you said I did it my way. I just wanna. Hits my life. Misses Four ones who stood their ground, Tommy and Gina knelt back down. Tomorrow's getting hotter, make no mistake looking even lucky. Got to make your own breaks. It's my life and it's now never. I ain't going to live forever. I just want to live a life. It's my life. My heart looks like an open highway like Frank Instead I'm dead in my way I just want to live but I alive it's my. Life with us now never. I ain't going to live forever. I just want to live my life. It's my life. My heart is like an open highway. But like I said I'm getting my way. I just want to live my life. It's my life, yeah, it's now never. I ain't going to live up ever. I just want to live my life. My life like an open highway. But make it said I get in my way. I just want to live alive. It's my life. It.",
     "words": [
         {
             "text": "This",
             "start": 8240,
             "end": 8440,
-            "confidence": 0.9589844,
+            "confidence": 0.9584961,
             "speaker": "A"
         },
         {
             "text": "ain't",
             "start": 8440,
             "end": 8760,
-            "confidence": 0.9938965,
+            "confidence": 0.9934082,
             "speaker": "A"
         },
         {
@@ -49,511 +49,511 @@
             "text": "brokenhearted.",
             "start": 10160,
             "end": 12000,
-            "confidence": 0.87737167,
+            "confidence": 0.87918526,
             "speaker": "A"
         },
         {
             "text": "A",
             "start": 15919,
             "end": 16240,
-            "confidence": 0.4116211,
-            "speaker": "B"
+            "confidence": 0.41186523,
+            "speaker": "A"
         },
         {
             "text": "silent",
             "start": 16240,
             "end": 16880,
             "confidence": 0.9916992,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "prayer",
             "start": 16880,
             "end": 17520,
-            "confidence": 0.89908856,
-            "speaker": "B"
+            "confidence": 0.77213544,
+            "speaker": "A"
         },
         {
             "text": "for",
             "start": 17520,
             "end": 17920,
-            "confidence": 0.51708984,
-            "speaker": "B"
+            "confidence": 0.55859375,
+            "speaker": "A"
         },
         {
             "text": "50",
             "start": 18160,
             "end": 18560,
-            "confidence": 0.90234,
-            "speaker": "B"
+            "confidence": 0.90723,
+            "speaker": "A"
         },
         {
             "text": "parties.",
             "start": 19120,
             "end": 20000,
-            "confidence": 0.4404297,
-            "speaker": "B"
+            "confidence": 0.44335938,
+            "speaker": "A"
         },
         {
             "text": "And",
             "start": 23920,
             "end": 24240,
             "confidence": 0.5341797,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 24240,
             "end": 24440,
-            "confidence": 0.9970703,
-            "speaker": "C"
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "ain't",
             "start": 24440,
             "end": 24760,
             "confidence": 0.75390625,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "gonna",
             "start": 24760,
             "end": 25200,
             "confidence": 0.96398926,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "be",
             "start": 25200,
             "end": 25520,
-            "confidence": 0.9838867,
-            "speaker": "C"
+            "confidence": 0.9848633,
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 25600,
             "end": 25920,
-            "confidence": 0.97021484,
-            "speaker": "C"
+            "confidence": 0.96972656,
+            "speaker": "A"
         },
         {
-            "text": "the.",
+            "text": "the",
             "start": 25920,
             "end": 26160,
             "confidence": 0.7060547,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
-            "text": "Face",
+            "text": "face",
             "start": 26160,
             "end": 26480,
-            "confidence": 0.7832031,
-            "speaker": "B"
+            "confidence": 0.78222656,
+            "speaker": "A"
         },
         {
             "text": "in",
             "start": 26480,
             "end": 26760,
             "confidence": 0.96240234,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "the",
             "start": 26760,
             "end": 26960,
             "confidence": 0.99902344,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "crowd.",
             "start": 26960,
             "end": 27400,
             "confidence": 0.9614258,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "You're",
             "start": 27400,
             "end": 27720,
             "confidence": 0.92903644,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "gonna",
             "start": 27720,
             "end": 28240,
             "confidence": 0.9628906,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "hear",
             "start": 28240,
             "end": 28560,
             "confidence": 0.99853516,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 28640,
             "end": 29040,
             "confidence": 0.99902344,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "voice",
             "start": 29120,
             "end": 29600,
             "confidence": 0.99975586,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "when",
             "start": 29600,
             "end": 29920,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 29920,
             "end": 30160,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "shout",
             "start": 30160,
             "end": 30480,
             "confidence": 0.9616699,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "it",
             "start": 30480,
             "end": 30760,
-            "confidence": 0.9921875,
-            "speaker": "B"
+            "confidence": 0.9926758,
+            "speaker": "A"
         },
         {
             "text": "out.",
             "start": 30760,
             "end": 31120,
             "confidence": 0.97314453,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 33340,
             "end": 33700,
             "confidence": 0.9560547,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 33700,
             "end": 34060,
             "confidence": 0.99902344,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 34140,
             "end": 34540,
             "confidence": 0.9951172,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 35580,
             "end": 36020,
-            "confidence": 0.91227216,
-            "speaker": "D"
+            "confidence": 0.9124349,
+            "speaker": "A"
         },
         {
             "text": "now",
             "start": 36020,
             "end": 36380,
             "confidence": 0.99072266,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "or",
             "start": 36460,
             "end": 36860,
-            "confidence": 0.5839844,
-            "speaker": "D"
+            "confidence": 0.5834961,
+            "speaker": "A"
         },
         {
             "text": "never.",
             "start": 36860,
             "end": 37260,
-            "confidence": 0.9628906,
-            "speaker": "D"
+            "confidence": 0.96484375,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 39100,
             "end": 39420,
             "confidence": 0.9868164,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "ain't",
             "start": 39420,
             "end": 39700,
-            "confidence": 0.8699951,
-            "speaker": "E"
+            "confidence": 0.86938477,
+            "speaker": "A"
         },
         {
             "text": "gonna",
             "start": 39700,
             "end": 40180,
             "confidence": 0.8864746,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 40180,
             "end": 40540,
             "confidence": 0.9980469,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "forever.",
             "start": 40780,
             "end": 41580,
             "confidence": 0.9995117,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 43180,
             "end": 43500,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 43500,
             "end": 43740,
             "confidence": 0.99853516,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "wanna",
             "start": 43740,
             "end": 44220,
             "confidence": 0.93359375,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 44220,
             "end": 44540,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 44700,
             "end": 45100,
             "confidence": 0.9116211,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 45820,
             "end": 46220,
-            "confidence": 0.59228516,
-            "speaker": "F"
+            "confidence": 0.56152344,
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 49100,
             "end": 49700,
             "confidence": 0.82177734,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 49700,
             "end": 50060,
-            "confidence": 0.99853516,
-            "speaker": "C"
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 50060,
             "end": 50460,
             "confidence": 0.9814453,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "My",
             "start": 50860,
             "end": 51180,
             "confidence": 0.99658203,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "heart",
             "start": 51180,
             "end": 51420,
             "confidence": 1.0,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "is",
             "start": 51420,
             "end": 51700,
             "confidence": 0.9916992,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "like",
             "start": 51700,
             "end": 51980,
             "confidence": 0.9980469,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "an",
             "start": 51980,
             "end": 52260,
             "confidence": 0.9941406,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "open",
             "start": 52260,
             "end": 52620,
             "confidence": 0.9946289,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
-            "text": "highway.",
+            "text": "highway",
             "start": 53180,
             "end": 53980,
-            "confidence": 0.98339844,
-            "speaker": "D"
+            "confidence": 0.9838867,
+            "speaker": "A"
         },
         {
-            "text": "Like",
+            "text": "like",
             "start": 54780,
             "end": 55180,
             "confidence": 0.6425781,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "you",
             "start": 55340,
             "end": 55620,
-            "confidence": 0.55322266,
-            "speaker": "G"
+            "confidence": 0.55371094,
+            "speaker": "A"
         },
         {
             "text": "said",
             "start": 55620,
             "end": 55900,
-            "confidence": 0.62060547,
-            "speaker": "G"
+            "confidence": 0.64941406,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 55900,
             "end": 56260,
             "confidence": 0.9975586,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "did",
             "start": 56260,
             "end": 56620,
-            "confidence": 0.9946289,
-            "speaker": "G"
+            "confidence": 0.9941406,
+            "speaker": "A"
         },
         {
             "text": "it",
             "start": 56700,
             "end": 57100,
             "confidence": 0.9868164,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 57180,
             "end": 57580,
             "confidence": 0.99902344,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "way.",
             "start": 57580,
             "end": 57980,
             "confidence": 0.9995117,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 59180,
             "end": 59500,
             "confidence": 0.99853516,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 59500,
             "end": 59740,
             "confidence": 0.99853516,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "wanna.",
             "start": 59740,
             "end": 60300,
             "confidence": 0.8178711,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "Hits",
             "start": 64360,
             "end": 64840,
-            "confidence": 0.66015625,
-            "speaker": "D"
+            "confidence": 0.66064453,
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 65160,
             "end": 65560,
             "confidence": 0.9975586,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 66120,
             "end": 66520,
             "confidence": 0.96191406,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "Misses",
             "start": 74120,
             "end": 74680,
-            "confidence": 0.6904297,
+            "confidence": 0.6907959,
             "speaker": "A"
         },
         {
             "text": "Four",
             "start": 74680,
             "end": 75000,
-            "confidence": 0.49316406,
+            "confidence": 0.4934082,
             "speaker": "A"
         },
         {
             "text": "ones",
             "start": 75160,
             "end": 75720,
-            "confidence": 0.72924805,
+            "confidence": 0.73046875,
             "speaker": "A"
         },
         {
@@ -578,7 +578,7 @@
             "speaker": "A"
         },
         {
-            "text": "ground.",
+            "text": "ground,",
             "start": 76840,
             "end": 77240,
             "confidence": 0.59228516,
@@ -589,1360 +589,1122 @@
             "start": 82040,
             "end": 82680,
             "confidence": 0.9085286,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "and",
             "start": 82680,
             "end": 82920,
-            "confidence": 0.9946289,
-            "speaker": "G"
+            "confidence": 0.9951172,
+            "speaker": "A"
         },
         {
             "text": "Gina",
             "start": 82920,
             "end": 83480,
-            "confidence": 0.92456055,
-            "speaker": "G"
+            "confidence": 0.9243164,
+            "speaker": "A"
         },
         {
             "text": "knelt",
             "start": 84040,
             "end": 84600,
-            "confidence": 0.80981445,
-            "speaker": "G"
+            "confidence": 0.8117676,
+            "speaker": "A"
         },
         {
             "text": "back",
             "start": 84680,
             "end": 85080,
             "confidence": 1.0,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "down.",
             "start": 85160,
             "end": 85560,
-            "confidence": 0.7661133,
-            "speaker": "G"
+            "confidence": 0.78759766,
+            "speaker": "A"
         },
         {
             "text": "Tomorrow's",
             "start": 89800,
             "end": 90800,
             "confidence": 0.85929364,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "getting",
             "start": 90800,
             "end": 91080,
             "confidence": 0.9394531,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "hotter,",
             "start": 91160,
             "end": 91760,
-            "confidence": 0.72021484,
-            "speaker": "D"
+            "confidence": 0.7199707,
+            "speaker": "A"
         },
         {
             "text": "make",
             "start": 91760,
             "end": 92120,
             "confidence": 0.8798828,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "no",
             "start": 92120,
             "end": 92520,
             "confidence": 0.99853516,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "mistake",
             "start": 92520,
             "end": 93320,
             "confidence": 0.95719403,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "looking",
             "start": 93960,
             "end": 94360,
             "confidence": 0.7036133,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "even",
             "start": 94680,
             "end": 95080,
             "confidence": 0.97509766,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "lucky.",
             "start": 95080,
             "end": 95710,
-            "confidence": 0.82714844,
-            "speaker": "D"
+            "confidence": 0.8256836,
+            "speaker": "A"
         },
         {
             "text": "Got",
             "start": 95860,
             "end": 96020,
             "confidence": 0.8935547,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 96020,
             "end": 96220,
-            "confidence": 0.6533203,
-            "speaker": "D"
+            "confidence": 0.68066406,
+            "speaker": "A"
         },
         {
             "text": "make",
             "start": 96220,
             "end": 96460,
             "confidence": 0.99902344,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "your",
             "start": 96460,
             "end": 96740,
             "confidence": 0.9482422,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "own",
             "start": 96740,
             "end": 97060,
             "confidence": 0.9970703,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "breaks.",
             "start": 97140,
             "end": 98580,
-            "confidence": 0.8547363,
-            "speaker": "D"
+            "confidence": 0.85839844,
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 99220,
             "end": 99700,
             "confidence": 0.9996745,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 99700,
             "end": 100020,
             "confidence": 0.9975586,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "life",
             "start": 100180,
             "end": 100580,
-            "confidence": 0.6694336,
-            "speaker": "D"
+            "confidence": 0.6699219,
+            "speaker": "A"
         },
         {
             "text": "and",
             "start": 101380,
             "end": 101660,
-            "confidence": 0.7578125,
-            "speaker": "D"
+            "confidence": 0.7792969,
+            "speaker": "A"
         },
         {
             "text": "it's",
             "start": 101660,
             "end": 102020,
-            "confidence": 0.80582684,
-            "speaker": "D"
+            "confidence": 0.8108724,
+            "speaker": "A"
         },
         {
             "text": "now",
             "start": 102020,
             "end": 102340,
             "confidence": 0.9765625,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "never.",
             "start": 102900,
             "end": 103300,
-            "confidence": 0.7548828,
-            "speaker": "D"
+            "confidence": 0.75439453,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 105140,
             "end": 105420,
             "confidence": 0.9975586,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "ain't",
             "start": 105420,
             "end": 105700,
             "confidence": 0.9486084,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "going",
             "start": 105700,
             "end": 105940,
             "confidence": 0.78027344,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 105940,
             "end": 106180,
             "confidence": 0.9819336,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 106180,
             "end": 106500,
             "confidence": 0.9946289,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "forever.",
             "start": 106740,
             "end": 107620,
             "confidence": 0.9992676,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 109140,
             "end": 109460,
             "confidence": 0.9995117,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 109460,
             "end": 109740,
             "confidence": 0.99902344,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "want",
             "start": 109740,
             "end": 110020,
             "confidence": 0.9746094,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 110020,
             "end": 110220,
             "confidence": 0.99072266,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 110220,
             "end": 110500,
             "confidence": 0.9995117,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "a",
             "start": 110740,
             "end": 111020,
-            "confidence": 0.25048828,
-            "speaker": "D"
+            "confidence": 0.25317383,
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 111020,
             "end": 111300,
-            "confidence": 0.5415039,
-            "speaker": "D"
+            "confidence": 0.5566406,
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 115140,
             "end": 115700,
-            "confidence": 0.9746094,
-            "speaker": "H"
+            "confidence": 0.9744466,
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 115700,
             "end": 116020,
-            "confidence": 0.9794922,
-            "speaker": "H"
+            "confidence": 0.98046875,
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 116100,
             "end": 116500,
-            "confidence": 0.8540039,
-            "speaker": "H"
+            "confidence": 0.8486328,
+            "speaker": "A"
         },
         {
             "text": "My",
             "start": 116820,
             "end": 117100,
             "confidence": 0.9975586,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "heart",
             "start": 117100,
             "end": 117380,
-            "confidence": 0.64941406,
-            "speaker": "D"
+            "confidence": 0.6772461,
+            "speaker": "A"
         },
         {
             "text": "looks",
             "start": 117380,
             "end": 117740,
-            "confidence": 0.8166504,
-            "speaker": "D"
+            "confidence": 0.81689453,
+            "speaker": "A"
         },
         {
             "text": "like",
             "start": 117740,
             "end": 117940,
             "confidence": 0.99853516,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "an",
             "start": 117940,
             "end": 118220,
             "confidence": 0.95996094,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "open",
             "start": 118220,
             "end": 118580,
             "confidence": 0.99072266,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
-            "text": "highway.",
+            "text": "highway",
             "start": 119140,
             "end": 119780,
-            "confidence": 0.876709,
-            "speaker": "D"
+            "confidence": 0.8754883,
+            "speaker": "A"
         },
         {
-            "text": "Like",
+            "text": "like",
             "start": 120820,
             "end": 121140,
             "confidence": 0.8598633,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "Frank",
             "start": 121140,
             "end": 121460,
-            "confidence": 0.7763672,
-            "speaker": "G"
+            "confidence": 0.7751465,
+            "speaker": "A"
         },
         {
             "text": "Instead",
             "start": 121460,
             "end": 121940,
-            "confidence": 0.70861816,
-            "speaker": "G"
+            "confidence": 0.70654297,
+            "speaker": "A"
         },
         {
             "text": "I'm",
             "start": 121940,
             "end": 122260,
-            "confidence": 0.70996094,
-            "speaker": "G"
+            "confidence": 0.7101237,
+            "speaker": "A"
         },
         {
             "text": "dead",
             "start": 122260,
             "end": 122700,
-            "confidence": 0.87719727,
-            "speaker": "G"
+            "confidence": 0.8757324,
+            "speaker": "A"
         },
         {
             "text": "in",
             "start": 122700,
             "end": 123060,
             "confidence": 0.97753906,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
-            "text": "my.",
+            "text": "my",
             "start": 123140,
             "end": 123540,
-            "confidence": 0.9873047,
-            "speaker": "G"
+            "confidence": 0.99072266,
+            "speaker": "A"
         },
         {
-            "text": "Way",
+            "text": "way",
             "start": 123620,
             "end": 124020,
             "confidence": 0.97021484,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 125140,
             "end": 125460,
             "confidence": 0.99902344,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 125460,
             "end": 125700,
             "confidence": 0.9980469,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "want",
             "start": 125700,
             "end": 125940,
             "confidence": 0.9628906,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 125940,
             "end": 126180,
             "confidence": 0.8486328,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 126180,
             "end": 126500,
-            "confidence": 0.98095703,
-            "speaker": "F"
+            "confidence": 0.9814453,
+            "speaker": "A"
         },
         {
             "text": "but",
             "start": 126660,
             "end": 126980,
             "confidence": 0.30200195,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 126980,
             "end": 127300,
-            "confidence": 0.8574219,
-            "speaker": "F"
+            "confidence": 0.8569336,
+            "speaker": "A"
         },
         {
-            "text": "alive.",
+            "text": "alive",
             "start": 127760,
             "end": 128400,
             "confidence": 0.7128906,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
-            "text": "It's",
+            "text": "it's",
             "start": 130160,
             "end": 130800,
             "confidence": 0.8520508,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "my.",
             "start": 131200,
             "end": 131600,
             "confidence": 0.9946289,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "Life",
             "start": 158160,
             "end": 158560,
-            "confidence": 0.69873047,
-            "speaker": "D"
+            "confidence": 0.7114258,
+            "speaker": "A"
         },
         {
             "text": "with",
             "start": 159660,
             "end": 159780,
-            "confidence": 0.28149414,
-            "speaker": "D"
+            "confidence": 0.28076172,
+            "speaker": "A"
         },
         {
             "text": "us",
             "start": 159780,
             "end": 160020,
-            "confidence": 0.88720703,
-            "speaker": "D"
+            "confidence": 0.88183594,
+            "speaker": "A"
         },
         {
             "text": "now",
             "start": 160020,
             "end": 160380,
             "confidence": 0.99365234,
-            "speaker": "D"
-        },
-        {
-            "text": "or",
-            "start": 160460,
-            "end": 160860,
-            "confidence": 0.42700195,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "never.",
             "start": 160940,
             "end": 161340,
-            "confidence": 0.98876953,
-            "speaker": "D"
+            "confidence": 0.8613281,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 163180,
             "end": 163460,
-            "confidence": 0.9916992,
-            "speaker": "D"
+            "confidence": 0.9868164,
+            "speaker": "A"
         },
         {
             "text": "ain't",
             "start": 163460,
-            "end": 163740,
-            "confidence": 0.9293213,
-            "speaker": "D"
+            "end": 163700,
+            "confidence": 0.92822266,
+            "speaker": "A"
         },
         {
             "text": "going",
-            "start": 163740,
-            "end": 163980,
-            "confidence": 0.94384766,
-            "speaker": "D"
+            "start": 163700,
+            "end": 163940,
+            "confidence": 0.5209961,
+            "speaker": "A"
         },
         {
             "text": "to",
-            "start": 163980,
+            "start": 163940,
             "end": 164220,
             "confidence": 0.97021484,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 164220,
             "end": 164540,
             "confidence": 0.99658203,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "forever.",
             "start": 164780,
             "end": 165580,
-            "confidence": 0.998291,
-            "speaker": "D"
+            "confidence": 0.9980469,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 167100,
             "end": 167460,
             "confidence": 1.0,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 167460,
             "end": 167740,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "want",
             "start": 167740,
             "end": 167980,
             "confidence": 0.9946289,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 167980,
             "end": 168220,
             "confidence": 0.99902344,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 168220,
             "end": 168540,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 168700,
             "end": 169100,
-            "confidence": 0.79833984,
-            "speaker": "F"
+            "confidence": 0.7910156,
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 169900,
             "end": 170300,
             "confidence": 0.99316406,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 173180,
             "end": 173700,
             "confidence": 0.9083659,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 173700,
             "end": 174060,
             "confidence": 0.9946289,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 174140,
             "end": 174540,
-            "confidence": 0.96533203,
-            "speaker": "C"
+            "confidence": 0.9658203,
+            "speaker": "A"
         },
         {
             "text": "My",
             "start": 174860,
             "end": 175180,
             "confidence": 0.99853516,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "heart",
             "start": 175180,
             "end": 175459,
             "confidence": 0.9995117,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "is",
             "start": 175459,
             "end": 175740,
             "confidence": 0.99609375,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "like",
             "start": 175740,
             "end": 176020,
             "confidence": 0.9785156,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "an",
             "start": 176020,
             "end": 176340,
             "confidence": 0.9584961,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "open",
             "start": 176340,
             "end": 176700,
             "confidence": 0.9970703,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "highway.",
             "start": 177100,
             "end": 177900,
             "confidence": 0.717041,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "But",
             "start": 178780,
             "end": 179140,
-            "confidence": 0.6513672,
-            "speaker": "G"
+            "confidence": 0.6508789,
+            "speaker": "A"
         },
         {
             "text": "like",
             "start": 179140,
             "end": 179460,
             "confidence": 0.6826172,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 179460,
             "end": 179660,
             "confidence": 0.86865234,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "said",
             "start": 179660,
             "end": 179900,
-            "confidence": 0.9033203,
-            "speaker": "G"
+            "confidence": 0.90283203,
+            "speaker": "A"
         },
         {
             "text": "I'm",
             "start": 179900,
             "end": 180300,
-            "confidence": 0.90511066,
-            "speaker": "G"
+            "confidence": 0.90201825,
+            "speaker": "A"
         },
         {
             "text": "getting",
             "start": 180300,
             "end": 180620,
-            "confidence": 0.63378906,
-            "speaker": "G"
+            "confidence": 0.63427734,
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 181180,
             "end": 181580,
             "confidence": 0.9995117,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "way.",
             "start": 181660,
             "end": 182060,
             "confidence": 0.9980469,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 183100,
             "end": 183460,
             "confidence": 0.6225586,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 183460,
             "end": 183740,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "want",
             "start": 183740,
             "end": 183980,
             "confidence": 0.9838867,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 183980,
             "end": 184220,
             "confidence": 0.9785156,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 184220,
             "end": 184540,
             "confidence": 0.99902344,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 184780,
             "end": 185180,
-            "confidence": 0.95996094,
-            "speaker": "F"
+            "confidence": 0.9604492,
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 185900,
             "end": 186300,
-            "confidence": 0.9970703,
-            "speaker": "F"
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 188220,
             "end": 188860,
-            "confidence": 0.9811198,
-            "speaker": "D"
+            "confidence": 0.98128253,
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 189180,
             "end": 189580,
             "confidence": 0.8076172,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "life,",
             "start": 190140,
             "end": 190540,
             "confidence": 0.99365234,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "yeah,",
             "start": 191480,
             "end": 191760,
-            "confidence": 0.68115234,
-            "speaker": "D"
+            "confidence": 0.6831868,
+            "speaker": "A"
         },
         {
             "text": "it's",
             "start": 191760,
             "end": 192040,
             "confidence": 0.90478516,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "now",
             "start": 192040,
             "end": 192360,
             "confidence": 0.80322266,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "never.",
             "start": 192920,
             "end": 193320,
-            "confidence": 0.9511719,
-            "speaker": "D"
+            "confidence": 0.95166016,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 195160,
             "end": 195440,
             "confidence": 0.9902344,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "ain't",
             "start": 195440,
             "end": 195720,
-            "confidence": 0.97302246,
-            "speaker": "D"
+            "confidence": 0.9699707,
+            "speaker": "A"
         },
         {
             "text": "going",
             "start": 195720,
             "end": 195960,
-            "confidence": 0.52685547,
-            "speaker": "D"
+            "confidence": 0.52734375,
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 195960,
             "end": 196200,
             "confidence": 0.9511719,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 196200,
             "end": 196520,
             "confidence": 0.73779297,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "up",
             "start": 196680,
             "end": 197080,
-            "confidence": 0.82666016,
-            "speaker": "D"
+            "confidence": 0.8251953,
+            "speaker": "A"
         },
         {
             "text": "ever.",
             "start": 197240,
             "end": 197640,
-            "confidence": 0.82714844,
-            "speaker": "D"
+            "confidence": 0.81884766,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 199080,
             "end": 199480,
             "confidence": 0.99658203,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 199480,
             "end": 199800,
             "confidence": 0.9995117,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "want",
             "start": 199800,
             "end": 200040,
             "confidence": 0.97021484,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 200040,
             "end": 200240,
             "confidence": 0.99121094,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 200240,
             "end": 200520,
             "confidence": 0.99902344,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 200680,
             "end": 201080,
-            "confidence": 0.34765625,
-            "speaker": "F"
+            "confidence": 0.34521484,
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 201960,
             "end": 202360,
             "confidence": 0.99560547,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "My",
             "start": 205640,
             "end": 206040,
             "confidence": 0.94384766,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "life",
             "start": 206120,
             "end": 206520,
-            "confidence": 0.7998047,
-            "speaker": "D"
+            "confidence": 0.80029297,
+            "speaker": "A"
         },
         {
             "text": "like",
             "start": 207640,
             "end": 208000,
-            "confidence": 0.8095703,
-            "speaker": "D"
+            "confidence": 0.8100586,
+            "speaker": "A"
         },
         {
             "text": "an",
             "start": 208000,
             "end": 208280,
-            "confidence": 0.7963867,
-            "speaker": "D"
+            "confidence": 0.78564453,
+            "speaker": "A"
         },
         {
             "text": "open",
             "start": 208280,
             "end": 208600,
             "confidence": 0.96728516,
-            "speaker": "D"
+            "speaker": "A"
         },
         {
             "text": "highway.",
             "start": 209160,
             "end": 210040,
-            "confidence": 0.94018555,
-            "speaker": "D"
+            "confidence": 0.94140625,
+            "speaker": "A"
         },
         {
             "text": "But",
             "start": 210840,
             "end": 211160,
-            "confidence": 0.5332031,
-            "speaker": "G"
+            "confidence": 0.5341797,
+            "speaker": "A"
         },
         {
             "text": "make",
             "start": 211160,
             "end": 211440,
-            "confidence": 0.29760742,
-            "speaker": "G"
+            "confidence": 0.30859375,
+            "speaker": "A"
         },
         {
             "text": "it",
             "start": 211440,
             "end": 211720,
-            "confidence": 0.48999023,
-            "speaker": "G"
+            "confidence": 0.46289062,
+            "speaker": "A"
         },
         {
             "text": "said",
             "start": 211720,
             "end": 211960,
-            "confidence": 0.62402344,
-            "speaker": "G"
+            "confidence": 0.61328125,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 211960,
             "end": 212240,
             "confidence": 0.9951172,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "get",
             "start": 212240,
             "end": 212600,
-            "confidence": 0.94091797,
-            "speaker": "G"
+            "confidence": 0.9423828,
+            "speaker": "A"
         },
         {
             "text": "in",
             "start": 212760,
             "end": 213160,
             "confidence": 0.78222656,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 213160,
             "end": 213560,
             "confidence": 0.99902344,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "way.",
             "start": 213640,
             "end": 214040,
             "confidence": 0.9995117,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 215240,
             "end": 215520,
-            "confidence": 0.9848633,
-            "speaker": "F"
+            "confidence": 0.9868164,
+            "speaker": "A"
         },
         {
             "text": "just",
             "start": 215520,
             "end": 215760,
             "confidence": 0.8852539,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "want",
             "start": 215760,
             "end": 216000,
-            "confidence": 0.75683594,
-            "speaker": "F"
+            "confidence": 0.7558594,
+            "speaker": "A"
         },
         {
             "text": "to",
             "start": 216000,
             "end": 216240,
             "confidence": 0.5917969,
-            "speaker": "F"
+            "speaker": "A"
         },
         {
             "text": "live",
             "start": 216240,
             "end": 216600,
-            "confidence": 0.9897461,
-            "speaker": "F"
+            "confidence": 0.9892578,
+            "speaker": "A"
         },
         {
             "text": "alive.",
             "start": 216760,
             "end": 218440,
-            "confidence": 0.7675781,
-            "speaker": "F"
+            "confidence": 0.7753906,
+            "speaker": "A"
         },
         {
             "text": "It's",
             "start": 220280,
             "end": 220840,
-            "confidence": 0.9983724,
-            "speaker": "G"
+            "confidence": 0.9980469,
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 221160,
             "end": 221560,
             "confidence": 0.9995117,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "life.",
             "start": 222120,
             "end": 222520,
             "confidence": 0.9995117,
-            "speaker": "G"
+            "speaker": "A"
         },
         {
             "text": "It.",
             "start": 222860,
             "end": 223100,
-            "confidence": 0.36157227,
-            "speaker": "C"
+            "confidence": 0.3696289,
+            "speaker": "A"
         }
     ],
     "utterances": [
         {
-            "text": "This ain't a song for the brokenhearted.",
+            "text": "This ain't a song for the brokenhearted. A silent prayer for 50 parties. And I ain't gonna be just the face in the crowd. You're gonna hear my voice when I shout it out. It's my life. It's now or never. I ain't gonna live forever. I just wanna live my life. It's my life. My heart is like an open highway like you said I did it my way. I just wanna. Hits my life. Misses Four ones who stood their ground, Tommy and Gina knelt back down. Tomorrow's getting hotter, make no mistake looking even lucky. Got to make your own breaks. It's my life and it's now never. I ain't going to live forever. I just want to live a life. It's my life. My heart looks like an open highway like Frank Instead I'm dead in my way I just want to live but I alive it's my. Life with us now never. I ain't going to live forever. I just want to live my life. It's my life. My heart is like an open highway. But like I said I'm getting my way. I just want to live my life. It's my life, yeah, it's now never. I ain't going to live up ever. I just want to live my life. My life like an open highway. But make it said I get in my way. I just want to live alive. It's my life. It.",
             "start": 8240,
-            "end": 12000,
-            "confidence": 0.9658452,
-            "speaker": "A"
-        },
-        {
-            "text": "A silent prayer for 50 parties.",
-            "start": 15919,
-            "end": 20000,
-            "confidence": 0.6937114,
-            "speaker": "B"
-        },
-        {
-            "text": "And I ain't gonna be just the.",
-            "start": 23920,
-            "end": 26160,
-            "confidence": 0.84418595,
-            "speaker": "C"
-        },
-        {
-            "text": "Face in the crowd. You're gonna hear my voice when I shout it out. It's my life.",
-            "start": 26160,
-            "end": 34540,
-            "confidence": 0.9689128,
-            "speaker": "B"
-        },
-        {
-            "text": "It's now or never.",
-            "start": 35580,
-            "end": 37260,
-            "confidence": 0.86246747,
-            "speaker": "D"
-        },
-        {
-            "text": "I ain't gonna live forever.",
-            "start": 39100,
-            "end": 41580,
-            "confidence": 0.94816893,
-            "speaker": "E"
-        },
-        {
-            "text": "I just wanna live my life.",
-            "start": 43180,
-            "end": 46220,
-            "confidence": 0.9058431,
-            "speaker": "F"
-        },
-        {
-            "text": "It's my life.",
-            "start": 49100,
-            "end": 50460,
-            "confidence": 0.93391925,
-            "speaker": "C"
-        },
-        {
-            "text": "My heart is like an open highway.",
-            "start": 50860,
-            "end": 53980,
-            "confidence": 0.9940709,
-            "speaker": "D"
-        },
-        {
-            "text": "Like you said I did it my way.",
-            "start": 54780,
-            "end": 57980,
-            "confidence": 0.84924316,
-            "speaker": "G"
-        },
-        {
-            "text": "I just wanna.",
-            "start": 59180,
-            "end": 60300,
-            "confidence": 0.9383138,
-            "speaker": "C"
-        },
-        {
-            "text": "Hits my life.",
-            "start": 64360,
-            "end": 66520,
-            "confidence": 0.87320966,
-            "speaker": "D"
-        },
-        {
-            "text": "Misses Four ones who stood their ground.",
-            "start": 74120,
-            "end": 77240,
-            "confidence": 0.7810756,
-            "speaker": "A"
-        },
-        {
-            "text": "Tommy and Gina knelt back down.",
-            "start": 82040,
-            "end": 85560,
-            "confidence": 0.90060765,
-            "speaker": "G"
-        },
-        {
-            "text": "Tomorrow's getting hotter, make no mistake looking even lucky. Got to make your own breaks. It's my life and it's now never.",
-            "start": 89800,
-            "end": 103300,
-            "confidence": 0.8712787,
-            "speaker": "D"
-        },
-        {
-            "text": "I ain't going to live forever.",
-            "start": 105140,
-            "end": 107620,
-            "confidence": 0.9503784,
-            "speaker": "E"
-        },
-        {
-            "text": "I just want to live a life.",
-            "start": 109140,
-            "end": 111300,
-            "confidence": 0.8221959,
-            "speaker": "D"
-        },
-        {
-            "text": "It's my life.",
-            "start": 115140,
-            "end": 116500,
-            "confidence": 0.93603516,
-            "speaker": "H"
-        },
-        {
-            "text": "My heart looks like an open highway.",
-            "start": 116820,
-            "end": 119780,
-            "confidence": 0.89850724,
-            "speaker": "D"
-        },
-        {
-            "text": "Like Frank Instead I'm dead in my.",
-            "start": 120820,
-            "end": 123540,
-            "confidence": 0.8424072,
-            "speaker": "G"
-        },
-        {
-            "text": "Way I just want to live but I alive.",
-            "start": 123620,
-            "end": 128400,
-            "confidence": 0.8480089,
-            "speaker": "F"
-        },
-        {
-            "text": "It's my. Life with us now or never. I ain't going to live forever.",
-            "start": 130160,
-            "end": 165580,
-            "confidence": 0.8538208,
-            "speaker": "D"
-        },
-        {
-            "text": "I just want to live my life.",
-            "start": 167100,
-            "end": 170300,
-            "confidence": 0.96916854,
-            "speaker": "F"
-        },
-        {
-            "text": "It's my life.",
-            "start": 173180,
-            "end": 174540,
-            "confidence": 0.9561089,
-            "speaker": "C"
-        },
-        {
-            "text": "My heart is like an open highway.",
-            "start": 174860,
-            "end": 177900,
-            "confidence": 0.94932336,
-            "speaker": "D"
-        },
-        {
-            "text": "But like I said I'm getting my way.",
-            "start": 178780,
-            "end": 182060,
-            "confidence": 0.83030194,
-            "speaker": "G"
-        },
-        {
-            "text": "I just want to live my life.",
-            "start": 183100,
-            "end": 186300,
-            "confidence": 0.93436104,
-            "speaker": "F"
-        },
-        {
-            "text": "It's my life, yeah, it's now never. I ain't going to live up ever.",
-            "start": 188220,
-            "end": 197640,
-            "confidence": 0.85397196,
-            "speaker": "D"
-        },
-        {
-            "text": "I just want to live my life.",
-            "start": 199080,
-            "end": 202360,
-            "confidence": 0.8999721,
-            "speaker": "F"
-        },
-        {
-            "text": "My life like an open highway.",
-            "start": 205640,
-            "end": 210040,
-            "confidence": 0.87618,
-            "speaker": "D"
-        },
-        {
-            "text": "But make it said I get in my way.",
-            "start": 210840,
-            "end": 214040,
-            "confidence": 0.74018013,
-            "speaker": "G"
-        },
-        {
-            "text": "I just want to live alive.",
-            "start": 215240,
-            "end": 218440,
-            "confidence": 0.8293457,
-            "speaker": "F"
-        },
-        {
-            "text": "It's my life.",
-            "start": 220280,
-            "end": 222520,
-            "confidence": 0.9991319,
-            "speaker": "G"
-        },
-        {
-            "text": "It.",
-            "start": 222860,
             "end": 223100,
-            "confidence": 0.36157227,
-            "speaker": "C"
+            "confidence": 0.87972546,
+            "speaker": "A"
         }
     ],
     "chapters": [
         {
             "summary": "This ain't a song for the brokenhearted. A silent prayer for 50 parties. It's now or never. I ain't gonna live forever. I just wanna live my life. My heart is like an open highway. Got to make your own breaks.",
-            "headline": "It's now or never. I just want to live my life. My heart is like an open highway",
-            "gist": "I Just Want to Live My Life",
+            "headline": "This ain't a song for the brokenhearted. It's now or never",
+            "gist": "Living My Life",
             "start": 8240,
             "end": 223100
         }
@@ -1953,42 +1715,42 @@
             "start": 8240,
             "end": 12000,
             "sentiment": "NEGATIVE",
-            "confidence": 0.72171545
+            "confidence": 0.7217156
         },
         {
             "text": "A silent prayer for 50 parties.",
             "start": 15919,
             "end": 20000,
             "sentiment": "NEUTRAL",
-            "confidence": 0.88396055
+            "confidence": 0.88396066
         },
         {
             "text": "And I ain't gonna be just the face in the crowd.",
             "start": 23920,
             "end": 27400,
             "sentiment": "NEUTRAL",
-            "confidence": 0.68799824
+            "confidence": 0.6879982
         },
         {
             "text": "You're gonna hear my voice when I shout it out.",
             "start": 27400,
             "end": 31120,
             "sentiment": "NEUTRAL",
-            "confidence": 0.595084
+            "confidence": 0.5950838
         },
         {
             "text": "It's my life.",
             "start": 33340,
             "end": 34540,
             "sentiment": "NEUTRAL",
-            "confidence": 0.59119654
+            "confidence": 0.59119666
         },
         {
             "text": "It's now or never.",
             "start": 35580,
             "end": 37260,
             "sentiment": "NEUTRAL",
-            "confidence": 0.5971071
+            "confidence": 0.59710747
         },
         {
             "text": "I ain't gonna live forever.",
@@ -2002,203 +1764,189 @@
             "start": 43180,
             "end": 46220,
             "sentiment": "POSITIVE",
-            "confidence": 0.647562
+            "confidence": 0.6475621
         },
         {
             "text": "It's my life.",
             "start": 49100,
             "end": 50460,
             "sentiment": "NEUTRAL",
-            "confidence": 0.59119654
+            "confidence": 0.59119666
         },
         {
-            "text": "My heart is like an open highway.",
+            "text": "My heart is like an open highway like you said I did it my way.",
             "start": 50860,
-            "end": 53980,
-            "sentiment": "POSITIVE",
-            "confidence": 0.54691774
-        },
-        {
-            "text": "Like you said I did it my way.",
-            "start": 54780,
             "end": 57980,
             "sentiment": "NEUTRAL",
-            "confidence": 0.79436463
+            "confidence": 0.6730166
         },
         {
             "text": "I just wanna.",
             "start": 59180,
             "end": 60300,
             "sentiment": "NEUTRAL",
-            "confidence": 0.5760092
+            "confidence": 0.5760094
         },
         {
             "text": "Hits my life.",
             "start": 64360,
             "end": 66520,
             "sentiment": "NEUTRAL",
-            "confidence": 0.5026169
+            "confidence": 0.5026173
         },
         {
             "text": "Misses Four ones who stood their ground, Tommy and Gina knelt back down.",
             "start": 74120,
             "end": 85560,
             "sentiment": "NEUTRAL",
-            "confidence": 0.78679764
+            "confidence": 0.7867977
         },
         {
             "text": "Tomorrow's getting hotter, make no mistake looking even lucky.",
             "start": 89800,
             "end": 95710,
             "sentiment": "POSITIVE",
-            "confidence": 0.9223446
+            "confidence": 0.9223447
         },
         {
             "text": "Got to make your own breaks.",
             "start": 95860,
             "end": 98580,
             "sentiment": "NEUTRAL",
-            "confidence": 0.67097366
+            "confidence": 0.6709739
         },
         {
             "text": "It's my life and it's now never.",
             "start": 99220,
             "end": 103300,
             "sentiment": "NEUTRAL",
-            "confidence": 0.58029014
+            "confidence": 0.58028954
         },
         {
             "text": "I ain't going to live forever.",
             "start": 105140,
             "end": 107620,
             "sentiment": "NEGATIVE",
-            "confidence": 0.5494096
+            "confidence": 0.5494098
         },
         {
             "text": "I just want to live a life.",
             "start": 109140,
             "end": 111300,
             "sentiment": "POSITIVE",
-            "confidence": 0.45316797
+            "confidence": 0.45316812
         },
         {
             "text": "It's my life.",
             "start": 115140,
             "end": 116500,
             "sentiment": "NEUTRAL",
-            "confidence": 0.59119654
+            "confidence": 0.59119666
         },
         {
-            "text": "My heart looks like an open highway like Frank Instead I'm dead in my way I just want to live but I alive.",
+            "text": "My heart looks like an open highway like Frank Instead I'm dead in my way I just want to live but I alive it's my.",
             "start": 116820,
-            "end": 128400,
-            "sentiment": "NEUTRAL",
-            "confidence": 0.5529999
-        },
-        {
-            "text": "It's my.",
-            "start": 130160,
             "end": 131600,
-            "sentiment": "POSITIVE",
-            "confidence": 0.50566804
+            "sentiment": "NEUTRAL",
+            "confidence": 0.54232657
         },
         {
-            "text": "Life with us now or never.",
+            "text": "Life with us now never.",
             "start": 158160,
             "end": 161340,
             "sentiment": "NEUTRAL",
-            "confidence": 0.74154085
+            "confidence": 0.6561379
         },
         {
             "text": "I ain't going to live forever.",
             "start": 163180,
             "end": 165580,
             "sentiment": "NEGATIVE",
-            "confidence": 0.5494096
+            "confidence": 0.5494098
         },
         {
             "text": "I just want to live my life.",
             "start": 167100,
             "end": 170300,
             "sentiment": "POSITIVE",
-            "confidence": 0.66229767
+            "confidence": 0.6622976
         },
         {
             "text": "It's my life.",
             "start": 173180,
             "end": 174540,
             "sentiment": "NEUTRAL",
-            "confidence": 0.59119654
+            "confidence": 0.59119666
         },
         {
             "text": "My heart is like an open highway.",
             "start": 174860,
             "end": 177900,
             "sentiment": "POSITIVE",
-            "confidence": 0.54691774
+            "confidence": 0.54691833
         },
         {
             "text": "But like I said I'm getting my way.",
             "start": 178780,
             "end": 182060,
             "sentiment": "NEUTRAL",
-            "confidence": 0.6359612
+            "confidence": 0.63596135
         },
         {
             "text": "I just want to live my life.",
             "start": 183100,
             "end": 186300,
             "sentiment": "POSITIVE",
-            "confidence": 0.66229767
+            "confidence": 0.6622976
         },
         {
             "text": "It's my life, yeah, it's now never.",
             "start": 188220,
             "end": 193320,
             "sentiment": "NEUTRAL",
-            "confidence": 0.5332218
+            "confidence": 0.53322166
         },
         {
             "text": "I ain't going to live up ever.",
             "start": 195160,
             "end": 197640,
             "sentiment": "NEGATIVE",
-            "confidence": 0.9137973
+            "confidence": 0.9137972
         },
         {
             "text": "I just want to live my life.",
             "start": 199080,
             "end": 202360,
             "sentiment": "POSITIVE",
-            "confidence": 0.66229767
+            "confidence": 0.6622976
         },
         {
             "text": "My life like an open highway.",
             "start": 205640,
             "end": 210040,
             "sentiment": "NEUTRAL",
-            "confidence": 0.6867183
+            "confidence": 0.6867184
         },
         {
             "text": "But make it said I get in my way.",
             "start": 210840,
             "end": 214040,
             "sentiment": "NEUTRAL",
-            "confidence": 0.5595501
+            "confidence": 0.55955046
         },
         {
             "text": "I just want to live alive.",
             "start": 215240,
             "end": 218440,
             "sentiment": "POSITIVE",
-            "confidence": 0.7037915
+            "confidence": 0.7037918
         },
         {
             "text": "It's my life.",
             "start": 220280,
             "end": 222520,
             "sentiment": "NEUTRAL",
-            "confidence": 0.59119654
+            "confidence": 0.59119666
         },
         {
             "text": "It.",

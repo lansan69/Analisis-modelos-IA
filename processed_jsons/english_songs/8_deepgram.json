@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "fd4dc70c-f9a1-4588-90ab-37f23dd84b63",
+        "sha256": "707b43485fb717c81334d1a85874717081e9c5293b424e0b528e8173a3df350a",
+        "created": "2026-01-18T00:41:49.602000Z",
+        "duration": 257.328,
+        "channels": 1.0,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        },
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 0.0,
+            "output_tokens": 0.0
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "",
+                        "confidence": 0.0,
+                        "words": [],
+                        "paragraphs": {
+                            "transcript": "\n",
+                            "paragraphs": []
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [],
+        "sentiments": {
+            "segments": [],
+            "average": {
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        }
+    }
+}

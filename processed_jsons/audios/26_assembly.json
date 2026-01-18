@@ -1,0 +1,699 @@
+{
+    "id": "6774a2b8-1683-4f29-9fd5-ce2d03c030de",
+    "status": "completed",
+    "text": "¿A qué te dedicas, Daniel? Le fabrico a PepsiCo insertadores de promoción. ¿En qué? ¿Perdón? Insertadores de promoción.¿Qué es eso? Perdóname. Los que dejan los tazos y las estampas en las bolsitas. Es una máquina la que hace eso. ¿Tú crees? Yo pensé que era una persona. Es que no sé si algún día les tocó la chida. A mí nunca me pasó. Era una leyenda urbana en Cuautla que a un niño le salieron seis tazos en una sola bolsa. Entonces todo les pasó mi. Soy yo. Entonces.",
+    "words": [
+        {
+            "text": "¿A",
+            "start": 80,
+            "end": 280,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 280,
+            "end": 480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 480,
+            "end": 600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dedicas,",
+            "start": 600,
+            "end": 920,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "Daniel?",
+            "start": 920,
+            "end": 1520,
+            "confidence": 0.95963544,
+            "speaker": "A"
+        },
+        {
+            "text": "Le",
+            "start": 2560,
+            "end": 2800,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "fabrico",
+            "start": 2800,
+            "end": 3400,
+            "confidence": 0.9900716,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 3400,
+            "end": 3720,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "PepsiCo",
+            "start": 3720,
+            "end": 4640,
+            "confidence": 0.83594,
+            "speaker": "B"
+        },
+        {
+            "text": "insertadores",
+            "start": 5440,
+            "end": 6200,
+            "confidence": 0.92578125,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 6200,
+            "end": 6400,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "promoción.",
+            "start": 6400,
+            "end": 7040,
+            "confidence": 0.8540039,
+            "speaker": "B"
+        },
+        {
+            "text": "¿En",
+            "start": 7200,
+            "end": 7480,
+            "confidence": 0.8496094,
+            "speaker": "A"
+        },
+        {
+            "text": "qué?",
+            "start": 7480,
+            "end": 7680,
+            "confidence": 0.9033203,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Perdón?",
+            "start": 7680,
+            "end": 8080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Insertadores",
+            "start": 8480,
+            "end": 9320,
+            "confidence": 0.96028644,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 9320,
+            "end": 9520,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "promoción.¿Qué",
+            "start": 9520,
+            "end": 10200,
+            "confidence": 0.79118,
+            "speaker": "B"
+        },
+        {
+            "text": "es",
+            "start": 10200,
+            "end": 10400,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "eso?",
+            "start": 10400,
+            "end": 10520,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Perdóname.",
+            "start": 10520,
+            "end": 11120,
+            "confidence": 0.98095703,
+            "speaker": "A"
+        },
+        {
+            "text": "Los",
+            "start": 11120,
+            "end": 11400,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 11400,
+            "end": 11520,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "dejan",
+            "start": 11520,
+            "end": 12000,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "los",
+            "start": 12000,
+            "end": 12240,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "tazos",
+            "start": 12240,
+            "end": 12800,
+            "confidence": 0.8540039,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 12800,
+            "end": 12880,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "las",
+            "start": 12880,
+            "end": 13000,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "estampas",
+            "start": 13000,
+            "end": 13440,
+            "confidence": 0.90999347,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 13440,
+            "end": 13600,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "las",
+            "start": 13600,
+            "end": 13680,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "bolsitas.",
+            "start": 13680,
+            "end": 14320,
+            "confidence": 0.99794924,
+            "speaker": "B"
+        },
+        {
+            "text": "Es",
+            "start": 18400,
+            "end": 18680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 18680,
+            "end": 18840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "máquina",
+            "start": 18840,
+            "end": 19240,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 19240,
+            "end": 19480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 19480,
+            "end": 19600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "hace",
+            "start": 19600,
+            "end": 19800,
+            "confidence": 0.9526367,
+            "speaker": "A"
+        },
+        {
+            "text": "eso.",
+            "start": 19800,
+            "end": 20160,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Tú",
+            "start": 20240,
+            "end": 20560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "crees?",
+            "start": 20560,
+            "end": 21000,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Yo",
+            "start": 21000,
+            "end": 21240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pensé",
+            "start": 21240,
+            "end": 21680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 21680,
+            "end": 21760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "era",
+            "start": 21760,
+            "end": 21880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 21880,
+            "end": 22080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "persona.",
+            "start": 22080,
+            "end": 22480,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "Es",
+            "start": 24000,
+            "end": 24240,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 24240,
+            "end": 24360,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 24360,
+            "end": 24560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sé",
+            "start": 24560,
+            "end": 24760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 24760,
+            "end": 24920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "algún",
+            "start": 24920,
+            "end": 25160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "día",
+            "start": 25160,
+            "end": 25320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "les",
+            "start": 25320,
+            "end": 25480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tocó",
+            "start": 25480,
+            "end": 25840,
+            "confidence": 0.8741862,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 25840,
+            "end": 25920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "chida.",
+            "start": 25920,
+            "end": 26320,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "A",
+            "start": 26320,
+            "end": 26560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mí",
+            "start": 26560,
+            "end": 26720,
+            "confidence": 0.78100586,
+            "speaker": "A"
+        },
+        {
+            "text": "nunca",
+            "start": 26720,
+            "end": 26880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 26880,
+            "end": 27000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pasó.",
+            "start": 27000,
+            "end": 27320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Era",
+            "start": 27320,
+            "end": 27480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 27480,
+            "end": 27640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "leyenda",
+            "start": 27640,
+            "end": 28000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "urbana",
+            "start": 28000,
+            "end": 28400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 28400,
+            "end": 28560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Cuautla",
+            "start": 28560,
+            "end": 29260,
+            "confidence": 0.91031903,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 29490,
+            "end": 29610,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 29610,
+            "end": 29770,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 29770,
+            "end": 29890,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "niño",
+            "start": 29890,
+            "end": 30290,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 30530,
+            "end": 30770,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "salieron",
+            "start": 30770,
+            "end": 31210,
+            "confidence": 0.91031903,
+            "speaker": "A"
+        },
+        {
+            "text": "seis",
+            "start": 31210,
+            "end": 31450,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "tazos",
+            "start": 31450,
+            "end": 31850,
+            "confidence": 0.9391276,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 31850,
+            "end": 31970,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 31970,
+            "end": 32130,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "sola",
+            "start": 32130,
+            "end": 32450,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "bolsa.",
+            "start": 32450,
+            "end": 32850,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "Entonces",
+            "start": 33250,
+            "end": 33810,
+            "confidence": 0.8984375,
+            "speaker": "A"
+        },
+        {
+            "text": "todo",
+            "start": 34370,
+            "end": 34650,
+            "confidence": 0.50341797,
+            "speaker": "A"
+        },
+        {
+            "text": "les",
+            "start": 34650,
+            "end": 34770,
+            "confidence": 0.9560547,
+            "speaker": "A"
+        },
+        {
+            "text": "pasó",
+            "start": 34770,
+            "end": 35250,
+            "confidence": 0.8803711,
+            "speaker": "A"
+        },
+        {
+            "text": "mi.",
+            "start": 35890,
+            "end": 36290,
+            "confidence": 0.25805664,
+            "speaker": "A"
+        },
+        {
+            "text": "Soy",
+            "start": 36850,
+            "end": 37170,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "yo.",
+            "start": 37170,
+            "end": 37330,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Entonces.",
+            "start": 37330,
+            "end": 37810,
+            "confidence": 0.9707031,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "¿A qué te dedicas, Daniel?",
+            "start": 80,
+            "end": 1520,
+            "confidence": 0.9163086,
+            "speaker": "A"
+        },
+        {
+            "text": "Le fabrico a PepsiCo insertadores de promoción.",
+            "start": 2560,
+            "end": 7040,
+            "confidence": 0.94368523,
+            "speaker": "B"
+        },
+        {
+            "text": "¿En qué? ¿Perdón?",
+            "start": 7200,
+            "end": 8080,
+            "confidence": 0.91764325,
+            "speaker": "A"
+        },
+        {
+            "text": "Insertadores de promoción.¿Qué es eso?",
+            "start": 8480,
+            "end": 10520,
+            "confidence": 0.9501956,
+            "speaker": "B"
+        },
+        {
+            "text": "Perdóname.",
+            "start": 10520,
+            "end": 11120,
+            "confidence": 0.98095703,
+            "speaker": "A"
+        },
+        {
+            "text": "Los que dejan los tazos y las estampas en las bolsitas.",
+            "start": 11120,
+            "end": 14320,
+            "confidence": 0.9783588,
+            "speaker": "B"
+        },
+        {
+            "text": "Es una máquina la que hace eso.",
+            "start": 18400,
+            "end": 20160,
+            "confidence": 0.95476425,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Tú crees?",
+            "start": 20240,
+            "end": 21000,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "Yo pensé que era una persona. Es que no sé si algún día les tocó la chida. A mí nunca me pasó. Era una leyenda urbana en Cuautla que a un niño le salieron seis tazos en una sola bolsa. Entonces todo les pasó mi. Soy yo. Entonces.",
+            "start": 21000,
+            "end": 37810,
+            "confidence": 0.94674766,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 39,
+    "language_code": "es"
+}

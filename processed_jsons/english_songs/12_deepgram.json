@@ -1,45 +1,344 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "2943b70d-79b0-4adf-a114-72f6f5e9524f",
+        "request_id": "83f381c4-1eb9-4ed5-97a5-b24c4ab6d859",
         "sha256": "055f5540b00936ce0b13a3302079d77caae508d3e18b9dd45ffb5d11e58a9620",
-        "created": "2026-01-17T23:22:00.074000Z",
+        "created": "2026-01-18T00:23:17.313000Z",
         "duration": 214.968,
         "channels": 1.0,
         "models": [
-            "4f82af92-7749-4465-92ad-3db204bc8e03"
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
         ],
         "model_info": {
-            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
                 "name": "2-general-nova",
-                "version": "2023-12-14.34983",
+                "version": "2024-01-06.5664",
                 "arch": "nova-2"
             }
         },
-        "warnings": [
-            {
-                "parameter": "sentiment",
-                "type": "unsupported_language",
-                "message": "Sentiment is only supported for English."
-            }
-        ]
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 15.0,
+            "output_tokens": 15.0
+        }
     },
     "results": {
         "channels": [
             {
                 "alternatives": [
                     {
-                        "transcript": "",
-                        "confidence": 0.0,
-                        "words": [],
+                        "transcript": "It's been twenty four hours, honey. More hours with you.",
+                        "confidence": 0.86156344,
+                        "words": [
+                            {
+                                "word": "it's",
+                                "start": 7.3599997,
+                                "end": 7.6,
+                                "confidence": 0.7283827,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "It's",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.487994521856308
+                            },
+                            {
+                                "word": "been",
+                                "start": 7.6,
+                                "end": 7.8399997,
+                                "confidence": 0.98464614,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "been",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.45571449398994446
+                            },
+                            {
+                                "word": "twenty",
+                                "start": 7.8399997,
+                                "end": 8.32,
+                                "confidence": 0.9939459,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "twenty",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6305411458015442
+                            },
+                            {
+                                "word": "four",
+                                "start": 8.32,
+                                "end": 8.82,
+                                "confidence": 0.99740195,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "four",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.3816383481025696
+                            },
+                            {
+                                "word": "hours",
+                                "start": 9.28,
+                                "end": 9.76,
+                                "confidence": 0.7216233,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "hours,",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5877491235733032
+                            },
+                            {
+                                "word": "honey",
+                                "start": 9.76,
+                                "end": 10.24,
+                                "confidence": 0.7400407,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "honey.",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6175807118415833
+                            },
+                            {
+                                "word": "more",
+                                "start": 10.24,
+                                "end": 10.74,
+                                "confidence": 0.40811017,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "More",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5292675495147705
+                            },
+                            {
+                                "word": "hours",
+                                "start": 11.2,
+                                "end": 11.599999,
+                                "confidence": 0.9914023,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "hours",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5968080163002014
+                            },
+                            {
+                                "word": "with",
+                                "start": 11.599999,
+                                "end": 11.84,
+                                "confidence": 0.76581705,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "with",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6452174186706543
+                            },
+                            {
+                                "word": "you",
+                                "start": 11.84,
+                                "end": 12.34,
+                                "confidence": 0.86156344,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "you.",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.3907223343849182
+                            }
+                        ],
                         "paragraphs": {
-                            "transcript": "\n",
-                            "paragraphs": []
+                            "transcript": "\nSpeaker 0: It's been twenty four hours, honey. More hours with you.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "It's been twenty four hours, honey.",
+                                            "start": 7.3599997,
+                                            "end": 10.24,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.5268697241942087
+                                        },
+                                        {
+                                            "text": "More hours with you.",
+                                            "start": 10.24,
+                                            "end": 12.34,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.5405038297176361
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 10.0,
+                                    "start": 7.3599997,
+                                    "end": 12.34,
+                                    "sentiment": "positive",
+                                    "sentiment_score": 0.5323233664035797
+                                }
+                            ]
                         }
                     }
                 ]
             }
         ],
-        "utterances": []
+        "utterances": [
+            {
+                "start": 7.3599997,
+                "end": 8.82,
+                "confidence": 0.9260942,
+                "channel": 0.0,
+                "transcript": "It's been twenty four",
+                "words": [
+                    {
+                        "word": "it's",
+                        "start": 7.3599997,
+                        "end": 7.6,
+                        "confidence": 0.7283827,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "It's",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.487994521856308
+                    },
+                    {
+                        "word": "been",
+                        "start": 7.6,
+                        "end": 7.8399997,
+                        "confidence": 0.98464614,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "been",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.45571449398994446
+                    },
+                    {
+                        "word": "twenty",
+                        "start": 7.8399997,
+                        "end": 8.32,
+                        "confidence": 0.9939459,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "twenty",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6305411458015442
+                    },
+                    {
+                        "word": "four",
+                        "start": 8.32,
+                        "end": 8.82,
+                        "confidence": 0.99740195,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "four",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.3816383481025696
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "7f808f25-6080-45a3-96ef-f76b025711cb",
+                "sentiment": "positive",
+                "sentiment_score": 0.48897212743759155
+            },
+            {
+                "start": 9.28,
+                "end": 10.74,
+                "confidence": 0.62325805,
+                "channel": 0.0,
+                "transcript": "hours, honey. More",
+                "words": [
+                    {
+                        "word": "hours",
+                        "start": 9.28,
+                        "end": 9.76,
+                        "confidence": 0.7216233,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "hours,",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5877491235733032
+                    },
+                    {
+                        "word": "honey",
+                        "start": 9.76,
+                        "end": 10.24,
+                        "confidence": 0.7400407,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "honey.",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6175807118415833
+                    },
+                    {
+                        "word": "more",
+                        "start": 10.24,
+                        "end": 10.74,
+                        "confidence": 0.40811017,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "More",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5292675495147705
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "9c77f130-4fb5-4779-9d76-98b834604860",
+                "sentiment": "positive",
+                "sentiment_score": 0.5781991283098856
+            },
+            {
+                "start": 11.2,
+                "end": 12.34,
+                "confidence": 0.8729276,
+                "channel": 0.0,
+                "transcript": "hours with you.",
+                "words": [
+                    {
+                        "word": "hours",
+                        "start": 11.2,
+                        "end": 11.599999,
+                        "confidence": 0.9914023,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "hours",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5968080163002014
+                    },
+                    {
+                        "word": "with",
+                        "start": 11.599999,
+                        "end": 11.84,
+                        "confidence": 0.76581705,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "with",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6452174186706543
+                    },
+                    {
+                        "word": "you",
+                        "start": 11.84,
+                        "end": 12.34,
+                        "confidence": 0.86156344,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "you.",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.3907223343849182
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "84ded068-468e-4791-8556-5ffa2e1638a2",
+                "sentiment": "positive",
+                "sentiment_score": 0.5442492564519247
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "It's been twenty four hours, honey. More hours with you.",
+                    "start_word": 0.0,
+                    "end_word": 9.0,
+                    "sentiment": "positive",
+                    "sentiment_score": 0.5524561405181885
+                }
+            ],
+            "average": {
+                "sentiment": "positive",
+                "sentiment_score": 0.5524560928344726
+            }
+        }
     }
 }

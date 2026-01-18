@@ -1,65 +1,71 @@
 {
-    "text": "Se que me enamore, yo caí perdida sin conocer, que al salir el sol, se te va el amor. Duele reconocer, duele equivocar, si duele saber, que sin ti es mejor, aunque al principio no. Me perdí, apenas te vi, siempre me hiciste como quisiste. Porque siempre estuve equivocada, y no lo quise ver. Porque yo por ti la vida daba, porque todo lo que empieza acaba. Porque nunca tuve más razones, para estar sin él. Porque cuesta tomar decisiones, porque sé que va a doler. Y hoy pude entender, que a esta mujer, siempre la hiciste inmensamente triste. Hoy que no puedo más, sigo decidida a dejarte atrás, por tu desamor, lastimada estoy. Me perdí, apenas te vi, siempre me hiciste como quisiste. Porque siempre estuve equivocada, y no lo quise ver. Porque yo por ti la vida daba, porque todo lo que empieza acaba. Porque nunca tuve más razones, para estar sin él. Porque cuesta tomar decisiones, porque sé que va a doler. Si así me sentía, no sé por qué seguía apostándole mi vida a él. Porque siempre estuve equivocada, y no lo quise ver. Porque yo por ti la vida daba, porque todo lo que empieza acaba. Porque nunca tuve más razones, para estar sin él. Porque cuesta tomar decisiones, porque sé que va a doler. Y hoy pude entender, que a esta mujer, siempre la hiciste inmensamente triste. Siempre la hiciste.",
+    "text": "♪ Sé que me enamoré Yo caí perdida sin conocer Que al salir el sol Se te va el amor Duele reconocer Duele equivocar Si duele saber Que sin ti es mejor Aunque al principio no Me perdí Apenas te vi Siempre me hiciste Como quisiste ♪ Porque siempre estuve equivocada Y no lo quise ver Porque yo por ti la vida daba Porque todo lo que empieza acaba Porque nunca tuve más razones Para estar sin él Porque cuesta tomar decisiones Porque sé que va a doler Y hoy pude entender Que a esta mujer Siempre la hiciste Inmensamente triste ♪ Hoy que no puedo más Sigo decidida a dejarte atrás Por tu desamor Lastimada estoy Me perdí Apenas te vi Siempre me hiciste Como quisiste Porque siempre estuve equivocada Y no lo quise ver Porque yo por ti la vida daba Porque todo lo que empieza acaba Porque nunca tuve más razones Para estar sin él Porque cuesta tomar decisiones Porque sé que va a doler Si así me sentía No sé por qué seguía Apostándole Mi vida a él Porque siempre estuve equivocada Y no lo quise ver Porque yo por ti la vida daba Porque todo lo que empieza acaba Porque nunca tuve más razones Para estar sin él Porque cuesta tomar decisiones Porque sé que va a doler Y hoy pude entender Que a esta mujer Siempre la hiciste Inmensamente triste Jessica Rodríguez Oh-oh Oh-oh Oh-oh Oh-oh Oh-oh Oh-oh ",
     "audio_duration": 242.27000427246094,
     "confidence": 0.36787944117144233,
     "words": [
         {
-            "text": "Se",
-            "start": 12.020000457763672,
-            "end": 13.180000305175781,
+            "text": "♪",
+            "start": 4.199999809265137,
+            "end": 5.599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sé",
+            "start": 13.319999694824219,
+            "end": 14.020000457763672,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 13.180000305175781,
+            "start": 14.020000457763672,
             "end": 14.34000015258789,
             "confidence": 0.99
         },
         {
             "text": "me",
             "start": 14.34000015258789,
-            "end": 14.579999923706055,
+            "end": 14.920000076293945,
             "confidence": 0.99
         },
         {
-            "text": "enamore",
-            "start": 14.579999923706055,
-            "end": 15.699999809265137,
+            "text": "enamoré",
+            "start": 14.920000076293945,
+            "end": 15.880000114440918,
             "confidence": 0.99
         },
         {
-            "text": "yo",
-            "start": 15.9399995803833,
-            "end": 16.739999771118164,
+            "text": "Yo",
+            "start": 15.880000114440918,
+            "end": 16.639999389648438,
             "confidence": 0.99
         },
         {
             "text": "caí",
-            "start": 16.739999771118164,
-            "end": 16.899999618530273,
+            "start": 16.639999389648438,
+            "end": 16.84000015258789,
             "confidence": 0.99
         },
         {
             "text": "perdida",
-            "start": 16.899999618530273,
-            "end": 17.420000076293945,
+            "start": 16.84000015258789,
+            "end": 17.440000534057617,
             "confidence": 0.99
         },
         {
             "text": "sin",
-            "start": 17.420000076293945,
-            "end": 17.760000228881836,
+            "start": 17.440000534057617,
+            "end": 17.780000686645508,
             "confidence": 0.99
         },
         {
             "text": "conocer",
-            "start": 17.760000228881836,
-            "end": 18.940000534057617,
+            "start": 17.780000686645508,
+            "end": 18.700000762939453,
             "confidence": 0.99
         },
         {
-            "text": "que",
-            "start": 19.979999542236328,
+            "text": "Que",
+            "start": 19.280000686645508,
             "end": 19.979999542236328,
             "confidence": 0.99
         },
@@ -72,12 +78,12 @@
         {
             "text": "salir",
             "start": 20.219999313354492,
-            "end": 20.799999237060547,
+            "end": 20.760000228881836,
             "confidence": 0.99
         },
         {
             "text": "el",
-            "start": 20.799999237060547,
+            "start": 20.760000228881836,
             "end": 22.5,
             "confidence": 0.99
         },
@@ -88,98 +94,98 @@
             "confidence": 0.99
         },
         {
-            "text": "se",
-            "start": 23.100000381469727,
-            "end": 23.260000228881836,
+            "text": "Se",
+            "start": 22.5,
+            "end": 23.239999771118164,
             "confidence": 0.99
         },
         {
             "text": "te",
-            "start": 23.260000228881836,
+            "start": 23.239999771118164,
             "end": 23.520000457763672,
             "confidence": 0.99
         },
         {
             "text": "va",
             "start": 23.520000457763672,
-            "end": 23.860000610351562,
+            "end": 23.799999237060547,
             "confidence": 0.99
         },
         {
             "text": "el",
-            "start": 23.860000610351562,
-            "end": 24.3799991607666,
+            "start": 23.799999237060547,
+            "end": 24.68000030517578,
             "confidence": 0.99
         },
         {
             "text": "amor",
-            "start": 24.3799991607666,
+            "start": 24.68000030517578,
             "end": 25.5,
             "confidence": 0.99
         },
         {
             "text": "Duele",
-            "start": 26.31999969482422,
-            "end": 27.020000457763672,
+            "start": 26.360000610351562,
+            "end": 27.15999984741211,
             "confidence": 0.99
         },
         {
             "text": "reconocer",
-            "start": 27.020000457763672,
-            "end": 28.639999389648438,
+            "start": 27.15999984741211,
+            "end": 28.559999465942383,
             "confidence": 0.99
         },
         {
-            "text": "duele",
-            "start": 29.200000762939453,
-            "end": 29.31999969482422,
+            "text": "Duele",
+            "start": 28.559999465942383,
+            "end": 29.280000686645508,
             "confidence": 0.99
         },
         {
             "text": "equivocar",
-            "start": 29.31999969482422,
-            "end": 30.059999465942383,
+            "start": 29.280000686645508,
+            "end": 30.040000915527344,
             "confidence": 0.99
         },
         {
-            "text": "si",
-            "start": 30.15999984741211,
-            "end": 30.600000381469727,
+            "text": "Si",
+            "start": 30.040000915527344,
+            "end": 30.420000076293945,
             "confidence": 0.99
         },
         {
             "text": "duele",
-            "start": 30.600000381469727,
-            "end": 30.700000762939453,
+            "start": 30.420000076293945,
+            "end": 30.68000030517578,
             "confidence": 0.99
         },
         {
             "text": "saber",
-            "start": 30.700000762939453,
-            "end": 31.780000686645508,
+            "start": 30.68000030517578,
+            "end": 31.81999969482422,
             "confidence": 0.99
         },
         {
-            "text": "que",
-            "start": 32.58000183105469,
-            "end": 32.720001220703125,
+            "text": "Que",
+            "start": 32.060001373291016,
+            "end": 32.7599983215332,
             "confidence": 0.99
         },
         {
             "text": "sin",
-            "start": 32.720001220703125,
-            "end": 33.13999938964844,
+            "start": 32.7599983215332,
+            "end": 33.040000915527344,
             "confidence": 0.99
         },
         {
             "text": "ti",
-            "start": 33.13999938964844,
-            "end": 33.36000061035156,
+            "start": 33.040000915527344,
+            "end": 33.31999969482422,
             "confidence": 0.99
         },
         {
             "text": "es",
-            "start": 33.36000061035156,
+            "start": 33.31999969482422,
             "end": 33.779998779296875,
             "confidence": 0.99
         },
@@ -190,146 +196,152 @@
             "confidence": 0.99
         },
         {
-            "text": "aunque",
-            "start": 35.619998931884766,
-            "end": 35.65999984741211,
+            "text": "Aunque",
+            "start": 34.7599983215332,
+            "end": 35.68000030517578,
             "confidence": 0.99
         },
         {
             "text": "al",
-            "start": 35.65999984741211,
-            "end": 36.47999954223633,
+            "start": 35.68000030517578,
+            "end": 37.08000183105469,
             "confidence": 0.99
         },
         {
             "text": "principio",
-            "start": 36.47999954223633,
-            "end": 36.97999954223633,
+            "start": 37.08000183105469,
+            "end": 37.08000183105469,
             "confidence": 0.99
         },
         {
             "text": "no",
-            "start": 36.97999954223633,
-            "end": 38.5,
+            "start": 37.08000183105469,
+            "end": 38.880001068115234,
             "confidence": 0.99
         },
         {
             "text": "Me",
-            "start": 39.099998474121094,
-            "end": 40.040000915527344,
+            "start": 39.08000183105469,
+            "end": 40.47999954223633,
             "confidence": 0.99
         },
         {
             "text": "perdí",
-            "start": 40.040000915527344,
-            "end": 41.7400016784668,
+            "start": 40.47999954223633,
+            "end": 41.880001068115234,
             "confidence": 0.99
         },
         {
-            "text": "apenas",
-            "start": 42.36000061035156,
-            "end": 43.040000915527344,
+            "text": "Apenas",
+            "start": 41.880001068115234,
+            "end": 43.08000183105469,
             "confidence": 0.99
         },
         {
             "text": "te",
-            "start": 43.040000915527344,
+            "start": 43.08000183105469,
             "end": 43.720001220703125,
             "confidence": 0.99
         },
         {
             "text": "vi",
             "start": 43.720001220703125,
-            "end": 44.060001373291016,
+            "end": 44.779998779296875,
             "confidence": 0.99
         },
         {
-            "text": "siempre",
-            "start": 45.79999923706055,
-            "end": 46.08000183105469,
+            "text": "Siempre",
+            "start": 45.34000015258789,
+            "end": 46.060001373291016,
             "confidence": 0.99
         },
         {
             "text": "me",
-            "start": 46.08000183105469,
+            "start": 46.060001373291016,
             "end": 46.81999969482422,
             "confidence": 0.99
         },
         {
             "text": "hiciste",
             "start": 46.81999969482422,
-            "end": 47.65999984741211,
+            "end": 47.68000030517578,
             "confidence": 0.99
         },
         {
-            "text": "como",
-            "start": 47.65999984741211,
-            "end": 49.34000015258789,
+            "text": "Como",
+            "start": 48.36000061035156,
+            "end": 49.7599983215332,
             "confidence": 0.99
         },
         {
             "text": "quisiste",
-            "start": 49.34000015258789,
-            "end": 50.79999923706055,
+            "start": 49.7599983215332,
+            "end": 51.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪",
+            "start": 52.439998626708984,
+            "end": 53.84000015258789,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 53.63999938964844,
-            "end": 54.7599983215332,
+            "start": 53.84000015258789,
+            "end": 54.81999969482422,
             "confidence": 0.99
         },
         {
             "text": "siempre",
-            "start": 54.7599983215332,
-            "end": 55.5,
+            "start": 54.81999969482422,
+            "end": 55.540000915527344,
             "confidence": 0.99
         },
         {
             "text": "estuve",
-            "start": 55.5,
-            "end": 56.31999969482422,
+            "start": 55.540000915527344,
+            "end": 56.119998931884766,
             "confidence": 0.99
         },
         {
             "text": "equivocada",
-            "start": 56.31999969482422,
+            "start": 56.119998931884766,
             "end": 58.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "y",
+            "text": "Y",
             "start": 58.13999938964844,
-            "end": 58.70000076293945,
+            "end": 58.58000183105469,
             "confidence": 0.99
         },
         {
             "text": "no",
-            "start": 58.70000076293945,
-            "end": 58.79999923706055,
+            "start": 58.58000183105469,
+            "end": 58.779998779296875,
             "confidence": 0.99
         },
         {
             "text": "lo",
-            "start": 58.79999923706055,
-            "end": 59.29999923706055,
+            "start": 58.779998779296875,
+            "end": 59.2599983215332,
             "confidence": 0.99
         },
         {
             "text": "quise",
-            "start": 59.29999923706055,
-            "end": 59.29999923706055,
+            "start": 59.2599983215332,
+            "end": 59.31999969482422,
             "confidence": 0.99
         },
         {
             "text": "ver",
-            "start": 59.29999923706055,
+            "start": 59.31999969482422,
             "end": 60.18000030517578,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 61.2400016784668,
+            "start": 60.77000045776367,
             "end": 61.2599983215332,
             "confidence": 0.99
         },
@@ -354,66 +366,66 @@
         {
             "text": "la",
             "start": 62.18000030517578,
-            "end": 63.18000030517578,
+            "end": 62.58000183105469,
             "confidence": 0.99
         },
         {
             "text": "vida",
-            "start": 63.18000030517578,
+            "start": 62.58000183105469,
             "end": 63.18000030517578,
             "confidence": 0.99
         },
         {
             "text": "daba",
             "start": 63.18000030517578,
-            "end": 63.81999969482422,
+            "end": 63.84000015258789,
             "confidence": 0.99
         },
         {
-            "text": "porque",
-            "start": 64.26000213623047,
-            "end": 64.41999816894531,
+            "text": "Porque",
+            "start": 63.84000015258789,
+            "end": 64.44000244140625,
             "confidence": 0.99
         },
         {
             "text": "todo",
-            "start": 64.41999816894531,
+            "start": 64.44000244140625,
             "end": 64.87999725341797,
             "confidence": 0.99
         },
         {
             "text": "lo",
             "start": 64.87999725341797,
-            "end": 65.33999633789062,
+            "end": 65.31999969482422,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 65.33999633789062,
-            "end": 65.69999694824219,
+            "start": 65.31999969482422,
+            "end": 65.68000030517578,
             "confidence": 0.99
         },
         {
             "text": "empieza",
-            "start": 65.69999694824219,
-            "end": 66.26000213623047,
+            "start": 65.68000030517578,
+            "end": 66.23999786376953,
             "confidence": 0.99
         },
         {
             "text": "acaba",
-            "start": 66.26000213623047,
-            "end": 67.0,
+            "start": 66.23999786376953,
+            "end": 67.04000091552734,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 67.54000091552734,
-            "end": 67.5999984741211,
+            "start": 67.04000091552734,
+            "end": 67.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "nunca",
-            "start": 67.5999984741211,
+            "start": 67.66000366210938,
             "end": 68.26000213623047,
             "confidence": 0.99
         },
@@ -426,48 +438,48 @@
         {
             "text": "más",
             "start": 68.76000213623047,
-            "end": 69.41999816894531,
+            "end": 69.4000015258789,
             "confidence": 0.99
         },
         {
             "text": "razones",
-            "start": 69.41999816894531,
-            "end": 70.05999755859375,
+            "start": 69.4000015258789,
+            "end": 70.0999984741211,
             "confidence": 0.99
         },
         {
-            "text": "para",
-            "start": 70.80000305175781,
-            "end": 71.5,
+            "text": "Para",
+            "start": 70.98999786376953,
+            "end": 71.4800033569336,
             "confidence": 0.99
         },
         {
             "text": "estar",
-            "start": 71.5,
+            "start": 71.4800033569336,
             "end": 71.9000015258789,
             "confidence": 0.99
         },
         {
             "text": "sin",
             "start": 71.9000015258789,
-            "end": 72.27999877929688,
+            "end": 72.30000305175781,
             "confidence": 0.99
         },
         {
             "text": "él",
-            "start": 72.27999877929688,
-            "end": 72.83999633789062,
+            "start": 72.30000305175781,
+            "end": 72.86000061035156,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 72.83999633789062,
-            "end": 73.81999969482422,
+            "start": 73.0199966430664,
+            "end": 74.0,
             "confidence": 0.99
         },
         {
             "text": "cuesta",
-            "start": 73.81999969482422,
+            "start": 74.0,
             "end": 74.4800033569336,
             "confidence": 0.99
         },
@@ -480,156 +492,162 @@
         {
             "text": "decisiones",
             "start": 75.13999938964844,
-            "end": 76.77999877929688,
+            "end": 76.76000213623047,
             "confidence": 0.99
         },
         {
-            "text": "porque",
-            "start": 76.77999877929688,
-            "end": 77.0199966430664,
+            "text": "Porque",
+            "start": 76.76000213623047,
+            "end": 77.0,
             "confidence": 0.99
         },
         {
             "text": "sé",
-            "start": 77.0199966430664,
+            "start": 77.0,
             "end": 77.55999755859375,
             "confidence": 0.99
         },
         {
             "text": "que",
             "start": 77.55999755859375,
-            "end": 77.81999969482422,
+            "end": 77.77999877929688,
             "confidence": 0.99
         },
         {
             "text": "va",
-            "start": 77.81999969482422,
+            "start": 77.77999877929688,
             "end": 78.19999694824219,
             "confidence": 0.99
         },
         {
             "text": "a",
             "start": 78.19999694824219,
-            "end": 78.63999938964844,
+            "end": 78.62000274658203,
             "confidence": 0.99
         },
         {
             "text": "doler",
-            "start": 78.63999938964844,
-            "end": 78.63999938964844,
+            "start": 78.62000274658203,
+            "end": 78.62000274658203,
             "confidence": 0.99
         },
         {
             "text": "Y",
-            "start": 79.0999984741211,
+            "start": 78.62000274658203,
             "end": 79.0999984741211,
             "confidence": 0.99
         },
         {
             "text": "hoy",
             "start": 79.0999984741211,
-            "end": 79.41999816894531,
+            "end": 79.26000213623047,
             "confidence": 0.99
         },
         {
             "text": "pude",
-            "start": 79.41999816894531,
-            "end": 79.77999877929688,
+            "start": 79.26000213623047,
+            "end": 79.72000122070312,
             "confidence": 0.99
         },
         {
             "text": "entender",
-            "start": 79.77999877929688,
-            "end": 80.62000274658203,
+            "start": 79.72000122070312,
+            "end": 80.58000183105469,
             "confidence": 0.99
         },
         {
-            "text": "que",
-            "start": 81.62000274658203,
-            "end": 82.05999755859375,
+            "text": "Que",
+            "start": 81.51000213623047,
+            "end": 82.0,
             "confidence": 0.99
         },
         {
             "text": "a",
-            "start": 82.05999755859375,
-            "end": 82.86000061035156,
+            "start": 82.0,
+            "end": 82.87999725341797,
             "confidence": 0.99
         },
         {
             "text": "esta",
-            "start": 82.86000061035156,
-            "end": 83.18000030517578,
+            "start": 82.87999725341797,
+            "end": 83.13999938964844,
             "confidence": 0.99
         },
         {
             "text": "mujer",
-            "start": 83.18000030517578,
-            "end": 84.58000183105469,
+            "start": 83.13999938964844,
+            "end": 84.12000274658203,
             "confidence": 0.99
         },
         {
-            "text": "siempre",
-            "start": 86.54000091552734,
+            "text": "Siempre",
+            "start": 85.68000030517578,
             "end": 87.08000183105469,
             "confidence": 0.99
         },
         {
             "text": "la",
             "start": 87.08000183105469,
-            "end": 87.80000305175781,
+            "end": 87.77999877929688,
             "confidence": 0.99
         },
         {
             "text": "hiciste",
-            "start": 87.80000305175781,
-            "end": 88.91999816894531,
+            "start": 87.77999877929688,
+            "end": 89.0,
             "confidence": 0.99
         },
         {
-            "text": "inmensamente",
-            "start": 88.91999816894531,
-            "end": 93.63999938964844,
+            "text": "Inmensamente",
+            "start": 95.08000183105469,
+            "end": 96.4800033569336,
             "confidence": 0.99
         },
         {
             "text": "triste",
-            "start": 93.63999938964844,
-            "end": 96.86000061035156,
+            "start": 96.4800033569336,
+            "end": 97.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "♪",
+            "start": 101.81999969482422,
+            "end": 103.22000122070312,
             "confidence": 0.99
         },
         {
             "text": "Hoy",
-            "start": 107.45999908447266,
-            "end": 108.86000061035156,
+            "start": 108.0999984741211,
+            "end": 108.9000015258789,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 108.86000061035156,
-            "end": 109.05999755859375,
+            "start": 108.9000015258789,
+            "end": 109.08000183105469,
             "confidence": 0.99
         },
         {
             "text": "no",
-            "start": 109.05999755859375,
-            "end": 109.31999969482422,
+            "start": 109.08000183105469,
+            "end": 109.36000061035156,
             "confidence": 0.99
         },
         {
             "text": "puedo",
-            "start": 109.31999969482422,
-            "end": 109.91999816894531,
+            "start": 109.36000061035156,
+            "end": 109.86000061035156,
             "confidence": 0.99
         },
         {
             "text": "más",
-            "start": 109.91999816894531,
-            "end": 110.81999969482422,
+            "start": 109.86000061035156,
+            "end": 110.66000366210938,
             "confidence": 0.99
         },
         {
-            "text": "sigo",
-            "start": 111.16000366210938,
+            "text": "Sigo",
+            "start": 110.66000366210938,
             "end": 111.41999816894531,
             "confidence": 0.99
         },
@@ -648,132 +666,132 @@
         {
             "text": "dejarte",
             "start": 112.54000091552734,
-            "end": 112.68000030517578,
+            "end": 112.69999694824219,
             "confidence": 0.99
         },
         {
             "text": "atrás",
-            "start": 112.68000030517578,
-            "end": 113.91999816894531,
+            "start": 112.69999694824219,
+            "end": 113.18000030517578,
             "confidence": 0.99
         },
         {
-            "text": "por",
-            "start": 114.66000366210938,
-            "end": 114.77999877929688,
+            "text": "Por",
+            "start": 114.0,
+            "end": 114.69999694824219,
             "confidence": 0.99
         },
         {
             "text": "tu",
-            "start": 114.77999877929688,
-            "end": 115.4000015258789,
+            "start": 114.69999694824219,
+            "end": 114.9800033569336,
             "confidence": 0.99
         },
         {
             "text": "desamor",
-            "start": 115.4000015258789,
+            "start": 114.9800033569336,
             "end": 117.19999694824219,
             "confidence": 0.99
         },
         {
-            "text": "lastimada",
-            "start": 117.95999908447266,
-            "end": 119.04000091552734,
+            "text": "Lastimada",
+            "start": 117.68000030517578,
+            "end": 119.08000183105469,
             "confidence": 0.99
         },
         {
             "text": "estoy",
-            "start": 119.04000091552734,
-            "end": 119.83999633789062,
+            "start": 119.08000183105469,
+            "end": 120.4800033569336,
             "confidence": 0.99
         },
         {
             "text": "Me",
-            "start": 120.83999633789062,
-            "end": 121.63999938964844,
+            "start": 121.23999786376953,
+            "end": 122.63999938964844,
             "confidence": 0.99
         },
         {
             "text": "perdí",
-            "start": 121.63999938964844,
-            "end": 124.08000183105469,
+            "start": 122.63999938964844,
+            "end": 124.04000091552734,
             "confidence": 0.99
         },
         {
-            "text": "apenas",
-            "start": 124.08000183105469,
-            "end": 125.13999938964844,
+            "text": "Apenas",
+            "start": 124.04000091552734,
+            "end": 125.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "te",
-            "start": 125.13999938964844,
-            "end": 126.04000091552734,
+            "start": 125.16000366210938,
+            "end": 126.0199966430664,
             "confidence": 0.99
         },
         {
             "text": "vi",
-            "start": 126.04000091552734,
-            "end": 126.80000305175781,
+            "start": 126.0199966430664,
+            "end": 126.83999633789062,
             "confidence": 0.99
         },
         {
-            "text": "siempre",
-            "start": 127.30000305175781,
-            "end": 128.16000366210938,
+            "text": "Siempre",
+            "start": 126.83999633789062,
+            "end": 128.13999938964844,
             "confidence": 0.99
         },
         {
             "text": "me",
-            "start": 128.16000366210938,
-            "end": 128.83999633789062,
+            "start": 128.13999938964844,
+            "end": 128.86000061035156,
             "confidence": 0.99
         },
         {
             "text": "hiciste",
-            "start": 128.83999633789062,
+            "start": 128.86000061035156,
             "end": 129.72000122070312,
             "confidence": 0.99
         },
         {
-            "text": "como",
-            "start": 129.72000122070312,
-            "end": 131.39999389648438,
+            "text": "Como",
+            "start": 130.1999969482422,
+            "end": 131.60000610351562,
             "confidence": 0.99
         },
         {
             "text": "quisiste",
-            "start": 131.39999389648438,
-            "end": 133.05999755859375,
+            "start": 131.60000610351562,
+            "end": 133.0,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 133.6999969482422,
-            "end": 133.75999450683594,
+            "start": 133.0,
+            "end": 133.82000732421875,
             "confidence": 0.99
         },
         {
             "text": "siempre",
-            "start": 133.75999450683594,
-            "end": 134.4600067138672,
+            "start": 133.82000732421875,
+            "end": 134.6199951171875,
             "confidence": 0.99
         },
         {
             "text": "estuve",
-            "start": 134.4600067138672,
-            "end": 135.02000427246094,
+            "start": 134.6199951171875,
+            "end": 135.0,
             "confidence": 0.99
         },
         {
             "text": "equivocada",
-            "start": 135.02000427246094,
-            "end": 136.9199981689453,
+            "start": 135.0,
+            "end": 136.86000061035156,
             "confidence": 0.99
         },
         {
-            "text": "y",
-            "start": 137.17999267578125,
+            "text": "Y",
+            "start": 136.86000061035156,
             "end": 137.55999755859375,
             "confidence": 0.99
         },
@@ -786,48 +804,48 @@
         {
             "text": "lo",
             "start": 137.72000122070312,
-            "end": 138.10000610351562,
+            "end": 138.1199951171875,
             "confidence": 0.99
         },
         {
             "text": "quise",
-            "start": 138.10000610351562,
-            "end": 138.22000122070312,
+            "start": 138.1199951171875,
+            "end": 138.1999969482422,
             "confidence": 0.99
         },
         {
             "text": "ver",
-            "start": 138.22000122070312,
+            "start": 138.1999969482422,
             "end": 139.0800018310547,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 140.05999755859375,
-            "end": 140.1199951171875,
+            "start": 139.0800018310547,
+            "end": 140.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "yo",
-            "start": 140.1199951171875,
+            "start": 140.16000366210938,
             "end": 140.6199951171875,
             "confidence": 0.99
         },
         {
             "text": "por",
             "start": 140.6199951171875,
-            "end": 140.94000244140625,
+            "end": 141.17999267578125,
             "confidence": 0.99
         },
         {
             "text": "ti",
-            "start": 140.94000244140625,
-            "end": 141.13999938964844,
+            "start": 141.17999267578125,
+            "end": 141.17999267578125,
             "confidence": 0.99
         },
         {
             "text": "la",
-            "start": 141.13999938964844,
+            "start": 141.17999267578125,
             "end": 141.5,
             "confidence": 0.99
         },
@@ -844,86 +862,86 @@
             "confidence": 0.99
         },
         {
-            "text": "porque",
-            "start": 143.0,
-            "end": 143.36000061035156,
+            "text": "Porque",
+            "start": 142.6199951171875,
+            "end": 143.27999877929688,
             "confidence": 0.99
         },
         {
             "text": "todo",
-            "start": 143.36000061035156,
-            "end": 143.82000732421875,
+            "start": 143.27999877929688,
+            "end": 143.74000549316406,
             "confidence": 0.99
         },
         {
             "text": "lo",
-            "start": 143.82000732421875,
-            "end": 144.24000549316406,
+            "start": 143.74000549316406,
+            "end": 144.22000122070312,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 144.24000549316406,
-            "end": 144.6199951171875,
+            "start": 144.22000122070312,
+            "end": 144.60000610351562,
             "confidence": 0.99
         },
         {
             "text": "empieza",
-            "start": 144.6199951171875,
-            "end": 145.13999938964844,
+            "start": 144.60000610351562,
+            "end": 145.1199951171875,
             "confidence": 0.99
         },
         {
             "text": "acaba",
-            "start": 145.13999938964844,
-            "end": 145.89999389648438,
+            "start": 145.1199951171875,
+            "end": 145.94000244140625,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 145.89999389648438,
-            "end": 146.32000732421875,
+            "start": 145.94000244140625,
+            "end": 146.5800018310547,
             "confidence": 0.99
         },
         {
             "text": "nunca",
-            "start": 146.32000732421875,
+            "start": 146.5800018310547,
             "end": 147.13999938964844,
             "confidence": 0.99
         },
         {
             "text": "tuve",
             "start": 147.13999938964844,
-            "end": 147.6999969482422,
+            "end": 147.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "más",
-            "start": 147.6999969482422,
-            "end": 148.24000549316406,
+            "start": 147.66000366210938,
+            "end": 148.22000122070312,
             "confidence": 0.99
         },
         {
             "text": "razones",
-            "start": 148.24000549316406,
-            "end": 149.5399932861328,
+            "start": 148.22000122070312,
+            "end": 149.02000427246094,
             "confidence": 0.99
         },
         {
-            "text": "para",
-            "start": 149.67999267578125,
+            "text": "Para",
+            "start": 149.8000030517578,
             "end": 150.36000061035156,
             "confidence": 0.99
         },
         {
             "text": "estar",
             "start": 150.36000061035156,
-            "end": 150.82000732421875,
+            "end": 150.8000030517578,
             "confidence": 0.99
         },
         {
             "text": "sin",
-            "start": 150.82000732421875,
+            "start": 150.8000030517578,
             "end": 151.22000122070312,
             "confidence": 0.99
         },
@@ -935,31 +953,31 @@
         },
         {
             "text": "Porque",
-            "start": 152.66000366210938,
-            "end": 152.77999877929688,
+            "start": 151.82000732421875,
+            "end": 152.83999633789062,
             "confidence": 0.99
         },
         {
             "text": "cuesta",
-            "start": 152.77999877929688,
-            "end": 153.33999633789062,
+            "start": 152.83999633789062,
+            "end": 153.36000061035156,
             "confidence": 0.99
         },
         {
             "text": "tomar",
-            "start": 153.33999633789062,
+            "start": 153.36000061035156,
             "end": 154.0399932861328,
             "confidence": 0.99
         },
         {
             "text": "decisiones",
             "start": 154.0399932861328,
-            "end": 155.5,
+            "end": 155.4600067138672,
             "confidence": 0.99
         },
         {
-            "text": "porque",
-            "start": 155.67999267578125,
+            "text": "Porque",
+            "start": 155.4600067138672,
             "end": 155.89999389648438,
             "confidence": 0.99
         },
@@ -972,449 +990,515 @@
         {
             "text": "que",
             "start": 156.4600067138672,
-            "end": 156.6999969482422,
+            "end": 156.67999267578125,
             "confidence": 0.99
         },
         {
             "text": "va",
-            "start": 156.6999969482422,
+            "start": 156.67999267578125,
             "end": 157.10000610351562,
             "confidence": 0.99
         },
         {
             "text": "a",
             "start": 157.10000610351562,
-            "end": 157.60000610351562,
+            "end": 158.5399932861328,
             "confidence": 0.99
         },
         {
             "text": "doler",
-            "start": 157.60000610351562,
-            "end": 158.16000366210938,
+            "start": 158.5399932861328,
+            "end": 158.5800018310547,
             "confidence": 0.99
         },
         {
             "text": "Si",
-            "start": 159.9199981689453,
-            "end": 160.63999938964844,
+            "start": 160.10000610351562,
+            "end": 160.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "así",
-            "start": 160.63999938964844,
+            "start": 160.66000366210938,
             "end": 161.27999877929688,
             "confidence": 0.99
         },
         {
             "text": "me",
             "start": 161.27999877929688,
-            "end": 161.83999633789062,
+            "end": 161.6999969482422,
             "confidence": 0.99
         },
         {
             "text": "sentía",
-            "start": 161.83999633789062,
+            "start": 161.6999969482422,
             "end": 163.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "no",
-            "start": 163.74000549316406,
-            "end": 164.13999938964844,
+            "text": "No",
+            "start": 163.13999938964844,
+            "end": 164.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "sé",
-            "start": 164.13999938964844,
+            "start": 164.16000366210938,
             "end": 164.3000030517578,
             "confidence": 0.99
         },
         {
             "text": "por",
             "start": 164.3000030517578,
-            "end": 164.6999969482422,
+            "end": 164.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "qué",
-            "start": 164.6999969482422,
-            "end": 164.6999969482422,
+            "start": 164.66000366210938,
+            "end": 164.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "seguía",
-            "start": 164.6999969482422,
-            "end": 166.39999389648438,
+            "start": 164.66000366210938,
+            "end": 165.89999389648438,
             "confidence": 0.99
         },
         {
-            "text": "apostándole",
-            "start": 166.39999389648438,
-            "end": 168.9199981689453,
+            "text": "Apostándole",
+            "start": 167.55999755859375,
+            "end": 168.67999267578125,
             "confidence": 0.99
         },
         {
-            "text": "mi",
-            "start": 168.9199981689453,
-            "end": 170.32000732421875,
+            "text": "Mi",
+            "start": 169.4600067138672,
+            "end": 170.0399932861328,
             "confidence": 0.99
         },
         {
             "text": "vida",
-            "start": 170.32000732421875,
-            "end": 171.1999969482422,
+            "start": 170.0399932861328,
+            "end": 171.27999877929688,
             "confidence": 0.99
         },
         {
             "text": "a",
-            "start": 171.1999969482422,
-            "end": 173.63999938964844,
+            "start": 171.27999877929688,
+            "end": 173.8000030517578,
             "confidence": 0.99
         },
         {
             "text": "él",
-            "start": 173.63999938964844,
-            "end": 173.63999938964844,
+            "start": 173.8000030517578,
+            "end": 174.0399932861328,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 173.63999938964844,
-            "end": 174.82000732421875,
+            "start": 174.0399932861328,
+            "end": 174.9199981689453,
             "confidence": 0.99
         },
         {
             "text": "siempre",
-            "start": 174.82000732421875,
-            "end": 175.5399932861328,
+            "start": 174.9199981689453,
+            "end": 175.5800018310547,
             "confidence": 0.99
         },
         {
             "text": "estuve",
-            "start": 175.5399932861328,
-            "end": 176.17999267578125,
+            "start": 175.5800018310547,
+            "end": 176.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "equivocada",
-            "start": 176.17999267578125,
+            "start": 176.05999755859375,
             "end": 177.83999633789062,
             "confidence": 0.99
         },
         {
-            "text": "y",
-            "start": 177.86000061035156,
-            "end": 178.5800018310547,
+            "text": "Y",
+            "start": 177.83999633789062,
+            "end": 178.55999755859375,
             "confidence": 0.99
         },
         {
             "text": "no",
-            "start": 178.5800018310547,
-            "end": 178.72000122070312,
+            "start": 178.55999755859375,
+            "end": 178.74000549316406,
             "confidence": 0.99
         },
         {
             "text": "lo",
-            "start": 178.72000122070312,
+            "start": 178.74000549316406,
             "end": 179.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "quise",
             "start": 179.16000366210938,
-            "end": 179.24000549316406,
+            "end": 179.25999450683594,
             "confidence": 0.99
         },
         {
             "text": "ver",
-            "start": 179.24000549316406,
-            "end": 179.75,
+            "start": 179.25999450683594,
+            "end": 180.4600067138672,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 181.13999938964844,
-            "end": 181.16000366210938,
+            "start": 180.4600067138672,
+            "end": 181.17999267578125,
             "confidence": 0.99
         },
         {
             "text": "yo",
-            "start": 181.16000366210938,
-            "end": 181.6199951171875,
+            "start": 181.17999267578125,
+            "end": 181.63999938964844,
             "confidence": 0.99
         },
         {
             "text": "por",
-            "start": 181.6199951171875,
+            "start": 181.63999938964844,
             "end": 181.9600067138672,
             "confidence": 0.99
         },
         {
             "text": "ti",
             "start": 181.9600067138672,
-            "end": 182.17999267578125,
+            "end": 182.13999938964844,
             "confidence": 0.99
         },
         {
             "text": "la",
-            "start": 182.17999267578125,
-            "end": 182.60000610351562,
+            "start": 182.13999938964844,
+            "end": 182.6199951171875,
             "confidence": 0.99
         },
         {
             "text": "vida",
-            "start": 182.60000610351562,
-            "end": 182.9199981689453,
+            "start": 182.6199951171875,
+            "end": 182.89999389648438,
             "confidence": 0.99
         },
         {
             "text": "daba",
-            "start": 182.9199981689453,
-            "end": 183.63999938964844,
+            "start": 182.89999389648438,
+            "end": 183.67999267578125,
             "confidence": 0.99
         },
         {
-            "text": "porque",
-            "start": 184.22000122070312,
-            "end": 184.36000061035156,
+            "text": "Porque",
+            "start": 183.67999267578125,
+            "end": 184.3800048828125,
             "confidence": 0.99
         },
         {
             "text": "todo",
-            "start": 184.36000061035156,
+            "start": 184.3800048828125,
             "end": 184.86000061035156,
             "confidence": 0.99
         },
         {
             "text": "lo",
             "start": 184.86000061035156,
-            "end": 185.33999633789062,
+            "end": 185.32000732421875,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 185.33999633789062,
-            "end": 185.60000610351562,
+            "start": 185.32000732421875,
+            "end": 185.6199951171875,
             "confidence": 0.99
         },
         {
             "text": "empieza",
-            "start": 185.60000610351562,
+            "start": 185.6199951171875,
             "end": 186.1999969482422,
             "confidence": 0.99
         },
         {
             "text": "acaba",
             "start": 186.1999969482422,
-            "end": 186.86000061035156,
+            "end": 186.9600067138672,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 187.3800048828125,
-            "end": 187.5399932861328,
+            "start": 186.9600067138672,
+            "end": 187.5800018310547,
             "confidence": 0.99
         },
         {
             "text": "nunca",
-            "start": 187.5399932861328,
+            "start": 187.5800018310547,
             "end": 188.13999938964844,
             "confidence": 0.99
         },
         {
             "text": "tuve",
             "start": 188.13999938964844,
-            "end": 188.66000366210938,
+            "end": 188.67999267578125,
             "confidence": 0.99
         },
         {
             "text": "más",
-            "start": 188.66000366210938,
+            "start": 188.67999267578125,
             "end": 189.25999450683594,
             "confidence": 0.99
         },
         {
             "text": "razones",
             "start": 189.25999450683594,
-            "end": 190.0399932861328,
+            "end": 190.05999755859375,
             "confidence": 0.99
         },
         {
-            "text": "para",
-            "start": 191.05999755859375,
+            "text": "Para",
+            "start": 190.82000732421875,
             "end": 191.39999389648438,
             "confidence": 0.99
         },
         {
             "text": "estar",
             "start": 191.39999389648438,
-            "end": 191.9199981689453,
+            "end": 191.89999389648438,
             "confidence": 0.99
         },
         {
             "text": "sin",
-            "start": 191.9199981689453,
+            "start": 191.89999389648438,
             "end": 192.3000030517578,
             "confidence": 0.99
         },
         {
             "text": "él",
             "start": 192.3000030517578,
-            "end": 192.77999877929688,
+            "end": 192.82000732421875,
             "confidence": 0.99
         },
         {
             "text": "Porque",
-            "start": 193.39999389648438,
-            "end": 193.77999877929688,
+            "start": 192.82000732421875,
+            "end": 193.83999633789062,
             "confidence": 0.99
         },
         {
             "text": "cuesta",
-            "start": 193.77999877929688,
+            "start": 193.83999633789062,
             "end": 194.4600067138672,
             "confidence": 0.99
         },
         {
             "text": "tomar",
             "start": 194.4600067138672,
-            "end": 195.10000610351562,
+            "end": 195.0800018310547,
             "confidence": 0.99
         },
         {
             "text": "decisiones",
-            "start": 195.10000610351562,
-            "end": 196.63999938964844,
+            "start": 195.0800018310547,
+            "end": 196.66000366210938,
             "confidence": 0.99
         },
         {
-            "text": "porque",
-            "start": 196.67999267578125,
-            "end": 197.0,
+            "text": "Porque",
+            "start": 196.66000366210938,
+            "end": 197.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "sé",
-            "start": 197.0,
-            "end": 197.52000427246094,
+            "start": 197.05999755859375,
+            "end": 197.5,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 197.52000427246094,
-            "end": 197.72000122070312,
+            "start": 197.5,
+            "end": 197.6999969482422,
             "confidence": 0.99
         },
         {
             "text": "va",
-            "start": 197.72000122070312,
+            "start": 197.6999969482422,
             "end": 198.10000610351562,
             "confidence": 0.99
         },
         {
             "text": "a",
             "start": 198.10000610351562,
-            "end": 198.52000427246094,
+            "end": 198.5399932861328,
             "confidence": 0.99
         },
         {
             "text": "doler",
-            "start": 198.52000427246094,
-            "end": 198.52000427246094,
+            "start": 198.5399932861328,
+            "end": 198.5399932861328,
             "confidence": 0.99
         },
         {
             "text": "Y",
-            "start": 198.52000427246094,
-            "end": 198.75999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "hoy",
-            "start": 198.75999450683594,
+            "start": 198.5399932861328,
             "end": 199.02000427246094,
             "confidence": 0.99
         },
         {
-            "text": "pude",
+            "text": "hoy",
             "start": 199.02000427246094,
-            "end": 199.8800048828125,
+            "end": 199.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "pude",
+            "start": 199.25999450683594,
+            "end": 199.55999755859375,
             "confidence": 0.99
         },
         {
             "text": "entender",
-            "start": 199.8800048828125,
-            "end": 200.5399932861328,
+            "start": 199.55999755859375,
+            "end": 201.17999267578125,
             "confidence": 0.99
         },
         {
-            "text": "que",
-            "start": 201.47999572753906,
-            "end": 202.0800018310547,
+            "text": "Que",
+            "start": 201.4600067138672,
+            "end": 202.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "a",
-            "start": 202.0800018310547,
-            "end": 202.8800048828125,
+            "start": 202.05999755859375,
+            "end": 202.89999389648438,
             "confidence": 0.99
         },
         {
             "text": "esta",
-            "start": 202.8800048828125,
+            "start": 202.89999389648438,
             "end": 203.1999969482422,
             "confidence": 0.99
         },
         {
             "text": "mujer",
             "start": 203.1999969482422,
-            "end": 204.67999267578125,
-            "confidence": 0.99
-        },
-        {
-            "text": "siempre",
-            "start": 206.13999938964844,
-            "end": 207.3000030517578,
-            "confidence": 0.99
-        },
-        {
-            "text": "la",
-            "start": 207.3000030517578,
-            "end": 208.0,
-            "confidence": 0.99
-        },
-        {
-            "text": "hiciste",
-            "start": 208.0,
-            "end": 208.89999389648438,
-            "confidence": 0.99
-        },
-        {
-            "text": "inmensamente",
-            "start": 208.89999389648438,
-            "end": 214.77999877929688,
-            "confidence": 0.99
-        },
-        {
-            "text": "triste",
-            "start": 214.77999877929688,
-            "end": 219.77999877929688,
+            "end": 204.6999969482422,
             "confidence": 0.99
         },
         {
             "text": "Siempre",
+            "start": 206.05999755859375,
+            "end": 207.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 207.25999450683594,
+            "end": 207.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "hiciste",
+            "start": 207.97999572753906,
+            "end": 208.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "Inmensamente",
+            "start": 216.9199981689453,
+            "end": 218.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "triste",
+            "start": 218.1199951171875,
+            "end": 219.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jessica",
+            "start": 225.75999450683594,
+            "end": 227.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "Rodríguez",
+            "start": 227.16000366210938,
+            "end": 227.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 227.16000366210938,
+            "end": 227.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 227.16000366210938,
+            "end": 229.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 229.97999572753906,
+            "end": 231.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 231.3800048828125,
+            "end": 231.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 231.9199981689453,
+            "end": 232.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 232.10000610351562,
+            "end": 232.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 233.52000427246094,
+            "end": 234.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 234.9199981689453,
+            "end": 235.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 236.13999938964844,
+            "end": 237.5399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 237.5399932861328,
+            "end": 238.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
             "start": 240.83999633789062,
             "end": 242.24000549316406,
             "confidence": 0.99
         },
         {
-            "text": "la",
-            "start": 242.24000549316406,
-            "end": 242.24000549316406,
-            "confidence": 0.99
-        },
-        {
-            "text": "hiciste",
+            "text": "oh",
             "start": 242.24000549316406,
             "end": 242.24000549316406,
             "confidence": 0.99
@@ -1422,59 +1506,24 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "Se que me enamore, yo caí perdida sin conocer, que al salir el sol, se te va el amor.",
-            "sentiment": "NEGATIVE",
+            "segment": "Sé que me enamoré",
+            "sentiment": "POSITIVE",
             "confidence": 0.85
         },
         {
-            "segment": "Duele reconocer, duele equivocar, si duele saber, que sin ti es mejor, aunque al principio no.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.9
-        },
-        {
-            "segment": "Me perdí, apenas te vi, siempre me hiciste como quisiste.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.88
-        },
-        {
-            "segment": "Porque siempre estuve equivocada, y no lo quise ver.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.87
-        },
-        {
-            "segment": "Porque yo por ti la vida daba, porque todo lo que empieza acaba.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.86
-        },
-        {
-            "segment": "Porque nunca tuve más razones, para estar sin él.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.89
-        },
-        {
-            "segment": "Porque cuesta tomar decisiones, porque sé que va a doler.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.91
-        },
-        {
-            "segment": "Y hoy pude entender, que a esta mujer, siempre la hiciste inmensamente triste.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.93
-        },
-        {
-            "segment": "Hoy que no puedo más, sigo decidida a dejarte atrás, por tu desamor, lastimada estoy.",
+            "segment": "Y hoy pude entender Que a esta mujer Siempre la hiciste Inmensamente triste",
             "sentiment": "NEGATIVE",
             "confidence": 0.92
         }
     ],
     "chapters": [
         {
-            "headline": "Desamor y Decisión",
-            "summary": "La narradora reflexiona sobre una relación dolorosa, admitiendo que aunque ha estado perdida en amor y desamor, finalmente ha decidido dejar atrás a la persona que le causó tristeza.",
+            "headline": "Understanding Heartbreak",
+            "summary": "The narrator reflects on a tumultuous relationship marked by love, heartbreak, and ultimately the realization that it is necessary to move on.",
             "start": 0,
             "end": 300
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "spanish"
 }

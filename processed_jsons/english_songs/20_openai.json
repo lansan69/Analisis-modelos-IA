@@ -378,18 +378,18 @@
         {
             "text": "it",
             "start": 64.81999969482422,
-            "end": 65.9000015258789,
+            "end": 65.68000030517578,
             "confidence": 0.99
         },
         {
             "text": "Oh",
-            "start": 66.77999877929688,
-            "end": 67.36000061035156,
+            "start": 66.68000030517578,
+            "end": 67.33999633789062,
             "confidence": 0.99
         },
         {
             "text": "no",
-            "start": 67.36000061035156,
+            "start": 67.33999633789062,
             "end": 68.0199966430664,
             "confidence": 0.99
         },
@@ -419,7 +419,7 @@
         },
         {
             "text": "I",
-            "start": 71.69999694824219,
+            "start": 71.4000015258789,
             "end": 72.63999938964844,
             "confidence": 0.99
         },
@@ -443,7 +443,7 @@
         },
         {
             "text": "I",
-            "start": 75.9000015258789,
+            "start": 75.19999694824219,
             "end": 76.4800033569336,
             "confidence": 0.99
         },
@@ -456,18 +456,18 @@
         {
             "text": "that",
             "start": 76.5,
-            "end": 77.04000091552734,
+            "end": 77.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "I",
-            "start": 77.04000091552734,
-            "end": 77.37999725341797,
+            "start": 77.05999755859375,
+            "end": 77.36000061035156,
             "confidence": 0.99
         },
         {
             "text": "heard",
-            "start": 77.37999725341797,
+            "start": 77.36000061035156,
             "end": 77.55999755859375,
             "confidence": 0.99
         },
@@ -504,12 +504,12 @@
         {
             "text": "I",
             "start": 80.81999969482422,
-            "end": 81.4000015258789,
+            "end": 81.27999877929688,
             "confidence": 0.99
         },
         {
             "text": "heard",
-            "start": 81.4000015258789,
+            "start": 81.27999877929688,
             "end": 81.41999816894531,
             "confidence": 0.99
         },
@@ -522,30 +522,30 @@
         {
             "text": "sing",
             "start": 81.77999877929688,
-            "end": 82.69999694824219,
+            "end": 83.31999969482422,
             "confidence": 0.99
         },
         {
             "text": "I",
-            "start": 84.83999633789062,
-            "end": 85.41999816894531,
+            "start": 84.68000030517578,
+            "end": 85.45999908447266,
             "confidence": 0.99
         },
         {
             "text": "think",
-            "start": 85.41999816894531,
+            "start": 85.45999908447266,
             "end": 86.23999786376953,
             "confidence": 0.99
         },
         {
             "text": "I",
             "start": 86.23999786376953,
-            "end": 86.80000305175781,
+            "end": 87.18000030517578,
             "confidence": 0.99
         },
         {
             "text": "thought",
-            "start": 86.80000305175781,
+            "start": 87.18000030517578,
             "end": 87.26000213623047,
             "confidence": 0.99
         },
@@ -558,12 +558,12 @@
         {
             "text": "saw",
             "start": 87.9000015258789,
-            "end": 88.36000061035156,
+            "end": 88.33999633789062,
             "confidence": 0.99
         },
         {
             "text": "you",
-            "start": 88.36000061035156,
+            "start": 88.33999633789062,
             "end": 89.37999725341797,
             "confidence": 0.99
         },
@@ -762,13 +762,13 @@
         {
             "text": "it",
             "start": 119.58000183105469,
-            "end": 120.36000061035156,
+            "end": 120.33999633789062,
             "confidence": 0.99
         },
         {
             "text": "all",
-            "start": 120.36000061035156,
-            "end": 121.05999755859375,
+            "start": 120.33999633789062,
+            "end": 121.04000091552734,
             "confidence": 0.99
         },
         {
@@ -924,12 +924,12 @@
         {
             "text": "flailing",
             "start": 143.39999389648438,
-            "end": 144.27999877929688,
+            "end": 144.33999633789062,
             "confidence": 0.99
         },
         {
             "text": "around",
-            "start": 144.27999877929688,
+            "start": 144.33999633789062,
             "end": 145.0399932861328,
             "confidence": 0.99
         },
@@ -978,12 +978,12 @@
         {
             "text": "that",
             "start": 153.0800018310547,
-            "end": 153.55999755859375,
+            "end": 153.5399932861328,
             "confidence": 0.99
         },
         {
             "text": "I",
-            "start": 153.55999755859375,
+            "start": 153.5399932861328,
             "end": 153.9600067138672,
             "confidence": 0.99
         },
@@ -1427,7 +1427,7 @@
         },
         {
             "text": "I",
-            "start": 216.83999633789062,
+            "start": 216.89999389648438,
             "end": 218.16000366210938,
             "confidence": 0.99
         },
@@ -1668,44 +1668,49 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "Oh, life is bigger, it's bigger than you and you are not me",
+            "segment": "Oh, life is bigger, it's bigger than you and you are not me The lengths that I will go to, the distance in your eyes",
             "sentiment": "NEUTRAL",
-            "confidence": 0.7
+            "confidence": 0.75
         },
         {
-            "segment": "Oh no, I've said too much, I said it all",
+            "segment": "Oh no, I've said too much, I said it all That's me in the corner, that's me in the spotlight Losing my religion, trying to keep up with you And I don't know if I can do it",
             "sentiment": "NEGATIVE",
             "confidence": 0.8
         },
         {
-            "segment": "That's me in the corner, that's me in the spotlight",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.75
+            "segment": "Oh no, I've said too much, I haven't said enough I thought that I heard you laughing, I thought that I heard you sing I think I thought I saw you try",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
         },
         {
-            "segment": "Losing my religion, trying to keep up with you",
+            "segment": "Every whisper, every waking hour I'm choosing my confessions Trying to keep an eye on you Like a hurt, lost and blinded fool",
             "sentiment": "NEGATIVE",
             "confidence": 0.85
         },
         {
-            "segment": "I thought that I heard you laughing, I thought that I heard you sing",
-            "sentiment": "POSITIVE",
-            "confidence": 0.6
+            "segment": "Consider this, consider this The hint of a century, consider this The slip that brought me to my knees What if all these fantasies come flailing around Now I've said too much",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.75
         },
         {
-            "segment": "That was just a dream, that was just a dream",
+            "segment": "I thought that I heard you laughing, I thought that I heard you sing I think I thought I saw you try That was just a dream, that was just a dream",
             "sentiment": "NEUTRAL",
             "confidence": 0.65
+        },
+        {
+            "segment": "That's me in the corner, that's me in the spotlight Losing my religion, trying to keep up with you And I don't know if I can do it",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8
         }
     ],
     "chapters": [
         {
-            "headline": "Struggle with Identity",
-            "summary": "The speaker reflects on the complexity of their identity and their feelings of inadequacy while trying to connect with someone.",
+            "headline": "Losing My Religion",
+            "summary": "The speaker expresses feelings of vulnerability and the struggle to maintain their identity in the face of emotional challenges while trying to connect with someone.",
             "start": 0,
-            "end": 60
+            "end": 300
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

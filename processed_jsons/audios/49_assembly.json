@@ -1,0 +1,167 @@
+{
+    "id": "2efda9e2-dcb9-4158-9f45-261ef7d9c22c",
+    "status": "completed",
+    "text": "Cris guión bajo Cris guión bajo Telmex Telmex, Perfecto. Y por último, indíqueme su dirección particular. Avenida del Rosal ya 45-49.",
+    "words": [
+        {
+            "text": "Cris",
+            "start": 10000,
+            "end": 10320,
+            "confidence": 0.79956055,
+            "speaker": "A"
+        },
+        {
+            "text": "guión",
+            "start": 10320,
+            "end": 10640,
+            "confidence": 0.8125,
+            "speaker": "A"
+        },
+        {
+            "text": "bajo",
+            "start": 10640,
+            "end": 11200,
+            "confidence": 0.97314453,
+            "speaker": "A"
+        },
+        {
+            "text": "Cris",
+            "start": 11760,
+            "end": 12280,
+            "confidence": 0.80688477,
+            "speaker": "A"
+        },
+        {
+            "text": "guión",
+            "start": 12280,
+            "end": 12680,
+            "confidence": 0.779541,
+            "speaker": "A"
+        },
+        {
+            "text": "bajo",
+            "start": 12680,
+            "end": 13200,
+            "confidence": 0.96728516,
+            "speaker": "A"
+        },
+        {
+            "text": "Telmex",
+            "start": 14000,
+            "end": 14880,
+            "confidence": 0.82958984,
+            "speaker": "A"
+        },
+        {
+            "text": "Telmex,",
+            "start": 15600,
+            "end": 16640,
+            "confidence": 0.8182373,
+            "speaker": "A"
+        },
+        {
+            "text": "Perfecto.",
+            "start": 21680,
+            "end": 22240,
+            "confidence": 0.890625,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 22240,
+            "end": 22520,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 22520,
+            "end": 22680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "último,",
+            "start": 22680,
+            "end": 23000,
+            "confidence": 0.9873047,
+            "speaker": "A"
+        },
+        {
+            "text": "indíqueme",
+            "start": 23000,
+            "end": 23640,
+            "confidence": 0.9324951,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 23640,
+            "end": 23760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dirección",
+            "start": 23760,
+            "end": 24160,
+            "confidence": 0.9909668,
+            "speaker": "A"
+        },
+        {
+            "text": "particular.",
+            "start": 24320,
+            "end": 24960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Avenida",
+            "start": 25360,
+            "end": 26120,
+            "confidence": 0.7779948,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 26120,
+            "end": 26240,
+            "confidence": 0.7133789,
+            "speaker": "A"
+        },
+        {
+            "text": "Rosal",
+            "start": 26240,
+            "end": 26960,
+            "confidence": 0.6838379,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 27600,
+            "end": 28000,
+            "confidence": 0.95214844,
+            "speaker": "A"
+        },
+        {
+            "text": "45-49.",
+            "start": 28560,
+            "end": 30080,
+            "confidence": 0.97609,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Cris guión bajo Cris guión bajo Telmex Telmex, Perfecto. Y por último, indíqueme su dirección particular. Avenida del Rosal ya 45-49.",
+            "start": 10000,
+            "end": 30080,
+            "confidence": 0.8900522,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 32,
+    "language_code": "es"
+}

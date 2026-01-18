@@ -1,0 +1,730 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "8760eb03-df2d-4355-b38c-255f67647d7c",
+        "sha256": "435564ccfeb65fba92f97b30f8dbcac185b887649113e5b7e448a3b11029b5bb",
+        "created": "2026-01-18T00:08:36.656000Z",
+        "duration": 30.849438,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Ya, ahora sí. Ya. Gigy Alan arroba iCloud. ICloud, sí. Punto com. Punto com. ¿Es con iCloud? Claro, es iCloud, como de iPhone, ¿cierto?",
+                        "confidence": 0.9823914,
+                        "words": [
+                            {
+                                "word": "ya",
+                                "start": 15.235,
+                                "end": 15.554999,
+                                "confidence": 0.9158659,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56533617,
+                                "punctuated_word": "Ya,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ahora",
+                                "start": 15.554999,
+                                "end": 15.795,
+                                "confidence": 0.99644995,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56533617,
+                                "punctuated_word": "ahora",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "sí",
+                                "start": 15.795,
+                                "end": 16.295,
+                                "confidence": 0.99678427,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56533617,
+                                "punctuated_word": "sí.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ya",
+                                "start": 16.355,
+                                "end": 16.855,
+                                "confidence": 0.9936428,
+                                "speaker": 0,
+                                "speaker_confidence": 0.74000454,
+                                "punctuated_word": "Ya.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "gigy",
+                                "start": 17.475,
+                                "end": 17.975,
+                                "confidence": 0.3535911,
+                                "speaker": 0,
+                                "speaker_confidence": 0.74000454,
+                                "punctuated_word": "Gigy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "alan",
+                                "start": 18.115,
+                                "end": 18.615,
+                                "confidence": 0.7050573,
+                                "speaker": 0,
+                                "speaker_confidence": 0.74000454,
+                                "punctuated_word": "Alan",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "arroba",
+                                "start": 18.755,
+                                "end": 19.255,
+                                "confidence": 0.94665295,
+                                "speaker": 0,
+                                "speaker_confidence": 0.74000454,
+                                "punctuated_word": "arroba",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "icloud",
+                                "start": 19.715,
+                                "end": 20.215,
+                                "confidence": 0.8534764,
+                                "speaker": 0,
+                                "speaker_confidence": 0.74000454,
+                                "punctuated_word": "iCloud.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "icloud",
+                                "start": 21.075,
+                                "end": 21.555,
+                                "confidence": 0.96478665,
+                                "speaker": 0,
+                                "speaker_confidence": 0.32988214,
+                                "punctuated_word": "ICloud,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "sí",
+                                "start": 21.555,
+                                "end": 22.055,
+                                "confidence": 0.8855753,
+                                "speaker": 0,
+                                "speaker_confidence": 0.32988214,
+                                "punctuated_word": "sí.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "punto",
+                                "start": 23.795,
+                                "end": 24.035,
+                                "confidence": 0.9917612,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6215534,
+                                "punctuated_word": "Punto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "com",
+                                "start": 24.035,
+                                "end": 24.535,
+                                "confidence": 0.99835706,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6215534,
+                                "punctuated_word": "com.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "punto",
+                                "start": 24.675,
+                                "end": 25.075,
+                                "confidence": 0.99827385,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6215534,
+                                "punctuated_word": "Punto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "com",
+                                "start": 25.075,
+                                "end": 25.474998,
+                                "confidence": 0.8087063,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6215534,
+                                "punctuated_word": "com.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 25.474998,
+                                "end": 25.794998,
+                                "confidence": 0.7741066,
+                                "speaker": 0,
+                                "speaker_confidence": 0.544409,
+                                "punctuated_word": "¿Es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "con",
+                                "start": 25.794998,
+                                "end": 26.115,
+                                "confidence": 0.9894014,
+                                "speaker": 0,
+                                "speaker_confidence": 0.544409,
+                                "punctuated_word": "con",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "icloud",
+                                "start": 26.115,
+                                "end": 26.615,
+                                "confidence": 0.9913215,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "iCloud?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "claro",
+                                "start": 27.875,
+                                "end": 28.195,
+                                "confidence": 0.98636466,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "Claro,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 28.195,
+                                "end": 28.595,
+                                "confidence": 0.9211159,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "icloud",
+                                "start": 28.595,
+                                "end": 29.095,
+                                "confidence": 0.8006727,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "iCloud,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "como",
+                                "start": 29.154999,
+                                "end": 29.395,
+                                "confidence": 0.2611108,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "como",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 29.395,
+                                "end": 29.634998,
+                                "confidence": 0.9823914,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "iphone",
+                                "start": 29.634998,
+                                "end": 29.875,
+                                "confidence": 0.9945929,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "iPhone,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "cierto",
+                                "start": 29.875,
+                                "end": 30.375,
+                                "confidence": 0.99926215,
+                                "speaker": 0,
+                                "speaker_confidence": 0.71268344,
+                                "punctuated_word": "¿cierto?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Ya, ahora sí. Ya. Gigy Alan arroba iCloud. ICloud, sí. Punto com.\n\nPunto com. ¿Es con iCloud? Claro, es iCloud, como de iPhone, ¿cierto?",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Ya, ahora sí.",
+                                            "start": 15.235,
+                                            "end": 16.295,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Ya.",
+                                            "start": 16.355,
+                                            "end": 16.855,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Gigy Alan arroba iCloud.",
+                                            "start": 17.475,
+                                            "end": 20.215,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "ICloud, sí.",
+                                            "start": 21.075,
+                                            "end": 22.055,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Punto com.",
+                                            "start": 23.795,
+                                            "end": 24.535,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 12.0,
+                                    "start": 15.235,
+                                    "end": 24.535,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Punto com.",
+                                            "start": 24.675,
+                                            "end": 25.474998,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿Es con iCloud?",
+                                            "start": 25.474998,
+                                            "end": 26.615,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Claro, es iCloud, como de iPhone, ¿cierto?",
+                                            "start": 27.875,
+                                            "end": 30.375,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 12.0,
+                                    "start": 24.675,
+                                    "end": 30.375,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 15.235,
+                "end": 16.855,
+                "confidence": 0.9756857,
+                "channel": 0.0,
+                "transcript": "Ya, ahora sí. Ya.",
+                "words": [
+                    {
+                        "word": "ya",
+                        "start": 15.235,
+                        "end": 15.554999,
+                        "confidence": 0.9158659,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56533617,
+                        "punctuated_word": "Ya,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ahora",
+                        "start": 15.554999,
+                        "end": 15.795,
+                        "confidence": 0.99644995,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56533617,
+                        "punctuated_word": "ahora",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "sí",
+                        "start": 15.795,
+                        "end": 16.295,
+                        "confidence": 0.99678427,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56533617,
+                        "punctuated_word": "sí.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ya",
+                        "start": 16.355,
+                        "end": 16.855,
+                        "confidence": 0.9936428,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.74000454,
+                        "punctuated_word": "Ya.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "782662b7-82c8-486c-ba6f-6183ce8c5c8a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 17.475,
+                "end": 19.255,
+                "confidence": 0.66843385,
+                "channel": 0.0,
+                "transcript": "Gigy Alan arroba",
+                "words": [
+                    {
+                        "word": "gigy",
+                        "start": 17.475,
+                        "end": 17.975,
+                        "confidence": 0.3535911,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.74000454,
+                        "punctuated_word": "Gigy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "alan",
+                        "start": 18.115,
+                        "end": 18.615,
+                        "confidence": 0.7050573,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.74000454,
+                        "punctuated_word": "Alan",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "arroba",
+                        "start": 18.755,
+                        "end": 19.255,
+                        "confidence": 0.94665295,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.74000454,
+                        "punctuated_word": "arroba",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "37f4147d-17b2-4ad4-a705-f8eadfaef8cb",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 19.715,
+                "end": 20.215,
+                "confidence": 0.8534764,
+                "channel": 0.0,
+                "transcript": "iCloud.",
+                "words": [
+                    {
+                        "word": "icloud",
+                        "start": 19.715,
+                        "end": 20.215,
+                        "confidence": 0.8534764,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.74000454,
+                        "punctuated_word": "iCloud.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ebe9f634-7e77-4863-ae32-78b68c42f980",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 21.075,
+                "end": 22.055,
+                "confidence": 0.925181,
+                "channel": 0.0,
+                "transcript": "ICloud, sí.",
+                "words": [
+                    {
+                        "word": "icloud",
+                        "start": 21.075,
+                        "end": 21.555,
+                        "confidence": 0.96478665,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.32988214,
+                        "punctuated_word": "ICloud,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "sí",
+                        "start": 21.555,
+                        "end": 22.055,
+                        "confidence": 0.8855753,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.32988214,
+                        "punctuated_word": "sí.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "f2355ef8-0dd4-40ef-ac06-ac8f95066f37",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 23.795,
+                "end": 26.615,
+                "confidence": 0.93598974,
+                "channel": 0.0,
+                "transcript": "Punto com. Punto com. ¿Es con iCloud?",
+                "words": [
+                    {
+                        "word": "punto",
+                        "start": 23.795,
+                        "end": 24.035,
+                        "confidence": 0.9917612,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6215534,
+                        "punctuated_word": "Punto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "com",
+                        "start": 24.035,
+                        "end": 24.535,
+                        "confidence": 0.99835706,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6215534,
+                        "punctuated_word": "com.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "punto",
+                        "start": 24.675,
+                        "end": 25.075,
+                        "confidence": 0.99827385,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6215534,
+                        "punctuated_word": "Punto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "com",
+                        "start": 25.075,
+                        "end": 25.474998,
+                        "confidence": 0.8087063,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6215534,
+                        "punctuated_word": "com.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 25.474998,
+                        "end": 25.794998,
+                        "confidence": 0.7741066,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.544409,
+                        "punctuated_word": "¿Es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "con",
+                        "start": 25.794998,
+                        "end": 26.115,
+                        "confidence": 0.9894014,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.544409,
+                        "punctuated_word": "con",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "icloud",
+                        "start": 26.115,
+                        "end": 26.615,
+                        "confidence": 0.9913215,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "iCloud?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "032475cb-32a9-4596-9fbc-2be55d5b1a8c",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 27.875,
+                "end": 30.375,
+                "confidence": 0.8493586,
+                "channel": 0.0,
+                "transcript": "Claro, es iCloud, como de iPhone, ¿cierto?",
+                "words": [
+                    {
+                        "word": "claro",
+                        "start": 27.875,
+                        "end": 28.195,
+                        "confidence": 0.98636466,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "Claro,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 28.195,
+                        "end": 28.595,
+                        "confidence": 0.9211159,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "icloud",
+                        "start": 28.595,
+                        "end": 29.095,
+                        "confidence": 0.8006727,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "iCloud,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "como",
+                        "start": 29.154999,
+                        "end": 29.395,
+                        "confidence": 0.2611108,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "como",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "de",
+                        "start": 29.395,
+                        "end": 29.634998,
+                        "confidence": 0.9823914,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "iphone",
+                        "start": 29.634998,
+                        "end": 29.875,
+                        "confidence": 0.9945929,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "iPhone,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "cierto",
+                        "start": 29.875,
+                        "end": 30.375,
+                        "confidence": 0.99926215,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.71268344,
+                        "punctuated_word": "¿cierto?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "f6d9de38-5b6e-493a-b058-070341cfdb9d",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

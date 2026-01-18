@@ -1,50 +1,627 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "b6e703f9-1be7-4358-8054-a0b15afacdac",
+        "request_id": "546efa0a-a6e8-4ac3-b041-bcd4e893271e",
         "sha256": "fb8faa193db335f8a9c34cf4702a75ee25ae862ec3630de18da57c0e2619076b",
-        "created": "2026-01-17T23:13:45.004000Z",
+        "created": "2026-01-18T00:32:40.255000Z",
         "duration": 234.912,
         "channels": 1.0,
         "models": [
-            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
         ],
         "model_info": {
-            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
                 "name": "2-general-nova",
-                "version": "2024-01-06.5664",
+                "version": "2023-12-14.34983",
                 "arch": "nova-2"
             }
         },
-        "sentiment_info": {
-            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
-            "input_tokens": 0.0,
-            "output_tokens": 0.0
-        }
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
     },
     "results": {
         "channels": [
             {
                 "alternatives": [
                     {
-                        "transcript": "",
-                        "confidence": 0.0,
-                        "words": [],
+                        "transcript": "Se puede intentar hacer canciones, el hombre chu tanto por el arte, se puede intentar romper paredes, y luego hacer casas gigantes.",
+                        "confidence": 0.9866143,
+                        "words": [
+                            {
+                                "word": "se",
+                                "start": 16.135,
+                                "end": 16.455,
+                                "confidence": 0.5140986,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Se",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "puede",
+                                "start": 16.455,
+                                "end": 16.775,
+                                "confidence": 0.9950629,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "puede",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "intentar",
+                                "start": 16.775,
+                                "end": 17.275,
+                                "confidence": 0.9924737,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "intentar",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hacer",
+                                "start": 18.175,
+                                "end": 18.675,
+                                "confidence": 0.9866143,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "hacer",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "canciones",
+                                "start": 19.575,
+                                "end": 19.655,
+                                "confidence": 0.7589766,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "canciones,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "el",
+                                "start": 19.655,
+                                "end": 19.895,
+                                "confidence": 0.9752582,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "el",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hombre",
+                                "start": 19.895,
+                                "end": 20.215,
+                                "confidence": 0.9980756,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "hombre",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "chu",
+                                "start": 20.215,
+                                "end": 20.715,
+                                "confidence": 0.2814127,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "chu",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tanto",
+                                "start": 20.935001,
+                                "end": 21.435001,
+                                "confidence": 0.773271,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tanto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "por",
+                                "start": 21.655,
+                                "end": 21.735,
+                                "confidence": 0.99092907,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "por",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "el",
+                                "start": 21.735,
+                                "end": 22.135,
+                                "confidence": 0.99788046,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "el",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "arte",
+                                "start": 22.135,
+                                "end": 22.635,
+                                "confidence": 0.7209464,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "arte,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "se",
+                                "start": 23.255001,
+                                "end": 23.415,
+                                "confidence": 0.98433506,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "se",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "puede",
+                                "start": 23.415,
+                                "end": 23.735,
+                                "confidence": 0.9977689,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "puede",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "intentar",
+                                "start": 23.735,
+                                "end": 24.235,
+                                "confidence": 0.9945188,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "intentar",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "romper",
+                                "start": 24.775002,
+                                "end": 25.255001,
+                                "confidence": 0.99939525,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "romper",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "paredes",
+                                "start": 25.255001,
+                                "end": 25.755001,
+                                "confidence": 0.7872603,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "paredes,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 26.535,
+                                "end": 26.695,
+                                "confidence": 0.9661338,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "luego",
+                                "start": 26.695,
+                                "end": 27.195,
+                                "confidence": 0.9987614,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "luego",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hacer",
+                                "start": 27.255001,
+                                "end": 27.755001,
+                                "confidence": 0.9663766,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "hacer",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "casas",
+                                "start": 27.975,
+                                "end": 28.475,
+                                "confidence": 0.9949549,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "casas",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "gigantes",
+                                "start": 28.535,
+                                "end": 29.035,
+                                "confidence": 0.7899663,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "gigantes.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
                         "paragraphs": {
-                            "transcript": "\n",
-                            "paragraphs": []
+                            "transcript": "\nSpeaker 0: Se puede intentar hacer canciones, el hombre chu tanto por el arte, se puede intentar romper paredes, y luego hacer casas gigantes.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Se puede intentar hacer canciones, el hombre chu tanto por el arte, se puede intentar romper paredes, y luego hacer casas gigantes.",
+                                            "start": 16.135,
+                                            "end": 29.035,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 22.0,
+                                    "start": 16.135,
+                                    "end": 29.035,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
                         }
                     }
                 ]
             }
         ],
-        "utterances": [],
-        "sentiments": {
-            "segments": [],
-            "average": {
+        "utterances": [
+            {
+                "start": 16.135,
+                "end": 17.275,
+                "confidence": 0.83387834,
+                "channel": 0.0,
+                "transcript": "Se puede intentar",
+                "words": [
+                    {
+                        "word": "se",
+                        "start": 16.135,
+                        "end": 16.455,
+                        "confidence": 0.5140986,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Se",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "puede",
+                        "start": 16.455,
+                        "end": 16.775,
+                        "confidence": 0.9950629,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "puede",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "intentar",
+                        "start": 16.775,
+                        "end": 17.275,
+                        "confidence": 0.9924737,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "intentar",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "b88809db-1379-4f05-97ed-d1dcc960f8b7",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 18.175,
+                "end": 18.675,
+                "confidence": 0.9866143,
+                "channel": 0.0,
+                "transcript": "hacer",
+                "words": [
+                    {
+                        "word": "hacer",
+                        "start": 18.175,
+                        "end": 18.675,
+                        "confidence": 0.9866143,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "hacer",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "35a46a8a-2aed-48dd-ba11-bedb441fe702",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 19.575,
+                "end": 22.635,
+                "confidence": 0.81209373,
+                "channel": 0.0,
+                "transcript": "canciones, el hombre chu tanto por el arte,",
+                "words": [
+                    {
+                        "word": "canciones",
+                        "start": 19.575,
+                        "end": 19.655,
+                        "confidence": 0.7589766,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "canciones,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "el",
+                        "start": 19.655,
+                        "end": 19.895,
+                        "confidence": 0.9752582,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "el",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "hombre",
+                        "start": 19.895,
+                        "end": 20.215,
+                        "confidence": 0.9980756,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "hombre",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "chu",
+                        "start": 20.215,
+                        "end": 20.715,
+                        "confidence": 0.2814127,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "chu",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tanto",
+                        "start": 20.935001,
+                        "end": 21.435001,
+                        "confidence": 0.773271,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tanto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "por",
+                        "start": 21.655,
+                        "end": 21.735,
+                        "confidence": 0.99092907,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "por",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "el",
+                        "start": 21.735,
+                        "end": 22.135,
+                        "confidence": 0.99788046,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "el",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "arte",
+                        "start": 22.135,
+                        "end": 22.635,
+                        "confidence": 0.7209464,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "arte,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "2cf120c5-e45e-4b06-b9bf-5a98c3d78328",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 23.255001,
+                "end": 24.235,
+                "confidence": 0.9922076,
+                "channel": 0.0,
+                "transcript": "se puede intentar",
+                "words": [
+                    {
+                        "word": "se",
+                        "start": 23.255001,
+                        "end": 23.415,
+                        "confidence": 0.98433506,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "se",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "puede",
+                        "start": 23.415,
+                        "end": 23.735,
+                        "confidence": 0.9977689,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "puede",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "intentar",
+                        "start": 23.735,
+                        "end": 24.235,
+                        "confidence": 0.9945188,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "intentar",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "98f285ff-4a08-4799-acee-8e04427ef743",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 24.775002,
+                "end": 25.755001,
+                "confidence": 0.8933278,
+                "channel": 0.0,
+                "transcript": "romper paredes,",
+                "words": [
+                    {
+                        "word": "romper",
+                        "start": 24.775002,
+                        "end": 25.255001,
+                        "confidence": 0.99939525,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "romper",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "paredes",
+                        "start": 25.255001,
+                        "end": 25.755001,
+                        "confidence": 0.7872603,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "paredes,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "a8bca2a8-1af4-4dae-8506-3be5203b76ab",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 26.535,
+                "end": 29.035,
+                "confidence": 0.94323856,
+                "channel": 0.0,
+                "transcript": "y luego hacer casas gigantes.",
+                "words": [
+                    {
+                        "word": "y",
+                        "start": 26.535,
+                        "end": 26.695,
+                        "confidence": 0.9661338,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "luego",
+                        "start": 26.695,
+                        "end": 27.195,
+                        "confidence": 0.9987614,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "luego",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "hacer",
+                        "start": 27.255001,
+                        "end": 27.755001,
+                        "confidence": 0.9663766,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "hacer",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "casas",
+                        "start": 27.975,
+                        "end": 28.475,
+                        "confidence": 0.9949549,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "casas",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "gigantes",
+                        "start": 28.535,
+                        "end": 29.035,
+                        "confidence": 0.7899663,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "gigantes.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ef601a2e-38ed-437a-ae35-ce3f660bd8de",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             }
-        }
+        ]
     }
 }

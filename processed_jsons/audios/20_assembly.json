@@ -1,0 +1,867 @@
+{
+    "id": "5fad749b-c5c9-421a-97d7-27bb414f4214",
+    "status": "completed",
+    "text": "And essentially, I mentioned that to really take advantage of your low dopamine in the morning. I try to do pretty much everything that I can in my day. In the morning, like my work before the sun rises. And in the morning, your routine is to practically just get up and work. And I'm not even talking about a specific morning routine or like washing my face or brushing my teeth. I just go straight to work, like I don't care about anything else. I just go straight to my laptop and I just go and work. The thing about me is that I kind of have this snappy mindset, so whenever I'm doing something, it has to be quick.",
+    "words": [
+        {
+            "text": "And",
+            "start": 240,
+            "end": 400,
+            "confidence": 0.96972656,
+            "speaker": "A"
+        },
+        {
+            "text": "essentially,",
+            "start": 400,
+            "end": 920,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 920,
+            "end": 1080,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "mentioned",
+            "start": 1080,
+            "end": 1840,
+            "confidence": 0.97387695,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 1840,
+            "end": 2000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 2000,
+            "end": 2240,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "really",
+            "start": 2240,
+            "end": 2640,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "take",
+            "start": 2640,
+            "end": 2960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "advantage",
+            "start": 2960,
+            "end": 3520,
+            "confidence": 0.99248046,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 3520,
+            "end": 3760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 3760,
+            "end": 4000,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "low",
+            "start": 4000,
+            "end": 4360,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "dopamine",
+            "start": 4360,
+            "end": 4880,
+            "confidence": 0.9277344,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 4880,
+            "end": 5040,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 5040,
+            "end": 5120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "morning.",
+            "start": 5120,
+            "end": 5400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 5400,
+            "end": 5600,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "try",
+            "start": 5600,
+            "end": 6400,
+            "confidence": 0.89868164,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 6400,
+            "end": 6480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "do",
+            "start": 6480,
+            "end": 6640,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "pretty",
+            "start": 6640,
+            "end": 6880,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "much",
+            "start": 6880,
+            "end": 7040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "everything",
+            "start": 7040,
+            "end": 7680,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 7840,
+            "end": 8160,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 8160,
+            "end": 8400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "can",
+            "start": 8400,
+            "end": 8720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 8880,
+            "end": 9160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 9160,
+            "end": 9400,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "day.",
+            "start": 9400,
+            "end": 9760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "In",
+            "start": 9840,
+            "end": 10080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 10080,
+            "end": 10200,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "morning,",
+            "start": 10200,
+            "end": 10560,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "like",
+            "start": 10720,
+            "end": 11040,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 11040,
+            "end": 11280,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "work",
+            "start": 11280,
+            "end": 11600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "before",
+            "start": 11840,
+            "end": 12200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 12200,
+            "end": 12440,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "sun",
+            "start": 12440,
+            "end": 12720,
+            "confidence": 0.9260254,
+            "speaker": "A"
+        },
+        {
+            "text": "rises.",
+            "start": 12720,
+            "end": 13240,
+            "confidence": 0.98095703,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 13240,
+            "end": 13480,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 13480,
+            "end": 13600,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 13600,
+            "end": 13720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "morning,",
+            "start": 13720,
+            "end": 14000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 14000,
+            "end": 14240,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "routine",
+            "start": 14240,
+            "end": 14720,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "is",
+            "start": 14720,
+            "end": 14920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 14920,
+            "end": 15160,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "practically",
+            "start": 15160,
+            "end": 15720,
+            "confidence": 0.96899414,
+            "speaker": "A"
+        },
+        {
+            "text": "just",
+            "start": 15720,
+            "end": 15959,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "get",
+            "start": 15959,
+            "end": 16199,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "up",
+            "start": 16199,
+            "end": 16360,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 16360,
+            "end": 16480,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "work.",
+            "start": 16480,
+            "end": 16680,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 16680,
+            "end": 16920,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 16920,
+            "end": 17120,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "not",
+            "start": 17120,
+            "end": 17240,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "even",
+            "start": 17240,
+            "end": 17400,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "talking",
+            "start": 17400,
+            "end": 17680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "about",
+            "start": 17680,
+            "end": 17880,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 17880,
+            "end": 18120,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "specific",
+            "start": 18120,
+            "end": 18640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "morning",
+            "start": 18640,
+            "end": 19080,
+            "confidence": 0.86279297,
+            "speaker": "A"
+        },
+        {
+            "text": "routine",
+            "start": 19080,
+            "end": 19600,
+            "confidence": 0.991862,
+            "speaker": "A"
+        },
+        {
+            "text": "or",
+            "start": 19600,
+            "end": 19800,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "like",
+            "start": 19800,
+            "end": 20080,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        },
+        {
+            "text": "washing",
+            "start": 20320,
+            "end": 20880,
+            "confidence": 0.9244792,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 20880,
+            "end": 21040,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "face",
+            "start": 21040,
+            "end": 21320,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "or",
+            "start": 21320,
+            "end": 21600,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "brushing",
+            "start": 21600,
+            "end": 22040,
+            "confidence": 0.99938965,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 22040,
+            "end": 22160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "teeth.",
+            "start": 22160,
+            "end": 22480,
+            "confidence": 0.9876302,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 22480,
+            "end": 22760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "just",
+            "start": 22760,
+            "end": 22920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "go",
+            "start": 22920,
+            "end": 23120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "straight",
+            "start": 23120,
+            "end": 23400,
+            "confidence": 0.9138997,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 23400,
+            "end": 23560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "work,",
+            "start": 23560,
+            "end": 23840,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "like",
+            "start": 23920,
+            "end": 24240,
+            "confidence": 0.9238281,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 24240,
+            "end": 24440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "don't",
+            "start": 24440,
+            "end": 24680,
+            "confidence": 0.90934247,
+            "speaker": "A"
+        },
+        {
+            "text": "care",
+            "start": 24680,
+            "end": 24920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "about",
+            "start": 24920,
+            "end": 25120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "anything",
+            "start": 25120,
+            "end": 25480,
+            "confidence": 0.92561847,
+            "speaker": "A"
+        },
+        {
+            "text": "else.",
+            "start": 25480,
+            "end": 25800,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 25800,
+            "end": 26000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "just",
+            "start": 26000,
+            "end": 26120,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "go",
+            "start": 26120,
+            "end": 26320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "straight",
+            "start": 26320,
+            "end": 26560,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 26560,
+            "end": 26640,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 26640,
+            "end": 26760,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "laptop",
+            "start": 26760,
+            "end": 27120,
+            "confidence": 0.9506836,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 27200,
+            "end": 27440,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 27440,
+            "end": 27520,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "just",
+            "start": 27520,
+            "end": 27640,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "go",
+            "start": 27640,
+            "end": 27800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 27800,
+            "end": 27920,
+            "confidence": 0.9584961,
+            "speaker": "A"
+        },
+        {
+            "text": "work.",
+            "start": 27920,
+            "end": 28160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "The",
+            "start": 28340,
+            "end": 28420,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "thing",
+            "start": 28420,
+            "end": 28580,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "about",
+            "start": 28580,
+            "end": 28700,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 28700,
+            "end": 28860,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "is",
+            "start": 28860,
+            "end": 29020,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 29020,
+            "end": 29180,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 29180,
+            "end": 29340,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "kind",
+            "start": 29340,
+            "end": 29700,
+            "confidence": 0.84643555,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 29700,
+            "end": 29940,
+            "confidence": 0.85009766,
+            "speaker": "A"
+        },
+        {
+            "text": "have",
+            "start": 29940,
+            "end": 30020,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "this",
+            "start": 30020,
+            "end": 30140,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "snappy",
+            "start": 30140,
+            "end": 30740,
+            "confidence": 0.9696045,
+            "speaker": "A"
+        },
+        {
+            "text": "mindset,",
+            "start": 30740,
+            "end": 31300,
+            "confidence": 0.9169922,
+            "speaker": "A"
+        },
+        {
+            "text": "so",
+            "start": 31300,
+            "end": 31580,
+            "confidence": 0.98828125,
+            "speaker": "A"
+        },
+        {
+            "text": "whenever",
+            "start": 31580,
+            "end": 31980,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 31980,
+            "end": 32220,
+            "confidence": 0.9757487,
+            "speaker": "A"
+        },
+        {
+            "text": "doing",
+            "start": 32220,
+            "end": 32420,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "something,",
+            "start": 32420,
+            "end": 32820,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 32820,
+            "end": 33100,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "has",
+            "start": 33100,
+            "end": 33260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 33260,
+            "end": 33380,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "be",
+            "start": 33380,
+            "end": 33500,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "quick.",
+            "start": 33500,
+            "end": 33860,
+            "confidence": 0.907959,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "And essentially, I mentioned that to really take advantage of your low dopamine in the morning. I try to do pretty much everything that I can in my day. In the morning, like my work before the sun rises. And in the morning, your routine is to practically just get up and work. And I'm not even talking about a specific morning routine or like washing my face or brushing my teeth. I just go straight to work, like I don't care about anything else. I just go straight to my laptop and I just go and work. The thing about me is that I kind of have this snappy mindset, so whenever I'm doing something, it has to be quick.",
+            "start": 240,
+            "end": 33860,
+            "confidence": 0.9854892,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 37,
+    "language_code": "es"
+}

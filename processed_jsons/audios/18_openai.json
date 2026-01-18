@@ -1,0 +1,2662 @@
+{
+    "text": "Señor, después de ser un éxito en los setentas y ochentas, nuestras ventas han venido cayendo en los últimos cinco años. ¿Y qué pasó? Pues despedimos a nuestros diseñadores veteranos que crearon nuestros sets más exitosos y contratamos a innovadores más minimalistas. Sí, tal vez son más simples, pero vas a ver que va a funcionar. Jefe, después de casi 70 años, estamos perdiendo dinero. Más de 23 millones de euros, para ser exactos. Ah, y despedimos a mil personas. Ay, Dios, ¿ahora cómo le daremos la vuelta? Pues, ¿qué tal no diseñar nuestros personajes, sino usar unos que ya sean conocidos? Mmm, escucho. Dentro de un año sale la película de Star Wars. Les podemos pagar una licencia para que nos dejen adaptar sus personajes al Lego y aprovechamos el boom de la película. Mmm, ponme en contacto con el George. Señor, nuestras pérdidas han ascendido a más de 174 millones de euros. ¿Qué? Si ya tenemos más Legos de Star Wars, Harry Potter, Spider-Man, Winnie Pooh, Mickey Mouse, ¿qué más quieren? Funcionan cuando apenas salen las películas, jefe. Pero apenas pasan de moda, nuestros juguetes también. Y las licencias nos salen muy caras. Y con las pérdidas y deuda que tenemos, hasta podríamos caer en bancarrota. Ah, entonces es momento. ¿De qué es, señor? Para empezar, necesitamos reducir costos. Vamos a mover nuestras plantas de Dinamarca a México y así nos acercamos más a nuestro mercado americano. Suena bien. ¿Y nuestros parques temáticos? Vende los Legolands. Hay que enfocarnos en nuestros juguetes y de una vez ver reviviendo los diseños Duplo. Eh, ¿qué me dice de la división de videojuegos? Está bien claustrofóbico. Pero para sacarle provecho a nuestra licencia de Star Wars, lanzamos un videojuego, pero que lo desarrolle un tercero. Jefe, excelentes noticias. A pesar de que el mundo está en crisis total, nosotros generamos casi 300 millones de euros en utilidades. Y los videojuegos de Star Wars, Indiana Jones y Batman nos están impulsando las ventas. Sí, me di cuenta. Generamos el doble de márgenes que Mattel y Hasbro. ¿Cómo le fue? Excelente, señor. Nuestra película arrasó en taquillas y la amaron los críticos. ¿Y a Ninjago? La serie es un hit y los sets se venden de amor. Jefe, me complace decirle que nuestras películas, videojuegos, series, juguetes y demás han sido un completo éxito. Ya vendemos más que Mattel y Hasbro combinados. Y mientras sus ventas se estancan, las nuestras crecen un 14% al año. Nos daban por muertos en el 2003, pero bloque a bloque construimos el imperio de juguetes más valioso.",
+    "audio_duration": 142.1699981689453,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Señor",
+            "start": 0.0,
+            "end": 0.6600000262260437,
+            "confidence": 0.99
+        },
+        {
+            "text": "después",
+            "start": 0.9599999785423279,
+            "end": 1.1399999856948853,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 1.1399999856948853,
+            "end": 1.3200000524520874,
+            "confidence": 0.99
+        },
+        {
+            "text": "ser",
+            "start": 1.3200000524520874,
+            "end": 1.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 1.440000057220459,
+            "end": 1.6799999475479126,
+            "confidence": 0.99
+        },
+        {
+            "text": "éxito",
+            "start": 1.6799999475479126,
+            "end": 1.8200000524520874,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 1.8200000524520874,
+            "end": 1.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 1.9800000190734863,
+            "end": 2.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "setentas",
+            "start": 2.119999885559082,
+            "end": 2.5799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 2.5799999237060547,
+            "end": 2.740000009536743,
+            "confidence": 0.99
+        },
+        {
+            "text": "ochentas",
+            "start": 2.740000009536743,
+            "end": 3.180000066757202,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestras",
+            "start": 3.4200000762939453,
+            "end": 3.799999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "ventas",
+            "start": 3.799999952316284,
+            "end": 4.159999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "han",
+            "start": 4.159999847412109,
+            "end": 4.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "venido",
+            "start": 4.420000076293945,
+            "end": 4.639999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "cayendo",
+            "start": 4.639999866485596,
+            "end": 5.159999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 5.159999847412109,
+            "end": 5.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 5.380000114440918,
+            "end": 5.480000019073486,
+            "confidence": 0.99
+        },
+        {
+            "text": "últimos",
+            "start": 5.480000019073486,
+            "end": 5.78000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "cinco",
+            "start": 5.78000020980835,
+            "end": 6.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "años",
+            "start": 6.260000228881836,
+            "end": 6.480000019073486,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Y",
+            "start": 6.659999847412109,
+            "end": 6.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "qué",
+            "start": 6.760000228881836,
+            "end": 6.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "pasó",
+            "start": 6.960000038146973,
+            "end": 7.139999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pues",
+            "start": 7.199999809265137,
+            "end": 7.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "despedimos",
+            "start": 7.579999923706055,
+            "end": 7.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 7.880000114440918,
+            "end": 8.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestros",
+            "start": 8.15999984741211,
+            "end": 8.359999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "diseñadores",
+            "start": 8.359999656677246,
+            "end": 8.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "veteranos",
+            "start": 8.899999618530273,
+            "end": 9.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 9.5600004196167,
+            "end": 9.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "crearon",
+            "start": 9.800000190734863,
+            "end": 10.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestros",
+            "start": 10.15999984741211,
+            "end": 10.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "sets",
+            "start": 10.539999961853027,
+            "end": 10.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 10.760000228881836,
+            "end": 11.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "exitosos",
+            "start": 11.039999961853027,
+            "end": 11.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 11.579999923706055,
+            "end": 12.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "contratamos",
+            "start": 12.039999961853027,
+            "end": 12.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 12.600000381469727,
+            "end": 13.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "innovadores",
+            "start": 13.0,
+            "end": 13.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 13.5,
+            "end": 14.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "minimalistas",
+            "start": 14.079999923706055,
+            "end": 14.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sí",
+            "start": 15.220000267028809,
+            "end": 15.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "tal",
+            "start": 15.460000038146973,
+            "end": 15.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "vez",
+            "start": 15.680000305175781,
+            "end": 15.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "son",
+            "start": 15.680000305175781,
+            "end": 15.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 15.84000015258789,
+            "end": 16.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "simples",
+            "start": 16.020000457763672,
+            "end": 16.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "pero",
+            "start": 16.5,
+            "end": 16.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "vas",
+            "start": 16.780000686645508,
+            "end": 17.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 17.15999984741211,
+            "end": 17.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "ver",
+            "start": 17.219999313354492,
+            "end": 17.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 17.219999313354492,
+            "end": 17.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "va",
+            "start": 17.31999969482422,
+            "end": 17.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 17.5,
+            "end": 17.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "funcionar",
+            "start": 17.739999771118164,
+            "end": 17.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jefe",
+            "start": 19.34000015258789,
+            "end": 19.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "después",
+            "start": 19.799999237060547,
+            "end": 19.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 19.940000534057617,
+            "end": 20.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "casi",
+            "start": 20.219999313354492,
+            "end": 20.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "70",
+            "start": 20.360000610351562,
+            "end": 20.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "años",
+            "start": 20.940000534057617,
+            "end": 21.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "estamos",
+            "start": 21.420000076293945,
+            "end": 21.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "perdiendo",
+            "start": 21.81999969482422,
+            "end": 22.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "dinero",
+            "start": 22.219999313354492,
+            "end": 22.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Más",
+            "start": 23.280000686645508,
+            "end": 23.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 23.299999237060547,
+            "end": 23.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "23",
+            "start": 23.459999084472656,
+            "end": 23.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "millones",
+            "start": 23.959999084472656,
+            "end": 24.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 24.219999313354492,
+            "end": 24.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "euros",
+            "start": 24.65999984741211,
+            "end": 24.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 24.760000228881836,
+            "end": 24.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "ser",
+            "start": 24.8799991607666,
+            "end": 25.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "exactos",
+            "start": 25.020000457763672,
+            "end": 25.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ah",
+            "start": 25.780000686645508,
+            "end": 26.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 26.1200008392334,
+            "end": 26.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "despedimos",
+            "start": 26.559999465942383,
+            "end": 26.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 26.959999084472656,
+            "end": 27.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "mil",
+            "start": 27.15999984741211,
+            "end": 27.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "personas",
+            "start": 27.280000686645508,
+            "end": 27.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ay",
+            "start": 27.780000686645508,
+            "end": 28.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Dios",
+            "start": 28.059999465942383,
+            "end": 28.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿ahora",
+            "start": 28.760000228881836,
+            "end": 29.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "cómo",
+            "start": 29.040000915527344,
+            "end": 29.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 29.139999389648438,
+            "end": 29.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "daremos",
+            "start": 29.3799991607666,
+            "end": 29.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 29.559999465942383,
+            "end": 29.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "vuelta",
+            "start": 29.8799991607666,
+            "end": 29.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pues",
+            "start": 30.0,
+            "end": 30.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿qué",
+            "start": 30.440000534057617,
+            "end": 30.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "tal",
+            "start": 30.6200008392334,
+            "end": 30.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 30.84000015258789,
+            "end": 31.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "diseñar",
+            "start": 31.34000015258789,
+            "end": 31.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestros",
+            "start": 31.65999984741211,
+            "end": 32.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "personajes",
+            "start": 32.0,
+            "end": 32.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "sino",
+            "start": 32.880001068115234,
+            "end": 33.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "usar",
+            "start": 33.08000183105469,
+            "end": 33.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "unos",
+            "start": 33.439998626708984,
+            "end": 33.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 33.68000030517578,
+            "end": 33.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 33.84000015258789,
+            "end": 34.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "sean",
+            "start": 34.02000045776367,
+            "end": 34.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "conocidos",
+            "start": 34.18000030517578,
+            "end": 34.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mmm",
+            "start": 35.0,
+            "end": 35.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "escucho",
+            "start": 35.47999954223633,
+            "end": 35.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "Dentro",
+            "start": 36.060001373291016,
+            "end": 36.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 36.279998779296875,
+            "end": 36.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 36.52000045776367,
+            "end": 36.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "año",
+            "start": 36.68000030517578,
+            "end": 36.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "sale",
+            "start": 36.7599983215332,
+            "end": 36.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 36.97999954223633,
+            "end": 37.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "película",
+            "start": 37.220001220703125,
+            "end": 37.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 37.439998626708984,
+            "end": 38.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Star",
+            "start": 38.060001373291016,
+            "end": 38.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Wars",
+            "start": 38.060001373291016,
+            "end": 38.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Les",
+            "start": 38.29999923706055,
+            "end": 38.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "podemos",
+            "start": 38.52000045776367,
+            "end": 38.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "pagar",
+            "start": 38.84000015258789,
+            "end": 39.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 39.08000183105469,
+            "end": 39.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "licencia",
+            "start": 39.400001525878906,
+            "end": 39.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 39.84000015258789,
+            "end": 40.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 40.20000076293945,
+            "end": 40.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 40.36000061035156,
+            "end": 40.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "dejen",
+            "start": 40.68000030517578,
+            "end": 40.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "adaptar",
+            "start": 40.7599983215332,
+            "end": 41.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "sus",
+            "start": 41.2599983215332,
+            "end": 41.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "personajes",
+            "start": 41.459999084472656,
+            "end": 41.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "al",
+            "start": 41.880001068115234,
+            "end": 42.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Lego",
+            "start": 42.279998779296875,
+            "end": 42.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 42.279998779296875,
+            "end": 43.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "aprovechamos",
+            "start": 43.08000183105469,
+            "end": 43.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 43.7599983215332,
+            "end": 44.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "boom",
+            "start": 44.0,
+            "end": 44.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 44.13999938964844,
+            "end": 44.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 44.29999923706055,
+            "end": 44.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "película",
+            "start": 44.880001068115234,
+            "end": 44.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mmm",
+            "start": 45.13999938964844,
+            "end": 45.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "ponme",
+            "start": 45.68000030517578,
+            "end": 45.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 45.959999084472656,
+            "end": 46.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "contacto",
+            "start": 46.34000015258789,
+            "end": 46.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 46.459999084472656,
+            "end": 46.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 46.58000183105469,
+            "end": 46.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "George",
+            "start": 46.7599983215332,
+            "end": 47.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Señor",
+            "start": 48.20000076293945,
+            "end": 48.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestras",
+            "start": 48.84000015258789,
+            "end": 49.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "pérdidas",
+            "start": 49.18000030517578,
+            "end": 49.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "han",
+            "start": 49.5,
+            "end": 49.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "ascendido",
+            "start": 49.7400016784668,
+            "end": 50.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 50.060001373291016,
+            "end": 50.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 50.2400016784668,
+            "end": 50.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 50.34000015258789,
+            "end": 50.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "174",
+            "start": 50.900001525878906,
+            "end": 51.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "millones",
+            "start": 51.70000076293945,
+            "end": 52.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 52.0,
+            "end": 52.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "euros",
+            "start": 52.400001525878906,
+            "end": 52.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Qué",
+            "start": 52.52000045776367,
+            "end": 52.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Si",
+            "start": 52.79999923706055,
+            "end": 52.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 52.97999954223633,
+            "end": 53.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "tenemos",
+            "start": 53.119998931884766,
+            "end": 53.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 53.31999969482422,
+            "end": 53.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Legos",
+            "start": 53.63999938964844,
+            "end": 53.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 53.720001220703125,
+            "end": 53.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Star",
+            "start": 53.900001525878906,
+            "end": 54.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Wars",
+            "start": 54.2400016784668,
+            "end": 54.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Harry",
+            "start": 54.36000061035156,
+            "end": 54.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Potter",
+            "start": 54.7400016784668,
+            "end": 54.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Spider",
+            "start": 55.0,
+            "end": 55.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Man",
+            "start": 55.34000015258789,
+            "end": 55.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "Winnie",
+            "start": 55.619998931884766,
+            "end": 55.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pooh",
+            "start": 55.880001068115234,
+            "end": 55.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mickey",
+            "start": 56.13999938964844,
+            "end": 56.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mouse",
+            "start": 56.439998626708984,
+            "end": 56.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿qué",
+            "start": 56.58000183105469,
+            "end": 56.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 56.97999954223633,
+            "end": 57.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "quieren",
+            "start": 57.15999984741211,
+            "end": 57.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "Funcionan",
+            "start": 57.47999954223633,
+            "end": 58.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuando",
+            "start": 58.20000076293945,
+            "end": 58.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "apenas",
+            "start": 58.459999084472656,
+            "end": 58.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "salen",
+            "start": 58.84000015258789,
+            "end": 59.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 59.060001373291016,
+            "end": 59.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "películas",
+            "start": 59.34000015258789,
+            "end": 59.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "jefe",
+            "start": 59.880001068115234,
+            "end": 59.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pero",
+            "start": 60.2400016784668,
+            "end": 60.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "apenas",
+            "start": 60.36000061035156,
+            "end": 60.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "pasan",
+            "start": 60.79999923706055,
+            "end": 61.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 61.18000030517578,
+            "end": 61.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "moda",
+            "start": 61.439998626708984,
+            "end": 61.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestros",
+            "start": 61.880001068115234,
+            "end": 62.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "juguetes",
+            "start": 62.119998931884766,
+            "end": 62.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "también",
+            "start": 62.52000045776367,
+            "end": 62.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 63.15999984741211,
+            "end": 63.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 63.34000015258789,
+            "end": 63.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "licencias",
+            "start": 63.5,
+            "end": 63.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 63.900001525878906,
+            "end": 64.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "salen",
+            "start": 64.19999694824219,
+            "end": 64.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 64.33999633789062,
+            "end": 64.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "caras",
+            "start": 64.76000213623047,
+            "end": 64.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 65.05999755859375,
+            "end": 65.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 65.23999786376953,
+            "end": 65.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 65.33999633789062,
+            "end": 65.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "pérdidas",
+            "start": 65.62000274658203,
+            "end": 65.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 65.9000015258789,
+            "end": 66.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "deuda",
+            "start": 66.16000366210938,
+            "end": 66.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 66.33999633789062,
+            "end": 66.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "tenemos",
+            "start": 66.58000183105469,
+            "end": 66.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "hasta",
+            "start": 67.26000213623047,
+            "end": 67.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "podríamos",
+            "start": 67.44000244140625,
+            "end": 67.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "caer",
+            "start": 67.83999633789062,
+            "end": 68.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 68.0199966430664,
+            "end": 68.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "bancarrota",
+            "start": 68.19999694824219,
+            "end": 68.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ah",
+            "start": 69.04000091552734,
+            "end": 69.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "entonces",
+            "start": 69.55999755859375,
+            "end": 69.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 69.81999969482422,
+            "end": 70.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "momento",
+            "start": 70.0999984741211,
+            "end": 70.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿De",
+            "start": 70.69999694824219,
+            "end": 71.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "qué",
+            "start": 71.05999755859375,
+            "end": 71.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 71.05999755859375,
+            "end": 71.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "señor",
+            "start": 71.30000305175781,
+            "end": 71.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "Para",
+            "start": 71.5,
+            "end": 71.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "empezar",
+            "start": 71.68000030517578,
+            "end": 72.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesitamos",
+            "start": 72.19999694824219,
+            "end": 72.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "reducir",
+            "start": 72.63999938964844,
+            "end": 73.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "costos",
+            "start": 73.0199966430664,
+            "end": 73.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "Vamos",
+            "start": 73.68000030517578,
+            "end": 73.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 73.83999633789062,
+            "end": 74.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "mover",
+            "start": 74.18000030517578,
+            "end": 74.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestras",
+            "start": 74.18000030517578,
+            "end": 74.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "plantas",
+            "start": 74.5,
+            "end": 74.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 74.76000213623047,
+            "end": 74.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "Dinamarca",
+            "start": 74.95999908447266,
+            "end": 75.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 75.5199966430664,
+            "end": 75.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "México",
+            "start": 75.80000305175781,
+            "end": 76.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 76.05999755859375,
+            "end": 76.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 76.44000244140625,
+            "end": 76.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 76.66000366210938,
+            "end": 76.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "acercamos",
+            "start": 76.91999816894531,
+            "end": 77.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 77.19999694824219,
+            "end": 77.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 77.4800033569336,
+            "end": 77.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestro",
+            "start": 77.83999633789062,
+            "end": 77.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "mercado",
+            "start": 77.9000015258789,
+            "end": 78.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "americano",
+            "start": 78.26000213623047,
+            "end": 78.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "Suena",
+            "start": 79.0199966430664,
+            "end": 79.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "bien",
+            "start": 79.0999984741211,
+            "end": 79.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Y",
+            "start": 79.63999938964844,
+            "end": 80.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestros",
+            "start": 80.0,
+            "end": 80.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "parques",
+            "start": 80.36000061035156,
+            "end": 80.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "temáticos",
+            "start": 80.55999755859375,
+            "end": 81.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "Vende",
+            "start": 81.19999694824219,
+            "end": 81.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 81.58000183105469,
+            "end": 81.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "Legolands",
+            "start": 81.80000305175781,
+            "end": 82.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hay",
+            "start": 82.37999725341797,
+            "end": 82.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 82.44000244140625,
+            "end": 82.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "enfocarnos",
+            "start": 82.5999984741211,
+            "end": 82.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 82.91999816894531,
+            "end": 83.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestros",
+            "start": 83.0999984741211,
+            "end": 83.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "juguetes",
+            "start": 83.37999725341797,
+            "end": 83.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 83.83999633789062,
+            "end": 84.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 84.18000030517578,
+            "end": 84.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 84.4000015258789,
+            "end": 84.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "vez",
+            "start": 84.45999908447266,
+            "end": 84.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "ver",
+            "start": 84.58000183105469,
+            "end": 84.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "reviviendo",
+            "start": 84.83999633789062,
+            "end": 85.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 85.22000122070312,
+            "end": 85.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "diseños",
+            "start": 85.5199966430664,
+            "end": 85.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "Duplo",
+            "start": 85.76000213623047,
+            "end": 86.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eh",
+            "start": 86.18000030517578,
+            "end": 86.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿qué",
+            "start": 86.55999755859375,
+            "end": 86.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 86.68000030517578,
+            "end": 86.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "dice",
+            "start": 86.87999725341797,
+            "end": 86.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 86.9800033569336,
+            "end": 87.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 87.16000366210938,
+            "end": 87.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "división",
+            "start": 87.36000061035156,
+            "end": 87.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 87.63999938964844,
+            "end": 87.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "videojuegos",
+            "start": 87.9000015258789,
+            "end": 88.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Está",
+            "start": 88.31999969482422,
+            "end": 88.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "bien",
+            "start": 88.69999694824219,
+            "end": 88.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "claustrofóbico",
+            "start": 88.83999633789062,
+            "end": 89.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pero",
+            "start": 89.4800033569336,
+            "end": 89.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 89.63999938964844,
+            "end": 89.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "sacarle",
+            "start": 89.9000015258789,
+            "end": 90.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "provecho",
+            "start": 90.18000030517578,
+            "end": 90.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 90.54000091552734,
+            "end": 90.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestra",
+            "start": 90.69999694824219,
+            "end": 90.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "licencia",
+            "start": 90.91999816894531,
+            "end": 91.37999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 91.37999725341797,
+            "end": 91.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Star",
+            "start": 91.63999938964844,
+            "end": 91.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "Wars",
+            "start": 91.87999725341797,
+            "end": 91.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "lanzamos",
+            "start": 92.12000274658203,
+            "end": 92.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 92.5199966430664,
+            "end": 92.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "videojuego",
+            "start": 92.77999877929688,
+            "end": 93.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "pero",
+            "start": 93.44000244140625,
+            "end": 93.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 93.5999984741211,
+            "end": 93.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 93.80000305175781,
+            "end": 93.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "desarrolle",
+            "start": 93.9800033569336,
+            "end": 94.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 94.31999969482422,
+            "end": 94.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "tercero",
+            "start": 94.83999633789062,
+            "end": 95.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jefe",
+            "start": 95.87999725341797,
+            "end": 96.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "excelentes",
+            "start": 96.36000061035156,
+            "end": 96.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "noticias",
+            "start": 96.77999877929688,
+            "end": 97.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "A",
+            "start": 97.5199966430664,
+            "end": 97.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "pesar",
+            "start": 97.80000305175781,
+            "end": 97.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 97.80000305175781,
+            "end": 98.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 98.04000091552734,
+            "end": 98.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 98.0999984741211,
+            "end": 98.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "mundo",
+            "start": 98.4000015258789,
+            "end": 98.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "está",
+            "start": 98.4000015258789,
+            "end": 98.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 98.55999755859375,
+            "end": 99.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "crisis",
+            "start": 99.08000183105469,
+            "end": 99.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "total",
+            "start": 99.08000183105469,
+            "end": 99.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "nosotros",
+            "start": 99.66000366210938,
+            "end": 99.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "generamos",
+            "start": 99.95999908447266,
+            "end": 100.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "casi",
+            "start": 100.31999969482422,
+            "end": 100.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "300",
+            "start": 100.62000274658203,
+            "end": 101.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "millones",
+            "start": 101.36000061035156,
+            "end": 101.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 101.66000366210938,
+            "end": 102.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "euros",
+            "start": 102.0999984741211,
+            "end": 102.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 102.0999984741211,
+            "end": 102.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "utilidades",
+            "start": 102.36000061035156,
+            "end": 102.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 103.04000091552734,
+            "end": 103.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 103.22000122070312,
+            "end": 103.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "videojuegos",
+            "start": 103.4000015258789,
+            "end": 103.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 103.68000030517578,
+            "end": 103.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "Star",
+            "start": 103.95999908447266,
+            "end": 104.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Wars",
+            "start": 104.36000061035156,
+            "end": 104.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Indiana",
+            "start": 104.4800033569336,
+            "end": 104.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jones",
+            "start": 104.86000061035156,
+            "end": 104.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 104.94000244140625,
+            "end": 105.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Batman",
+            "start": 105.13999938964844,
+            "end": 105.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 105.41999816894531,
+            "end": 105.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "están",
+            "start": 105.83999633789062,
+            "end": 106.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "impulsando",
+            "start": 106.0999984741211,
+            "end": 106.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 106.72000122070312,
+            "end": 107.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "ventas",
+            "start": 107.18000030517578,
+            "end": 107.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sí",
+            "start": 107.54000091552734,
+            "end": 107.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 107.9000015258789,
+            "end": 108.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "di",
+            "start": 108.12000274658203,
+            "end": 108.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 108.22000122070312,
+            "end": 108.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Generamos",
+            "start": 108.80000305175781,
+            "end": 109.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 109.13999938964844,
+            "end": 109.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "doble",
+            "start": 109.4800033569336,
+            "end": 109.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 109.4800033569336,
+            "end": 109.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "márgenes",
+            "start": 109.87999725341797,
+            "end": 110.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 110.0,
+            "end": 110.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mattel",
+            "start": 110.22000122070312,
+            "end": 110.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 110.58000183105469,
+            "end": 110.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hasbro",
+            "start": 110.91999816894531,
+            "end": 111.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Cómo",
+            "start": 112.19999694824219,
+            "end": 112.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 112.76000213623047,
+            "end": 112.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "fue",
+            "start": 112.95999908447266,
+            "end": 113.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "Excelente",
+            "start": 113.04000091552734,
+            "end": 113.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "señor",
+            "start": 113.72000122070312,
+            "end": 113.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Nuestra",
+            "start": 114.22000122070312,
+            "end": 114.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "película",
+            "start": 114.31999969482422,
+            "end": 114.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "arrasó",
+            "start": 114.63999938964844,
+            "end": 115.0999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 115.0999984741211,
+            "end": 115.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "taquillas",
+            "start": 115.23999786376953,
+            "end": 115.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 115.55999755859375,
+            "end": 116.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 116.0,
+            "end": 116.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "amaron",
+            "start": 116.36000061035156,
+            "end": 116.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 116.58000183105469,
+            "end": 116.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "críticos",
+            "start": 116.81999969482422,
+            "end": 117.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Y",
+            "start": 117.63999938964844,
+            "end": 118.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 118.16000366210938,
+            "end": 118.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ninjago",
+            "start": 118.36000061035156,
+            "end": 118.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 118.77999877929688,
+            "end": 119.30000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "serie",
+            "start": 119.30000305175781,
+            "end": 119.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 119.44000244140625,
+            "end": 119.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 119.62000274658203,
+            "end": 119.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "hit",
+            "start": 119.87999725341797,
+            "end": 119.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 119.91999816894531,
+            "end": 120.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 120.16000366210938,
+            "end": 120.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "sets",
+            "start": 120.4800033569336,
+            "end": 120.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 120.72000122070312,
+            "end": 121.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "venden",
+            "start": 121.16000366210938,
+            "end": 121.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 121.22000122070312,
+            "end": 121.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "amor",
+            "start": 121.5199966430664,
+            "end": 121.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jefe",
+            "start": 122.55999755859375,
+            "end": 122.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 123.08000183105469,
+            "end": 123.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "complace",
+            "start": 123.22000122070312,
+            "end": 123.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "decirle",
+            "start": 123.55999755859375,
+            "end": 123.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 123.9800033569336,
+            "end": 124.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestras",
+            "start": 124.08000183105469,
+            "end": 124.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "películas",
+            "start": 124.4000015258789,
+            "end": 124.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "videojuegos",
+            "start": 125.08000183105469,
+            "end": 125.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "series",
+            "start": 125.87999725341797,
+            "end": 125.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "juguetes",
+            "start": 126.27999877929688,
+            "end": 126.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 126.45999908447266,
+            "end": 126.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "demás",
+            "start": 126.68000030517578,
+            "end": 126.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "han",
+            "start": 126.91999816894531,
+            "end": 127.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "sido",
+            "start": 127.26000213623047,
+            "end": 127.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 127.36000061035156,
+            "end": 127.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "completo",
+            "start": 127.58000183105469,
+            "end": 128.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "éxito",
+            "start": 128.05999755859375,
+            "end": 128.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ya",
+            "start": 128.55999755859375,
+            "end": 128.6999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "vendemos",
+            "start": 128.6999969482422,
+            "end": 129.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 129.0399932861328,
+            "end": 129.25999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 129.25999450683594,
+            "end": 129.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mattel",
+            "start": 129.39999389648438,
+            "end": 129.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 129.72000122070312,
+            "end": 129.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hasbro",
+            "start": 129.97999572753906,
+            "end": 130.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "combinados",
+            "start": 130.27999877929688,
+            "end": 131.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 131.25999450683594,
+            "end": 131.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "mientras",
+            "start": 131.47999572753906,
+            "end": 131.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "sus",
+            "start": 131.6199951171875,
+            "end": 131.8800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "ventas",
+            "start": 131.8800048828125,
+            "end": 132.1199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 132.1199951171875,
+            "end": 132.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "estancan",
+            "start": 132.52000427246094,
+            "end": 132.72000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 132.89999389648438,
+            "end": 133.0399932861328,
+            "confidence": 0.99
+        },
+        {
+            "text": "nuestras",
+            "start": 133.0399932861328,
+            "end": 133.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "crecen",
+            "start": 133.27999877929688,
+            "end": 133.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 133.5800018310547,
+            "end": 133.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "14",
+            "start": 133.83999633789062,
+            "end": 134.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 134.3800048828125,
+            "end": 134.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "al",
+            "start": 134.75999450683594,
+            "end": 135.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "año",
+            "start": 135.24000549316406,
+            "end": 135.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "Nos",
+            "start": 135.4600067138672,
+            "end": 135.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "daban",
+            "start": 135.94000244140625,
+            "end": 136.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 136.16000366210938,
+            "end": 136.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "muertos",
+            "start": 136.5800018310547,
+            "end": 136.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 136.5800018310547,
+            "end": 136.77999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 136.77999877929688,
+            "end": 136.9199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "2003",
+            "start": 136.9199981689453,
+            "end": 137.39999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "pero",
+            "start": 137.6999969482422,
+            "end": 137.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "bloque",
+            "start": 137.83999633789062,
+            "end": 138.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 138.22000122070312,
+            "end": 138.3800048828125,
+            "confidence": 0.99
+        },
+        {
+            "text": "bloque",
+            "start": 138.3800048828125,
+            "end": 138.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "construimos",
+            "start": 138.5,
+            "end": 139.0800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 139.0800018310547,
+            "end": 139.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "imperio",
+            "start": 139.4199981689453,
+            "end": 139.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 139.67999267578125,
+            "end": 139.97999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "juguetes",
+            "start": 139.97999572753906,
+            "end": 140.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 140.4199981689453,
+            "end": 140.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "valioso",
+            "start": 140.9600067138672,
+            "end": 141.32000732421875,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Señor, después de ser un éxito en los setentas y ochentas, nuestras ventas han venido cayendo en los últimos cinco años.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Sí, tal vez son más simples, pero vas a ver que va a funcionar.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.75
+        },
+        {
+            "segment": "Después de casi 70 años, estamos perdiendo dinero.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "¿Qué tal no diseñar nuestros personajes, sino usar unos que ya sean conocidos?",
+            "sentiment": "POSITIVE",
+            "confidence": 0.7
+        },
+        {
+            "segment": "Señor, nuestras pérdidas han ascendido a más de 174 millones de euros.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.95
+        },
+        {
+            "segment": "Pero apenas pasan de moda, nuestros juguetes también.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Vamos a mover nuestras plantas de Dinamarca a México y así nos acercamos más a nuestro mercado americano.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "A pesar de que el mundo está en crisis total, nosotros generamos casi 300 millones de euros en utilidades.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Nos daban por muertos en el 2003, pero bloque a bloque construimos el imperio de juguetes más valioso.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Crisis y Estrategia",
+            "summary": "La empresa ha enfrentado una crisis de ventas y pérdidas económicas significativas tras cambios en sus diseños y una reestructuración interna.",
+            "start": 0,
+            "end": 600
+        },
+        {
+            "headline": "Recuperación y Éxito",
+            "summary": "A través de nuevas estrategias y licencias, la empresa logra recuperarse notablemente, aumentando sus ventas y superando a competidores.",
+            "start": 600,
+            "end": 1200
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

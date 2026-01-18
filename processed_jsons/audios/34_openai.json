@@ -1,0 +1,473 @@
+{
+    "text": "También me aparece acá que su tarjeta tiene un seguro de desgravamen que tiene un costo de 0.036 USD mensual, aproximadamente 1.300 pesos y también se paga solo si se usa la tarjeta. Por último, le comento que usted forma parte del club de beneficios del FACHE donde puede acceder a más descuentos en la página beneficiosfp.cl. También puede revisar su contrato de apertura de tarjetas en la página tarjetas.compar.com.",
+    "audio_duration": 23.540000915527344,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "También",
+            "start": 0.0,
+            "end": 0.8199999928474426,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 0.8199999928474426,
+            "end": 1.0199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "aparece",
+            "start": 1.0199999809265137,
+            "end": 1.2000000476837158,
+            "confidence": 0.99
+        },
+        {
+            "text": "acá",
+            "start": 1.2000000476837158,
+            "end": 1.399999976158142,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 1.399999976158142,
+            "end": 1.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 1.5,
+            "end": 1.7000000476837158,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 1.7000000476837158,
+            "end": 1.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiene",
+            "start": 1.9800000190734863,
+            "end": 2.140000104904175,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 2.140000104904175,
+            "end": 2.319999933242798,
+            "confidence": 0.99
+        },
+        {
+            "text": "seguro",
+            "start": 2.319999933242798,
+            "end": 2.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 2.5,
+            "end": 2.759999990463257,
+            "confidence": 0.99
+        },
+        {
+            "text": "desgravamen",
+            "start": 2.759999990463257,
+            "end": 3.200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 3.200000047683716,
+            "end": 3.3399999141693115,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiene",
+            "start": 3.3399999141693115,
+            "end": 3.5399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 3.5399999618530273,
+            "end": 3.799999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "costo",
+            "start": 3.799999952316284,
+            "end": 3.9200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 3.9200000762939453,
+            "end": 4.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "0",
+            "start": 4.079999923706055,
+            "end": 4.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "036",
+            "start": 4.260000228881836,
+            "end": 5.320000171661377,
+            "confidence": 0.99
+        },
+        {
+            "text": "USD",
+            "start": 5.320000171661377,
+            "end": 5.659999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "mensual",
+            "start": 5.659999847412109,
+            "end": 6.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "aproximadamente",
+            "start": 6.800000190734863,
+            "end": 7.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "1",
+            "start": 7.239999771118164,
+            "end": 7.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "300",
+            "start": 7.559999942779541,
+            "end": 8.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "pesos",
+            "start": 8.0,
+            "end": 8.279999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 8.279999732971191,
+            "end": 8.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "también",
+            "start": 8.460000038146973,
+            "end": 8.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 8.699999809265137,
+            "end": 9.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "paga",
+            "start": 9.0,
+            "end": 9.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "solo",
+            "start": 9.0,
+            "end": 9.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "si",
+            "start": 9.239999771118164,
+            "end": 9.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 9.420000076293945,
+            "end": 9.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "usa",
+            "start": 9.720000267028809,
+            "end": 9.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 9.720000267028809,
+            "end": 10.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 10.260000228881836,
+            "end": 11.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 11.319999694824219,
+            "end": 11.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "último",
+            "start": 11.800000190734863,
+            "end": 12.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 12.199999809265137,
+            "end": 12.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "comento",
+            "start": 12.319999694824219,
+            "end": 12.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 12.5600004196167,
+            "end": 12.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "usted",
+            "start": 12.680000305175781,
+            "end": 12.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "forma",
+            "start": 12.920000076293945,
+            "end": 13.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "parte",
+            "start": 13.020000457763672,
+            "end": 13.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 13.300000190734863,
+            "end": 13.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "club",
+            "start": 13.520000457763672,
+            "end": 13.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 13.680000305175781,
+            "end": 13.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "beneficios",
+            "start": 13.920000076293945,
+            "end": 14.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 14.239999771118164,
+            "end": 14.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "FACHE",
+            "start": 14.479999542236328,
+            "end": 14.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "donde",
+            "start": 14.699999809265137,
+            "end": 14.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "puede",
+            "start": 14.880000114440918,
+            "end": 15.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "acceder",
+            "start": 15.140000343322754,
+            "end": 15.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 15.380000114440918,
+            "end": 15.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 15.539999961853027,
+            "end": 15.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "descuentos",
+            "start": 15.760000228881836,
+            "end": 16.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 16.100000381469727,
+            "end": 16.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 16.239999771118164,
+            "end": 16.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "página",
+            "start": 16.65999984741211,
+            "end": 16.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "beneficiosfp",
+            "start": 16.65999984741211,
+            "end": 17.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "cl",
+            "start": 17.780000686645508,
+            "end": 18.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "También",
+            "start": 19.0,
+            "end": 19.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "puede",
+            "start": 19.079999923706055,
+            "end": 19.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "revisar",
+            "start": 19.299999237060547,
+            "end": 19.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 19.65999984741211,
+            "end": 19.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "contrato",
+            "start": 19.8799991607666,
+            "end": 20.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 20.15999984741211,
+            "end": 20.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "apertura",
+            "start": 20.34000015258789,
+            "end": 20.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 20.639999389648438,
+            "end": 21.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjetas",
+            "start": 21.100000381469727,
+            "end": 21.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 21.18000030517578,
+            "end": 21.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 21.34000015258789,
+            "end": 21.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "página",
+            "start": 21.700000762939453,
+            "end": 21.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjetas",
+            "start": 21.700000762939453,
+            "end": 22.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "compar",
+            "start": 22.139999389648438,
+            "end": 22.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "com",
+            "start": 22.579999923706055,
+            "end": 23.34000015258789,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "sentiment": "NEUTRAL",
+            "confidence": 0.9
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Información sobre costos y beneficios de tarjeta",
+            "summary": "Este segmento proporciona información sobre un seguro de desgravamen asociado a la tarjeta, su costo mensual, y menciona el acceso a un club de beneficios para descuentos adicionales.",
+            "start": 0,
+            "end": 0
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

@@ -1,0 +1,272 @@
+{
+    "id": "7ade93a1-228e-4e04-8c17-8e7906c6c6d7",
+    "status": "completed",
+    "text": "1971-05. Muy amable. Para finalizar, me indica su domicilio particular, por favor. General Bonilla 60-59, Bloc 9, Departamento 4, Perú, Lo Prado. Muy amable, don Andrés, gracias por validar los datos en línea.",
+    "words": [
+        {
+            "text": "1971-05.",
+            "start": 400,
+            "end": 2960,
+            "confidence": 0.88554,
+            "speaker": "A"
+        },
+        {
+            "text": "Muy",
+            "start": 6880,
+            "end": 7160,
+            "confidence": 0.9921875,
+            "speaker": "B"
+        },
+        {
+            "text": "amable.",
+            "start": 7160,
+            "end": 7560,
+            "confidence": 0.9992676,
+            "speaker": "B"
+        },
+        {
+            "text": "Para",
+            "start": 7560,
+            "end": 7760,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "finalizar,",
+            "start": 7760,
+            "end": 8200,
+            "confidence": 0.9929199,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 8200,
+            "end": 8400,
+            "confidence": 0.98876953,
+            "speaker": "B"
+        },
+        {
+            "text": "indica",
+            "start": 8400,
+            "end": 8720,
+            "confidence": 0.98413086,
+            "speaker": "B"
+        },
+        {
+            "text": "su",
+            "start": 8720,
+            "end": 8960,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "domicilio",
+            "start": 8960,
+            "end": 9400,
+            "confidence": 0.9055176,
+            "speaker": "B"
+        },
+        {
+            "text": "particular,",
+            "start": 9400,
+            "end": 9880,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "por",
+            "start": 9880,
+            "end": 10120,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "favor.",
+            "start": 10120,
+            "end": 10480,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "General",
+            "start": 11680,
+            "end": 12040,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "Bonilla",
+            "start": 12040,
+            "end": 13120,
+            "confidence": 0.9064128,
+            "speaker": "A"
+        },
+        {
+            "text": "60-59,",
+            "start": 13920,
+            "end": 15360,
+            "confidence": 0.80048,
+            "speaker": "A"
+        },
+        {
+            "text": "Bloc",
+            "start": 16640,
+            "end": 17080,
+            "confidence": 0.9538574,
+            "speaker": "A"
+        },
+        {
+            "text": "9,",
+            "start": 17080,
+            "end": 17476,
+            "confidence": 0.93205,
+            "speaker": "A"
+        },
+        {
+            "text": "Departamento",
+            "start": 17564,
+            "end": 17916,
+            "confidence": 0.93205,
+            "speaker": "A"
+        },
+        {
+            "text": "4,",
+            "start": 18004,
+            "end": 18400,
+            "confidence": 0.93205,
+            "speaker": "A"
+        },
+        {
+            "text": "Perú,",
+            "start": 18400,
+            "end": 18880,
+            "confidence": 0.9050293,
+            "speaker": "A"
+        },
+        {
+            "text": "Lo",
+            "start": 18880,
+            "end": 19200,
+            "confidence": 0.6171875,
+            "speaker": "A"
+        },
+        {
+            "text": "Prado.",
+            "start": 19200,
+            "end": 19680,
+            "confidence": 0.9724121,
+            "speaker": "A"
+        },
+        {
+            "text": "Muy",
+            "start": 20880,
+            "end": 21160,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "amable,",
+            "start": 21160,
+            "end": 21480,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "don",
+            "start": 21480,
+            "end": 21680,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "Andrés,",
+            "start": 21680,
+            "end": 22080,
+            "confidence": 0.8930664,
+            "speaker": "B"
+        },
+        {
+            "text": "gracias",
+            "start": 22080,
+            "end": 22320,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "por",
+            "start": 22320,
+            "end": 22400,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "validar",
+            "start": 22400,
+            "end": 22760,
+            "confidence": 0.9505208,
+            "speaker": "B"
+        },
+        {
+            "text": "los",
+            "start": 22760,
+            "end": 22880,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "datos",
+            "start": 22880,
+            "end": 23160,
+            "confidence": 0.5917969,
+            "speaker": "B"
+        },
+        {
+            "text": "en",
+            "start": 23160,
+            "end": 23320,
+            "confidence": 0.97265625,
+            "speaker": "B"
+        },
+        {
+            "text": "línea.",
+            "start": 23320,
+            "end": 23760,
+            "confidence": 0.96069336,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "1971-05.",
+            "start": 400,
+            "end": 2960,
+            "confidence": 0.88554,
+            "speaker": "A"
+        },
+        {
+            "text": "Muy amable. Para finalizar, me indica su domicilio particular, por favor.",
+            "start": 6880,
+            "end": 10480,
+            "confidence": 0.98721594,
+            "speaker": "B"
+        },
+        {
+            "text": "General Bonilla 60-59, Bloc 9, Departamento 4, Perú, Lo Prado.",
+            "start": 11680,
+            "end": 19680,
+            "confidence": 0.89451814,
+            "speaker": "A"
+        },
+        {
+            "text": "Muy amable, don Andrés, gracias por validar los datos en línea.",
+            "start": 20880,
+            "end": 23760,
+            "confidence": 0.9419463,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 25,
+    "language_code": "es"
+}

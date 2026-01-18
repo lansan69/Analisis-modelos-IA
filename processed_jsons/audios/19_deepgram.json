@@ -1,0 +1,1432 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "da45e673-7d83-4329-99b3-3b4da520764c",
+        "sha256": "c6144a94f2478177ed91f79434eac9ad749d6a6db89aed5c30d27e6077a41651",
+        "created": "2026-01-17T23:59:52.636000Z",
+        "duration": 17.328,
+        "channels": 1.0,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        },
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 74.0,
+            "output_tokens": 74.0
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Researchers at the University of Tsukuba have created a mind blowing robotic floor that lets you walk freely inside virtual reality. It's called Circular Floor, and it uses real time motion tracking to predict your next step before you even take it. No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+                        "confidence": 0.999166,
+                        "words": [
+                            {
+                                "word": "researchers",
+                                "start": 0.16,
+                                "end": 0.48,
+                                "confidence": 0.8202978,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Researchers",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4154196083545685
+                            },
+                            {
+                                "word": "at",
+                                "start": 0.48,
+                                "end": 0.79999995,
+                                "confidence": 0.9988979,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "at",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4192405045032501
+                            },
+                            {
+                                "word": "the",
+                                "start": 0.79999995,
+                                "end": 0.96,
+                                "confidence": 0.9819365,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "the",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.43997031450271606
+                            },
+                            {
+                                "word": "university",
+                                "start": 0.96,
+                                "end": 1.36,
+                                "confidence": 0.9126978,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "University",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.29681795835494995
+                            },
+                            {
+                                "word": "of",
+                                "start": 1.36,
+                                "end": 1.5999999,
+                                "confidence": 0.9944923,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "of",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.49522197246551514
+                            },
+                            {
+                                "word": "tsukuba",
+                                "start": 1.5999999,
+                                "end": 2.1,
+                                "confidence": 0.9996085,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Tsukuba",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.21840786933898929
+                            },
+                            {
+                                "word": "have",
+                                "start": 2.1599998,
+                                "end": 2.32,
+                                "confidence": 0.9920216,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "have",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4912565052509308
+                            },
+                            {
+                                "word": "created",
+                                "start": 2.32,
+                                "end": 2.8,
+                                "confidence": 0.999361,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "created",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.495285838842392
+                            },
+                            {
+                                "word": "a",
+                                "start": 2.8,
+                                "end": 3.04,
+                                "confidence": 0.999166,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "a",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5246165990829468
+                            },
+                            {
+                                "word": "mind",
+                                "start": 3.04,
+                                "end": 3.36,
+                                "confidence": 0.9994624,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "mind",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.7482067942619324
+                            },
+                            {
+                                "word": "blowing",
+                                "start": 3.36,
+                                "end": 3.76,
+                                "confidence": 0.9673157,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "blowing",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.7105371356010437
+                            },
+                            {
+                                "word": "robotic",
+                                "start": 3.76,
+                                "end": 4.26,
+                                "confidence": 0.9906171,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "robotic",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4948665499687195
+                            },
+                            {
+                                "word": "floor",
+                                "start": 4.4,
+                                "end": 4.72,
+                                "confidence": 0.998781,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "floor",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5922408699989319
+                            },
+                            {
+                                "word": "that",
+                                "start": 4.72,
+                                "end": 4.88,
+                                "confidence": 0.99151975,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "that",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5845377445220947
+                            },
+                            {
+                                "word": "lets",
+                                "start": 4.88,
+                                "end": 5.12,
+                                "confidence": 0.9842944,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "lets",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6617925763130188
+                            },
+                            {
+                                "word": "you",
+                                "start": 5.12,
+                                "end": 5.2799997,
+                                "confidence": 0.99961627,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "you",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.7225544452667236
+                            },
+                            {
+                                "word": "walk",
+                                "start": 5.2799997,
+                                "end": 5.5829377,
+                                "confidence": 0.99951947,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "walk",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6728619933128357
+                            },
+                            {
+                                "word": "freely",
+                                "start": 5.5829377,
+                                "end": 5.982938,
+                                "confidence": 0.99956566,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "freely",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.7506479024887085
+                            },
+                            {
+                                "word": "inside",
+                                "start": 5.982938,
+                                "end": 6.3029375,
+                                "confidence": 0.99979967,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "inside",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6478769779205322
+                            },
+                            {
+                                "word": "virtual",
+                                "start": 6.3029375,
+                                "end": 6.7829375,
+                                "confidence": 0.9939494,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "virtual",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5509505867958069
+                            },
+                            {
+                                "word": "reality",
+                                "start": 6.7829375,
+                                "end": 7.1829376,
+                                "confidence": 0.99945676,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "reality.",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5753379464149475
+                            },
+                            {
+                                "word": "it's",
+                                "start": 7.1829376,
+                                "end": 7.4229374,
+                                "confidence": 0.9989034,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "It's",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.49224838614463806
+                            },
+                            {
+                                "word": "called",
+                                "start": 7.4229374,
+                                "end": 7.7429376,
+                                "confidence": 0.9996233,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "called",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5593869686126709
+                            },
+                            {
+                                "word": "circular",
+                                "start": 7.7429376,
+                                "end": 8.222938,
+                                "confidence": 0.69775224,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Circular",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5627612471580505
+                            },
+                            {
+                                "word": "floor",
+                                "start": 8.222938,
+                                "end": 8.462937,
+                                "confidence": 0.72780085,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Floor,",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5159717798233032
+                            },
+                            {
+                                "word": "and",
+                                "start": 8.462937,
+                                "end": 8.622938,
+                                "confidence": 0.9995604,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "and",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4676770865917206
+                            },
+                            {
+                                "word": "it",
+                                "start": 8.622938,
+                                "end": 8.782938,
+                                "confidence": 0.9994049,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "it",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5432007908821106
+                            },
+                            {
+                                "word": "uses",
+                                "start": 8.782938,
+                                "end": 9.102938,
+                                "confidence": 0.9994562,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "uses",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4447716772556305
+                            },
+                            {
+                                "word": "real",
+                                "start": 9.102938,
+                                "end": 9.342937,
+                                "confidence": 0.99893564,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "real",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.3232329785823822
+                            },
+                            {
+                                "word": "time",
+                                "start": 9.342937,
+                                "end": 9.582937,
+                                "confidence": 0.999057,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "time",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.441146582365036
+                            },
+                            {
+                                "word": "motion",
+                                "start": 9.582937,
+                                "end": 9.902937,
+                                "confidence": 0.99953794,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "motion",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.41995710134506226
+                            },
+                            {
+                                "word": "tracking",
+                                "start": 9.902937,
+                                "end": 10.3029375,
+                                "confidence": 0.9997948,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tracking",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4497847855091095
+                            },
+                            {
+                                "word": "to",
+                                "start": 10.3029375,
+                                "end": 10.382937,
+                                "confidence": 0.99975795,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "to",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.49493837356567383
+                            },
+                            {
+                                "word": "predict",
+                                "start": 10.382937,
+                                "end": 10.782938,
+                                "confidence": 0.9995035,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "predict",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5294994711875916
+                            },
+                            {
+                                "word": "your",
+                                "start": 10.782938,
+                                "end": 10.942938,
+                                "confidence": 0.99807835,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "your",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6429561376571655
+                            },
+                            {
+                                "word": "next",
+                                "start": 10.942938,
+                                "end": 11.182938,
+                                "confidence": 0.99895406,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "next",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4096965491771698
+                            },
+                            {
+                                "word": "step",
+                                "start": 11.182938,
+                                "end": 11.422937,
+                                "confidence": 0.99946374,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "step",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5106310248374939
+                            },
+                            {
+                                "word": "before",
+                                "start": 11.422937,
+                                "end": 11.662937,
+                                "confidence": 0.9989504,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "before",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5530805587768555
+                            },
+                            {
+                                "word": "you",
+                                "start": 11.662937,
+                                "end": 11.902937,
+                                "confidence": 0.9989152,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "you",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.5779800415039062
+                            },
+                            {
+                                "word": "even",
+                                "start": 11.902937,
+                                "end": 12.142938,
+                                "confidence": 0.9923833,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "even",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.38148656487464905
+                            },
+                            {
+                                "word": "take",
+                                "start": 12.142938,
+                                "end": 12.3029375,
+                                "confidence": 0.9995504,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "take",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.4977542459964752
+                            },
+                            {
+                                "word": "it",
+                                "start": 12.3029375,
+                                "end": 12.462937,
+                                "confidence": 0.99909425,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "it.",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.48871153593063354
+                            },
+                            {
+                                "word": "no",
+                                "start": 12.462937,
+                                "end": 12.702938,
+                                "confidence": 0.9971673,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "No",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1763283908367157
+                            },
+                            {
+                                "word": "matter",
+                                "start": 12.702938,
+                                "end": 12.942938,
+                                "confidence": 0.99965715,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "matter",
+                                "sentiment": "neutral",
+                                "sentiment_score": -0.06657229363918304
+                            },
+                            {
+                                "word": "which",
+                                "start": 12.942938,
+                                "end": 13.182938,
+                                "confidence": 0.9980313,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "which",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.061981022357940674
+                            },
+                            {
+                                "word": "direction",
+                                "start": 13.182938,
+                                "end": 13.582937,
+                                "confidence": 0.99941707,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "direction",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.06393998861312866
+                            },
+                            {
+                                "word": "you",
+                                "start": 13.582937,
+                                "end": 13.822937,
+                                "confidence": 0.99931693,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "you",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.06463240087032318
+                            },
+                            {
+                                "word": "walk",
+                                "start": 13.822937,
+                                "end": 14.142937,
+                                "confidence": 0.9953281,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "walk,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0879753902554512
+                            },
+                            {
+                                "word": "a",
+                                "start": 14.142937,
+                                "end": 14.302938,
+                                "confidence": 0.9995833,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0575605183839798
+                            },
+                            {
+                                "word": "new",
+                                "start": 14.302938,
+                                "end": 14.462938,
+                                "confidence": 0.99984264,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "new",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1052510142326355
+                            },
+                            {
+                                "word": "floor",
+                                "start": 14.462938,
+                                "end": 14.782938,
+                                "confidence": 0.99979776,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "floor",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.26801079511642456
+                            },
+                            {
+                                "word": "piece",
+                                "start": 14.782938,
+                                "end": 15.102938,
+                                "confidence": 0.9790475,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "piece",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.2533940076828003
+                            },
+                            {
+                                "word": "is",
+                                "start": 15.102938,
+                                "end": 15.262938,
+                                "confidence": 0.99925226,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "is",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.32021838426589966
+                            },
+                            {
+                                "word": "always",
+                                "start": 15.262938,
+                                "end": 15.582937,
+                                "confidence": 0.9992506,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "always",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1596517264842987
+                            },
+                            {
+                                "word": "sliding",
+                                "start": 15.582937,
+                                "end": 15.982937,
+                                "confidence": 0.9998104,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "sliding",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.34402260184288025
+                            },
+                            {
+                                "word": "into",
+                                "start": 15.982937,
+                                "end": 16.302937,
+                                "confidence": 0.99785453,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9604764,
+                                "punctuated_word": "into",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.13088048994541168
+                            },
+                            {
+                                "word": "place",
+                                "start": 16.302937,
+                                "end": 16.622938,
+                                "confidence": 0.99856323,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9604764,
+                                "punctuated_word": "place",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.14591513574123385
+                            },
+                            {
+                                "word": "under",
+                                "start": 16.622938,
+                                "end": 16.862938,
+                                "confidence": 0.99935514,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9604764,
+                                "punctuated_word": "under",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.25568896532058716
+                            },
+                            {
+                                "word": "your",
+                                "start": 16.862938,
+                                "end": 17.022938,
+                                "confidence": 0.999485,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9604764,
+                                "punctuated_word": "your",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.05132400989532471
+                            },
+                            {
+                                "word": "feet",
+                                "start": 17.022938,
+                                "end": 17.328,
+                                "confidence": 0.9980167,
+                                "speaker": 0,
+                                "speaker_confidence": 0.9604764,
+                                "punctuated_word": "feet.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.005384351126849651
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Researchers at the University of Tsukuba have created a mind blowing robotic floor that lets you walk freely inside virtual reality. It's called Circular Floor, and it uses real time motion tracking to predict your next step before you even take it. No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Researchers at the University of Tsukuba have created a mind blowing robotic floor that lets you walk freely inside virtual reality.",
+                                            "start": 0.16,
+                                            "end": 7.1829376,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.5480308901695978
+                                        },
+                                        {
+                                            "text": "It's called Circular Floor, and it uses real time motion tracking to predict your next step before you even take it.",
+                                            "start": 7.1829376,
+                                            "end": 12.462937,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.49080351846558706
+                                        },
+                                        {
+                                            "text": "No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+                                            "start": 12.462937,
+                                            "end": 17.328,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.138088161074039
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 60.0,
+                                    "start": 0.16,
+                                    "end": 17.328,
+                                    "sentiment": "positive",
+                                    "sentiment_score": 0.4050184913445264
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 0.16,
+                "end": 17.328,
+                "confidence": 0.98309386,
+                "channel": 0.0,
+                "transcript": "Researchers at the University of Tsukuba have created a mind blowing robotic floor that lets you walk freely inside virtual reality. It's called Circular Floor, and it uses real time motion tracking to predict your next step before you even take it. No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+                "words": [
+                    {
+                        "word": "researchers",
+                        "start": 0.16,
+                        "end": 0.48,
+                        "confidence": 0.8202978,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Researchers",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4154196083545685
+                    },
+                    {
+                        "word": "at",
+                        "start": 0.48,
+                        "end": 0.79999995,
+                        "confidence": 0.9988979,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "at",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4192405045032501
+                    },
+                    {
+                        "word": "the",
+                        "start": 0.79999995,
+                        "end": 0.96,
+                        "confidence": 0.9819365,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "the",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.43997031450271606
+                    },
+                    {
+                        "word": "university",
+                        "start": 0.96,
+                        "end": 1.36,
+                        "confidence": 0.9126978,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "University",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.29681795835494995
+                    },
+                    {
+                        "word": "of",
+                        "start": 1.36,
+                        "end": 1.5999999,
+                        "confidence": 0.9944923,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "of",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.49522197246551514
+                    },
+                    {
+                        "word": "tsukuba",
+                        "start": 1.5999999,
+                        "end": 2.1,
+                        "confidence": 0.9996085,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Tsukuba",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.21840786933898929
+                    },
+                    {
+                        "word": "have",
+                        "start": 2.1599998,
+                        "end": 2.32,
+                        "confidence": 0.9920216,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "have",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4912565052509308
+                    },
+                    {
+                        "word": "created",
+                        "start": 2.32,
+                        "end": 2.8,
+                        "confidence": 0.999361,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "created",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.495285838842392
+                    },
+                    {
+                        "word": "a",
+                        "start": 2.8,
+                        "end": 3.04,
+                        "confidence": 0.999166,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "a",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5246165990829468
+                    },
+                    {
+                        "word": "mind",
+                        "start": 3.04,
+                        "end": 3.36,
+                        "confidence": 0.9994624,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "mind",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.7482067942619324
+                    },
+                    {
+                        "word": "blowing",
+                        "start": 3.36,
+                        "end": 3.76,
+                        "confidence": 0.9673157,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "blowing",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.7105371356010437
+                    },
+                    {
+                        "word": "robotic",
+                        "start": 3.76,
+                        "end": 4.26,
+                        "confidence": 0.9906171,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "robotic",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4948665499687195
+                    },
+                    {
+                        "word": "floor",
+                        "start": 4.4,
+                        "end": 4.72,
+                        "confidence": 0.998781,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "floor",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5922408699989319
+                    },
+                    {
+                        "word": "that",
+                        "start": 4.72,
+                        "end": 4.88,
+                        "confidence": 0.99151975,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "that",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5845377445220947
+                    },
+                    {
+                        "word": "lets",
+                        "start": 4.88,
+                        "end": 5.12,
+                        "confidence": 0.9842944,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "lets",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6617925763130188
+                    },
+                    {
+                        "word": "you",
+                        "start": 5.12,
+                        "end": 5.2799997,
+                        "confidence": 0.99961627,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "you",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.7225544452667236
+                    },
+                    {
+                        "word": "walk",
+                        "start": 5.2799997,
+                        "end": 5.5829377,
+                        "confidence": 0.99951947,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "walk",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6728619933128357
+                    },
+                    {
+                        "word": "freely",
+                        "start": 5.5829377,
+                        "end": 5.982938,
+                        "confidence": 0.99956566,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "freely",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.7506479024887085
+                    },
+                    {
+                        "word": "inside",
+                        "start": 5.982938,
+                        "end": 6.3029375,
+                        "confidence": 0.99979967,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "inside",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6478769779205322
+                    },
+                    {
+                        "word": "virtual",
+                        "start": 6.3029375,
+                        "end": 6.7829375,
+                        "confidence": 0.9939494,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "virtual",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5509505867958069
+                    },
+                    {
+                        "word": "reality",
+                        "start": 6.7829375,
+                        "end": 7.1829376,
+                        "confidence": 0.99945676,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "reality.",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5753379464149475
+                    },
+                    {
+                        "word": "it's",
+                        "start": 7.1829376,
+                        "end": 7.4229374,
+                        "confidence": 0.9989034,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "It's",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.49224838614463806
+                    },
+                    {
+                        "word": "called",
+                        "start": 7.4229374,
+                        "end": 7.7429376,
+                        "confidence": 0.9996233,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "called",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5593869686126709
+                    },
+                    {
+                        "word": "circular",
+                        "start": 7.7429376,
+                        "end": 8.222938,
+                        "confidence": 0.69775224,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Circular",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5627612471580505
+                    },
+                    {
+                        "word": "floor",
+                        "start": 8.222938,
+                        "end": 8.462937,
+                        "confidence": 0.72780085,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Floor,",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5159717798233032
+                    },
+                    {
+                        "word": "and",
+                        "start": 8.462937,
+                        "end": 8.622938,
+                        "confidence": 0.9995604,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "and",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4676770865917206
+                    },
+                    {
+                        "word": "it",
+                        "start": 8.622938,
+                        "end": 8.782938,
+                        "confidence": 0.9994049,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "it",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5432007908821106
+                    },
+                    {
+                        "word": "uses",
+                        "start": 8.782938,
+                        "end": 9.102938,
+                        "confidence": 0.9994562,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "uses",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4447716772556305
+                    },
+                    {
+                        "word": "real",
+                        "start": 9.102938,
+                        "end": 9.342937,
+                        "confidence": 0.99893564,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "real",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.3232329785823822
+                    },
+                    {
+                        "word": "time",
+                        "start": 9.342937,
+                        "end": 9.582937,
+                        "confidence": 0.999057,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "time",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.441146582365036
+                    },
+                    {
+                        "word": "motion",
+                        "start": 9.582937,
+                        "end": 9.902937,
+                        "confidence": 0.99953794,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "motion",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.41995710134506226
+                    },
+                    {
+                        "word": "tracking",
+                        "start": 9.902937,
+                        "end": 10.3029375,
+                        "confidence": 0.9997948,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tracking",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4497847855091095
+                    },
+                    {
+                        "word": "to",
+                        "start": 10.3029375,
+                        "end": 10.382937,
+                        "confidence": 0.99975795,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "to",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.49493837356567383
+                    },
+                    {
+                        "word": "predict",
+                        "start": 10.382937,
+                        "end": 10.782938,
+                        "confidence": 0.9995035,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "predict",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5294994711875916
+                    },
+                    {
+                        "word": "your",
+                        "start": 10.782938,
+                        "end": 10.942938,
+                        "confidence": 0.99807835,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "your",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6429561376571655
+                    },
+                    {
+                        "word": "next",
+                        "start": 10.942938,
+                        "end": 11.182938,
+                        "confidence": 0.99895406,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "next",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4096965491771698
+                    },
+                    {
+                        "word": "step",
+                        "start": 11.182938,
+                        "end": 11.422937,
+                        "confidence": 0.99946374,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "step",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5106310248374939
+                    },
+                    {
+                        "word": "before",
+                        "start": 11.422937,
+                        "end": 11.662937,
+                        "confidence": 0.9989504,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "before",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5530805587768555
+                    },
+                    {
+                        "word": "you",
+                        "start": 11.662937,
+                        "end": 11.902937,
+                        "confidence": 0.9989152,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "you",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.5779800415039062
+                    },
+                    {
+                        "word": "even",
+                        "start": 11.902937,
+                        "end": 12.142938,
+                        "confidence": 0.9923833,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "even",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.38148656487464905
+                    },
+                    {
+                        "word": "take",
+                        "start": 12.142938,
+                        "end": 12.3029375,
+                        "confidence": 0.9995504,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "take",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.4977542459964752
+                    },
+                    {
+                        "word": "it",
+                        "start": 12.3029375,
+                        "end": 12.462937,
+                        "confidence": 0.99909425,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "it.",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.48871153593063354
+                    },
+                    {
+                        "word": "no",
+                        "start": 12.462937,
+                        "end": 12.702938,
+                        "confidence": 0.9971673,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "No",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1763283908367157
+                    },
+                    {
+                        "word": "matter",
+                        "start": 12.702938,
+                        "end": 12.942938,
+                        "confidence": 0.99965715,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "matter",
+                        "sentiment": "neutral",
+                        "sentiment_score": -0.06657229363918304
+                    },
+                    {
+                        "word": "which",
+                        "start": 12.942938,
+                        "end": 13.182938,
+                        "confidence": 0.9980313,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "which",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.061981022357940674
+                    },
+                    {
+                        "word": "direction",
+                        "start": 13.182938,
+                        "end": 13.582937,
+                        "confidence": 0.99941707,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "direction",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.06393998861312866
+                    },
+                    {
+                        "word": "you",
+                        "start": 13.582937,
+                        "end": 13.822937,
+                        "confidence": 0.99931693,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "you",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.06463240087032318
+                    },
+                    {
+                        "word": "walk",
+                        "start": 13.822937,
+                        "end": 14.142937,
+                        "confidence": 0.9953281,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "walk,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0879753902554512
+                    },
+                    {
+                        "word": "a",
+                        "start": 14.142937,
+                        "end": 14.302938,
+                        "confidence": 0.9995833,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0575605183839798
+                    },
+                    {
+                        "word": "new",
+                        "start": 14.302938,
+                        "end": 14.462938,
+                        "confidence": 0.99984264,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "new",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1052510142326355
+                    },
+                    {
+                        "word": "floor",
+                        "start": 14.462938,
+                        "end": 14.782938,
+                        "confidence": 0.99979776,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "floor",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.26801079511642456
+                    },
+                    {
+                        "word": "piece",
+                        "start": 14.782938,
+                        "end": 15.102938,
+                        "confidence": 0.9790475,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "piece",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.2533940076828003
+                    },
+                    {
+                        "word": "is",
+                        "start": 15.102938,
+                        "end": 15.262938,
+                        "confidence": 0.99925226,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "is",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.32021838426589966
+                    },
+                    {
+                        "word": "always",
+                        "start": 15.262938,
+                        "end": 15.582937,
+                        "confidence": 0.9992506,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "always",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1596517264842987
+                    },
+                    {
+                        "word": "sliding",
+                        "start": 15.582937,
+                        "end": 15.982937,
+                        "confidence": 0.9998104,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "sliding",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.34402260184288025
+                    },
+                    {
+                        "word": "into",
+                        "start": 15.982937,
+                        "end": 16.302937,
+                        "confidence": 0.99785453,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9604764,
+                        "punctuated_word": "into",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.13088048994541168
+                    },
+                    {
+                        "word": "place",
+                        "start": 16.302937,
+                        "end": 16.622938,
+                        "confidence": 0.99856323,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9604764,
+                        "punctuated_word": "place",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.14591513574123385
+                    },
+                    {
+                        "word": "under",
+                        "start": 16.622938,
+                        "end": 16.862938,
+                        "confidence": 0.99935514,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9604764,
+                        "punctuated_word": "under",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.25568896532058716
+                    },
+                    {
+                        "word": "your",
+                        "start": 16.862938,
+                        "end": 17.022938,
+                        "confidence": 0.999485,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9604764,
+                        "punctuated_word": "your",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.05132400989532471
+                    },
+                    {
+                        "word": "feet",
+                        "start": 17.022938,
+                        "end": 17.328,
+                        "confidence": 0.9980167,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.9604764,
+                        "punctuated_word": "feet.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.005384351126849651
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "d55ce251-e195-484e-b655-64932f57f60a",
+                "sentiment": "positive",
+                "sentiment_score": 0.4050184913445264
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "Researchers at the University of Tsukuba have created a mind blowing robotic floor that lets you walk freely inside virtual reality. It's called Circular Floor, and it uses real time motion tracking to predict your next step before you even take it.",
+                    "start_word": 0.0,
+                    "end_word": 41.0,
+                    "sentiment": "positive",
+                    "sentiment_score": 0.5062864422798157
+                },
+                {
+                    "text": "No matter which direction you walk, a new floor piece is always sliding into place under your feet.",
+                    "start_word": 42.0,
+                    "end_word": 59.0,
+                    "sentiment": "neutral",
+                    "sentiment_score": 0.1259935349225998
+                }
+            ],
+            "average": {
+                "sentiment": "positive",
+                "sentiment_score": 0.39836545892663905
+            }
+        }
+    }
+}

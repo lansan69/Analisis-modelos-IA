@@ -1578,49 +1578,44 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "This ain't a song for the broken hearted A silent prayer for the faith departed",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.85
-        },
-        {
-            "segment": "I ain't gonna be just a face in the crowd You're gonna hear my voice when I shout it out loud",
+            "segment": "This ain't a song for the broken hearted A silent prayer for the faith departed I ain't gonna be just a face in the crowd You're gonna hear my voice when I shout it out loud",
             "sentiment": "POSITIVE",
-            "confidence": 0.9
+            "confidence": 0.85
         },
         {
             "segment": "It's my life, it's now or never I ain't gonna live forever I just wanna live my life",
             "sentiment": "POSITIVE",
-            "confidence": 0.95
+            "confidence": 0.9
         },
         {
-            "segment": "My heart is like an open highway Like breaking shit, I did it my way",
+            "segment": "My heart is like an open highway Like breaking shit, I did it my way I just wanna live my life",
             "sentiment": "POSITIVE",
-            "confidence": 0.92
+            "confidence": 0.88
         },
         {
-            "segment": "This is for ones who stood their ground For Tommy and Gina who never backed down",
+            "segment": "This is for ones who stood their ground For Tommy and Gina who never backed down Tomorrow's getting harder, make no mistake",
             "sentiment": "POSITIVE",
-            "confidence": 0.93
+            "confidence": 0.84
         },
         {
-            "segment": "Tomorrow's getting harder, make no mistake Love can't even help you, gotta make your own breaks",
+            "segment": "Love can't even help you, gotta make your own breaks",
             "sentiment": "NEGATIVE",
-            "confidence": 0.8
+            "confidence": 0.7
         },
         {
             "segment": "Better stand tall when they're calling you out Don't bend, don't break, feel it, don't back down",
             "sentiment": "POSITIVE",
-            "confidence": 0.88
+            "confidence": 0.87
         }
     ],
     "chapters": [
         {
-            "headline": "Defiance and Determination",
-            "summary": "The speaker emphasizes the importance of living authentically and courageously, urging listeners to be bold and assertive in the face of adversity.",
+            "headline": "It's My Life",
+            "summary": "A declaration of living life on one's own terms, emphasizing resilience and determination.",
             "start": 0,
-            "end": 200
+            "end": 320
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

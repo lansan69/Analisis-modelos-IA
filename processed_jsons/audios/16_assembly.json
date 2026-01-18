@@ -1,0 +1,384 @@
+{
+    "id": "4813f5af-e344-4669-beb3-7ffb91f24f7d",
+    "status": "completed",
+    "text": "¿Cuánto haces de contenido? Caray, te puedo decir que jodido trato dos videos al día. Dos videos al día mínimo grabados. OK, pero. Realcitos. Ahorita estamos agarrando una estructura porque hace. ¿Qué fue? Dos semanas. Justamente Choco fue el que me dijo empieza a escribir y empieza a escribir.",
+    "words": [
+        {
+            "text": "¿Cuánto",
+            "start": 560,
+            "end": 800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "haces",
+            "start": 800,
+            "end": 1120,
+            "confidence": 0.9909668,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 1120,
+            "end": 1200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "contenido?",
+            "start": 1200,
+            "end": 1840,
+            "confidence": 0.88378906,
+            "speaker": "A"
+        },
+        {
+            "text": "Caray,",
+            "start": 2400,
+            "end": 3120,
+            "confidence": 0.9758301,
+            "speaker": "B"
+        },
+        {
+            "text": "te",
+            "start": 3120,
+            "end": 3360,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "puedo",
+            "start": 3360,
+            "end": 3680,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "decir",
+            "start": 3680,
+            "end": 3880,
+            "confidence": 0.998291,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 3880,
+            "end": 4120,
+            "confidence": 0.7548828,
+            "speaker": "B"
+        },
+        {
+            "text": "jodido",
+            "start": 4120,
+            "end": 4880,
+            "confidence": 0.90478516,
+            "speaker": "B"
+        },
+        {
+            "text": "trato",
+            "start": 4880,
+            "end": 5400,
+            "confidence": 0.9343262,
+            "speaker": "B"
+        },
+        {
+            "text": "dos",
+            "start": 5400,
+            "end": 5640,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "videos",
+            "start": 5640,
+            "end": 6080,
+            "confidence": 0.8112793,
+            "speaker": "B"
+        },
+        {
+            "text": "al",
+            "start": 6080,
+            "end": 6160,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "día.",
+            "start": 6160,
+            "end": 6400,
+            "confidence": 0.9770508,
+            "speaker": "B"
+        },
+        {
+            "text": "Dos",
+            "start": 6720,
+            "end": 7040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "videos",
+            "start": 7040,
+            "end": 7440,
+            "confidence": 0.9086914,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 7440,
+            "end": 7520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "día",
+            "start": 7520,
+            "end": 7760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "mínimo",
+            "start": 7920,
+            "end": 8480,
+            "confidence": 0.99645996,
+            "speaker": "A"
+        },
+        {
+            "text": "grabados.",
+            "start": 8480,
+            "end": 9360,
+            "confidence": 0.9650879,
+            "speaker": "A"
+        },
+        {
+            "text": "OK,",
+            "start": 9680,
+            "end": 10320,
+            "confidence": 0.8991699,
+            "speaker": "A"
+        },
+        {
+            "text": "pero.",
+            "start": 10480,
+            "end": 10840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Realcitos.",
+            "start": 10840,
+            "end": 12000,
+            "confidence": 0.87231445,
+            "speaker": "B"
+        },
+        {
+            "text": "Ahorita",
+            "start": 12080,
+            "end": 12480,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "estamos",
+            "start": 12480,
+            "end": 12800,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "agarrando",
+            "start": 12800,
+            "end": 13360,
+            "confidence": 0.91240233,
+            "speaker": "B"
+        },
+        {
+            "text": "una",
+            "start": 13360,
+            "end": 13480,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "estructura",
+            "start": 13480,
+            "end": 13920,
+            "confidence": 0.9842122,
+            "speaker": "B"
+        },
+        {
+            "text": "porque",
+            "start": 14000,
+            "end": 14400,
+            "confidence": 0.8354492,
+            "speaker": "B"
+        },
+        {
+            "text": "hace.",
+            "start": 15680,
+            "end": 16080,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "¿Qué",
+            "start": 16320,
+            "end": 16600,
+            "confidence": 0.9399414,
+            "speaker": "B"
+        },
+        {
+            "text": "fue?",
+            "start": 16600,
+            "end": 16760,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Dos",
+            "start": 16760,
+            "end": 16960,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "semanas.",
+            "start": 16960,
+            "end": 17520,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Justamente",
+            "start": 18560,
+            "end": 19000,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Choco",
+            "start": 19000,
+            "end": 19760,
+            "confidence": 0.7807617,
+            "speaker": "B"
+        },
+        {
+            "text": "fue",
+            "start": 19760,
+            "end": 19920,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "el",
+            "start": 19920,
+            "end": 20000,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 20000,
+            "end": 20080,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 20080,
+            "end": 20160,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "dijo",
+            "start": 20160,
+            "end": 20440,
+            "confidence": 0.78100586,
+            "speaker": "B"
+        },
+        {
+            "text": "empieza",
+            "start": 20440,
+            "end": 21080,
+            "confidence": 0.92252606,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 21080,
+            "end": 21200,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "escribir",
+            "start": 21200,
+            "end": 21520,
+            "confidence": 0.9998779,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 21520,
+            "end": 21600,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "empieza",
+            "start": 21600,
+            "end": 22080,
+            "confidence": 0.9897461,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 22080,
+            "end": 22160,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "escribir.",
+            "start": 22160,
+            "end": 22510,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "¿Cuánto haces de contenido?",
+            "start": 560,
+            "end": 1840,
+            "confidence": 0.96868896,
+            "speaker": "A"
+        },
+        {
+            "text": "Caray, te puedo decir que jodido trato dos videos al día.",
+            "start": 2400,
+            "end": 6400,
+            "confidence": 0.941495,
+            "speaker": "B"
+        },
+        {
+            "text": "Dos videos al día mínimo grabados. OK, pero.",
+            "start": 6720,
+            "end": 10840,
+            "confidence": 0.9711151,
+            "speaker": "A"
+        },
+        {
+            "text": "Realcitos. Ahorita estamos agarrando una estructura porque hace. ¿Qué fue? Dos semanas. Justamente Choco fue el que me dijo empieza a escribir y empieza a escribir.",
+            "start": 10840,
+            "end": 22510,
+            "confidence": 0.96208024,
+            "speaker": "B"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 23,
+    "language_code": "es"
+}

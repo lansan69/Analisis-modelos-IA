@@ -1,0 +1,1700 @@
+{
+    "id": "271e9806-fc9a-463c-933c-f7c0b959072e",
+    "status": "completed",
+    "text": "Cuando te pones ya a jugar con los niños grandes del mercado que te das cuenta que está bonito pero a la vez te pueden endeudar a la verga, o sea, por ejemplo, cuando entramos con gran malo a Oxxo, por ejemplo, uno dice güey, qué gran noticia estar en Oxxo, ¿No? Y sí, la neta sí es la tienda más grande de México, todos queremos estar en Oxxo pero güey, si le quedas mal a don Oxxo te va a cobrar cada simulación de venta que no se hizo por tu culpa, o sea, por ejemplo, ellos te manejan mucho el concepto de espacio de anaquel Claro, claro, que es el espacio de la repisa Sí, entonces si ellos ya te destinaron un lugar para tu producto, se acabó y luego tú ya no me diste bien tu pedo, ya no hay producción, ya no pudiste rellenarles el anaquel ellos van a decir, pues yo creo que en un día se hubieran vendido 20 entonces esas tienes que pagármelas por 250 tiendas en las que te las pusimos, ¿Qué pasa? No mames güey, pero cómo crees que 20 si no se ha vendido ninguna, qué estimación tan estúpida paré producción porque no estaba vendiendo entonces sí, jugar con los niños grandes está bonito pero también es, también son de problemas grandes no, no es ajá, sí, sí güey, ahora que fuimos otra vez a la comida de los tres.",
+    "words": [
+        {
+            "text": "Cuando",
+            "start": 240,
+            "end": 400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 400,
+            "end": 560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pones",
+            "start": 560,
+            "end": 760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 760,
+            "end": 920,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 920,
+            "end": 1080,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "jugar",
+            "start": 1080,
+            "end": 1360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 1360,
+            "end": 1480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 1480,
+            "end": 1640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "niños",
+            "start": 1640,
+            "end": 2120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "grandes",
+            "start": 2120,
+            "end": 2520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 2520,
+            "end": 2640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mercado",
+            "start": 2640,
+            "end": 3200,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 3680,
+            "end": 3960,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 3960,
+            "end": 4120,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "das",
+            "start": 4120,
+            "end": 4280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cuenta",
+            "start": 4280,
+            "end": 4480,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 4480,
+            "end": 4720,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 4720,
+            "end": 4960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "bonito",
+            "start": 4960,
+            "end": 5360,
+            "confidence": 0.97631836,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 5760,
+            "end": 6080,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 6080,
+            "end": 6240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 6240,
+            "end": 6320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vez",
+            "start": 6320,
+            "end": 6440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 6440,
+            "end": 6600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pueden",
+            "start": 6600,
+            "end": 6960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "endeudar",
+            "start": 6960,
+            "end": 7600,
+            "confidence": 0.96435547,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 7600,
+            "end": 7760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 7760,
+            "end": 7960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "verga,",
+            "start": 7960,
+            "end": 8480,
+            "confidence": 0.8654785,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 8880,
+            "end": 9200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sea,",
+            "start": 9200,
+            "end": 9360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 9360,
+            "end": 9440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ejemplo,",
+            "start": 9440,
+            "end": 9920,
+            "confidence": 0.98913574,
+            "speaker": "A"
+        },
+        {
+            "text": "cuando",
+            "start": 9920,
+            "end": 10200,
+            "confidence": 0.6513672,
+            "speaker": "A"
+        },
+        {
+            "text": "entramos",
+            "start": 10200,
+            "end": 10600,
+            "confidence": 0.9391276,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 10600,
+            "end": 10840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "gran",
+            "start": 10840,
+            "end": 11080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "malo",
+            "start": 11080,
+            "end": 11600,
+            "confidence": 0.9523926,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 11600,
+            "end": 11760,
+            "confidence": 0.6513672,
+            "speaker": "A"
+        },
+        {
+            "text": "Oxxo,",
+            "start": 11760,
+            "end": 12560,
+            "confidence": 0.8807373,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 12560,
+            "end": 12800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ejemplo,",
+            "start": 12800,
+            "end": 13120,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "uno",
+            "start": 13120,
+            "end": 13240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dice",
+            "start": 13240,
+            "end": 13480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "güey,",
+            "start": 13480,
+            "end": 13920,
+            "confidence": 0.79797363,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 13920,
+            "end": 14120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "gran",
+            "start": 14120,
+            "end": 14320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "noticia",
+            "start": 14320,
+            "end": 14680,
+            "confidence": 0.9682617,
+            "speaker": "A"
+        },
+        {
+            "text": "estar",
+            "start": 14680,
+            "end": 14960,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 14960,
+            "end": 15040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Oxxo,",
+            "start": 15040,
+            "end": 15440,
+            "confidence": 0.9986572,
+            "speaker": "A"
+        },
+        {
+            "text": "¿No?",
+            "start": 15440,
+            "end": 15560,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 15560,
+            "end": 15720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "sí,",
+            "start": 15720,
+            "end": 15999,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 15999,
+            "end": 16160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "neta",
+            "start": 16160,
+            "end": 16320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sí",
+            "start": 16320,
+            "end": 16680,
+            "confidence": 0.88842773,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 16680,
+            "end": 16880,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 16880,
+            "end": 16960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tienda",
+            "start": 16960,
+            "end": 17120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 17120,
+            "end": 17200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "grande",
+            "start": 17200,
+            "end": 17440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 17440,
+            "end": 17520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "México,",
+            "start": 17520,
+            "end": 17760,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "todos",
+            "start": 17760,
+            "end": 17960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "queremos",
+            "start": 17960,
+            "end": 18200,
+            "confidence": 0.9710286,
+            "speaker": "A"
+        },
+        {
+            "text": "estar",
+            "start": 18200,
+            "end": 18400,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 18400,
+            "end": 18480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Oxxo",
+            "start": 18480,
+            "end": 19080,
+            "confidence": 0.9276123,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 19080,
+            "end": 19280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "güey,",
+            "start": 19280,
+            "end": 19800,
+            "confidence": 0.72875977,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 19800,
+            "end": 20040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 20040,
+            "end": 20160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "quedas",
+            "start": 20160,
+            "end": 20520,
+            "confidence": 0.9444987,
+            "speaker": "A"
+        },
+        {
+            "text": "mal",
+            "start": 20520,
+            "end": 20680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 20680,
+            "end": 20800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "don",
+            "start": 20800,
+            "end": 21040,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "Oxxo",
+            "start": 21040,
+            "end": 21840,
+            "confidence": 0.9448242,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 22080,
+            "end": 22320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "va",
+            "start": 22320,
+            "end": 22400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 22400,
+            "end": 22560,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "cobrar",
+            "start": 22560,
+            "end": 23040,
+            "confidence": 0.90966797,
+            "speaker": "A"
+        },
+        {
+            "text": "cada",
+            "start": 23200,
+            "end": 23600,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "simulación",
+            "start": 23920,
+            "end": 24800,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 24800,
+            "end": 24880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "venta",
+            "start": 24880,
+            "end": 25120,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 25120,
+            "end": 25320,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 25320,
+            "end": 25480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 25480,
+            "end": 25600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "hizo",
+            "start": 25600,
+            "end": 25840,
+            "confidence": 0.97477216,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 25840,
+            "end": 25960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tu",
+            "start": 25960,
+            "end": 26080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "culpa,",
+            "start": 26080,
+            "end": 26480,
+            "confidence": 0.9199219,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 26480,
+            "end": 26800,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "sea,",
+            "start": 26800,
+            "end": 26960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 26960,
+            "end": 27080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ejemplo,",
+            "start": 27080,
+            "end": 27360,
+            "confidence": 0.9991455,
+            "speaker": "A"
+        },
+        {
+            "text": "ellos",
+            "start": 29050,
+            "end": 29210,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 29210,
+            "end": 29330,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "manejan",
+            "start": 29330,
+            "end": 29690,
+            "confidence": 0.9197998,
+            "speaker": "A"
+        },
+        {
+            "text": "mucho",
+            "start": 29690,
+            "end": 29810,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 29810,
+            "end": 29970,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "concepto",
+            "start": 29970,
+            "end": 30290,
+            "confidence": 0.9350586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 30290,
+            "end": 30530,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "espacio",
+            "start": 30530,
+            "end": 30930,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 30930,
+            "end": 31050,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "anaquel",
+            "start": 31050,
+            "end": 31770,
+            "confidence": 0.9017334,
+            "speaker": "A"
+        },
+        {
+            "text": "Claro,",
+            "start": 31930,
+            "end": 32330,
+            "confidence": 0.99690753,
+            "speaker": "A"
+        },
+        {
+            "text": "claro,",
+            "start": 32330,
+            "end": 32530,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 32530,
+            "end": 32810,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 32890,
+            "end": 33170,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 33170,
+            "end": 33290,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "espacio",
+            "start": 33290,
+            "end": 33490,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 33490,
+            "end": 33610,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 33610,
+            "end": 33770,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "repisa",
+            "start": 33770,
+            "end": 34530,
+            "confidence": 0.96028644,
+            "speaker": "A"
+        },
+        {
+            "text": "Sí,",
+            "start": 34530,
+            "end": 34970,
+            "confidence": 0.96435547,
+            "speaker": "A"
+        },
+        {
+            "text": "entonces",
+            "start": 35130,
+            "end": 35690,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 36090,
+            "end": 36490,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "ellos",
+            "start": 36570,
+            "end": 36930,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 36930,
+            "end": 37090,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 37090,
+            "end": 37210,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "destinaron",
+            "start": 37210,
+            "end": 37730,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 37730,
+            "end": 37850,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "lugar",
+            "start": 37850,
+            "end": 38090,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 38090,
+            "end": 38210,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "tu",
+            "start": 38210,
+            "end": 38410,
+            "confidence": 0.8520508,
+            "speaker": "A"
+        },
+        {
+            "text": "producto,",
+            "start": 38410,
+            "end": 38970,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 39290,
+            "end": 39530,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "acabó",
+            "start": 39530,
+            "end": 40170,
+            "confidence": 0.90738934,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 40170,
+            "end": 40330,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "luego",
+            "start": 40330,
+            "end": 40610,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tú",
+            "start": 40610,
+            "end": 40810,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 40810,
+            "end": 40930,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 40930,
+            "end": 41090,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 41090,
+            "end": 41250,
+            "confidence": 0.49926758,
+            "speaker": "A"
+        },
+        {
+            "text": "diste",
+            "start": 41250,
+            "end": 41610,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "bien",
+            "start": 41610,
+            "end": 41690,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "tu",
+            "start": 41690,
+            "end": 41810,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pedo,",
+            "start": 41810,
+            "end": 42050,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 42050,
+            "end": 42170,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 42170,
+            "end": 42290,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "hay",
+            "start": 42290,
+            "end": 42450,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "producción,",
+            "start": 42450,
+            "end": 42730,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 42730,
+            "end": 42930,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 42930,
+            "end": 43050,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pudiste",
+            "start": 43050,
+            "end": 43370,
+            "confidence": 0.96028644,
+            "speaker": "A"
+        },
+        {
+            "text": "rellenarles",
+            "start": 43370,
+            "end": 44010,
+            "confidence": 0.92451173,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 44010,
+            "end": 44130,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "anaquel",
+            "start": 44130,
+            "end": 44890,
+            "confidence": 0.98083496,
+            "speaker": "A"
+        },
+        {
+            "text": "ellos",
+            "start": 44970,
+            "end": 45370,
+            "confidence": 0.8654785,
+            "speaker": "A"
+        },
+        {
+            "text": "van",
+            "start": 45370,
+            "end": 45530,
+            "confidence": 0.9523926,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 45530,
+            "end": 45650,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "decir,",
+            "start": 45650,
+            "end": 46010,
+            "confidence": 0.90844727,
+            "speaker": "A"
+        },
+        {
+            "text": "pues",
+            "start": 46810,
+            "end": 47130,
+            "confidence": 0.95214844,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 47130,
+            "end": 47250,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "creo",
+            "start": 47250,
+            "end": 47450,
+            "confidence": 0.9968262,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 47450,
+            "end": 47530,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 47530,
+            "end": 47610,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 47610,
+            "end": 47690,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "día",
+            "start": 47690,
+            "end": 47850,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 47850,
+            "end": 48090,
+            "confidence": 0.77490234,
+            "speaker": "A"
+        },
+        {
+            "text": "hubieran",
+            "start": 48090,
+            "end": 48490,
+            "confidence": 0.9683838,
+            "speaker": "A"
+        },
+        {
+            "text": "vendido",
+            "start": 48490,
+            "end": 48850,
+            "confidence": 0.99527997,
+            "speaker": "A"
+        },
+        {
+            "text": "20",
+            "start": 48850,
+            "end": 49290,
+            "confidence": 0.99023,
+            "speaker": "A"
+        },
+        {
+            "text": "entonces",
+            "start": 49450,
+            "end": 49930,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esas",
+            "start": 49930,
+            "end": 50370,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "tienes",
+            "start": 50370,
+            "end": 50570,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 50570,
+            "end": 50650,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pagármelas",
+            "start": 50650,
+            "end": 51690,
+            "confidence": 0.92613,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 52250,
+            "end": 52650,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "250",
+            "start": 52650,
+            "end": 53370,
+            "confidence": 0.93787,
+            "speaker": "A"
+        },
+        {
+            "text": "tiendas",
+            "start": 53370,
+            "end": 53690,
+            "confidence": 0.9746094,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 53690,
+            "end": 53770,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 53770,
+            "end": 53850,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 53850,
+            "end": 54090,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "te",
+            "start": 54570,
+            "end": 54810,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 54810,
+            "end": 54930,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pusimos,",
+            "start": 54930,
+            "end": 55250,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Qué",
+            "start": 55250,
+            "end": 55410,
+            "confidence": 0.62158203,
+            "speaker": "A"
+        },
+        {
+            "text": "pasa?",
+            "start": 55410,
+            "end": 55930,
+            "confidence": 0.9321289,
+            "speaker": "A"
+        },
+        {
+            "text": "No",
+            "start": 56090,
+            "end": 56370,
+            "confidence": 0.7758789,
+            "speaker": "A"
+        },
+        {
+            "text": "mames",
+            "start": 56370,
+            "end": 56770,
+            "confidence": 0.97998047,
+            "speaker": "A"
+        },
+        {
+            "text": "güey,",
+            "start": 56770,
+            "end": 57330,
+            "confidence": 0.84484863,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 57330,
+            "end": 57690,
+            "confidence": 0.9238281,
+            "speaker": "A"
+        },
+        {
+            "text": "cómo",
+            "start": 57770,
+            "end": 58090,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "crees",
+            "start": 58090,
+            "end": 58250,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 58250,
+            "end": 58370,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "20",
+            "start": 58370,
+            "end": 58610,
+            "confidence": 0.96826,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 58610,
+            "end": 58730,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 58730,
+            "end": 58850,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 58850,
+            "end": 58970,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "ha",
+            "start": 58970,
+            "end": 59050,
+            "confidence": 0.88964844,
+            "speaker": "A"
+        },
+        {
+            "text": "vendido",
+            "start": 59050,
+            "end": 59290,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ninguna,",
+            "start": 59290,
+            "end": 59595,
+            "confidence": 0.9878906,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 59595,
+            "end": 59670,
+            "confidence": 0.92333984,
+            "speaker": "A"
+        },
+        {
+            "text": "estimación",
+            "start": 59670,
+            "end": 60070,
+            "confidence": 0.9873047,
+            "speaker": "A"
+        },
+        {
+            "text": "tan",
+            "start": 60070,
+            "end": 60270,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "estúpida",
+            "start": 60270,
+            "end": 60790,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "paré",
+            "start": 61190,
+            "end": 61750,
+            "confidence": 0.9404297,
+            "speaker": "A"
+        },
+        {
+            "text": "producción",
+            "start": 61750,
+            "end": 61990,
+            "confidence": 0.8886719,
+            "speaker": "A"
+        },
+        {
+            "text": "porque",
+            "start": 61990,
+            "end": 62190,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 62190,
+            "end": 62350,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "estaba",
+            "start": 62350,
+            "end": 62630,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "vendiendo",
+            "start": 62630,
+            "end": 63190,
+            "confidence": 0.882487,
+            "speaker": "A"
+        },
+        {
+            "text": "entonces",
+            "start": 63510,
+            "end": 64030,
+            "confidence": 0.9842122,
+            "speaker": "A"
+        },
+        {
+            "text": "sí,",
+            "start": 64030,
+            "end": 64310,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "jugar",
+            "start": 64310,
+            "end": 64550,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 64550,
+            "end": 64630,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 64630,
+            "end": 64750,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "niños",
+            "start": 64750,
+            "end": 65110,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "grandes",
+            "start": 65110,
+            "end": 65470,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 65470,
+            "end": 65670,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "bonito",
+            "start": 65670,
+            "end": 66070,
+            "confidence": 0.9885254,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 66470,
+            "end": 66830,
+            "confidence": 0.9628906,
+            "speaker": "A"
+        },
+        {
+            "text": "también",
+            "start": 66830,
+            "end": 67190,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es,",
+            "start": 67270,
+            "end": 67630,
+            "confidence": 0.9243164,
+            "speaker": "A"
+        },
+        {
+            "text": "también",
+            "start": 67630,
+            "end": 67910,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "son",
+            "start": 67910,
+            "end": 68110,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 68110,
+            "end": 68230,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "problemas",
+            "start": 68230,
+            "end": 68470,
+            "confidence": 0.99438477,
+            "speaker": "A"
+        },
+        {
+            "text": "grandes",
+            "start": 68470,
+            "end": 68870,
+            "confidence": 0.9650879,
+            "speaker": "A"
+        },
+        {
+            "text": "no,",
+            "start": 68870,
+            "end": 68950,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 68950,
+            "end": 69070,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 69070,
+            "end": 69310,
+            "confidence": 0.95214844,
+            "speaker": "A"
+        },
+        {
+            "text": "ajá,",
+            "start": 69310,
+            "end": 69630,
+            "confidence": 0.72721356,
+            "speaker": "A"
+        },
+        {
+            "text": "sí,",
+            "start": 69630,
+            "end": 69830,
+            "confidence": 0.92456055,
+            "speaker": "A"
+        },
+        {
+            "text": "sí",
+            "start": 69830,
+            "end": 70030,
+            "confidence": 0.95703125,
+            "speaker": "A"
+        },
+        {
+            "text": "güey,",
+            "start": 70030,
+            "end": 70230,
+            "confidence": 0.81030273,
+            "speaker": "A"
+        },
+        {
+            "text": "ahora",
+            "start": 70230,
+            "end": 70430,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 70430,
+            "end": 70550,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "fuimos",
+            "start": 70550,
+            "end": 70670,
+            "confidence": 0.90722656,
+            "speaker": "A"
+        },
+        {
+            "text": "otra",
+            "start": 70670,
+            "end": 70870,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vez",
+            "start": 70870,
+            "end": 70950,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 70950,
+            "end": 71030,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 71030,
+            "end": 71110,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "comida",
+            "start": 71110,
+            "end": 71310,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 71310,
+            "end": 71430,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 71430,
+            "end": 71550,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "tres.",
+            "start": 71550,
+            "end": 71910,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Cuando te pones ya a jugar con los niños grandes del mercado que te das cuenta que está bonito pero a la vez te pueden endeudar a la verga, o sea, por ejemplo, cuando entramos con gran malo a Oxxo, por ejemplo, uno dice güey, qué gran noticia estar en Oxxo, ¿No? Y sí, la neta sí es la tienda más grande de México, todos queremos estar en Oxxo pero güey, si le quedas mal a don Oxxo te va a cobrar cada simulación de venta que no se hizo por tu culpa, o sea, por ejemplo, ellos te manejan mucho el concepto de espacio de anaquel Claro, claro, que es el espacio de la repisa Sí, entonces si ellos ya te destinaron un lugar para tu producto, se acabó y luego tú ya no me diste bien tu pedo, ya no hay producción, ya no pudiste rellenarles el anaquel ellos van a decir, pues yo creo que en un día se hubieran vendido 20 entonces esas tienes que pagármelas por 250 tiendas en las que te las pusimos, ¿Qué pasa? No mames güey, pero cómo crees que 20 si no se ha vendido ninguna, qué estimación tan estúpida paré producción porque no estaba vendiendo entonces sí, jugar con los niños grandes está bonito pero también es, también son de problemas grandes no, no es ajá, sí, sí güey, ahora que fuimos otra vez a la comida de los tres.",
+            "start": 240,
+            "end": 71910,
+            "confidence": 0.9651682,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 72,
+    "language_code": "es"
+}

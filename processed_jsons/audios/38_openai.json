@@ -1,0 +1,516 @@
+{
+    "text": "¿Dónde está el 1222? Aquí en Comuna. Real Paraíso. Perfecto, muy amable. Gracias por validar los datos en línea. Primeramente le indico el coste administrativo de la tarjeta. Este es de 0,097 USD mensual y aproximadamente 3.500 pesos solo se utiliza la tarjeta. Además cuenta con un 20% de cuento válido en la primera compra. Y ya forma parte del Club de Beneficios de Fashion donde pueden hacer sus cuentos en beneficiospp.cl. Gracias.",
+    "audio_duration": 30.110000610351562,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "¿Dónde",
+            "start": 2.2200000286102295,
+            "end": 2.700000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "está",
+            "start": 2.700000047683716,
+            "end": 3.180000066757202,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 3.180000066757202,
+            "end": 4.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "1222",
+            "start": 4.199999809265137,
+            "end": 5.059999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "Aquí",
+            "start": 6.300000190734863,
+            "end": 6.78000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 6.78000020980835,
+            "end": 6.840000152587891,
+            "confidence": 0.99
+        },
+        {
+            "text": "Comuna",
+            "start": 6.840000152587891,
+            "end": 7.139999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "Real",
+            "start": 8.119999885559082,
+            "end": 8.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "Paraíso",
+            "start": 8.460000038146973,
+            "end": 8.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "Perfecto",
+            "start": 11.140000343322754,
+            "end": 11.619999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 11.640000343322754,
+            "end": 11.819999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "amable",
+            "start": 11.819999694824219,
+            "end": 12.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "Gracias",
+            "start": 12.119999885559082,
+            "end": 12.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 12.34000015258789,
+            "end": 12.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "validar",
+            "start": 12.520000457763672,
+            "end": 12.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 12.84000015258789,
+            "end": 13.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "datos",
+            "start": 13.220000267028809,
+            "end": 13.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 13.220000267028809,
+            "end": 13.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "línea",
+            "start": 13.520000457763672,
+            "end": 13.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "Primeramente",
+            "start": 13.699999809265137,
+            "end": 14.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 14.0,
+            "end": 14.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "indico",
+            "start": 14.300000190734863,
+            "end": 14.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 14.300000190734863,
+            "end": 14.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "coste",
+            "start": 14.539999961853027,
+            "end": 14.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "administrativo",
+            "start": 14.600000381469727,
+            "end": 15.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 15.199999809265137,
+            "end": 15.359999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 15.359999656677246,
+            "end": 15.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 15.720000267028809,
+            "end": 15.819999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Este",
+            "start": 16.079999923706055,
+            "end": 16.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 16.079999923706055,
+            "end": 16.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 16.139999389648438,
+            "end": 16.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "0",
+            "start": 16.299999237060547,
+            "end": 16.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "097",
+            "start": 16.459999084472656,
+            "end": 17.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "USD",
+            "start": 17.579999923706055,
+            "end": 17.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "mensual",
+            "start": 17.780000686645508,
+            "end": 18.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 18.239999771118164,
+            "end": 18.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "aproximadamente",
+            "start": 18.31999969482422,
+            "end": 18.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "3",
+            "start": 18.940000534057617,
+            "end": 19.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "500",
+            "start": 19.219999313354492,
+            "end": 19.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "pesos",
+            "start": 19.6200008392334,
+            "end": 19.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "solo",
+            "start": 19.8799991607666,
+            "end": 20.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 20.139999389648438,
+            "end": 20.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "utiliza",
+            "start": 20.31999969482422,
+            "end": 20.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 20.540000915527344,
+            "end": 20.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 20.979999542236328,
+            "end": 21.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "Además",
+            "start": 21.860000610351562,
+            "end": 21.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 21.920000076293945,
+            "end": 22.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 22.15999984741211,
+            "end": 22.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 22.3799991607666,
+            "end": 22.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "20",
+            "start": 22.459999084472656,
+            "end": 22.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 22.760000228881836,
+            "end": 22.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 22.979999542236328,
+            "end": 23.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuento",
+            "start": 23.15999984741211,
+            "end": 23.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "válido",
+            "start": 23.299999237060547,
+            "end": 23.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 23.540000915527344,
+            "end": 23.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 23.68000030517578,
+            "end": 24.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "primera",
+            "start": 24.020000457763672,
+            "end": 24.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "compra",
+            "start": 24.020000457763672,
+            "end": 24.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 24.760000228881836,
+            "end": 24.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 24.8799991607666,
+            "end": 25.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "forma",
+            "start": 25.100000381469727,
+            "end": 25.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "parte",
+            "start": 25.15999984741211,
+            "end": 25.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 25.34000015258789,
+            "end": 25.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "Club",
+            "start": 25.559999465942383,
+            "end": 25.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 25.700000762939453,
+            "end": 26.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "Beneficios",
+            "start": 26.020000457763672,
+            "end": 26.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 26.18000030517578,
+            "end": 26.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "Fashion",
+            "start": 26.420000076293945,
+            "end": 26.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "donde",
+            "start": 26.65999984741211,
+            "end": 26.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "pueden",
+            "start": 26.860000610351562,
+            "end": 27.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "hacer",
+            "start": 27.139999389648438,
+            "end": 27.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "sus",
+            "start": 27.34000015258789,
+            "end": 27.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuentos",
+            "start": 27.600000381469727,
+            "end": 27.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 27.739999771118164,
+            "end": 27.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "beneficiospp",
+            "start": 27.8799991607666,
+            "end": 28.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "cl",
+            "start": 28.459999084472656,
+            "end": 29.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "Gracias",
+            "start": 29.100000381469727,
+            "end": 29.739999771118164,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "¿Dónde está el 1222? Aquí en Comuna. Real Paraíso.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Perfecto, muy amable.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        },
+        {
+            "segment": "Gracias por validar los datos en línea.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Primeramente le indico el coste administrativo de la tarjeta. Este es de 0,097 USD mensual y aproximadamente 3.500 pesos solo se utiliza la tarjeta.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Además cuenta con un 20% de cuento válido en la primera compra.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.88
+        },
+        {
+            "segment": "Y ya forma parte del Club de Beneficios de Fashion donde pueden hacer sus cuentos en beneficiospp.cl.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.82
+        },
+        {
+            "segment": "Gracias.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Introducción al Servicio",
+            "summary": "Descripción sobre la ubicación y proceso de validación de tarjeta.",
+            "start": 0,
+            "end": 30
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

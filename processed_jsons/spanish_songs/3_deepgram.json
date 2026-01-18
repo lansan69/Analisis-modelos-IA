@@ -1,26 +1,28 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "dba4cc25-adf3-4c13-9481-6f7f7d6281aa",
+        "request_id": "6bfb618a-bfac-43bb-a39a-86950baeb319",
         "sha256": "e3cd44cf33af0a729acc122d7f5e87412db33b234606fe0edd7f1be3710670b0",
-        "created": "2026-01-17T23:21:21.528000Z",
+        "created": "2026-01-18T00:43:35.032000Z",
         "duration": 256.392,
         "channels": 1.0,
         "models": [
-            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
         ],
         "model_info": {
-            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
                 "name": "2-general-nova",
-                "version": "2024-01-06.5664",
+                "version": "2023-12-14.34983",
                 "arch": "nova-2"
             }
         },
-        "sentiment_info": {
-            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
-            "input_tokens": 0.0,
-            "output_tokens": 0.0
-        }
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
     },
     "results": {
         "channels": [
@@ -38,13 +40,6 @@
                 ]
             }
         ],
-        "utterances": [],
-        "sentiments": {
-            "segments": [],
-            "average": {
-                "sentiment": "neutral",
-                "sentiment_score": 0.0
-            }
-        }
+        "utterances": []
     }
 }

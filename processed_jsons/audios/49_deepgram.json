@@ -1,0 +1,1492 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "8f9d9b86-7bf2-4c05-82b6-37ec4a5d2062",
+        "sha256": "6f7bd3c50fc43dd40f0756e6a5cf7382b8768539c8e0157c0a120b8db795d311",
+        "created": "2026-01-18T00:13:42.132000Z",
+        "duration": 31.035812,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "¿Qué? Deme su El, espera, que tengo el Gmail, déjame déjame decirte, es que te lo digo, no, es que es arroba Hotmail. No, Cris guion bajo. Cris guion bajo, sí. Telmex. ¿Telmex? Arroba Hotmail punto com. Perfecto. Y por último, indíqueme su dirección particular. Pareny del Rosal. Ya. 45, 49.",
+                        "confidence": 0.9057888,
+                        "words": [
+                            {
+                                "word": "qué",
+                                "start": 0.48,
+                                "end": 0.98,
+                                "confidence": 0.8958728,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6747485,
+                                "punctuated_word": "¿Qué?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "deme",
+                                "start": 1.92,
+                                "end": 2.24,
+                                "confidence": 0.7538029,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6747485,
+                                "punctuated_word": "Deme",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "su",
+                                "start": 2.24,
+                                "end": 2.3999999,
+                                "confidence": 0.26729497,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6747485,
+                                "punctuated_word": "su",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "el",
+                                "start": 3.6799998,
+                                "end": 3.9199998,
+                                "confidence": 0.76704395,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "El,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "espera",
+                                "start": 3.9199998,
+                                "end": 4.08,
+                                "confidence": 0.6149826,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "espera,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 4.08,
+                                "end": 4.16,
+                                "confidence": 0.603975,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tengo",
+                                "start": 4.16,
+                                "end": 4.4,
+                                "confidence": 0.99552345,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "tengo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "el",
+                                "start": 4.4,
+                                "end": 4.48,
+                                "confidence": 0.97581744,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "el",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "gmail",
+                                "start": 4.48,
+                                "end": 4.88,
+                                "confidence": 0.559585,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "Gmail,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "déjame",
+                                "start": 4.88,
+                                "end": 5.12,
+                                "confidence": 0.34472057,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "déjame",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "déjame",
+                                "start": 5.12,
+                                "end": 5.62,
+                                "confidence": 0.554121,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "déjame",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "decirte",
+                                "start": 5.68,
+                                "end": 5.92,
+                                "confidence": 0.592493,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "decirte,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 5.92,
+                                "end": 6.0,
+                                "confidence": 0.21184403,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 6.0,
+                                "end": 6.16,
+                                "confidence": 0.98481166,
+                                "speaker": 0,
+                                "speaker_confidence": 0.632071,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "te",
+                                "start": 6.16,
+                                "end": 6.24,
+                                "confidence": 0.844036,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "te",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "lo",
+                                "start": 6.24,
+                                "end": 6.56,
+                                "confidence": 0.9328167,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "lo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "digo",
+                                "start": 6.56,
+                                "end": 7.06,
+                                "confidence": 0.8664502,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "digo,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 7.3599997,
+                                "end": 7.6,
+                                "confidence": 0.76497114,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "no,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 7.6,
+                                "end": 7.8399997,
+                                "confidence": 0.19023295,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 7.8399997,
+                                "end": 7.9199996,
+                                "confidence": 0.28901902,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 7.9199996,
+                                "end": 8.08,
+                                "confidence": 0.2692101,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "arroba",
+                                "start": 8.08,
+                                "end": 8.24,
+                                "confidence": 0.239116,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "arroba",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hotmail",
+                                "start": 8.24,
+                                "end": 8.74,
+                                "confidence": 0.8902199,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "Hotmail.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 9.2,
+                                "end": 9.7,
+                                "confidence": 0.94500536,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "No,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "cris",
+                                "start": 10.08,
+                                "end": 10.32,
+                                "confidence": 0.890826,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "Cris",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "guion",
+                                "start": 10.32,
+                                "end": 10.639999,
+                                "confidence": 0.95456606,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "guion",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "bajo",
+                                "start": 10.639999,
+                                "end": 11.139999,
+                                "confidence": 0.9935622,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7867104,
+                                "punctuated_word": "bajo.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "cris",
+                                "start": 11.44,
+                                "end": 11.94,
+                                "confidence": 0.87875384,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53404504,
+                                "punctuated_word": "Cris",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "guion",
+                                "start": 12.24,
+                                "end": 12.559999,
+                                "confidence": 0.9980811,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53404504,
+                                "punctuated_word": "guion",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "bajo",
+                                "start": 12.559999,
+                                "end": 13.059999,
+                                "confidence": 0.885338,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53404504,
+                                "punctuated_word": "bajo,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "sí",
+                                "start": 13.599999,
+                                "end": 14.0,
+                                "confidence": 0.99450046,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5820369,
+                                "punctuated_word": "sí.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "telmex",
+                                "start": 14.0,
+                                "end": 14.5,
+                                "confidence": 0.9665583,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5820369,
+                                "punctuated_word": "Telmex.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "telmex",
+                                "start": 15.585,
+                                "end": 16.085,
+                                "confidence": 0.9057888,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5820369,
+                                "punctuated_word": "¿Telmex?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "arroba",
+                                "start": 17.105,
+                                "end": 17.605,
+                                "confidence": 0.9960294,
+                                "speaker": 0,
+                                "speaker_confidence": 0.793105,
+                                "punctuated_word": "Arroba",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hotmail",
+                                "start": 17.985,
+                                "end": 18.465,
+                                "confidence": 0.996441,
+                                "speaker": 0,
+                                "speaker_confidence": 0.793105,
+                                "punctuated_word": "Hotmail",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "punto",
+                                "start": 18.465,
+                                "end": 18.625,
+                                "confidence": 0.9994129,
+                                "speaker": 0,
+                                "speaker_confidence": 0.793105,
+                                "punctuated_word": "punto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "com",
+                                "start": 18.625,
+                                "end": 19.125,
+                                "confidence": 0.9994403,
+                                "speaker": 0,
+                                "speaker_confidence": 0.793105,
+                                "punctuated_word": "com.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "perfecto",
+                                "start": 22.220812,
+                                "end": 22.380812,
+                                "confidence": 0.92610276,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "Perfecto.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 22.380812,
+                                "end": 22.620811,
+                                "confidence": 0.9990447,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "Y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "por",
+                                "start": 22.620811,
+                                "end": 22.780811,
+                                "confidence": 0.71518517,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "por",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "último",
+                                "start": 22.780811,
+                                "end": 23.180813,
+                                "confidence": 0.9313077,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "último,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "indíqueme",
+                                "start": 23.180813,
+                                "end": 23.580812,
+                                "confidence": 0.99997467,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "indíqueme",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "su",
+                                "start": 23.580812,
+                                "end": 23.740812,
+                                "confidence": 0.99913424,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "su",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "dirección",
+                                "start": 23.740812,
+                                "end": 24.240812,
+                                "confidence": 0.99965787,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "dirección",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "particular",
+                                "start": 24.380812,
+                                "end": 24.880812,
+                                "confidence": 0.9996916,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5163388,
+                                "punctuated_word": "particular.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pareny",
+                                "start": 25.58081,
+                                "end": 25.980812,
+                                "confidence": 0.39202178,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7695279,
+                                "punctuated_word": "Pareny",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "del",
+                                "start": 25.980812,
+                                "end": 26.220812,
+                                "confidence": 0.26307032,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7695279,
+                                "punctuated_word": "del",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "rosal",
+                                "start": 26.220812,
+                                "end": 26.720812,
+                                "confidence": 0.8693126,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7695279,
+                                "punctuated_word": "Rosal.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ya",
+                                "start": 27.58081,
+                                "end": 28.08081,
+                                "confidence": 0.9976582,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7695279,
+                                "punctuated_word": "Ya.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "45",
+                                "start": 28.540812,
+                                "end": 29.340813,
+                                "confidence": 0.9354661,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7378189,
+                                "punctuated_word": "45,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "49",
+                                "start": 29.340813,
+                                "end": 30.160812,
+                                "confidence": 0.9955571,
+                                "speaker": 0,
+                                "speaker_confidence": 0.7378189,
+                                "punctuated_word": "49.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: ¿Qué? Deme su El, espera, que tengo el Gmail, déjame déjame decirte, es que te lo digo, no, es que es arroba Hotmail. No, Cris guion bajo. Cris guion bajo, sí. Telmex.\n\n¿Telmex? Arroba Hotmail punto com. Perfecto. Y por último, indíqueme su dirección particular. Pareny del Rosal.\n\nYa. 45, 49.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "¿Qué?",
+                                            "start": 0.48,
+                                            "end": 0.98,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Deme su El, espera, que tengo el Gmail, déjame déjame decirte, es que te lo digo, no, es que es arroba Hotmail.",
+                                            "start": 1.92,
+                                            "end": 8.74,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "No, Cris guion bajo.",
+                                            "start": 9.2,
+                                            "end": 11.139999,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Cris guion bajo, sí.",
+                                            "start": 11.44,
+                                            "end": 14.0,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Telmex.",
+                                            "start": 14.0,
+                                            "end": 14.5,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 32.0,
+                                    "start": 0.48,
+                                    "end": 14.5,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "¿Telmex?",
+                                            "start": 15.585,
+                                            "end": 16.085,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Arroba Hotmail punto com.",
+                                            "start": 17.105,
+                                            "end": 19.125,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Perfecto.",
+                                            "start": 22.220812,
+                                            "end": 22.380812,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Y por último, indíqueme su dirección particular.",
+                                            "start": 22.380812,
+                                            "end": 24.880812,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Pareny del Rosal.",
+                                            "start": 25.58081,
+                                            "end": 26.720812,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 16.0,
+                                    "start": 15.585,
+                                    "end": 26.720812,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Ya.",
+                                            "start": 27.58081,
+                                            "end": 28.08081,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "45, 49.",
+                                            "start": 28.540812,
+                                            "end": 30.160812,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 3.0,
+                                    "start": 27.58081,
+                                    "end": 30.160812,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 0.48,
+                "end": 0.98,
+                "confidence": 0.8958728,
+                "channel": 0.0,
+                "transcript": "¿Qué?",
+                "words": [
+                    {
+                        "word": "qué",
+                        "start": 0.48,
+                        "end": 0.98,
+                        "confidence": 0.8958728,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6747485,
+                        "punctuated_word": "¿Qué?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e3b95235-af0c-45b6-9506-5f7123698ac3",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 1.92,
+                "end": 2.3999999,
+                "confidence": 0.51054895,
+                "channel": 0.0,
+                "transcript": "Deme su",
+                "words": [
+                    {
+                        "word": "deme",
+                        "start": 1.92,
+                        "end": 2.24,
+                        "confidence": 0.7538029,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6747485,
+                        "punctuated_word": "Deme",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "su",
+                        "start": 2.24,
+                        "end": 2.3999999,
+                        "confidence": 0.26729497,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6747485,
+                        "punctuated_word": "su",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "250758ce-c43e-4846-9e72-3ce2e3135e9d",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 3.6799998,
+                "end": 8.74,
+                "confidence": 0.6245494,
+                "channel": 0.0,
+                "transcript": "El, espera, que tengo el Gmail, déjame déjame decirte, es que te lo digo, no, es que es arroba Hotmail.",
+                "words": [
+                    {
+                        "word": "el",
+                        "start": 3.6799998,
+                        "end": 3.9199998,
+                        "confidence": 0.76704395,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "El,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "espera",
+                        "start": 3.9199998,
+                        "end": 4.08,
+                        "confidence": 0.6149826,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "espera,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 4.08,
+                        "end": 4.16,
+                        "confidence": 0.603975,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tengo",
+                        "start": 4.16,
+                        "end": 4.4,
+                        "confidence": 0.99552345,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "tengo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "el",
+                        "start": 4.4,
+                        "end": 4.48,
+                        "confidence": 0.97581744,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "el",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "gmail",
+                        "start": 4.48,
+                        "end": 4.88,
+                        "confidence": 0.559585,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "Gmail,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "déjame",
+                        "start": 4.88,
+                        "end": 5.12,
+                        "confidence": 0.34472057,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "déjame",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "déjame",
+                        "start": 5.12,
+                        "end": 5.62,
+                        "confidence": 0.554121,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "déjame",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "decirte",
+                        "start": 5.68,
+                        "end": 5.92,
+                        "confidence": 0.592493,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "decirte,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 5.92,
+                        "end": 6.0,
+                        "confidence": 0.21184403,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 6.0,
+                        "end": 6.16,
+                        "confidence": 0.98481166,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.632071,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "te",
+                        "start": 6.16,
+                        "end": 6.24,
+                        "confidence": 0.844036,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "te",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "lo",
+                        "start": 6.24,
+                        "end": 6.56,
+                        "confidence": 0.9328167,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "lo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "digo",
+                        "start": 6.56,
+                        "end": 7.06,
+                        "confidence": 0.8664502,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "digo,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 7.3599997,
+                        "end": 7.6,
+                        "confidence": 0.76497114,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "no,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 7.6,
+                        "end": 7.8399997,
+                        "confidence": 0.19023295,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 7.8399997,
+                        "end": 7.9199996,
+                        "confidence": 0.28901902,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 7.9199996,
+                        "end": 8.08,
+                        "confidence": 0.2692101,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "arroba",
+                        "start": 8.08,
+                        "end": 8.24,
+                        "confidence": 0.239116,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "arroba",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "hotmail",
+                        "start": 8.24,
+                        "end": 8.74,
+                        "confidence": 0.8902199,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "Hotmail.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "283a131c-a747-4911-9223-7f3ff5211e90",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 9.2,
+                "end": 9.7,
+                "confidence": 0.94500536,
+                "channel": 0.0,
+                "transcript": "No,",
+                "words": [
+                    {
+                        "word": "no",
+                        "start": 9.2,
+                        "end": 9.7,
+                        "confidence": 0.94500536,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "No,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "a00b7ab5-e89b-4886-8251-ede01b3a892c",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 10.08,
+                "end": 11.139999,
+                "confidence": 0.9463181,
+                "channel": 0.0,
+                "transcript": "Cris guion bajo.",
+                "words": [
+                    {
+                        "word": "cris",
+                        "start": 10.08,
+                        "end": 10.32,
+                        "confidence": 0.890826,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "Cris",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "guion",
+                        "start": 10.32,
+                        "end": 10.639999,
+                        "confidence": 0.95456606,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "guion",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "bajo",
+                        "start": 10.639999,
+                        "end": 11.139999,
+                        "confidence": 0.9935622,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7867104,
+                        "punctuated_word": "bajo.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "78358bd7-ba9d-46d1-abcc-8c0782e3fd3c",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 11.44,
+                "end": 11.94,
+                "confidence": 0.87875384,
+                "channel": 0.0,
+                "transcript": "Cris",
+                "words": [
+                    {
+                        "word": "cris",
+                        "start": 11.44,
+                        "end": 11.94,
+                        "confidence": 0.87875384,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53404504,
+                        "punctuated_word": "Cris",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "644a5762-8c46-4d96-a90c-318ef1ee8f66",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 12.24,
+                "end": 13.059999,
+                "confidence": 0.9417095,
+                "channel": 0.0,
+                "transcript": "guion bajo,",
+                "words": [
+                    {
+                        "word": "guion",
+                        "start": 12.24,
+                        "end": 12.559999,
+                        "confidence": 0.9980811,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53404504,
+                        "punctuated_word": "guion",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "bajo",
+                        "start": 12.559999,
+                        "end": 13.059999,
+                        "confidence": 0.885338,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53404504,
+                        "punctuated_word": "bajo,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "fbd5ed92-78b8-4583-9223-2beca3194ac5",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 13.599999,
+                "end": 14.5,
+                "confidence": 0.98052937,
+                "channel": 0.0,
+                "transcript": "sí. Telmex.",
+                "words": [
+                    {
+                        "word": "sí",
+                        "start": 13.599999,
+                        "end": 14.0,
+                        "confidence": 0.99450046,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5820369,
+                        "punctuated_word": "sí.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "telmex",
+                        "start": 14.0,
+                        "end": 14.5,
+                        "confidence": 0.9665583,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5820369,
+                        "punctuated_word": "Telmex.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "b84d0bc0-1385-44a9-9709-60a461116f17",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 15.585,
+                "end": 16.085,
+                "confidence": 0.9057888,
+                "channel": 0.0,
+                "transcript": "¿Telmex?",
+                "words": [
+                    {
+                        "word": "telmex",
+                        "start": 15.585,
+                        "end": 16.085,
+                        "confidence": 0.9057888,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5820369,
+                        "punctuated_word": "¿Telmex?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "306e7091-c393-49fd-855a-447a6d1e52bb",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 17.105,
+                "end": 17.605,
+                "confidence": 0.9960294,
+                "channel": 0.0,
+                "transcript": "Arroba",
+                "words": [
+                    {
+                        "word": "arroba",
+                        "start": 17.105,
+                        "end": 17.605,
+                        "confidence": 0.9960294,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.793105,
+                        "punctuated_word": "Arroba",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "4f473162-650b-4816-9fcf-235816cb9d25",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 17.985,
+                "end": 19.125,
+                "confidence": 0.9984314,
+                "channel": 0.0,
+                "transcript": "Hotmail punto com.",
+                "words": [
+                    {
+                        "word": "hotmail",
+                        "start": 17.985,
+                        "end": 18.465,
+                        "confidence": 0.996441,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.793105,
+                        "punctuated_word": "Hotmail",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "punto",
+                        "start": 18.465,
+                        "end": 18.625,
+                        "confidence": 0.9994129,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.793105,
+                        "punctuated_word": "punto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "com",
+                        "start": 18.625,
+                        "end": 19.125,
+                        "confidence": 0.9994403,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.793105,
+                        "punctuated_word": "com.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "7d7ed4bf-c726-4714-bd72-1a4067f71e3f",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 22.220812,
+                "end": 24.880812,
+                "confidence": 0.9462623,
+                "channel": 0.0,
+                "transcript": "Perfecto. Y por último, indíqueme su dirección particular.",
+                "words": [
+                    {
+                        "word": "perfecto",
+                        "start": 22.220812,
+                        "end": 22.380812,
+                        "confidence": 0.92610276,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "Perfecto.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 22.380812,
+                        "end": 22.620811,
+                        "confidence": 0.9990447,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "Y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "por",
+                        "start": 22.620811,
+                        "end": 22.780811,
+                        "confidence": 0.71518517,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "por",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "último",
+                        "start": 22.780811,
+                        "end": 23.180813,
+                        "confidence": 0.9313077,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "último,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "indíqueme",
+                        "start": 23.180813,
+                        "end": 23.580812,
+                        "confidence": 0.99997467,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "indíqueme",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "su",
+                        "start": 23.580812,
+                        "end": 23.740812,
+                        "confidence": 0.99913424,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "su",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "dirección",
+                        "start": 23.740812,
+                        "end": 24.240812,
+                        "confidence": 0.99965787,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "dirección",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "particular",
+                        "start": 24.380812,
+                        "end": 24.880812,
+                        "confidence": 0.9996916,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5163388,
+                        "punctuated_word": "particular.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "10f63909-7dba-4036-b3e2-1cafd951e99b",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 25.58081,
+                "end": 26.720812,
+                "confidence": 0.5081349,
+                "channel": 0.0,
+                "transcript": "Pareny del Rosal.",
+                "words": [
+                    {
+                        "word": "pareny",
+                        "start": 25.58081,
+                        "end": 25.980812,
+                        "confidence": 0.39202178,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7695279,
+                        "punctuated_word": "Pareny",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "del",
+                        "start": 25.980812,
+                        "end": 26.220812,
+                        "confidence": 0.26307032,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7695279,
+                        "punctuated_word": "del",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "rosal",
+                        "start": 26.220812,
+                        "end": 26.720812,
+                        "confidence": 0.8693126,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7695279,
+                        "punctuated_word": "Rosal.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e7490858-acc7-4451-90ee-70b1ce30b7bb",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 27.58081,
+                "end": 28.08081,
+                "confidence": 0.9976582,
+                "channel": 0.0,
+                "transcript": "Ya.",
+                "words": [
+                    {
+                        "word": "ya",
+                        "start": 27.58081,
+                        "end": 28.08081,
+                        "confidence": 0.9976582,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7695279,
+                        "punctuated_word": "Ya.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "d4c1b4a6-f822-463e-b929-7bb8fc4c0bd7",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 28.540812,
+                "end": 29.340813,
+                "confidence": 0.9354661,
+                "channel": 0.0,
+                "transcript": "45,",
+                "words": [
+                    {
+                        "word": "45",
+                        "start": 28.540812,
+                        "end": 29.340813,
+                        "confidence": 0.9354661,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7378189,
+                        "punctuated_word": "45,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "7716e698-744e-4044-a06b-d0ce35415c77",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 29.340813,
+                "end": 30.160812,
+                "confidence": 0.9955571,
+                "channel": 0.0,
+                "transcript": "49.",
+                "words": [
+                    {
+                        "word": "49",
+                        "start": 29.340813,
+                        "end": 30.160812,
+                        "confidence": 0.9955571,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.7378189,
+                        "punctuated_word": "49.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "c848ed42-53d2-4b41-9dfe-877b4f580429",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

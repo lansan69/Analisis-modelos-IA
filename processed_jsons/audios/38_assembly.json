@@ -1,0 +1,475 @@
+{
+    "id": "baf2e34d-a286-4f16-92f9-91cd5c9bcd24",
+    "status": "completed",
+    "text": "Conde 1422, Perfecto, muy amable. Gracias por validar los datos en línea. Previamente le indicó el costo administrativo de la tarjeta. Este es de 0,097 UF mensual, aproximadamente 3.500 pesos. Solo se utiliza la tarjeta. Además, cuentan con un 20 descuento válido en la primera compra. Y ya forma parte del club de beneficios de Fashion, donde pueden hacer su descuento en beneficiospp CL. Además.",
+    "words": [
+        {
+            "text": "Conde",
+            "start": 2000,
+            "end": 2480,
+            "confidence": 0.74609375,
+            "speaker": "A"
+        },
+        {
+            "text": "1422,",
+            "start": 2960,
+            "end": 5200,
+            "confidence": 0.78537,
+            "speaker": "A"
+        },
+        {
+            "text": "Perfecto,",
+            "start": 11040,
+            "end": 11520,
+            "confidence": 0.9763997,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 11520,
+            "end": 11720,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "amable.",
+            "start": 11720,
+            "end": 12040,
+            "confidence": 0.9086914,
+            "speaker": "A"
+        },
+        {
+            "text": "Gracias",
+            "start": 12040,
+            "end": 12360,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 12360,
+            "end": 12480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "validar",
+            "start": 12480,
+            "end": 12880,
+            "confidence": 0.9938151,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 12880,
+            "end": 12960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "datos",
+            "start": 12960,
+            "end": 13240,
+            "confidence": 0.9812012,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 13240,
+            "end": 13360,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "línea.",
+            "start": 13360,
+            "end": 13640,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Previamente",
+            "start": 13640,
+            "end": 13960,
+            "confidence": 0.9024658,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 13960,
+            "end": 14120,
+            "confidence": 0.62109375,
+            "speaker": "A"
+        },
+        {
+            "text": "indicó",
+            "start": 14120,
+            "end": 14440,
+            "confidence": 0.86311847,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 14440,
+            "end": 14560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "costo",
+            "start": 14560,
+            "end": 14760,
+            "confidence": 0.86157227,
+            "speaker": "A"
+        },
+        {
+            "text": "administrativo",
+            "start": 14760,
+            "end": 15280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 15280,
+            "end": 15360,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 15360,
+            "end": 15440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta.",
+            "start": 15440,
+            "end": 15760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Este",
+            "start": 15760,
+            "end": 15999,
+            "confidence": 0.61376953,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 15999,
+            "end": 16160,
+            "confidence": 0.9667969,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 16160,
+            "end": 16279,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "0,097",
+            "start": 16279,
+            "end": 17560,
+            "confidence": 0.92505,
+            "speaker": "A"
+        },
+        {
+            "text": "UF",
+            "start": 17560,
+            "end": 17960,
+            "confidence": 0.8051758,
+            "speaker": "A"
+        },
+        {
+            "text": "mensual,",
+            "start": 17960,
+            "end": 18400,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "aproximadamente",
+            "start": 18400,
+            "end": 18920,
+            "confidence": 0.9973958,
+            "speaker": "A"
+        },
+        {
+            "text": "3.500",
+            "start": 18920,
+            "end": 19640,
+            "confidence": 0.85224,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos.",
+            "start": 19640,
+            "end": 19960,
+            "confidence": 0.9798177,
+            "speaker": "A"
+        },
+        {
+            "text": "Solo",
+            "start": 19960,
+            "end": 20200,
+            "confidence": 0.8798828,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 20200,
+            "end": 20320,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "utiliza",
+            "start": 20320,
+            "end": 20800,
+            "confidence": 0.9132487,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 20800,
+            "end": 20880,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta.",
+            "start": 20880,
+            "end": 21280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Además,",
+            "start": 21520,
+            "end": 21840,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "cuentan",
+            "start": 21840,
+            "end": 22320,
+            "confidence": 0.95963544,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 22320,
+            "end": 22400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 22400,
+            "end": 22480,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "20",
+            "start": 22480,
+            "end": 22696,
+            "confidence": 0.99992,
+            "speaker": "A"
+        },
+        {
+            "text": "descuento",
+            "start": 22960,
+            "end": 23320,
+            "confidence": 0.9949544,
+            "speaker": "A"
+        },
+        {
+            "text": "válido",
+            "start": 23320,
+            "end": 23680,
+            "confidence": 0.9638672,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 23680,
+            "end": 23760,
+            "confidence": 0.42504883,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 23760,
+            "end": 23840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "primera",
+            "start": 23840,
+            "end": 24120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "compra.",
+            "start": 24120,
+            "end": 24480,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 24480,
+            "end": 24760,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 24760,
+            "end": 24960,
+            "confidence": 0.96484375,
+            "speaker": "A"
+        },
+        {
+            "text": "forma",
+            "start": 24960,
+            "end": 25280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "parte",
+            "start": 25280,
+            "end": 25360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 25360,
+            "end": 25480,
+            "confidence": 0.5605469,
+            "speaker": "A"
+        },
+        {
+            "text": "club",
+            "start": 25480,
+            "end": 25680,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 25680,
+            "end": 25800,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "beneficios",
+            "start": 25800,
+            "end": 26200,
+            "confidence": 0.99768066,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 26200,
+            "end": 26360,
+            "confidence": 0.49536133,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion,",
+            "start": 26360,
+            "end": 26880,
+            "confidence": 0.8560791,
+            "speaker": "A"
+        },
+        {
+            "text": "donde",
+            "start": 26880,
+            "end": 26960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "pueden",
+            "start": 26960,
+            "end": 27120,
+            "confidence": 0.99780273,
+            "speaker": "A"
+        },
+        {
+            "text": "hacer",
+            "start": 27120,
+            "end": 27280,
+            "confidence": 0.7734375,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 27280,
+            "end": 27440,
+            "confidence": 0.9873047,
+            "speaker": "A"
+        },
+        {
+            "text": "descuento",
+            "start": 27440,
+            "end": 27680,
+            "confidence": 0.9954427,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 27680,
+            "end": 27800,
+            "confidence": 0.7290039,
+            "speaker": "A"
+        },
+        {
+            "text": "beneficiospp",
+            "start": 27800,
+            "end": 28560,
+            "confidence": 0.99248046,
+            "speaker": "A"
+        },
+        {
+            "text": "CL.",
+            "start": 28640,
+            "end": 29040,
+            "confidence": 0.73046875,
+            "speaker": "A"
+        },
+        {
+            "text": "Además.",
+            "start": 29440,
+            "end": 29920,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Conde 1422, Perfecto, muy amable. Gracias por validar los datos en línea. Previamente le indicó el costo administrativo de la tarjeta. Este es de 0,097 UF mensual, aproximadamente 3.500 pesos. Solo se utiliza la tarjeta. Además, cuentan con un 20 descuento válido en la primera compra. Y ya forma parte del club de beneficios de Fashion, donde pueden hacer su descuento en beneficiospp CL. Además.",
+            "start": 2000,
+            "end": 29920,
+            "confidence": 0.9223396,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 31,
+    "language_code": "es"
+}

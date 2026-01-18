@@ -1,0 +1,937 @@
+{
+    "id": "1af98284-c82f-4cb9-ac48-1e5bfc1da1ad",
+    "status": "completed",
+    "text": "Así fue como los cascos de burro dieron origen a uno de los juegos más conocidos del mundo. Hace más de mil años. Los chinos cortaban estos cascos en rectángulos y los servían durante horas, lo que ablandaba el material. Luego colocaban una tabla de madera encima, lo sujetaban con fuerza y lo prensaban hasta que quedara plano y mucho más denso. Esto hacía posible lijarlos hasta obtener rectángulos perfectamente lisos que más tarde se usarían en todo el mundo. Después, al desgastar cada pieza bajo el agua para suavizar todas las superficies, se se frotaban contra cuerdas pintadas para crear una cuadrícula precisa. Como todas debían ser exactamente iguales, este proceso permitía perforar cada pieza con precisión, dando origen al final a las piezas icónicas que hoy conocemos como dominós.",
+    "words": [
+        {
+            "text": "Así",
+            "start": 240,
+            "end": 360,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "fue",
+            "start": 360,
+            "end": 520,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "como",
+            "start": 520,
+            "end": 680,
+            "confidence": 0.98828125,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 680,
+            "end": 800,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "cascos",
+            "start": 800,
+            "end": 1120,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 1120,
+            "end": 1200,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "burro",
+            "start": 1200,
+            "end": 1600,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "dieron",
+            "start": 1600,
+            "end": 1880,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "origen",
+            "start": 1880,
+            "end": 2160,
+            "confidence": 0.99731445,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 2160,
+            "end": 2280,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "uno",
+            "start": 2280,
+            "end": 2440,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 2440,
+            "end": 2560,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 2560,
+            "end": 2680,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "juegos",
+            "start": 2680,
+            "end": 3040,
+            "confidence": 0.9996338,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 3040,
+            "end": 3240,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "conocidos",
+            "start": 3240,
+            "end": 3680,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 3680,
+            "end": 3880,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "mundo.",
+            "start": 3880,
+            "end": 4160,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "Hace",
+            "start": 4320,
+            "end": 4600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 4600,
+            "end": 4760,
+            "confidence": 0.9814453,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 4760,
+            "end": 4920,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "mil",
+            "start": 4920,
+            "end": 5080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "años.",
+            "start": 5080,
+            "end": 5320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Los",
+            "start": 5320,
+            "end": 5560,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "chinos",
+            "start": 5560,
+            "end": 5880,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "cortaban",
+            "start": 5880,
+            "end": 6440,
+            "confidence": 0.9920654,
+            "speaker": "A"
+        },
+        {
+            "text": "estos",
+            "start": 6440,
+            "end": 6640,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "cascos",
+            "start": 6640,
+            "end": 7000,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 7000,
+            "end": 7120,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "rectángulos",
+            "start": 7120,
+            "end": 7720,
+            "confidence": 0.9803874,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 7720,
+            "end": 7880,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 7880,
+            "end": 8000,
+            "confidence": 0.96728516,
+            "speaker": "A"
+        },
+        {
+            "text": "servían",
+            "start": 8000,
+            "end": 8520,
+            "confidence": 0.6689453,
+            "speaker": "A"
+        },
+        {
+            "text": "durante",
+            "start": 8520,
+            "end": 8840,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "horas,",
+            "start": 8840,
+            "end": 9160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 9160,
+            "end": 9360,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 9360,
+            "end": 9480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ablandaba",
+            "start": 9480,
+            "end": 10000,
+            "confidence": 0.95979816,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 10000,
+            "end": 10160,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "material.",
+            "start": 10160,
+            "end": 10480,
+            "confidence": 0.99690753,
+            "speaker": "A"
+        },
+        {
+            "text": "Luego",
+            "start": 10560,
+            "end": 10920,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "colocaban",
+            "start": 10920,
+            "end": 11520,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 11520,
+            "end": 11600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla",
+            "start": 11600,
+            "end": 11880,
+            "confidence": 0.9348958,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 11880,
+            "end": 12000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "madera",
+            "start": 12000,
+            "end": 12280,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "encima,",
+            "start": 12280,
+            "end": 12720,
+            "confidence": 0.8652344,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 12800,
+            "end": 13040,
+            "confidence": 0.9008789,
+            "speaker": "A"
+        },
+        {
+            "text": "sujetaban",
+            "start": 13040,
+            "end": 13600,
+            "confidence": 0.9321289,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 13600,
+            "end": 13720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "fuerza",
+            "start": 13720,
+            "end": 14000,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 14000,
+            "end": 14200,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 14200,
+            "end": 14360,
+            "confidence": 0.9916992,
+            "speaker": "A"
+        },
+        {
+            "text": "prensaban",
+            "start": 14360,
+            "end": 14960,
+            "confidence": 0.9520508,
+            "speaker": "A"
+        },
+        {
+            "text": "hasta",
+            "start": 14960,
+            "end": 15040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 15040,
+            "end": 15120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "quedara",
+            "start": 15120,
+            "end": 15600,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "plano",
+            "start": 15600,
+            "end": 15960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 15960,
+            "end": 16119,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "mucho",
+            "start": 16119,
+            "end": 16319,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 16319,
+            "end": 16520,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "denso.",
+            "start": 16520,
+            "end": 16960,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "Esto",
+            "start": 16960,
+            "end": 17160,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "hacía",
+            "start": 17160,
+            "end": 17480,
+            "confidence": 0.80737305,
+            "speaker": "A"
+        },
+        {
+            "text": "posible",
+            "start": 17480,
+            "end": 17720,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "lijarlos",
+            "start": 17720,
+            "end": 18280,
+            "confidence": 0.99694824,
+            "speaker": "A"
+        },
+        {
+            "text": "hasta",
+            "start": 18280,
+            "end": 18440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "obtener",
+            "start": 18440,
+            "end": 18760,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "rectángulos",
+            "start": 18760,
+            "end": 19400,
+            "confidence": 0.97403973,
+            "speaker": "A"
+        },
+        {
+            "text": "perfectamente",
+            "start": 19400,
+            "end": 19840,
+            "confidence": 0.96569824,
+            "speaker": "A"
+        },
+        {
+            "text": "lisos",
+            "start": 19920,
+            "end": 20440,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 20440,
+            "end": 20600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 20600,
+            "end": 20760,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "tarde",
+            "start": 20760,
+            "end": 21000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 21000,
+            "end": 21120,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "usarían",
+            "start": 21120,
+            "end": 21680,
+            "confidence": 0.9977214,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 21680,
+            "end": 21800,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "todo",
+            "start": 21800,
+            "end": 21960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 21960,
+            "end": 22080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "mundo.",
+            "start": 22080,
+            "end": 22320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Después,",
+            "start": 22560,
+            "end": 23040,
+            "confidence": 0.9954427,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 23040,
+            "end": 23200,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "desgastar",
+            "start": 23200,
+            "end": 23720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cada",
+            "start": 23720,
+            "end": 23920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pieza",
+            "start": 23920,
+            "end": 24280,
+            "confidence": 0.99869794,
+            "speaker": "A"
+        },
+        {
+            "text": "bajo",
+            "start": 24280,
+            "end": 24520,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 24520,
+            "end": 24640,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "agua",
+            "start": 24640,
+            "end": 24840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 24840,
+            "end": 25000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "suavizar",
+            "start": 25000,
+            "end": 25480,
+            "confidence": 0.92057294,
+            "speaker": "A"
+        },
+        {
+            "text": "todas",
+            "start": 25480,
+            "end": 25840,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 25840,
+            "end": 25960,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "superficies,",
+            "start": 25960,
+            "end": 26480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 26480,
+            "end": 26740,
+            "confidence": 0.9526367,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 26810,
+            "end": 26890,
+            "confidence": 0.92285156,
+            "speaker": "A"
+        },
+        {
+            "text": "frotaban",
+            "start": 26890,
+            "end": 27290,
+            "confidence": 0.99816895,
+            "speaker": "A"
+        },
+        {
+            "text": "contra",
+            "start": 27290,
+            "end": 27450,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "cuerdas",
+            "start": 27450,
+            "end": 27930,
+            "confidence": 0.93115234,
+            "speaker": "A"
+        },
+        {
+            "text": "pintadas",
+            "start": 27930,
+            "end": 28410,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 28410,
+            "end": 28610,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "crear",
+            "start": 28610,
+            "end": 28890,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 28890,
+            "end": 29090,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "cuadrícula",
+            "start": 29090,
+            "end": 29730,
+            "confidence": 0.9928711,
+            "speaker": "A"
+        },
+        {
+            "text": "precisa.",
+            "start": 29730,
+            "end": 30290,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Como",
+            "start": 30290,
+            "end": 30530,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "todas",
+            "start": 30530,
+            "end": 30770,
+            "confidence": 0.9836426,
+            "speaker": "A"
+        },
+        {
+            "text": "debían",
+            "start": 30770,
+            "end": 31210,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "ser",
+            "start": 31210,
+            "end": 31370,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "exactamente",
+            "start": 31370,
+            "end": 31850,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "iguales,",
+            "start": 31850,
+            "end": 32490,
+            "confidence": 0.9840495,
+            "speaker": "A"
+        },
+        {
+            "text": "este",
+            "start": 32490,
+            "end": 32770,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "proceso",
+            "start": 32770,
+            "end": 33090,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "permitía",
+            "start": 33090,
+            "end": 33610,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "perforar",
+            "start": 33610,
+            "end": 34050,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cada",
+            "start": 34050,
+            "end": 34250,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pieza",
+            "start": 34250,
+            "end": 34570,
+            "confidence": 0.98746747,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 34570,
+            "end": 34810,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "precisión,",
+            "start": 34810,
+            "end": 35490,
+            "confidence": 0.9700928,
+            "speaker": "A"
+        },
+        {
+            "text": "dando",
+            "start": 35490,
+            "end": 35810,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "origen",
+            "start": 35810,
+            "end": 36130,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "al",
+            "start": 36130,
+            "end": 36290,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "final",
+            "start": 36290,
+            "end": 36530,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 36530,
+            "end": 36730,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 36730,
+            "end": 36850,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "piezas",
+            "start": 36850,
+            "end": 37170,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "icónicas",
+            "start": 37170,
+            "end": 37610,
+            "confidence": 0.9187012,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 37610,
+            "end": 37810,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "hoy",
+            "start": 37810,
+            "end": 38010,
+            "confidence": 0.99731445,
+            "speaker": "A"
+        },
+        {
+            "text": "conocemos",
+            "start": 38010,
+            "end": 38290,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "como",
+            "start": 38290,
+            "end": 38450,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "dominós.",
+            "start": 38450,
+            "end": 39220,
+            "confidence": 0.80651855,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Así fue como los cascos de burro dieron origen a uno de los juegos más conocidos del mundo. Hace más de mil años. Los chinos cortaban estos cascos en rectángulos y los servían durante horas, lo que ablandaba el material. Luego colocaban una tabla de madera encima, lo sujetaban con fuerza y lo prensaban hasta que quedara plano y mucho más denso. Esto hacía posible lijarlos hasta obtener rectángulos perfectamente lisos que más tarde se usarían en todo el mundo. Después, al desgastar cada pieza bajo el agua para suavizar todas las superficies, se se frotaban contra cuerdas pintadas para crear una cuadrícula precisa. Como todas debían ser exactamente iguales, este proceso permitía perforar cada pieza con precisión, dando origen al final a las piezas icónicas que hoy conocemos como dominós.",
+            "start": 240,
+            "end": 39220,
+            "confidence": 0.9849637,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 40,
+    "language_code": "es"
+}

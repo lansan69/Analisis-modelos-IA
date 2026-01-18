@@ -1,0 +1,440 @@
+{
+    "id": "b11ff889-f462-4a3a-bc71-bebb5f2149fb",
+    "status": "completed",
+    "text": "¿Sí me escucha? ¿Me escuchan? Ahora sí. Estos teléfonos son medio raro. Pensé que me había cortado don Cristian. No, parece. Que se ha activado el modo silencio. Ya, indíqueme su RUT para poder confirmar su titularidad. 12-6407017. Correcto. ¿Tiene algún correo electrónico, don Cristian, para enviar el estado de su cuenta?",
+    "words": [
+        {
+            "text": "¿Sí",
+            "start": 480,
+            "end": 680,
+            "confidence": 0.7729492,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 680,
+            "end": 800,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "escucha?",
+            "start": 800,
+            "end": 1840,
+            "confidence": 0.8688151,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Me",
+            "start": 2560,
+            "end": 2800,
+            "confidence": 0.8510742,
+            "speaker": "B"
+        },
+        {
+            "text": "escuchan?",
+            "start": 2800,
+            "end": 3520,
+            "confidence": 0.8414714,
+            "speaker": "B"
+        },
+        {
+            "text": "Ahora",
+            "start": 4320,
+            "end": 4720,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "sí.",
+            "start": 4720,
+            "end": 5120,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "Estos",
+            "start": 7040,
+            "end": 7480,
+            "confidence": 0.60424805,
+            "speaker": "B"
+        },
+        {
+            "text": "teléfonos",
+            "start": 7480,
+            "end": 7840,
+            "confidence": 0.7500407,
+            "speaker": "B"
+        },
+        {
+            "text": "son",
+            "start": 8000,
+            "end": 8280,
+            "confidence": 0.6796875,
+            "speaker": "B"
+        },
+        {
+            "text": "medio",
+            "start": 8280,
+            "end": 8480,
+            "confidence": 0.9753418,
+            "speaker": "B"
+        },
+        {
+            "text": "raro.",
+            "start": 8480,
+            "end": 8880,
+            "confidence": 0.9824219,
+            "speaker": "B"
+        },
+        {
+            "text": "Pensé",
+            "start": 10640,
+            "end": 11120,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 11120,
+            "end": 11200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 11200,
+            "end": 11280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "había",
+            "start": 11280,
+            "end": 11560,
+            "confidence": 0.83813477,
+            "speaker": "A"
+        },
+        {
+            "text": "cortado",
+            "start": 11560,
+            "end": 11960,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "don",
+            "start": 11960,
+            "end": 12120,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "Cristian.",
+            "start": 12120,
+            "end": 12800,
+            "confidence": 0.9552409,
+            "speaker": "A"
+        },
+        {
+            "text": "No,",
+            "start": 13600,
+            "end": 14000,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "parece.",
+            "start": 14000,
+            "end": 14320,
+            "confidence": 0.7994792,
+            "speaker": "A"
+        },
+        {
+            "text": "Que",
+            "start": 14320,
+            "end": 14440,
+            "confidence": 0.7290039,
+            "speaker": "B"
+        },
+        {
+            "text": "se",
+            "start": 14440,
+            "end": 14560,
+            "confidence": 0.76123047,
+            "speaker": "B"
+        },
+        {
+            "text": "ha",
+            "start": 14560,
+            "end": 14680,
+            "confidence": 0.5756836,
+            "speaker": "B"
+        },
+        {
+            "text": "activado",
+            "start": 14680,
+            "end": 15080,
+            "confidence": 0.9904785,
+            "speaker": "B"
+        },
+        {
+            "text": "el",
+            "start": 15080,
+            "end": 15200,
+            "confidence": 0.95458984,
+            "speaker": "B"
+        },
+        {
+            "text": "modo",
+            "start": 15200,
+            "end": 15400,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "silencio.",
+            "start": 15400,
+            "end": 15920,
+            "confidence": 0.98339844,
+            "speaker": "B"
+        },
+        {
+            "text": "Ya,",
+            "start": 16000,
+            "end": 16399,
+            "confidence": 0.9838867,
+            "speaker": "A"
+        },
+        {
+            "text": "indíqueme",
+            "start": 17680,
+            "end": 18400,
+            "confidence": 0.8843994,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 18400,
+            "end": 18520,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "RUT",
+            "start": 18520,
+            "end": 18800,
+            "confidence": 0.9157715,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 18800,
+            "end": 19000,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "poder",
+            "start": 19000,
+            "end": 19200,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "confirmar",
+            "start": 19200,
+            "end": 19560,
+            "confidence": 0.89127606,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 19560,
+            "end": 19800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "titularidad.",
+            "start": 19800,
+            "end": 20400,
+            "confidence": 0.8979492,
+            "speaker": "A"
+        },
+        {
+            "text": "12-6407017.",
+            "start": 21120,
+            "end": 23440,
+            "confidence": 0.97914,
+            "speaker": "B"
+        },
+        {
+            "text": "Correcto.",
+            "start": 24080,
+            "end": 24640,
+            "confidence": 0.99576825,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Tiene",
+            "start": 24640,
+            "end": 24960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "algún",
+            "start": 24960,
+            "end": 25280,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "correo",
+            "start": 25280,
+            "end": 25600,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "electrónico,",
+            "start": 25600,
+            "end": 26080,
+            "confidence": 0.9986328,
+            "speaker": "A"
+        },
+        {
+            "text": "don",
+            "start": 26080,
+            "end": 26280,
+            "confidence": 0.9428711,
+            "speaker": "A"
+        },
+        {
+            "text": "Cristian,",
+            "start": 26280,
+            "end": 26760,
+            "confidence": 0.88134766,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 26760,
+            "end": 26880,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "enviar",
+            "start": 26880,
+            "end": 27080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 27080,
+            "end": 27280,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "estado",
+            "start": 27280,
+            "end": 27600,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 27600,
+            "end": 27760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 27760,
+            "end": 27840,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "cuenta?",
+            "start": 27840,
+            "end": 28160,
+            "confidence": 1.0,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "¿Sí me escucha?",
+            "start": 480,
+            "end": 1840,
+            "confidence": 0.8791233,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Me escuchan?",
+            "start": 2560,
+            "end": 3520,
+            "confidence": 0.84627277,
+            "speaker": "B"
+        },
+        {
+            "text": "Ahora sí.",
+            "start": 4320,
+            "end": 5120,
+            "confidence": 0.99572754,
+            "speaker": "A"
+        },
+        {
+            "text": "Estos teléfonos son medio raro.",
+            "start": 7040,
+            "end": 8880,
+            "confidence": 0.798348,
+            "speaker": "B"
+        },
+        {
+            "text": "Pensé que me había cortado don Cristian. No, parece.",
+            "start": 10640,
+            "end": 14320,
+            "confidence": 0.9521032,
+            "speaker": "A"
+        },
+        {
+            "text": "Que se ha activado el modo silencio.",
+            "start": 14320,
+            "end": 15920,
+            "confidence": 0.8559919,
+            "speaker": "B"
+        },
+        {
+            "text": "Ya, indíqueme su RUT para poder confirmar su titularidad.",
+            "start": 16000,
+            "end": 20400,
+            "confidence": 0.9518003,
+            "speaker": "A"
+        },
+        {
+            "text": "12-6407017.",
+            "start": 21120,
+            "end": 23440,
+            "confidence": 0.97914,
+            "speaker": "B"
+        },
+        {
+            "text": "Correcto. ¿Tiene algún correo electrónico, don Cristian, para enviar el estado de su cuenta?",
+            "start": 24080,
+            "end": 28160,
+            "confidence": 0.9858759,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 29,
+    "language_code": "es"
+}

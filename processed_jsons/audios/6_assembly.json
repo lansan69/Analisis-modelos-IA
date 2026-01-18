@@ -1,0 +1,1651 @@
+{
+    "id": "5f880985-d607-4e47-9e52-60a48a0ac831",
+    "status": "completed",
+    "text": "Existe una teoría que dice que si colocas dos cartuchos de escopeta debajo de una tabla de madera del entablado y luego pones otra tabla encima con un tornillo presionando el fulminante, puedes recrear la trampa de agente secreto de James Bond. La idea es que cuando un criminal pisa la tabla, el tornillo active el cartucho y dispare el proyectil contra él. Pero ¿Algo así funcionaría realmente en la vida real? Para probarlo, los Mythbusters primero construyeron una versión básica de la trampa utilizando un cartucho vacío y comenzaron a experimentar. No intentes esto en casa. Un hombre pisó la tabla, pero no pasó nada. Parecía que simplemente no había suficiente fuerza. Así que presionó la tabla con todo el peso de su cuerpo. Sorprendentemente, el fulminante sí detonó. Lo que significa que la trampa podría ser posible después de todo. Pero en la película, los villanos se movían sigilosamente, no saltando. Así que la trampa necesitaba mejoras. Añadieron un gatillo con resorte para que se activara con la mínima presión. Ahora Surge la verdadera ¿Qué tan peligrosa es esta trampa si se añade pólvora? Para averiguarlo, construyeron un modelo realista de una pierna humana y se prepararon para la prueba final. Recrearon la escena exacta de la película con la misma fuerza que un paso real. La pierna descendió, pero aun así el proyectil no logró atravesar la tabla del entablado.",
+    "words": [
+        {
+            "text": "Existe",
+            "start": 160,
+            "end": 400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 400,
+            "end": 480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "teoría",
+            "start": 480,
+            "end": 800,
+            "confidence": 0.8704427,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 800,
+            "end": 960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dice",
+            "start": 960,
+            "end": 1120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 1120,
+            "end": 1240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 1240,
+            "end": 1360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "colocas",
+            "start": 1360,
+            "end": 1760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dos",
+            "start": 1760,
+            "end": 1880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cartuchos",
+            "start": 1880,
+            "end": 2360,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 2360,
+            "end": 2480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "escopeta",
+            "start": 2480,
+            "end": 2920,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "debajo",
+            "start": 2920,
+            "end": 3280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 3280,
+            "end": 3360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 3360,
+            "end": 3480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla",
+            "start": 3480,
+            "end": 3800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 3800,
+            "end": 3920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "madera",
+            "start": 3920,
+            "end": 4160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 4160,
+            "end": 4360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "entablado",
+            "start": 4360,
+            "end": 4840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 4840,
+            "end": 4960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "luego",
+            "start": 4960,
+            "end": 5120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pones",
+            "start": 5120,
+            "end": 5400,
+            "confidence": 0.9260254,
+            "speaker": "A"
+        },
+        {
+            "text": "otra",
+            "start": 5400,
+            "end": 5720,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla",
+            "start": 5720,
+            "end": 6000,
+            "confidence": 0.9506836,
+            "speaker": "A"
+        },
+        {
+            "text": "encima",
+            "start": 6000,
+            "end": 6320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 6320,
+            "end": 6520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 6520,
+            "end": 6640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tornillo",
+            "start": 6640,
+            "end": 7000,
+            "confidence": 0.9015625,
+            "speaker": "A"
+        },
+        {
+            "text": "presionando",
+            "start": 7000,
+            "end": 7440,
+            "confidence": 0.96809894,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 7440,
+            "end": 7520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "fulminante,",
+            "start": 7520,
+            "end": 8120,
+            "confidence": 0.9732666,
+            "speaker": "A"
+        },
+        {
+            "text": "puedes",
+            "start": 8120,
+            "end": 8480,
+            "confidence": 0.98828125,
+            "speaker": "A"
+        },
+        {
+            "text": "recrear",
+            "start": 8480,
+            "end": 8840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 8840,
+            "end": 8960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "trampa",
+            "start": 8960,
+            "end": 9160,
+            "confidence": 0.96028644,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 9160,
+            "end": 9280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "agente",
+            "start": 9280,
+            "end": 9560,
+            "confidence": 0.81103516,
+            "speaker": "A"
+        },
+        {
+            "text": "secreto",
+            "start": 9560,
+            "end": 9920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 9920,
+            "end": 10000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "James",
+            "start": 10000,
+            "end": 10280,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "Bond.",
+            "start": 10280,
+            "end": 10720,
+            "confidence": 0.73706055,
+            "speaker": "A"
+        },
+        {
+            "text": "La",
+            "start": 10720,
+            "end": 10960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "idea",
+            "start": 10960,
+            "end": 11120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 11120,
+            "end": 11280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 11280,
+            "end": 11480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cuando",
+            "start": 11480,
+            "end": 11640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 11640,
+            "end": 11800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "criminal",
+            "start": 11800,
+            "end": 12080,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "pisa",
+            "start": 12080,
+            "end": 12520,
+            "confidence": 0.9085286,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 12520,
+            "end": 12640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla,",
+            "start": 12640,
+            "end": 12880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 12880,
+            "end": 13040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tornillo",
+            "start": 13040,
+            "end": 13360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "active",
+            "start": 13360,
+            "end": 13760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 13760,
+            "end": 13840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cartucho",
+            "start": 13840,
+            "end": 14240,
+            "confidence": 0.93273926,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 14240,
+            "end": 14320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "dispare",
+            "start": 14320,
+            "end": 14720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 14720,
+            "end": 14880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "proyectil",
+            "start": 14880,
+            "end": 15240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "contra",
+            "start": 15240,
+            "end": 15440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "él.",
+            "start": 15440,
+            "end": 15680,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Pero",
+            "start": 15680,
+            "end": 15959,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Algo",
+            "start": 15959,
+            "end": 16199,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "así",
+            "start": 16199,
+            "end": 16400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "funcionaría",
+            "start": 16400,
+            "end": 17040,
+            "confidence": 0.9807129,
+            "speaker": "A"
+        },
+        {
+            "text": "realmente",
+            "start": 17040,
+            "end": 17320,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 17320,
+            "end": 17520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 17520,
+            "end": 17600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vida",
+            "start": 17600,
+            "end": 17760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "real?",
+            "start": 17760,
+            "end": 18000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Para",
+            "start": 18000,
+            "end": 18200,
+            "confidence": 0.6791992,
+            "speaker": "A"
+        },
+        {
+            "text": "probarlo,",
+            "start": 18200,
+            "end": 18600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 18600,
+            "end": 18760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Mythbusters",
+            "start": 18760,
+            "end": 19600,
+            "confidence": 0.9177734,
+            "speaker": "A"
+        },
+        {
+            "text": "primero",
+            "start": 19600,
+            "end": 19880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "construyeron",
+            "start": 19880,
+            "end": 20360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 20360,
+            "end": 20560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "versión",
+            "start": 20560,
+            "end": 20960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "básica",
+            "start": 20960,
+            "end": 21200,
+            "confidence": 0.9840495,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 21200,
+            "end": 21360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 21360,
+            "end": 21440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "trampa",
+            "start": 21440,
+            "end": 21760,
+            "confidence": 0.9682617,
+            "speaker": "A"
+        },
+        {
+            "text": "utilizando",
+            "start": 21760,
+            "end": 22200,
+            "confidence": 0.99397784,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 22200,
+            "end": 22320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cartucho",
+            "start": 22320,
+            "end": 22720,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "vacío",
+            "start": 22720,
+            "end": 23120,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 23120,
+            "end": 23240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "comenzaron",
+            "start": 23240,
+            "end": 23600,
+            "confidence": 0.97998047,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 23600,
+            "end": 23800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "experimentar.",
+            "start": 23800,
+            "end": 24400,
+            "confidence": 0.97347003,
+            "speaker": "A"
+        },
+        {
+            "text": "No",
+            "start": 24400,
+            "end": 24600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "intentes",
+            "start": 24600,
+            "end": 25040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esto",
+            "start": 25040,
+            "end": 25320,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 25320,
+            "end": 25440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "casa.",
+            "start": 25440,
+            "end": 25680,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "Un",
+            "start": 25680,
+            "end": 25880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "hombre",
+            "start": 25880,
+            "end": 26120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pisó",
+            "start": 26120,
+            "end": 26480,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 26480,
+            "end": 26560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla,",
+            "start": 26560,
+            "end": 26800,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 26800,
+            "end": 26960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 26960,
+            "end": 27080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pasó",
+            "start": 27080,
+            "end": 27360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "nada.",
+            "start": 27360,
+            "end": 27600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Parecía",
+            "start": 27600,
+            "end": 28000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 28000,
+            "end": 28120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "simplemente",
+            "start": 28120,
+            "end": 28400,
+            "confidence": 0.9977214,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 28400,
+            "end": 28560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "había",
+            "start": 28560,
+            "end": 28960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "suficiente",
+            "start": 28960,
+            "end": 29280,
+            "confidence": 0.9977214,
+            "speaker": "A"
+        },
+        {
+            "text": "fuerza.",
+            "start": 29280,
+            "end": 29680,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "Así",
+            "start": 29680,
+            "end": 29960,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 29960,
+            "end": 30120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "presionó",
+            "start": 30120,
+            "end": 30640,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 30640,
+            "end": 30720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla",
+            "start": 30720,
+            "end": 30960,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 30960,
+            "end": 31160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "todo",
+            "start": 31160,
+            "end": 31320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 31320,
+            "end": 31440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "peso",
+            "start": 31440,
+            "end": 31680,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 31680,
+            "end": 31910,
+            "confidence": 0.9638672,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 32140,
+            "end": 32220,
+            "confidence": 0.58984375,
+            "speaker": "A"
+        },
+        {
+            "text": "cuerpo.",
+            "start": 32220,
+            "end": 32460,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "Sorprendentemente,",
+            "start": 32460,
+            "end": 33220,
+            "confidence": 0.94677734,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 33220,
+            "end": 33460,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "fulminante",
+            "start": 33460,
+            "end": 33980,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "sí",
+            "start": 33980,
+            "end": 34220,
+            "confidence": 0.95996094,
+            "speaker": "A"
+        },
+        {
+            "text": "detonó.",
+            "start": 34220,
+            "end": 34700,
+            "confidence": 0.97961426,
+            "speaker": "A"
+        },
+        {
+            "text": "Lo",
+            "start": 34700,
+            "end": 34780,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 34780,
+            "end": 34860,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "significa",
+            "start": 34860,
+            "end": 35300,
+            "confidence": 0.99283856,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 35300,
+            "end": 35420,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 35420,
+            "end": 35540,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "trampa",
+            "start": 35540,
+            "end": 35780,
+            "confidence": 0.96028644,
+            "speaker": "A"
+        },
+        {
+            "text": "podría",
+            "start": 35780,
+            "end": 36220,
+            "confidence": 0.93880206,
+            "speaker": "A"
+        },
+        {
+            "text": "ser",
+            "start": 36220,
+            "end": 36340,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "posible",
+            "start": 36340,
+            "end": 36700,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "después",
+            "start": 36700,
+            "end": 37100,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 37100,
+            "end": 37180,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "todo.",
+            "start": 37180,
+            "end": 37420,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Pero",
+            "start": 37420,
+            "end": 37660,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 37660,
+            "end": 37740,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 37740,
+            "end": 37820,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "película,",
+            "start": 37820,
+            "end": 38180,
+            "confidence": 0.8598633,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 38180,
+            "end": 38340,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "villanos",
+            "start": 38340,
+            "end": 38740,
+            "confidence": 0.9996338,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 38740,
+            "end": 38860,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "movían",
+            "start": 38860,
+            "end": 39300,
+            "confidence": 0.9983724,
+            "speaker": "A"
+        },
+        {
+            "text": "sigilosamente,",
+            "start": 39300,
+            "end": 40060,
+            "confidence": 0.98620605,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 40140,
+            "end": 40420,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "saltando.",
+            "start": 40420,
+            "end": 40940,
+            "confidence": 0.9539795,
+            "speaker": "A"
+        },
+        {
+            "text": "Así",
+            "start": 40940,
+            "end": 41140,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 41140,
+            "end": 41260,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 41260,
+            "end": 41380,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "trampa",
+            "start": 41380,
+            "end": 41700,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "necesitaba",
+            "start": 41700,
+            "end": 42220,
+            "confidence": 0.91015625,
+            "speaker": "A"
+        },
+        {
+            "text": "mejoras.",
+            "start": 42220,
+            "end": 42660,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Añadieron",
+            "start": 42660,
+            "end": 43140,
+            "confidence": 0.9326172,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 43140,
+            "end": 43260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "gatillo",
+            "start": 43260,
+            "end": 43580,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 43580,
+            "end": 43700,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "resorte",
+            "start": 43700,
+            "end": 44060,
+            "confidence": 0.9739583,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 44060,
+            "end": 44180,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 44180,
+            "end": 44300,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 44300,
+            "end": 44380,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "activara",
+            "start": 44380,
+            "end": 44820,
+            "confidence": 0.99780273,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 44820,
+            "end": 44940,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 44940,
+            "end": 45020,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "mínima",
+            "start": 45020,
+            "end": 45260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "presión.",
+            "start": 45260,
+            "end": 45620,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Ahora",
+            "start": 45620,
+            "end": 45900,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Surge",
+            "start": 45900,
+            "end": 46180,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 46180,
+            "end": 46300,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "verdadera",
+            "start": 46300,
+            "end": 46700,
+            "confidence": 0.79296875,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Qué",
+            "start": 47100,
+            "end": 47380,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        },
+        {
+            "text": "tan",
+            "start": 47380,
+            "end": 47580,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "peligrosa",
+            "start": 47580,
+            "end": 48179,
+            "confidence": 0.99726564,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 48179,
+            "end": 48380,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "esta",
+            "start": 48380,
+            "end": 48580,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "trampa",
+            "start": 48580,
+            "end": 48900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 48900,
+            "end": 49060,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 49060,
+            "end": 49180,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "añade",
+            "start": 49180,
+            "end": 49420,
+            "confidence": 0.9758301,
+            "speaker": "A"
+        },
+        {
+            "text": "pólvora?",
+            "start": 49420,
+            "end": 49900,
+            "confidence": 0.9703125,
+            "speaker": "A"
+        },
+        {
+            "text": "Para",
+            "start": 49900,
+            "end": 50060,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "averiguarlo,",
+            "start": 50060,
+            "end": 50580,
+            "confidence": 0.99970704,
+            "speaker": "A"
+        },
+        {
+            "text": "construyeron",
+            "start": 50580,
+            "end": 51100,
+            "confidence": 0.9053955,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 51100,
+            "end": 51260,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "modelo",
+            "start": 51260,
+            "end": 51540,
+            "confidence": 0.8927409,
+            "speaker": "A"
+        },
+        {
+            "text": "realista",
+            "start": 51540,
+            "end": 51900,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 51900,
+            "end": 52060,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "una",
+            "start": 52060,
+            "end": 52180,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "pierna",
+            "start": 52180,
+            "end": 52460,
+            "confidence": 0.97477216,
+            "speaker": "A"
+        },
+        {
+            "text": "humana",
+            "start": 52460,
+            "end": 52820,
+            "confidence": 0.9848633,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 52820,
+            "end": 53020,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 53020,
+            "end": 53140,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "prepararon",
+            "start": 53140,
+            "end": 53580,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 53580,
+            "end": 53740,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 53740,
+            "end": 53860,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "prueba",
+            "start": 53860,
+            "end": 54100,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "final.",
+            "start": 54100,
+            "end": 54340,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "Recrearon",
+            "start": 54340,
+            "end": 54980,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 54980,
+            "end": 55100,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "escena",
+            "start": 55100,
+            "end": 55340,
+            "confidence": 0.9923503,
+            "speaker": "A"
+        },
+        {
+            "text": "exacta",
+            "start": 55340,
+            "end": 55660,
+            "confidence": 0.9978841,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 55660,
+            "end": 55740,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 55740,
+            "end": 55860,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "película",
+            "start": 55860,
+            "end": 56260,
+            "confidence": 0.8905029,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 56260,
+            "end": 56460,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 56460,
+            "end": 56540,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "misma",
+            "start": 56540,
+            "end": 56780,
+            "confidence": 0.9621582,
+            "speaker": "A"
+        },
+        {
+            "text": "fuerza",
+            "start": 56780,
+            "end": 57100,
+            "confidence": 0.8395996,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 57100,
+            "end": 57300,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 57300,
+            "end": 57460,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "paso",
+            "start": 57460,
+            "end": 57860,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "real.",
+            "start": 57860,
+            "end": 58100,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "La",
+            "start": 58100,
+            "end": 58300,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "pierna",
+            "start": 58300,
+            "end": 58540,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "descendió,",
+            "start": 58540,
+            "end": 59020,
+            "confidence": 0.9538574,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 59020,
+            "end": 59220,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "aun",
+            "start": 59220,
+            "end": 59460,
+            "confidence": 0.5605469,
+            "speaker": "A"
+        },
+        {
+            "text": "así",
+            "start": 59460,
+            "end": 59660,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 59660,
+            "end": 59860,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "proyectil",
+            "start": 59860,
+            "end": 60380,
+            "confidence": 0.9324951,
+            "speaker": "A"
+        },
+        {
+            "text": "no",
+            "start": 60380,
+            "end": 60540,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "logró",
+            "start": 60540,
+            "end": 60940,
+            "confidence": 0.8733724,
+            "speaker": "A"
+        },
+        {
+            "text": "atravesar",
+            "start": 60940,
+            "end": 61340,
+            "confidence": 0.9998779,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 61340,
+            "end": 61420,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tabla",
+            "start": 61420,
+            "end": 61700,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 61700,
+            "end": 61860,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "entablado.",
+            "start": 61860,
+            "end": 62460,
+            "confidence": 0.9326172,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Existe una teoría que dice que si colocas dos cartuchos de escopeta debajo de una tabla de madera del entablado y luego pones otra tabla encima con un tornillo presionando el fulminante, puedes recrear la trampa de agente secreto de James Bond. La idea es que cuando un criminal pisa la tabla, el tornillo active el cartucho y dispare el proyectil contra él. Pero ¿Algo así funcionaría realmente en la vida real? Para probarlo, los Mythbusters primero construyeron una versión básica de la trampa utilizando un cartucho vacío y comenzaron a experimentar. No intentes esto en casa. Un hombre pisó la tabla, pero no pasó nada. Parecía que simplemente no había suficiente fuerza. Así que presionó la tabla con todo el peso de su cuerpo. Sorprendentemente, el fulminante sí detonó. Lo que significa que la trampa podría ser posible después de todo. Pero en la película, los villanos se movían sigilosamente, no saltando. Así que la trampa necesitaba mejoras. Añadieron un gatillo con resorte para que se activara con la mínima presión. Ahora Surge la verdadera ¿Qué tan peligrosa es esta trampa si se añade pólvora? Para averiguarlo, construyeron un modelo realista de una pierna humana y se prepararon para la prueba final. Recrearon la escena exacta de la película con la misma fuerza que un paso real. La pierna descendió, pero aun así el proyectil no logró atravesar la tabla del entablado.",
+            "start": 160,
+            "end": 62460,
+            "confidence": 0.98103404,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 63,
+    "language_code": "es"
+}

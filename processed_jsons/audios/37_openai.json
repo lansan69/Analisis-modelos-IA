@@ -1,0 +1,421 @@
+{
+    "text": "A continuación, necesitamos validar su titularidad. Por favor, me indica su número de root. 12-627-388-6 Muy amable. ¿Tiene algún correo electrónico para poder mantener su estado de cuenta? No. No se preocupe, su estado de cuenta lo llevará a través de un mensaje de texto. Para finalizar, por favor, me indica su número de root. Disculpe, ¿su domicilio particular?",
+    "audio_duration": 28.360000610351562,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "A",
+            "start": 0.0,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "continuación",
+            "start": 0.5199999809265137,
+            "end": 1.100000023841858,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesitamos",
+            "start": 1.2400000095367432,
+            "end": 1.659999966621399,
+            "confidence": 0.99
+        },
+        {
+            "text": "validar",
+            "start": 1.659999966621399,
+            "end": 2.059999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 2.059999942779541,
+            "end": 2.2799999713897705,
+            "confidence": 0.99
+        },
+        {
+            "text": "titularidad",
+            "start": 2.2799999713897705,
+            "end": 2.7799999713897705,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 2.9600000381469727,
+            "end": 3.0799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "favor",
+            "start": 3.0799999237060547,
+            "end": 3.200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 3.319999933242798,
+            "end": 3.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "indica",
+            "start": 3.5199999809265137,
+            "end": 3.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 3.559999942779541,
+            "end": 3.819999933242798,
+            "confidence": 0.99
+        },
+        {
+            "text": "número",
+            "start": 3.819999933242798,
+            "end": 3.9800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 3.9800000190734863,
+            "end": 4.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "root",
+            "start": 4.400000095367432,
+            "end": 4.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "12",
+            "start": 6.920000076293945,
+            "end": 7.360000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "627",
+            "start": 7.360000133514404,
+            "end": 7.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "388",
+            "start": 7.800000190734863,
+            "end": 11.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "6",
+            "start": 11.420000076293945,
+            "end": 12.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "Muy",
+            "start": 12.920000076293945,
+            "end": 13.359999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "amable",
+            "start": 13.359999656677246,
+            "end": 13.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Tiene",
+            "start": 13.720000267028809,
+            "end": 13.859999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "algún",
+            "start": 13.859999656677246,
+            "end": 14.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "correo",
+            "start": 14.180000305175781,
+            "end": 14.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "electrónico",
+            "start": 14.34000015258789,
+            "end": 14.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 14.899999618530273,
+            "end": 15.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "poder",
+            "start": 15.0600004196167,
+            "end": 15.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "mantener",
+            "start": 15.319999694824219,
+            "end": 15.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 15.600000381469727,
+            "end": 15.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "estado",
+            "start": 15.779999732971191,
+            "end": 15.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 15.880000114440918,
+            "end": 16.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 16.219999313354492,
+            "end": 16.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 18.540000915527344,
+            "end": 18.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 20.540000915527344,
+            "end": 20.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 20.6200008392334,
+            "end": 20.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "preocupe",
+            "start": 20.84000015258789,
+            "end": 21.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 21.18000030517578,
+            "end": 21.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "estado",
+            "start": 21.360000610351562,
+            "end": 21.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 21.360000610351562,
+            "end": 21.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 21.65999984741211,
+            "end": 21.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 21.65999984741211,
+            "end": 21.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "llevará",
+            "start": 21.799999237060547,
+            "end": 22.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 22.020000457763672,
+            "end": 22.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "través",
+            "start": 22.18000030517578,
+            "end": 22.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 22.18000030517578,
+            "end": 22.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 22.3799991607666,
+            "end": 22.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "mensaje",
+            "start": 22.420000076293945,
+            "end": 22.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 22.579999923706055,
+            "end": 23.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "texto",
+            "start": 23.1200008392334,
+            "end": 23.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "Para",
+            "start": 23.5,
+            "end": 23.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "finalizar",
+            "start": 23.540000915527344,
+            "end": 24.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 24.219999313354492,
+            "end": 24.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "favor",
+            "start": 24.459999084472656,
+            "end": 24.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 24.459999084472656,
+            "end": 24.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "indica",
+            "start": 24.719999313354492,
+            "end": 24.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 24.719999313354492,
+            "end": 25.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "número",
+            "start": 25.260000228881836,
+            "end": 25.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 25.459999084472656,
+            "end": 25.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "root",
+            "start": 25.760000228881836,
+            "end": 25.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Disculpe",
+            "start": 26.139999389648438,
+            "end": 26.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿su",
+            "start": 26.600000381469727,
+            "end": 26.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "domicilio",
+            "start": 26.780000686645508,
+            "end": 27.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "particular",
+            "start": 27.299999237060547,
+            "end": 27.940000534057617,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "A continuación, necesitamos validar su titularidad. Por favor, me indica su número de root.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "segment": "12-627-388-6 Muy amable.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "¿Tiene algún correo electrónico para poder mantener su estado de cuenta?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "segment": "No. No se preocupe, su estado de cuenta lo llevará a través de un mensaje de texto.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.87
+        },
+        {
+            "segment": "Para finalizar, por favor, me indica su número de root.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.82
+        },
+        {
+            "segment": "Disculpe, ¿su domicilio particular?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.78
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Verificación de Datos",
+            "summary": "El operador solicita información para validar la titularidad del usuario, incluyendo el número de root y el domicilio.",
+            "start": 0,
+            "end": 58
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

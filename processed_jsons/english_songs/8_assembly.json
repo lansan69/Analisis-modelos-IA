@@ -1,0 +1,911 @@
+{
+    "id": "dd1270e1-43da-46ef-b955-3683e57a2b5c",
+    "status": "completed",
+    "text": "Sam I don't believe that anybody feels. The way I feel about you now. Backbeat the winners on the street that the fire in your heart is out. And I'm sure you heard it on. Before but you never really had a doubt I don't believe everybody feels a. Way to know about you. You're going to be the one that saves me. Not. You're my one tomorrow. My house. I know the. Way. You call me easier. All. You don't want to sage me. You'Re. Going to be the one to sa. You'Re going to be the one. Sam.",
+    "words": [
+        {
+            "text": "Sam",
+            "start": 240,
+            "end": 31910,
+            "confidence": 0.44873047,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 33100,
+            "end": 33180,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "don't",
+            "start": 33180,
+            "end": 33420,
+            "confidence": 0.98828125,
+            "speaker": "A"
+        },
+        {
+            "text": "believe",
+            "start": 33420,
+            "end": 33740,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 33900,
+            "end": 34300,
+            "confidence": 0.9550781,
+            "speaker": "A"
+        },
+        {
+            "text": "anybody",
+            "start": 34380,
+            "end": 35420,
+            "confidence": 0.8803711,
+            "speaker": "A"
+        },
+        {
+            "text": "feels.",
+            "start": 35660,
+            "end": 36220,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "The",
+            "start": 36220,
+            "end": 36420,
+            "confidence": 0.99316406,
+            "speaker": "B"
+        },
+        {
+            "text": "way",
+            "start": 36420,
+            "end": 36620,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "I",
+            "start": 36620,
+            "end": 36900,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "feel",
+            "start": 36900,
+            "end": 37260,
+            "confidence": 0.71728516,
+            "speaker": "B"
+        },
+        {
+            "text": "about",
+            "start": 37500,
+            "end": 37900,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 37980,
+            "end": 38380,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "now.",
+            "start": 38380,
+            "end": 38780,
+            "confidence": 0.9970703,
+            "speaker": "B"
+        },
+        {
+            "text": "Backbeat",
+            "start": 44140,
+            "end": 44940,
+            "confidence": 0.726237,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 44940,
+            "end": 45180,
+            "confidence": 0.95166016,
+            "speaker": "A"
+        },
+        {
+            "text": "winners",
+            "start": 45180,
+            "end": 45580,
+            "confidence": 0.44641113,
+            "speaker": "A"
+        },
+        {
+            "text": "on",
+            "start": 45580,
+            "end": 45780,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 45780,
+            "end": 45900,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "street",
+            "start": 45900,
+            "end": 46140,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "that",
+            "start": 46140,
+            "end": 46420,
+            "confidence": 0.7402344,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 46420,
+            "end": 46620,
+            "confidence": 0.33520508,
+            "speaker": "A"
+        },
+        {
+            "text": "fire",
+            "start": 46620,
+            "end": 46940,
+            "confidence": 0.8203125,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 46940,
+            "end": 47220,
+            "confidence": 0.8496094,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 47220,
+            "end": 47380,
+            "confidence": 0.9472656,
+            "speaker": "A"
+        },
+        {
+            "text": "heart",
+            "start": 47380,
+            "end": 47620,
+            "confidence": 0.86083984,
+            "speaker": "A"
+        },
+        {
+            "text": "is",
+            "start": 47620,
+            "end": 47940,
+            "confidence": 0.7817383,
+            "speaker": "A"
+        },
+        {
+            "text": "out.",
+            "start": 47940,
+            "end": 48299,
+            "confidence": 0.6875,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 49420,
+            "end": 49740,
+            "confidence": 0.7495117,
+            "speaker": "B"
+        },
+        {
+            "text": "I'm",
+            "start": 49740,
+            "end": 50020,
+            "confidence": 0.9920247,
+            "speaker": "B"
+        },
+        {
+            "text": "sure",
+            "start": 50020,
+            "end": 50300,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "you",
+            "start": 50300,
+            "end": 50660,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "heard",
+            "start": 50660,
+            "end": 50940,
+            "confidence": 0.5545044,
+            "speaker": "B"
+        },
+        {
+            "text": "it",
+            "start": 50940,
+            "end": 51060,
+            "confidence": 0.9892578,
+            "speaker": "B"
+        },
+        {
+            "text": "on.",
+            "start": 51060,
+            "end": 51220,
+            "confidence": 0.51708984,
+            "speaker": "B"
+        },
+        {
+            "text": "Before",
+            "start": 51220,
+            "end": 51500,
+            "confidence": 0.79345703,
+            "speaker": "A"
+        },
+        {
+            "text": "but",
+            "start": 51580,
+            "end": 51860,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 51860,
+            "end": 52060,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "never",
+            "start": 52060,
+            "end": 52340,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "really",
+            "start": 52340,
+            "end": 52700,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "had",
+            "start": 52700,
+            "end": 53020,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 53020,
+            "end": 53220,
+            "confidence": 0.72216797,
+            "speaker": "A"
+        },
+        {
+            "text": "doubt",
+            "start": 53220,
+            "end": 53740,
+            "confidence": 0.74934894,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 54620,
+            "end": 54900,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "don't",
+            "start": 54900,
+            "end": 55140,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "believe",
+            "start": 55140,
+            "end": 55420,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "everybody",
+            "start": 55980,
+            "end": 57020,
+            "confidence": 0.9758301,
+            "speaker": "A"
+        },
+        {
+            "text": "feels",
+            "start": 57340,
+            "end": 57900,
+            "confidence": 0.91552734,
+            "speaker": "A"
+        },
+        {
+            "text": "a.",
+            "start": 57900,
+            "end": 58100,
+            "confidence": 0.22912598,
+            "speaker": "A"
+        },
+        {
+            "text": "Way",
+            "start": 58100,
+            "end": 58380,
+            "confidence": 0.6191406,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 58460,
+            "end": 58780,
+            "confidence": 0.9189453,
+            "speaker": "B"
+        },
+        {
+            "text": "know",
+            "start": 58780,
+            "end": 59100,
+            "confidence": 0.9658203,
+            "speaker": "B"
+        },
+        {
+            "text": "about",
+            "start": 59180,
+            "end": 59580,
+            "confidence": 0.98046875,
+            "speaker": "B"
+        },
+        {
+            "text": "you.",
+            "start": 59580,
+            "end": 59980,
+            "confidence": 0.4013672,
+            "speaker": "B"
+        },
+        {
+            "text": "You're",
+            "start": 90440,
+            "end": 90640,
+            "confidence": 0.9321289,
+            "speaker": "B"
+        },
+        {
+            "text": "going",
+            "start": 90640,
+            "end": 90880,
+            "confidence": 0.7963867,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 90880,
+            "end": 91120,
+            "confidence": 0.9814453,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 91120,
+            "end": 91280,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 91280,
+            "end": 91440,
+            "confidence": 0.9848633,
+            "speaker": "B"
+        },
+        {
+            "text": "one",
+            "start": 91440,
+            "end": 91680,
+            "confidence": 0.9946289,
+            "speaker": "B"
+        },
+        {
+            "text": "that",
+            "start": 91680,
+            "end": 92040,
+            "confidence": 0.98583984,
+            "speaker": "B"
+        },
+        {
+            "text": "saves",
+            "start": 92040,
+            "end": 92600,
+            "confidence": 0.7792969,
+            "speaker": "B"
+        },
+        {
+            "text": "me.",
+            "start": 92600,
+            "end": 93000,
+            "confidence": 0.9238281,
+            "speaker": "B"
+        },
+        {
+            "text": "Not.",
+            "start": 95860,
+            "end": 96100,
+            "confidence": 0.23498535,
+            "speaker": "C"
+        },
+        {
+            "text": "You're",
+            "start": 100420,
+            "end": 100900,
+            "confidence": 0.78027344,
+            "speaker": "B"
+        },
+        {
+            "text": "my",
+            "start": 100900,
+            "end": 101180,
+            "confidence": 0.94433594,
+            "speaker": "B"
+        },
+        {
+            "text": "one",
+            "start": 101180,
+            "end": 101500,
+            "confidence": 0.43920898,
+            "speaker": "B"
+        },
+        {
+            "text": "tomorrow.",
+            "start": 101500,
+            "end": 102660,
+            "confidence": 0.77075195,
+            "speaker": "B"
+        },
+        {
+            "text": "My",
+            "start": 127680,
+            "end": 127840,
+            "confidence": 0.37182617,
+            "speaker": "D"
+        },
+        {
+            "text": "house.",
+            "start": 127840,
+            "end": 128160,
+            "confidence": 0.65283203,
+            "speaker": "D"
+        },
+        {
+            "text": "I",
+            "start": 132400,
+            "end": 132680,
+            "confidence": 0.7109375,
+            "speaker": "B"
+        },
+        {
+            "text": "know",
+            "start": 132680,
+            "end": 132960,
+            "confidence": 0.7402344,
+            "speaker": "B"
+        },
+        {
+            "text": "the.",
+            "start": 133040,
+            "end": 133440,
+            "confidence": 0.49487305,
+            "speaker": "B"
+        },
+        {
+            "text": "Way.",
+            "start": 139840,
+            "end": 140240,
+            "confidence": 0.5214844,
+            "speaker": "B"
+        },
+        {
+            "text": "You",
+            "start": 157440,
+            "end": 157760,
+            "confidence": 0.9433594,
+            "speaker": "B"
+        },
+        {
+            "text": "call",
+            "start": 157760,
+            "end": 158040,
+            "confidence": 0.5625,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 158040,
+            "end": 158400,
+            "confidence": 0.8286133,
+            "speaker": "B"
+        },
+        {
+            "text": "easier.",
+            "start": 159660,
+            "end": 160220,
+            "confidence": 0.38684082,
+            "speaker": "B"
+        },
+        {
+            "text": "All.",
+            "start": 191560,
+            "end": 191800,
+            "confidence": 0.21862793,
+            "speaker": "C"
+        },
+        {
+            "text": "You",
+            "start": 198920,
+            "end": 199320,
+            "confidence": 0.9394531,
+            "speaker": "B"
+        },
+        {
+            "text": "don't",
+            "start": 199800,
+            "end": 200120,
+            "confidence": 0.7873535,
+            "speaker": "B"
+        },
+        {
+            "text": "want",
+            "start": 200120,
+            "end": 200320,
+            "confidence": 0.9741211,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 200320,
+            "end": 200640,
+            "confidence": 0.90283203,
+            "speaker": "B"
+        },
+        {
+            "text": "sage",
+            "start": 200640,
+            "end": 201240,
+            "confidence": 0.43237305,
+            "speaker": "B"
+        },
+        {
+            "text": "me.",
+            "start": 201320,
+            "end": 201720,
+            "confidence": 0.36010742,
+            "speaker": "B"
+        },
+        {
+            "text": "You'Re.",
+            "start": 204120,
+            "end": 204480,
+            "confidence": 0.8330078,
+            "speaker": "C"
+        },
+        {
+            "text": "Going",
+            "start": 204480,
+            "end": 204720,
+            "confidence": 0.86621094,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 204720,
+            "end": 204920,
+            "confidence": 0.7944336,
+            "speaker": "B"
+        },
+        {
+            "text": "be",
+            "start": 204920,
+            "end": 205040,
+            "confidence": 0.9770508,
+            "speaker": "B"
+        },
+        {
+            "text": "the",
+            "start": 205040,
+            "end": 205240,
+            "confidence": 0.96728516,
+            "speaker": "B"
+        },
+        {
+            "text": "one",
+            "start": 205240,
+            "end": 205520,
+            "confidence": 0.9663086,
+            "speaker": "B"
+        },
+        {
+            "text": "to",
+            "start": 205520,
+            "end": 205840,
+            "confidence": 0.6713867,
+            "speaker": "B"
+        },
+        {
+            "text": "sa.",
+            "start": 205840,
+            "end": 206200,
+            "confidence": 0.6064453,
+            "speaker": "B"
+        },
+        {
+            "text": "You'Re",
+            "start": 209240,
+            "end": 209600,
+            "confidence": 0.90738934,
+            "speaker": "D"
+        },
+        {
+            "text": "going",
+            "start": 209600,
+            "end": 209840,
+            "confidence": 0.9790039,
+            "speaker": "D"
+        },
+        {
+            "text": "to",
+            "start": 209840,
+            "end": 210040,
+            "confidence": 0.95654297,
+            "speaker": "D"
+        },
+        {
+            "text": "be",
+            "start": 210040,
+            "end": 210160,
+            "confidence": 0.99072266,
+            "speaker": "D"
+        },
+        {
+            "text": "the",
+            "start": 210160,
+            "end": 210360,
+            "confidence": 0.98828125,
+            "speaker": "D"
+        },
+        {
+            "text": "one.",
+            "start": 210360,
+            "end": 210680,
+            "confidence": 0.9658203,
+            "speaker": "D"
+        },
+        {
+            "text": "Sam.",
+            "start": 223460,
+            "end": 231940,
+            "confidence": 0.77856445,
+            "speaker": "C"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Sam I don't believe that anybody feels.",
+            "start": 240,
+            "end": 36220,
+            "confidence": 0.89515907,
+            "speaker": "A"
+        },
+        {
+            "text": "The way I feel about you now.",
+            "start": 36220,
+            "end": 38780,
+            "confidence": 0.95751953,
+            "speaker": "B"
+        },
+        {
+            "text": "Backbeat the winners on the street that the fire in your heart is out.",
+            "start": 44140,
+            "end": 48299,
+            "confidence": 0.794297,
+            "speaker": "A"
+        },
+        {
+            "text": "And I'm sure you heard it on.",
+            "start": 49420,
+            "end": 51220,
+            "confidence": 0.82800585,
+            "speaker": "B"
+        },
+        {
+            "text": "Before but you never really had a doubt I don't believe everybody feels a.",
+            "start": 51220,
+            "end": 58100,
+            "confidence": 0.8833037,
+            "speaker": "A"
+        },
+        {
+            "text": "Way to know about you. You're going to be the one that saves me.",
+            "start": 58100,
+            "end": 93000,
+            "confidence": 0.8759068,
+            "speaker": "B"
+        },
+        {
+            "text": "Not.",
+            "start": 95860,
+            "end": 96100,
+            "confidence": 0.23498535,
+            "speaker": "C"
+        },
+        {
+            "text": "You're my one tomorrow.",
+            "start": 100420,
+            "end": 102660,
+            "confidence": 0.7336426,
+            "speaker": "B"
+        },
+        {
+            "text": "My house.",
+            "start": 127680,
+            "end": 128160,
+            "confidence": 0.5123291,
+            "speaker": "D"
+        },
+        {
+            "text": "I know the. Way. You call me easier.",
+            "start": 132400,
+            "end": 160220,
+            "confidence": 0.64860535,
+            "speaker": "B"
+        },
+        {
+            "text": "All.",
+            "start": 191560,
+            "end": 191800,
+            "confidence": 0.21862793,
+            "speaker": "C"
+        },
+        {
+            "text": "You don't want to sage me.",
+            "start": 198920,
+            "end": 201720,
+            "confidence": 0.7327067,
+            "speaker": "B"
+        },
+        {
+            "text": "You'Re.",
+            "start": 204120,
+            "end": 204480,
+            "confidence": 0.8330078,
+            "speaker": "C"
+        },
+        {
+            "text": "Going to be the one to sa.",
+            "start": 204480,
+            "end": 206200,
+            "confidence": 0.83558875,
+            "speaker": "B"
+        },
+        {
+            "text": "You'Re going to be the one.",
+            "start": 209240,
+            "end": 210680,
+            "confidence": 0.9646267,
+            "speaker": "D"
+        },
+        {
+            "text": "Sam.",
+            "start": 223460,
+            "end": 231940,
+            "confidence": 0.77856445,
+            "speaker": "C"
+        }
+    ],
+    "chapters": [
+        {
+            "summary": "Sam: You're going to be the one that saves me. You're my one tomorrow. Backbeat the winners on the street that the fire in your heart is out. I don't believe that anybody feels. the way I feel about you now.",
+            "headline": "Sam I don't believe that anybody feels. The way I feel about you now",
+            "gist": "Sam",
+            "start": 240,
+            "end": 231940
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "Sam I don't believe that anybody feels the way I feel about you now.",
+            "start": 240,
+            "end": 38780,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.6975459
+        },
+        {
+            "text": "Backbeat the winners on the street that the fire in your heart is out and I'm sure you heard it on before but you never really had a doubt I don't believe everybody feels a way to know about you.",
+            "start": 44140,
+            "end": 59980,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.57555175
+        },
+        {
+            "text": "You're going to be the one that saves me not.",
+            "start": 90440,
+            "end": 96100,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.57910323
+        },
+        {
+            "text": "You're my one tomorrow.",
+            "start": 100420,
+            "end": 102660,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8770715
+        },
+        {
+            "text": "My house.",
+            "start": 127680,
+            "end": 128160,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.67345095
+        },
+        {
+            "text": "I know the.",
+            "start": 132400,
+            "end": 133440,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.63325584
+        },
+        {
+            "text": "Way.",
+            "start": 139840,
+            "end": 140240,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.59472185
+        },
+        {
+            "text": "You call me easier.",
+            "start": 157440,
+            "end": 160220,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.59862703
+        },
+        {
+            "text": "All.",
+            "start": 191560,
+            "end": 191800,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.54219025
+        },
+        {
+            "text": "You don't want to sage me you're going to be the one to sa you're going to be the one.",
+            "start": 198920,
+            "end": 210680,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6856626
+        },
+        {
+            "text": "Sam.",
+            "start": 223460,
+            "end": 231940,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6722904
+        }
+    ],
+    "audio_duration": 258,
+    "language_code": "en"
+}

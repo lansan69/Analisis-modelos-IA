@@ -1,0 +1,932 @@
+{
+    "text": "De hecho, yo a través de mi música me expongo totalmente, porque es algo que sale de mí. Sale de mi cabeza, de mi cuerpo, de mi corazón, de mis manos, de mi voz. Y yo escribo lo que pienso, sobre todo lo que siento. Y abrirme a poder escribir algo que es muy íntimo y mostrárselo a otras personas es como estar desnuda delante de un aula, exponiendo, básicamente. O sea, es abrir tu corazón o tu alma, sobre todo tus sentimientos y tus pensamientos. Por suerte, la vulnerabilidad ahora la manejo mejor. Al inicio, cuando recién empecé, tenía pánico, porque me daba vergüenza. Me daba mucha vergüenza que la gente sepa lo que pensaba o cómo me sentía. Después, cuando empecé a tocar, me di cuenta que había mucha gente que se sentía identificada con lo que yo decía. Y eso me dio mucho más confianza.",
+    "audio_duration": 76.70999908447266,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "De",
+            "start": 0.0,
+            "end": 0.20000000298023224,
+            "confidence": 0.99
+        },
+        {
+            "text": "hecho",
+            "start": 0.20000000298023224,
+            "end": 0.3199999928474426,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 0.46000000834465027,
+            "end": 0.6800000071525574,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 0.6800000071525574,
+            "end": 0.7599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "través",
+            "start": 0.7599999904632568,
+            "end": 0.7599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 0.7599999904632568,
+            "end": 0.9399999976158142,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 0.9399999976158142,
+            "end": 1.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "música",
+            "start": 1.440000057220459,
+            "end": 1.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 1.440000057220459,
+            "end": 2.6600000858306885,
+            "confidence": 0.99
+        },
+        {
+            "text": "expongo",
+            "start": 2.6600000858306885,
+            "end": 3.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "totalmente",
+            "start": 3.380000114440918,
+            "end": 4.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "porque",
+            "start": 5.739999771118164,
+            "end": 6.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 6.400000095367432,
+            "end": 7.059999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "algo",
+            "start": 7.059999942779541,
+            "end": 7.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 7.179999828338623,
+            "end": 7.480000019073486,
+            "confidence": 0.99
+        },
+        {
+            "text": "sale",
+            "start": 7.480000019073486,
+            "end": 7.480000019073486,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 7.480000019073486,
+            "end": 7.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "mí",
+            "start": 7.699999809265137,
+            "end": 7.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sale",
+            "start": 8.239999771118164,
+            "end": 8.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 8.239999771118164,
+            "end": 8.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 8.520000457763672,
+            "end": 8.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "cabeza",
+            "start": 8.979999542236328,
+            "end": 8.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 9.520000457763672,
+            "end": 9.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 9.579999923706055,
+            "end": 10.279999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuerpo",
+            "start": 10.279999732971191,
+            "end": 10.279999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 10.4399995803833,
+            "end": 10.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 10.5,
+            "end": 10.640000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "corazón",
+            "start": 10.640000343322754,
+            "end": 11.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 11.359999656677246,
+            "end": 11.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "mis",
+            "start": 11.520000457763672,
+            "end": 11.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "manos",
+            "start": 11.520000457763672,
+            "end": 11.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 11.880000114440918,
+            "end": 11.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 11.960000038146973,
+            "end": 12.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "voz",
+            "start": 12.260000228881836,
+            "end": 12.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 12.5,
+            "end": 12.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 12.680000305175781,
+            "end": 13.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "escribo",
+            "start": 13.039999961853027,
+            "end": 13.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 13.0600004196167,
+            "end": 13.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 13.260000228881836,
+            "end": 13.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "pienso",
+            "start": 13.699999809265137,
+            "end": 13.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "sobre",
+            "start": 14.039999961853027,
+            "end": 14.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 14.239999771118164,
+            "end": 14.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 14.319999694824219,
+            "end": 14.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 14.479999542236328,
+            "end": 14.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "siento",
+            "start": 14.9399995803833,
+            "end": 14.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 15.199999809265137,
+            "end": 15.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "abrirme",
+            "start": 15.779999732971191,
+            "end": 16.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 16.34000015258789,
+            "end": 16.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "poder",
+            "start": 16.719999313354492,
+            "end": 17.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "escribir",
+            "start": 17.059999465942383,
+            "end": 17.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "algo",
+            "start": 17.780000686645508,
+            "end": 18.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 18.139999389648438,
+            "end": 18.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 18.559999465942383,
+            "end": 18.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 18.68000030517578,
+            "end": 19.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "íntimo",
+            "start": 19.020000457763672,
+            "end": 19.200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 19.200000762939453,
+            "end": 19.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "mostrárselo",
+            "start": 19.639999389648438,
+            "end": 20.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 20.1200008392334,
+            "end": 20.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "otras",
+            "start": 20.440000534057617,
+            "end": 20.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "personas",
+            "start": 20.440000534057617,
+            "end": 20.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 22.399999618530273,
+            "end": 23.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 23.059999465942383,
+            "end": 23.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "estar",
+            "start": 23.719999313354492,
+            "end": 24.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "desnuda",
+            "start": 24.3799991607666,
+            "end": 24.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "delante",
+            "start": 24.780000686645508,
+            "end": 25.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 25.239999771118164,
+            "end": 25.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 25.68000030517578,
+            "end": 26.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "aula",
+            "start": 26.020000457763672,
+            "end": 26.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "exponiendo",
+            "start": 26.739999771118164,
+            "end": 27.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "básicamente",
+            "start": 27.559999465942383,
+            "end": 27.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 27.899999618530273,
+            "end": 28.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "sea",
+            "start": 28.15999984741211,
+            "end": 28.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 29.34000015258789,
+            "end": 29.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "abrir",
+            "start": 29.81999969482422,
+            "end": 29.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "tu",
+            "start": 29.81999969482422,
+            "end": 30.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "corazón",
+            "start": 30.479999542236328,
+            "end": 30.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "o",
+            "start": 30.479999542236328,
+            "end": 30.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "tu",
+            "start": 30.700000762939453,
+            "end": 31.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "alma",
+            "start": 31.059999465942383,
+            "end": 31.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "sobre",
+            "start": 31.420000076293945,
+            "end": 31.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 31.6200008392334,
+            "end": 31.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "tus",
+            "start": 31.860000610351562,
+            "end": 32.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "sentimientos",
+            "start": 32.84000015258789,
+            "end": 33.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 33.380001068115234,
+            "end": 34.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "tus",
+            "start": 34.099998474121094,
+            "end": 34.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "pensamientos",
+            "start": 34.439998626708984,
+            "end": 34.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Por",
+            "start": 51.86000061035156,
+            "end": 52.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "suerte",
+            "start": 52.58000183105469,
+            "end": 53.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 53.720001220703125,
+            "end": 53.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "vulnerabilidad",
+            "start": 53.880001068115234,
+            "end": 54.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "ahora",
+            "start": 54.939998626708984,
+            "end": 55.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 55.2400016784668,
+            "end": 55.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "manejo",
+            "start": 55.459999084472656,
+            "end": 55.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "mejor",
+            "start": 55.70000076293945,
+            "end": 55.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "Al",
+            "start": 55.959999084472656,
+            "end": 56.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "inicio",
+            "start": 56.20000076293945,
+            "end": 56.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuando",
+            "start": 56.81999969482422,
+            "end": 56.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "recién",
+            "start": 56.959999084472656,
+            "end": 57.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "empecé",
+            "start": 57.279998779296875,
+            "end": 57.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "tenía",
+            "start": 58.47999954223633,
+            "end": 59.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "pánico",
+            "start": 59.060001373291016,
+            "end": 59.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "porque",
+            "start": 59.880001068115234,
+            "end": 60.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 60.0,
+            "end": 60.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "daba",
+            "start": 60.220001220703125,
+            "end": 60.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "vergüenza",
+            "start": 60.279998779296875,
+            "end": 60.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Me",
+            "start": 61.900001525878906,
+            "end": 61.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "daba",
+            "start": 61.959999084472656,
+            "end": 61.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucha",
+            "start": 61.959999084472656,
+            "end": 62.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "vergüenza",
+            "start": 62.29999923706055,
+            "end": 62.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 62.5,
+            "end": 62.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 62.79999923706055,
+            "end": 63.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "gente",
+            "start": 63.220001220703125,
+            "end": 63.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "sepa",
+            "start": 63.220001220703125,
+            "end": 63.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 63.540000915527344,
+            "end": 63.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 63.70000076293945,
+            "end": 63.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "pensaba",
+            "start": 63.97999954223633,
+            "end": 64.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "o",
+            "start": 64.33999633789062,
+            "end": 64.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "cómo",
+            "start": 64.94000244140625,
+            "end": 65.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 65.0199966430664,
+            "end": 65.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "sentía",
+            "start": 65.33999633789062,
+            "end": 65.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "Después",
+            "start": 65.95999908447266,
+            "end": 66.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuando",
+            "start": 66.80000305175781,
+            "end": 66.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "empecé",
+            "start": 66.9000015258789,
+            "end": 67.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 67.31999969482422,
+            "end": 68.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "tocar",
+            "start": 68.54000091552734,
+            "end": 68.54000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 68.95999908447266,
+            "end": 69.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "di",
+            "start": 69.26000213623047,
+            "end": 69.26000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 69.26000213623047,
+            "end": 69.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 69.4800033569336,
+            "end": 69.73999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "había",
+            "start": 69.73999786376953,
+            "end": 69.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucha",
+            "start": 69.87999725341797,
+            "end": 70.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "gente",
+            "start": 70.16000366210938,
+            "end": 70.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 70.36000061035156,
+            "end": 70.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 70.5,
+            "end": 70.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "sentía",
+            "start": 70.87999725341797,
+            "end": 70.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "identificada",
+            "start": 70.91999816894531,
+            "end": 71.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 71.55999755859375,
+            "end": 71.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 71.9800033569336,
+            "end": 72.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 72.41999816894531,
+            "end": 72.5199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 72.5199966430664,
+            "end": 72.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "decía",
+            "start": 72.80000305175781,
+            "end": 73.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 73.12000274658203,
+            "end": 73.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "eso",
+            "start": 73.5,
+            "end": 73.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 73.68000030517578,
+            "end": 73.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "dio",
+            "start": 73.83999633789062,
+            "end": 73.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucho",
+            "start": 73.91999816894531,
+            "end": 74.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 74.12000274658203,
+            "end": 74.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "confianza",
+            "start": 74.44000244140625,
+            "end": 74.76000213623047,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "De hecho, yo a través de mi música me expongo totalmente, porque es algo que sale de mí.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Y abrirme a poder escribir algo que es muy íntimo y mostrárselo a otras personas es como estar desnuda delante de un aula.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "segment": "Por suerte, la vulnerabilidad ahora la manejo mejor.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Al inicio, cuando recién empecé, tenía pánico, porque me daba vergüenza.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Después, cuando empecé a tocar, me di cuenta que había mucha gente que se sentía identificada con lo que yo decía.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.88
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "La exposición a través de la música",
+            "summary": "El autor habla sobre la vulnerabilidad de compartir su música y sus sentimientos con los demás.",
+            "start": 0,
+            "end": 120
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

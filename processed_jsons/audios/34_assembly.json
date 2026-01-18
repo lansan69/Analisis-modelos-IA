@@ -1,0 +1,531 @@
+{
+    "id": "509787d4-c138-4f95-bc4d-7a39cc599c02",
+    "status": "completed",
+    "text": "También me aparece acá que su tarjeta tiene un seguro de desgravamen que tiene un costo de 0,036 uso mensual, aproximadamente 1300 pesos y también se paga solo si se usa la tarjeta. Por último le comento que usted forma parte del club de beneficios Soy Facha, en donde puede acceder a más descuentos de la página Beneficios FP GL. También puede revisar su contrato de apertura de tarjetas, la página tarjetaspachoampar com.",
+    "words": [
+        {
+            "text": "También",
+            "start": 560,
+            "end": 760,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 760,
+            "end": 960,
+            "confidence": 0.97216797,
+            "speaker": "A"
+        },
+        {
+            "text": "aparece",
+            "start": 960,
+            "end": 1240,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "acá",
+            "start": 1240,
+            "end": 1440,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 1440,
+            "end": 1560,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 1560,
+            "end": 1680,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 1680,
+            "end": 1960,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "tiene",
+            "start": 1960,
+            "end": 2160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 2160,
+            "end": 2320,
+            "confidence": 0.6660156,
+            "speaker": "A"
+        },
+        {
+            "text": "seguro",
+            "start": 2320,
+            "end": 2560,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 2560,
+            "end": 2640,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "desgravamen",
+            "start": 2640,
+            "end": 3360,
+            "confidence": 0.8924805,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 3360,
+            "end": 3440,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "tiene",
+            "start": 3440,
+            "end": 3560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 3560,
+            "end": 3680,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "costo",
+            "start": 3680,
+            "end": 3840,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 3840,
+            "end": 4000,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "0,036",
+            "start": 4000,
+            "end": 5360,
+            "confidence": 0.97349,
+            "speaker": "A"
+        },
+        {
+            "text": "uso",
+            "start": 5360,
+            "end": 5880,
+            "confidence": 0.8947754,
+            "speaker": "A"
+        },
+        {
+            "text": "mensual,",
+            "start": 5880,
+            "end": 6400,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "aproximadamente",
+            "start": 6560,
+            "end": 7360,
+            "confidence": 0.9353841,
+            "speaker": "A"
+        },
+        {
+            "text": "1300",
+            "start": 7360,
+            "end": 7960,
+            "confidence": 0.94419,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos",
+            "start": 7960,
+            "end": 8360,
+            "confidence": 0.8800456,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 8360,
+            "end": 8480,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "también",
+            "start": 8480,
+            "end": 8600,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 8600,
+            "end": 8760,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "paga",
+            "start": 8760,
+            "end": 9120,
+            "confidence": 0.95336914,
+            "speaker": "A"
+        },
+        {
+            "text": "solo",
+            "start": 9120,
+            "end": 9360,
+            "confidence": 0.9375,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 9360,
+            "end": 9520,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 9520,
+            "end": 9600,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "usa",
+            "start": 9600,
+            "end": 9840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 9840,
+            "end": 9960,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta.",
+            "start": 9960,
+            "end": 10400,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Por",
+            "start": 11520,
+            "end": 11800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "último",
+            "start": 11800,
+            "end": 12040,
+            "confidence": 0.9973958,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 12040,
+            "end": 12200,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "comento",
+            "start": 12200,
+            "end": 12560,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 12560,
+            "end": 12720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "usted",
+            "start": 12720,
+            "end": 12920,
+            "confidence": 0.99780273,
+            "speaker": "A"
+        },
+        {
+            "text": "forma",
+            "start": 12920,
+            "end": 13120,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "parte",
+            "start": 13120,
+            "end": 13280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 13280,
+            "end": 13440,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "club",
+            "start": 13440,
+            "end": 13640,
+            "confidence": 0.9082031,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 13640,
+            "end": 13760,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "beneficios",
+            "start": 13760,
+            "end": 14200,
+            "confidence": 0.9145508,
+            "speaker": "A"
+        },
+        {
+            "text": "Soy",
+            "start": 14200,
+            "end": 14480,
+            "confidence": 0.8251953,
+            "speaker": "A"
+        },
+        {
+            "text": "Facha,",
+            "start": 14480,
+            "end": 14840,
+            "confidence": 0.5847168,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 14840,
+            "end": 14920,
+            "confidence": 0.5576172,
+            "speaker": "A"
+        },
+        {
+            "text": "donde",
+            "start": 14920,
+            "end": 15040,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 15040,
+            "end": 15160,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "acceder",
+            "start": 15160,
+            "end": 15400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 15400,
+            "end": 15520,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 15520,
+            "end": 15640,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "descuentos",
+            "start": 15640,
+            "end": 16159,
+            "confidence": 0.8905029,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 16159,
+            "end": 16320,
+            "confidence": 0.8803711,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 16320,
+            "end": 16400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "página",
+            "start": 16400,
+            "end": 16640,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Beneficios",
+            "start": 16640,
+            "end": 17240,
+            "confidence": 0.9986572,
+            "speaker": "A"
+        },
+        {
+            "text": "FP",
+            "start": 17240,
+            "end": 17920,
+            "confidence": 0.72766113,
+            "speaker": "A"
+        },
+        {
+            "text": "GL.",
+            "start": 17920,
+            "end": 18320,
+            "confidence": 0.72216797,
+            "speaker": "A"
+        },
+        {
+            "text": "También",
+            "start": 18720,
+            "end": 19040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 19040,
+            "end": 19280,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "revisar",
+            "start": 19280,
+            "end": 19720,
+            "confidence": 0.8728841,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 19720,
+            "end": 19880,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "contrato",
+            "start": 19880,
+            "end": 20120,
+            "confidence": 0.97631836,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 20120,
+            "end": 20280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "apertura",
+            "start": 20280,
+            "end": 20600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 20600,
+            "end": 20720,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjetas,",
+            "start": 20720,
+            "end": 21320,
+            "confidence": 0.8331706,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 21320,
+            "end": 21440,
+            "confidence": 0.95214844,
+            "speaker": "A"
+        },
+        {
+            "text": "página",
+            "start": 21440,
+            "end": 21640,
+            "confidence": 0.9439697,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjetaspachoampar",
+            "start": 21640,
+            "end": 22880,
+            "confidence": 0.782135,
+            "speaker": "A"
+        },
+        {
+            "text": "com.",
+            "start": 22880,
+            "end": 23280,
+            "confidence": 0.9814453,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "También me aparece acá que su tarjeta tiene un seguro de desgravamen que tiene un costo de 0,036 uso mensual, aproximadamente 1300 pesos y también se paga solo si se usa la tarjeta. Por último le comento que usted forma parte del club de beneficios Soy Facha, en donde puede acceder a más descuentos de la página Beneficios FP GL. También puede revisar su contrato de apertura de tarjetas, la página tarjetaspachoampar com.",
+            "start": 560,
+            "end": 23280,
+            "confidence": 0.9489792,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 24,
+    "language_code": "es"
+}

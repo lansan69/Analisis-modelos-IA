@@ -1,0 +1,326 @@
+{
+    "text": "¿Sí? Deme su nombre. Eh... Espera, que tengo el Gmail. Demo hotmails. ¿Dónde he escrito? No lo recuerdo. No, no lo recuerdo. No. Cris-bajo. Cris-bajo. Sí. Telmex. Telmex. Arroba hotmails.com. Perfecto. Y, por último, indíqueme su dirección particular. Alemira del Rosal. ¿Ya? 4549. Gracias.  ",
+    "audio_duration": 31.030000686645508,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "¿Sí",
+            "start": 0.0,
+            "end": 0.8600000143051147,
+            "confidence": 0.99
+        },
+        {
+            "text": "Deme",
+            "start": 2.0199999809265137,
+            "end": 2.299999952316284,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 2.299999952316284,
+            "end": 2.4200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "nombre",
+            "start": 2.4200000762939453,
+            "end": 2.4200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eh",
+            "start": 3.4600000381469727,
+            "end": 4.099999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "Espera",
+            "start": 4.099999904632568,
+            "end": 4.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 4.179999828338623,
+            "end": 4.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "tengo",
+            "start": 4.300000190734863,
+            "end": 4.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 4.460000038146973,
+            "end": 4.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Gmail",
+            "start": 4.699999809265137,
+            "end": 4.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "Demo",
+            "start": 5.119999885559082,
+            "end": 5.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "hotmails",
+            "start": 5.119999885559082,
+            "end": 5.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Dónde",
+            "start": 5.800000190734863,
+            "end": 5.840000152587891,
+            "confidence": 0.99
+        },
+        {
+            "text": "he",
+            "start": 5.840000152587891,
+            "end": 5.940000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "escrito",
+            "start": 5.940000057220459,
+            "end": 6.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 6.420000076293945,
+            "end": 6.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 6.880000114440918,
+            "end": 6.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "recuerdo",
+            "start": 6.880000114440918,
+            "end": 6.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 7.699999809265137,
+            "end": 7.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 7.699999809265137,
+            "end": 7.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 7.699999809265137,
+            "end": 8.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "recuerdo",
+            "start": 8.039999961853027,
+            "end": 8.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 9.34000015258789,
+            "end": 9.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Cris",
+            "start": 9.9399995803833,
+            "end": 10.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "bajo",
+            "start": 10.579999923706055,
+            "end": 11.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "Cris",
+            "start": 12.15999984741211,
+            "end": 12.279999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "bajo",
+            "start": 12.279999732971191,
+            "end": 12.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sí",
+            "start": 13.819999694824219,
+            "end": 14.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "Telmex",
+            "start": 14.260000228881836,
+            "end": 14.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "Telmex",
+            "start": 16.040000915527344,
+            "end": 16.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "Arroba",
+            "start": 17.84000015258789,
+            "end": 18.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "hotmails",
+            "start": 18.040000915527344,
+            "end": 18.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "com",
+            "start": 18.360000610351562,
+            "end": 18.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "Perfecto",
+            "start": 21.799999237060547,
+            "end": 22.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 22.440000534057617,
+            "end": 22.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 22.719999313354492,
+            "end": 22.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "último",
+            "start": 22.8799991607666,
+            "end": 23.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "indíqueme",
+            "start": 23.200000762939453,
+            "end": 23.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 23.459999084472656,
+            "end": 24.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "dirección",
+            "start": 24.15999984741211,
+            "end": 24.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "particular",
+            "start": 24.15999984741211,
+            "end": 24.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "Alemira",
+            "start": 25.760000228881836,
+            "end": 26.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 26.059999465942383,
+            "end": 26.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "Rosal",
+            "start": 26.260000228881836,
+            "end": 26.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Ya",
+            "start": 27.479999542236328,
+            "end": 27.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "4549",
+            "start": 29.200000762939453,
+            "end": 29.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Gracias",
+            "start": 30.920000076293945,
+            "end": 30.959999084472656,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "¿Sí? Deme su nombre. Eh... Espera, que tengo el Gmail.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Demo hotmails. ¿Dónde he escrito? No lo recuerdo. No, no lo recuerdo.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "segment": "No. Cris-bajo. Cris-bajo. Sí. Telmex. Telmex. Arroba hotmails.com.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "segment": "Perfecto. Y, por último, indíqueme su dirección particular. Alemira del Rosal. ¿Ya?",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "4549. Gracias.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.95
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Información de contacto",
+            "summary": "El hablante solicita y confirma la información personal del interlocutor, incluyendo nombre, dirección y correo electrónico.",
+            "start": 0,
+            "end": 20
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

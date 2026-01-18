@@ -1,0 +1,829 @@
+{
+    "text": "Así fue como los cascos de burro dieron origen a uno de los juegos más conocidos del mundo. Hace más de mil años, los chinos cortaban estos cascos en rectángulos y los hervían durante horas, lo que ablandaba el material. Luego colocaban una tabla de madera encima, lo sujetaban con fuerza y lo prensaban hasta que quedara plano y mucho más denso. Esto hacía posible lijarlos hasta obtener rectángulos perfectamente lisos que más tarde se usarían en todo el mundo. Después, al desgastar cada pieza bajo el agua para suavizar todas las superficies, se frotaban contra cuerdas pintadas para crear una cuadrícula precisa. Como todas debían ser exactamente iguales, este proceso permitía perforar cada pieza con precisión, dando origen al final a las piezas icónicas que hoy conocemos como dominos.",
+    "audio_duration": 39.209999084472656,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Así",
+            "start": 0.0,
+            "end": 0.25999999046325684,
+            "confidence": 0.99
+        },
+        {
+            "text": "fue",
+            "start": 0.25999999046325684,
+            "end": 0.47999998927116394,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 0.47999998927116394,
+            "end": 0.6000000238418579,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 0.6000000238418579,
+            "end": 0.8999999761581421,
+            "confidence": 0.99
+        },
+        {
+            "text": "cascos",
+            "start": 0.8999999761581421,
+            "end": 1.059999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 1.059999942779541,
+            "end": 1.2999999523162842,
+            "confidence": 0.99
+        },
+        {
+            "text": "burro",
+            "start": 1.2999999523162842,
+            "end": 1.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "dieron",
+            "start": 1.5,
+            "end": 1.7599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "origen",
+            "start": 1.7599999904632568,
+            "end": 2.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 2.119999885559082,
+            "end": 2.319999933242798,
+            "confidence": 0.99
+        },
+        {
+            "text": "uno",
+            "start": 2.319999933242798,
+            "end": 2.359999895095825,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 2.359999895095825,
+            "end": 2.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 2.559999942779541,
+            "end": 2.6600000858306885,
+            "confidence": 0.99
+        },
+        {
+            "text": "juegos",
+            "start": 2.6600000858306885,
+            "end": 2.9200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 2.9200000762939453,
+            "end": 3.2799999713897705,
+            "confidence": 0.99
+        },
+        {
+            "text": "conocidos",
+            "start": 3.2799999713897705,
+            "end": 3.640000104904175,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 3.640000104904175,
+            "end": 4.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "mundo",
+            "start": 4.179999828338623,
+            "end": 4.179999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hace",
+            "start": 4.480000019073486,
+            "end": 4.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 4.5,
+            "end": 4.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 4.699999809265137,
+            "end": 4.900000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "mil",
+            "start": 4.900000095367432,
+            "end": 5.059999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "años",
+            "start": 5.059999942779541,
+            "end": 5.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 5.460000038146973,
+            "end": 5.679999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "chinos",
+            "start": 5.679999828338623,
+            "end": 5.860000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "cortaban",
+            "start": 5.860000133514404,
+            "end": 6.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "estos",
+            "start": 6.239999771118164,
+            "end": 6.659999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "cascos",
+            "start": 6.659999847412109,
+            "end": 6.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 6.880000114440918,
+            "end": 7.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "rectángulos",
+            "start": 7.119999885559082,
+            "end": 7.659999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 7.659999847412109,
+            "end": 7.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 7.880000114440918,
+            "end": 8.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "hervían",
+            "start": 8.100000381469727,
+            "end": 8.359999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "durante",
+            "start": 8.359999656677246,
+            "end": 8.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "horas",
+            "start": 8.739999771118164,
+            "end": 9.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 9.300000190734863,
+            "end": 9.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 9.420000076293945,
+            "end": 9.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "ablandaba",
+            "start": 9.520000457763672,
+            "end": 9.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 9.899999618530273,
+            "end": 10.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "material",
+            "start": 10.460000038146973,
+            "end": 10.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "Luego",
+            "start": 10.859999656677246,
+            "end": 10.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "colocaban",
+            "start": 10.899999618530273,
+            "end": 11.359999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 11.359999656677246,
+            "end": 11.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 11.65999984741211,
+            "end": 11.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 11.800000190734863,
+            "end": 12.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "madera",
+            "start": 12.239999771118164,
+            "end": 12.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "encima",
+            "start": 12.239999771118164,
+            "end": 12.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 12.960000038146973,
+            "end": 13.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "sujetaban",
+            "start": 13.039999961853027,
+            "end": 13.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 13.399999618530273,
+            "end": 14.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "fuerza",
+            "start": 14.039999961853027,
+            "end": 14.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 14.039999961853027,
+            "end": 14.279999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 14.279999732971191,
+            "end": 14.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "prensaban",
+            "start": 14.5600004196167,
+            "end": 14.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "hasta",
+            "start": 14.800000190734863,
+            "end": 14.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 14.979999542236328,
+            "end": 15.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "quedara",
+            "start": 15.220000267028809,
+            "end": 15.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "plano",
+            "start": 15.460000038146973,
+            "end": 15.819999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 15.819999694824219,
+            "end": 16.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucho",
+            "start": 16.139999389648438,
+            "end": 16.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 16.31999969482422,
+            "end": 16.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "denso",
+            "start": 16.579999923706055,
+            "end": 16.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Esto",
+            "start": 17.100000381469727,
+            "end": 17.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "hacía",
+            "start": 17.18000030517578,
+            "end": 17.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "posible",
+            "start": 17.34000015258789,
+            "end": 17.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "lijarlos",
+            "start": 17.739999771118164,
+            "end": 18.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "hasta",
+            "start": 18.18000030517578,
+            "end": 18.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "obtener",
+            "start": 18.3799991607666,
+            "end": 18.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "rectángulos",
+            "start": 18.739999771118164,
+            "end": 19.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "perfectamente",
+            "start": 19.260000228881836,
+            "end": 19.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "lisos",
+            "start": 19.979999542236328,
+            "end": 20.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 20.34000015258789,
+            "end": 20.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "más",
+            "start": 20.579999923706055,
+            "end": 20.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarde",
+            "start": 20.8799991607666,
+            "end": 20.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 20.959999084472656,
+            "end": 21.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "usarían",
+            "start": 21.219999313354492,
+            "end": 21.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 21.520000457763672,
+            "end": 21.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 21.760000228881836,
+            "end": 21.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 21.899999618530273,
+            "end": 22.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "mundo",
+            "start": 22.280000686645508,
+            "end": 22.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "Después",
+            "start": 22.780000686645508,
+            "end": 23.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "al",
+            "start": 23.15999984741211,
+            "end": 23.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "desgastar",
+            "start": 23.239999771118164,
+            "end": 23.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "cada",
+            "start": 23.68000030517578,
+            "end": 23.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "pieza",
+            "start": 23.940000534057617,
+            "end": 24.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "bajo",
+            "start": 24.219999313354492,
+            "end": 24.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 24.420000076293945,
+            "end": 24.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "agua",
+            "start": 24.780000686645508,
+            "end": 24.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 24.780000686645508,
+            "end": 25.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "suavizar",
+            "start": 25.020000457763672,
+            "end": 25.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "todas",
+            "start": 25.3799991607666,
+            "end": 25.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 25.81999969482422,
+            "end": 26.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "superficies",
+            "start": 26.020000457763672,
+            "end": 26.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 26.520000457763672,
+            "end": 26.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "frotaban",
+            "start": 26.700000762939453,
+            "end": 27.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "contra",
+            "start": 27.139999389648438,
+            "end": 27.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuerdas",
+            "start": 27.479999542236328,
+            "end": 27.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "pintadas",
+            "start": 27.84000015258789,
+            "end": 28.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 28.31999969482422,
+            "end": 28.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "crear",
+            "start": 28.520000457763672,
+            "end": 28.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 28.799999237060547,
+            "end": 29.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuadrícula",
+            "start": 29.1200008392334,
+            "end": 29.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "precisa",
+            "start": 29.700000762939453,
+            "end": 30.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Como",
+            "start": 30.260000228881836,
+            "end": 30.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "todas",
+            "start": 30.479999542236328,
+            "end": 30.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "debían",
+            "start": 30.799999237060547,
+            "end": 31.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "ser",
+            "start": 31.1200008392334,
+            "end": 31.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "exactamente",
+            "start": 31.34000015258789,
+            "end": 31.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "iguales",
+            "start": 31.899999618530273,
+            "end": 32.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "este",
+            "start": 32.599998474121094,
+            "end": 32.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "proceso",
+            "start": 32.70000076293945,
+            "end": 33.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "permitía",
+            "start": 33.0,
+            "end": 33.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "perforar",
+            "start": 33.52000045776367,
+            "end": 34.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "cada",
+            "start": 34.040000915527344,
+            "end": 34.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "pieza",
+            "start": 34.29999923706055,
+            "end": 34.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 34.58000183105469,
+            "end": 34.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "precisión",
+            "start": 34.779998779296875,
+            "end": 35.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "dando",
+            "start": 35.70000076293945,
+            "end": 35.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "origen",
+            "start": 35.7599983215332,
+            "end": 36.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "al",
+            "start": 36.08000183105469,
+            "end": 36.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "final",
+            "start": 36.279998779296875,
+            "end": 36.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 36.52000045776367,
+            "end": 36.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 36.7599983215332,
+            "end": 36.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "piezas",
+            "start": 36.97999954223633,
+            "end": 37.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "icónicas",
+            "start": 37.15999984741211,
+            "end": 37.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 37.63999938964844,
+            "end": 37.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "hoy",
+            "start": 37.779998779296875,
+            "end": 37.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "conocemos",
+            "start": 37.959999084472656,
+            "end": 38.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 38.36000061035156,
+            "end": 38.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "dominos",
+            "start": 38.599998474121094,
+            "end": 39.02000045776367,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Así fue como los cascos de burro dieron origen a uno de los juegos más conocidos del mundo.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Hace más de mil años, los chinos cortaban estos cascos en rectángulos y los hervían durante horas, lo que ablandaba el material.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6
+        },
+        {
+            "segment": "Luego colocaban una tabla de madera encima, lo sujetaban con fuerza y lo prensaban hasta que quedara plano y mucho más denso.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "Esto hacía posible lijarlos hasta obtener rectángulos perfectamente lisos que más tarde se usarían en todo el mundo.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.75
+        },
+        {
+            "segment": "Después, al desgastar cada pieza bajo el agua para suavizar todas las superficies, se frotaban contra cuerdas pintadas para crear una cuadrícula precisa.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "Como todas debían ser exactamente iguales, este proceso permitía perforar cada pieza con precisión, dando origen al final a las piezas icónicas que hoy conocemos como dominós.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "El origen de los dominós",
+            "summary": "La transición y el proceso de creación de los dominós a partir de cascos de burro en la antigua China.",
+            "start": 0,
+            "end": 300
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

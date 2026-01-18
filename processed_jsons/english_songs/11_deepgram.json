@@ -1,45 +1,423 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "988a86ea-c38b-42e7-b07b-1f8f2698df33",
+        "request_id": "b77ca592-f5cd-4028-818b-0be6254d96f2",
         "sha256": "685529f6a329a38b7b86af2de5c11adbb98a153f1920be635fc284fada5cb61f",
-        "created": "2026-01-17T23:20:33.295000Z",
+        "created": "2026-01-18T00:22:19.310000Z",
         "duration": 240.24,
         "channels": 1.0,
         "models": [
-            "4f82af92-7749-4465-92ad-3db204bc8e03"
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
         ],
         "model_info": {
-            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
                 "name": "2-general-nova",
-                "version": "2023-12-14.34983",
+                "version": "2024-01-06.5664",
                 "arch": "nova-2"
             }
         },
-        "warnings": [
-            {
-                "parameter": "sentiment",
-                "type": "unsupported_language",
-                "message": "Sentiment is only supported for English."
-            }
-        ]
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 16.0,
+            "output_tokens": 16.0
+        }
     },
     "results": {
         "channels": [
             {
                 "alternatives": [
                     {
-                        "transcript": "",
-                        "confidence": 0.0,
-                        "words": [],
+                        "transcript": "Going out tonight changes into something red. Her mother doesn't like that kind",
+                        "confidence": 0.9872125,
+                        "words": [
+                            {
+                                "word": "going",
+                                "start": 8.72,
+                                "end": 9.2,
+                                "confidence": 0.5443394,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Going",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8085351586341858
+                            },
+                            {
+                                "word": "out",
+                                "start": 9.2,
+                                "end": 9.5199995,
+                                "confidence": 0.96932226,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "out",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.7205140590667725
+                            },
+                            {
+                                "word": "tonight",
+                                "start": 9.5199995,
+                                "end": 10.0199995,
+                                "confidence": 0.99545586,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "tonight",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.7714533805847168
+                            },
+                            {
+                                "word": "changes",
+                                "start": 10.559999,
+                                "end": 11.059999,
+                                "confidence": 0.6503227,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "changes",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8333159685134888
+                            },
+                            {
+                                "word": "into",
+                                "start": 11.2,
+                                "end": 11.679999,
+                                "confidence": 0.9936516,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "into",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.7826433181762695
+                            },
+                            {
+                                "word": "something",
+                                "start": 11.679999,
+                                "end": 12.16,
+                                "confidence": 0.99740714,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "something",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8786225318908691
+                            },
+                            {
+                                "word": "red",
+                                "start": 12.16,
+                                "end": 12.66,
+                                "confidence": 0.890943,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "red.",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.8712038993835449
+                            },
+                            {
+                                "word": "her",
+                                "start": 13.28,
+                                "end": 13.599999,
+                                "confidence": 0.9872125,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "Her",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9033995866775512
+                            },
+                            {
+                                "word": "mother",
+                                "start": 13.599999,
+                                "end": 14.099999,
+                                "confidence": 0.998231,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "mother",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.946058750152588
+                            },
+                            {
+                                "word": "doesn't",
+                                "start": 14.639999,
+                                "end": 15.12,
+                                "confidence": 0.99867785,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "doesn't",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9331790208816528
+                            },
+                            {
+                                "word": "like",
+                                "start": 15.12,
+                                "end": 15.44,
+                                "confidence": 0.9985863,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "like",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9014822244644164
+                            },
+                            {
+                                "word": "that",
+                                "start": 15.44,
+                                "end": 15.679999,
+                                "confidence": 0.98231745,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "that",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.9391902089118958
+                            },
+                            {
+                                "word": "kind",
+                                "start": 15.679999,
+                                "end": 15.975,
+                                "confidence": 0.9308141,
+                                "speaker": 0,
+                                "speaker_confidence": 1.0,
+                                "punctuated_word": "kind",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.4808061420917511
+                            }
+                        ],
                         "paragraphs": {
-                            "transcript": "\n",
-                            "paragraphs": []
+                            "transcript": "\nSpeaker 0: Going out tonight changes into something red. Her mother doesn't like that kind",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Going out tonight changes into something red.",
+                                            "start": 8.72,
+                                            "end": 12.66,
+                                            "sentiment": "negative",
+                                            "sentiment_score": -0.8094697594642639
+                                        },
+                                        {
+                                            "text": "Her mother doesn't like that kind",
+                                            "start": 13.28,
+                                            "end": 15.975,
+                                            "sentiment": "negative",
+                                            "sentiment_score": -0.8506859888633093
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 13.0,
+                                    "start": 8.72,
+                                    "end": 15.975,
+                                    "sentiment": "negative",
+                                    "sentiment_score": -0.8284926345715156
+                                }
+                            ]
                         }
                     }
                 ]
             }
         ],
-        "utterances": []
+        "utterances": [
+            {
+                "start": 8.72,
+                "end": 10.0199995,
+                "confidence": 0.83637255,
+                "channel": 0.0,
+                "transcript": "Going out tonight",
+                "words": [
+                    {
+                        "word": "going",
+                        "start": 8.72,
+                        "end": 9.2,
+                        "confidence": 0.5443394,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Going",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8085351586341858
+                    },
+                    {
+                        "word": "out",
+                        "start": 9.2,
+                        "end": 9.5199995,
+                        "confidence": 0.96932226,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "out",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.7205140590667725
+                    },
+                    {
+                        "word": "tonight",
+                        "start": 9.5199995,
+                        "end": 10.0199995,
+                        "confidence": 0.99545586,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "tonight",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.7714533805847168
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "5ed910ef-68da-45e8-96d4-1fc35944455a",
+                "sentiment": "negative",
+                "sentiment_score": -0.7668341994285583
+            },
+            {
+                "start": 10.559999,
+                "end": 12.66,
+                "confidence": 0.88308114,
+                "channel": 0.0,
+                "transcript": "changes into something red.",
+                "words": [
+                    {
+                        "word": "changes",
+                        "start": 10.559999,
+                        "end": 11.059999,
+                        "confidence": 0.6503227,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "changes",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8333159685134888
+                    },
+                    {
+                        "word": "into",
+                        "start": 11.2,
+                        "end": 11.679999,
+                        "confidence": 0.9936516,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "into",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.7826433181762695
+                    },
+                    {
+                        "word": "something",
+                        "start": 11.679999,
+                        "end": 12.16,
+                        "confidence": 0.99740714,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "something",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8786225318908691
+                    },
+                    {
+                        "word": "red",
+                        "start": 12.16,
+                        "end": 12.66,
+                        "confidence": 0.890943,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "red.",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.8712038993835449
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "c0cc5608-14b9-482c-8da5-80ddc27f9a37",
+                "sentiment": "negative",
+                "sentiment_score": -0.8414464294910431
+            },
+            {
+                "start": 13.28,
+                "end": 14.099999,
+                "confidence": 0.99272174,
+                "channel": 0.0,
+                "transcript": "Her mother",
+                "words": [
+                    {
+                        "word": "her",
+                        "start": 13.28,
+                        "end": 13.599999,
+                        "confidence": 0.9872125,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "Her",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9033995866775512
+                    },
+                    {
+                        "word": "mother",
+                        "start": 13.599999,
+                        "end": 14.099999,
+                        "confidence": 0.998231,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "mother",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.946058750152588
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ba8d1fd4-27e7-4892-8d37-82919380e0b9",
+                "sentiment": "negative",
+                "sentiment_score": -0.9247291684150696
+            },
+            {
+                "start": 14.639999,
+                "end": 15.975,
+                "confidence": 0.9775989,
+                "channel": 0.0,
+                "transcript": "doesn't like that kind",
+                "words": [
+                    {
+                        "word": "doesn't",
+                        "start": 14.639999,
+                        "end": 15.12,
+                        "confidence": 0.99867785,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "doesn't",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9331790208816528
+                    },
+                    {
+                        "word": "like",
+                        "start": 15.12,
+                        "end": 15.44,
+                        "confidence": 0.9985863,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "like",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9014822244644164
+                    },
+                    {
+                        "word": "that",
+                        "start": 15.44,
+                        "end": 15.679999,
+                        "confidence": 0.98231745,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "that",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.9391902089118958
+                    },
+                    {
+                        "word": "kind",
+                        "start": 15.679999,
+                        "end": 15.975,
+                        "confidence": 0.9308141,
+                        "speaker": 0.0,
+                        "speaker_confidence": 1.0,
+                        "punctuated_word": "kind",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.4808061420917511
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ee5e1aa0-975c-4211-aeca-9755504e80c0",
+                "sentiment": "negative",
+                "sentiment_score": -0.813664399087429
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "Going out tonight changes into something red. Her mother doesn't like that kind",
+                    "start_word": 0.0,
+                    "end_word": 12.0,
+                    "sentiment": "negative",
+                    "sentiment_score": -0.8725872039794922
+                }
+            ],
+            "average": {
+                "sentiment": "negative",
+                "sentiment_score": -0.8725872039794922
+            }
+        }
     }
 }

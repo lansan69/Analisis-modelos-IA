@@ -1,0 +1,564 @@
+{
+    "text": "Me tiene que enviar su clave y esa clave le funciona para la aplicación Factions Park en el teléfono. Y las cosas las puede pagar a través de la aplicación, a través de la página tarjeta factionspark.com. Puede pagar en las tiendas con dedito excesivo o en página web de Sencillito, supermercados, Unimark, o K-Market Mayorista 10 de Jardín y Banco Estado.cl. ¿Quedó con alguna duda o consulta? No, nada. Está bien. Perfecto. Le agradezco mucho su tiempo, que esté muy bien. Hasta luego. Ya, hasta luego.",
+    "audio_duration": 26.3700008392334,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Me",
+            "start": 0.0,
+            "end": 0.14000000059604645,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiene",
+            "start": 0.14000000059604645,
+            "end": 0.36000001430511475,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 0.36000001430511475,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "enviar",
+            "start": 0.5199999809265137,
+            "end": 0.6800000071525574,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 0.6800000071525574,
+            "end": 1.1200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "clave",
+            "start": 1.1200000047683716,
+            "end": 1.1200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 1.1200000047683716,
+            "end": 1.2599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "esa",
+            "start": 1.2599999904632568,
+            "end": 1.4199999570846558,
+            "confidence": 0.99
+        },
+        {
+            "text": "clave",
+            "start": 1.4199999570846558,
+            "end": 1.6200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "le",
+            "start": 1.6200000047683716,
+            "end": 2.140000104904175,
+            "confidence": 0.99
+        },
+        {
+            "text": "funciona",
+            "start": 2.140000104904175,
+            "end": 2.140000104904175,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 2.140000104904175,
+            "end": 2.359999895095825,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 2.359999895095825,
+            "end": 2.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "aplicación",
+            "start": 2.559999942779541,
+            "end": 2.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "Factions",
+            "start": 2.880000114440918,
+            "end": 3.200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "Park",
+            "start": 3.200000047683716,
+            "end": 3.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 3.380000114440918,
+            "end": 3.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 3.5199999809265137,
+            "end": 3.7200000286102295,
+            "confidence": 0.99
+        },
+        {
+            "text": "teléfono",
+            "start": 3.7200000286102295,
+            "end": 4.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 4.920000076293945,
+            "end": 5.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 5.079999923706055,
+            "end": 5.519999980926514,
+            "confidence": 0.99
+        },
+        {
+            "text": "cosas",
+            "start": 5.519999980926514,
+            "end": 5.519999980926514,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 5.519999980926514,
+            "end": 5.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "puede",
+            "start": 5.760000228881836,
+            "end": 5.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "pagar",
+            "start": 5.960000038146973,
+            "end": 6.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 6.199999809265137,
+            "end": 6.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "través",
+            "start": 6.400000095367432,
+            "end": 6.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 6.440000057220459,
+            "end": 6.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 6.699999809265137,
+            "end": 6.78000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "aplicación",
+            "start": 6.78000020980835,
+            "end": 7.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 7.440000057220459,
+            "end": 7.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "través",
+            "start": 7.559999942779541,
+            "end": 7.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 7.559999942779541,
+            "end": 7.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 7.739999771118164,
+            "end": 8.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "página",
+            "start": 8.180000305175781,
+            "end": 8.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "tarjeta",
+            "start": 8.180000305175781,
+            "end": 8.619999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "factionspark",
+            "start": 8.619999885559082,
+            "end": 9.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "com",
+            "start": 9.020000457763672,
+            "end": 9.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "Puede",
+            "start": 10.140000343322754,
+            "end": 10.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "pagar",
+            "start": 10.199999809265137,
+            "end": 10.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 10.4399995803833,
+            "end": 10.619999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 10.619999885559082,
+            "end": 10.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiendas",
+            "start": 10.84000015258789,
+            "end": 10.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 10.979999542236328,
+            "end": 11.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "dedito",
+            "start": 11.220000267028809,
+            "end": 11.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "excesivo",
+            "start": 11.460000038146973,
+            "end": 11.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "o",
+            "start": 11.920000076293945,
+            "end": 12.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 12.220000267028809,
+            "end": 12.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "página",
+            "start": 12.5600004196167,
+            "end": 12.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "web",
+            "start": 12.5600004196167,
+            "end": 12.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 12.800000190734863,
+            "end": 12.960000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sencillito",
+            "start": 12.960000038146973,
+            "end": 13.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "supermercados",
+            "start": 13.539999961853027,
+            "end": 14.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "Unimark",
+            "start": 14.300000190734863,
+            "end": 14.619999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "o",
+            "start": 15.0600004196167,
+            "end": 15.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "K",
+            "start": 15.220000267028809,
+            "end": 15.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "Market",
+            "start": 15.399999618530273,
+            "end": 15.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mayorista",
+            "start": 15.699999809265137,
+            "end": 16.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "10",
+            "start": 16.040000915527344,
+            "end": 16.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 16.260000228881836,
+            "end": 16.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jardín",
+            "start": 16.360000610351562,
+            "end": 16.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 16.6200008392334,
+            "end": 16.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Banco",
+            "start": 16.860000610351562,
+            "end": 17.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Estado",
+            "start": 17.040000915527344,
+            "end": 17.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "cl",
+            "start": 17.219999313354492,
+            "end": 18.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Quedó",
+            "start": 18.899999618530273,
+            "end": 18.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 18.959999084472656,
+            "end": 19.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "alguna",
+            "start": 19.15999984741211,
+            "end": 19.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "duda",
+            "start": 19.459999084472656,
+            "end": 19.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "o",
+            "start": 19.639999389648438,
+            "end": 19.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "consulta",
+            "start": 19.899999618530273,
+            "end": 20.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 20.700000762939453,
+            "end": 21.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "nada",
+            "start": 21.260000228881836,
+            "end": 21.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Está",
+            "start": 21.979999542236328,
+            "end": 22.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "bien",
+            "start": 22.0,
+            "end": 22.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "Perfecto",
+            "start": 22.3799991607666,
+            "end": 22.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Le",
+            "start": 22.68000030517578,
+            "end": 22.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "agradezco",
+            "start": 22.799999237060547,
+            "end": 23.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucho",
+            "start": 23.079999923706055,
+            "end": 23.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 23.299999237060547,
+            "end": 23.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiempo",
+            "start": 23.479999542236328,
+            "end": 23.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 23.760000228881836,
+            "end": 23.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "esté",
+            "start": 23.84000015258789,
+            "end": 24.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 24.020000457763672,
+            "end": 24.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "bien",
+            "start": 24.219999313354492,
+            "end": 24.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hasta",
+            "start": 24.3799991607666,
+            "end": 24.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "luego",
+            "start": 24.559999465942383,
+            "end": 24.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ya",
+            "start": 24.81999969482422,
+            "end": 25.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "hasta",
+            "start": 25.15999984741211,
+            "end": 25.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "luego",
+            "start": 25.299999237060547,
+            "end": 25.520000457763672,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Me tiene que enviar su clave y esa clave le funciona para la aplicación Factions Park en el teléfono. Y las cosas las puede pagar a través de la aplicación, a través de la página tarjeta factionspark.com. Puede pagar en las tiendas con dedito excesivo o en página web de Sencillito, supermercados, Unimark, o K-Market Mayorista 10 de Jardín y Banco Estado.cl. ¿Quedó con alguna duda o consulta? No, nada. Está bien. Perfecto. Le agradezco mucho su tiempo, que esté muy bien. Hasta luego. Ya, hasta luego.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Instructions for Using Factions Park",
+            "summary": "The speaker explains how to use the Factions Park app, including payment methods available through various platforms and stores.",
+            "start": 0,
+            "end": 79
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

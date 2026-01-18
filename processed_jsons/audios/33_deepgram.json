@@ -1,0 +1,1511 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "6315fe1e-047d-4658-a452-a542c1a4a632",
+        "sha256": "adecb8006ca54715b69fe06856314f5c9a228afafc3b22e8981d891d15585ec9",
+        "created": "2026-01-18T00:08:52.357000Z",
+        "duration": 25.197687,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "Arroba iCloud, ya. Punto com, perfecto. Me faltaría, por último, su dirección particular. Miraflores. Miraflores, sí. 25 84. ¿En qué comuna está ubicado? Antofagasta, segunda región. Señora Jessica, a continuación le informo los costos administrativos de su tarjeta, que son de 0 coma 0 97 pesos mensual, aproximadamente 3500 pesos, se paga solo si la tarjeta se usa.",
+                        "confidence": 0.99384594,
+                        "words": [
+                            {
+                                "word": "arroba",
+                                "start": 1.04,
+                                "end": 1.54,
+                                "confidence": 0.9822157,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "Arroba",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "icloud",
+                                "start": 1.5999999,
+                                "end": 2.1,
+                                "confidence": 0.73232347,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "iCloud,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ya",
+                                "start": 2.24,
+                                "end": 2.48,
+                                "confidence": 0.6321747,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "ya.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "punto",
+                                "start": 3.04,
+                                "end": 3.28,
+                                "confidence": 0.54856044,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "Punto",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "com",
+                                "start": 3.28,
+                                "end": 3.52,
+                                "confidence": 0.9665972,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "com,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "perfecto",
+                                "start": 3.52,
+                                "end": 3.84,
+                                "confidence": 0.9830338,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "perfecto.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "me",
+                                "start": 3.84,
+                                "end": 4.0,
+                                "confidence": 0.5927398,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "Me",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "faltaría",
+                                "start": 4.0,
+                                "end": 4.4,
+                                "confidence": 0.9310646,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "faltaría,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "por",
+                                "start": 4.4,
+                                "end": 4.48,
+                                "confidence": 0.99995124,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685241,
+                                "punctuated_word": "por",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "último",
+                                "start": 4.48,
+                                "end": 4.88,
+                                "confidence": 0.99911463,
+                                "speaker": 0,
+                                "speaker_confidence": 0.62955177,
+                                "punctuated_word": "último,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "su",
+                                "start": 4.88,
+                                "end": 5.12,
+                                "confidence": 0.9851177,
+                                "speaker": 0,
+                                "speaker_confidence": 0.62955177,
+                                "punctuated_word": "su",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "dirección",
+                                "start": 5.12,
+                                "end": 5.52,
+                                "confidence": 0.99991786,
+                                "speaker": 0,
+                                "speaker_confidence": 0.62955177,
+                                "punctuated_word": "dirección",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "particular",
+                                "start": 5.52,
+                                "end": 6.02,
+                                "confidence": 0.9999315,
+                                "speaker": 0,
+                                "speaker_confidence": 0.62955177,
+                                "punctuated_word": "particular.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "miraflores",
+                                "start": 7.04,
+                                "end": 7.54,
+                                "confidence": 0.99384594,
+                                "speaker": 0,
+                                "speaker_confidence": 0.62955177,
+                                "punctuated_word": "Miraflores.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "miraflores",
+                                "start": 8.48,
+                                "end": 8.98,
+                                "confidence": 0.9894036,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29835355,
+                                "punctuated_word": "Miraflores,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "sí",
+                                "start": 9.04,
+                                "end": 9.54,
+                                "confidence": 0.9698262,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29835355,
+                                "punctuated_word": "sí.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "25",
+                                "start": 9.76,
+                                "end": 10.26,
+                                "confidence": 0.99937266,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29835355,
+                                "punctuated_word": "25",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "84",
+                                "start": 10.32,
+                                "end": 11.139999,
+                                "confidence": 0.9951105,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29835355,
+                                "punctuated_word": "84.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 11.5199995,
+                                "end": 11.759999,
+                                "confidence": 0.72828424,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4523744,
+                                "punctuated_word": "¿En",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "qué",
+                                "start": 11.759999,
+                                "end": 12.0,
+                                "confidence": 0.9946615,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4523744,
+                                "punctuated_word": "qué",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "comuna",
+                                "start": 12.0,
+                                "end": 12.24,
+                                "confidence": 0.35899726,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4523744,
+                                "punctuated_word": "comuna",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "está",
+                                "start": 12.24,
+                                "end": 12.4,
+                                "confidence": 0.9486959,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4523744,
+                                "punctuated_word": "está",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ubicado",
+                                "start": 12.4,
+                                "end": 12.9,
+                                "confidence": 0.8967091,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4523744,
+                                "punctuated_word": "ubicado?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "antofagasta",
+                                "start": 13.44,
+                                "end": 13.94,
+                                "confidence": 0.98086995,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5749544,
+                                "punctuated_word": "Antofagasta,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "segunda",
+                                "start": 14.16,
+                                "end": 14.48,
+                                "confidence": 0.6415365,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5749544,
+                                "punctuated_word": "segunda",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "región",
+                                "start": 14.48,
+                                "end": 14.98,
+                                "confidence": 0.98916817,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5749544,
+                                "punctuated_word": "región.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "señora",
+                                "start": 15.554999,
+                                "end": 15.794999,
+                                "confidence": 0.9934917,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5749544,
+                                "punctuated_word": "Señora",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "jessica",
+                                "start": 15.794999,
+                                "end": 16.035,
+                                "confidence": 0.8452599,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5749544,
+                                "punctuated_word": "Jessica,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "a",
+                                "start": 16.035,
+                                "end": 16.195,
+                                "confidence": 0.9994055,
+                                "speaker": 0,
+                                "speaker_confidence": 0.41217422,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "continuación",
+                                "start": 16.195,
+                                "end": 16.675,
+                                "confidence": 0.99996364,
+                                "speaker": 0,
+                                "speaker_confidence": 0.41217422,
+                                "punctuated_word": "continuación",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "le",
+                                "start": 16.675,
+                                "end": 16.755,
+                                "confidence": 0.85413826,
+                                "speaker": 0,
+                                "speaker_confidence": 0.41217422,
+                                "punctuated_word": "le",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "informo",
+                                "start": 16.755,
+                                "end": 16.835,
+                                "confidence": 0.9993042,
+                                "speaker": 0,
+                                "speaker_confidence": 0.41217422,
+                                "punctuated_word": "informo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "los",
+                                "start": 16.835,
+                                "end": 16.914999,
+                                "confidence": 0.9792985,
+                                "speaker": 0,
+                                "speaker_confidence": 0.41217422,
+                                "punctuated_word": "los",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "costos",
+                                "start": 16.914999,
+                                "end": 16.994999,
+                                "confidence": 0.96046025,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6130146,
+                                "punctuated_word": "costos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "administrativos",
+                                "start": 16.994999,
+                                "end": 17.494999,
+                                "confidence": 0.9940923,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6130146,
+                                "punctuated_word": "administrativos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 18.115,
+                                "end": 18.275,
+                                "confidence": 0.9992512,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6130146,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "su",
+                                "start": 18.275,
+                                "end": 18.435,
+                                "confidence": 0.9958556,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6130146,
+                                "punctuated_word": "su",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tarjeta",
+                                "start": 18.435,
+                                "end": 18.755,
+                                "confidence": 0.9377166,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6130146,
+                                "punctuated_word": "tarjeta,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 18.755,
+                                "end": 18.835,
+                                "confidence": 0.99988556,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6130146,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "son",
+                                "start": 18.835,
+                                "end": 18.994999,
+                                "confidence": 0.99966156,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "son",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 18.994999,
+                                "end": 19.154999,
+                                "confidence": 0.9894175,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "0",
+                                "start": 19.154999,
+                                "end": 19.395,
+                                "confidence": 0.9998222,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "0",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "coma",
+                                "start": 19.395,
+                                "end": 19.555,
+                                "confidence": 0.99499387,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "coma",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "0",
+                                "start": 19.555,
+                                "end": 19.875,
+                                "confidence": 0.99548596,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "0",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "97",
+                                "start": 19.875,
+                                "end": 20.515,
+                                "confidence": 0.99854046,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "97",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pesos",
+                                "start": 20.515,
+                                "end": 20.755,
+                                "confidence": 0.6236658,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "pesos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "mensual",
+                                "start": 20.755,
+                                "end": 21.235,
+                                "confidence": 0.9715669,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "mensual,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "aproximadamente",
+                                "start": 21.235,
+                                "end": 21.735,
+                                "confidence": 0.9989411,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "aproximadamente",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "3500",
+                                "start": 21.955,
+                                "end": 22.835,
+                                "confidence": 0.9144619,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "3500",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pesos",
+                                "start": 22.835,
+                                "end": 23.154999,
+                                "confidence": 0.7530279,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "pesos,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "se",
+                                "start": 23.154999,
+                                "end": 23.314999,
+                                "confidence": 0.9959812,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "se",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "paga",
+                                "start": 23.314999,
+                                "end": 23.555,
+                                "confidence": 0.9993882,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "paga",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "solo",
+                                "start": 23.555,
+                                "end": 23.794998,
+                                "confidence": 0.9789738,
+                                "speaker": 0,
+                                "speaker_confidence": 0.59291995,
+                                "punctuated_word": "solo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "si",
+                                "start": 23.794998,
+                                "end": 23.954998,
+                                "confidence": 0.9966511,
+                                "speaker": 0,
+                                "speaker_confidence": 0.0,
+                                "punctuated_word": "si",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "la",
+                                "start": 23.954998,
+                                "end": 24.115,
+                                "confidence": 0.99839884,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4344598,
+                                "punctuated_word": "la",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tarjeta",
+                                "start": 24.115,
+                                "end": 24.515,
+                                "confidence": 0.9992261,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4344598,
+                                "punctuated_word": "tarjeta",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "se",
+                                "start": 24.515,
+                                "end": 24.675,
+                                "confidence": 0.99566334,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4344598,
+                                "punctuated_word": "se",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "usa",
+                                "start": 24.675,
+                                "end": 25.175,
+                                "confidence": 0.744321,
+                                "speaker": 0,
+                                "speaker_confidence": 0.4344598,
+                                "punctuated_word": "usa.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: Arroba iCloud, ya. Punto com, perfecto. Me faltaría, por último, su dirección particular. Miraflores. Miraflores, sí.\n\n25 84. ¿En qué comuna está ubicado? Antofagasta, segunda región. Señora Jessica, a continuación le informo los costos administrativos de su tarjeta, que son de 0 coma 0 97 pesos mensual, aproximadamente 3500 pesos, se paga solo si la tarjeta se usa.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Arroba iCloud, ya.",
+                                            "start": 1.04,
+                                            "end": 2.48,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Punto com, perfecto.",
+                                            "start": 3.04,
+                                            "end": 3.84,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Me faltaría, por último, su dirección particular.",
+                                            "start": 3.84,
+                                            "end": 6.02,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Miraflores.",
+                                            "start": 7.04,
+                                            "end": 7.54,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Miraflores, sí.",
+                                            "start": 8.48,
+                                            "end": 9.54,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 16.0,
+                                    "start": 1.04,
+                                    "end": 9.54,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "25 84.",
+                                            "start": 9.76,
+                                            "end": 11.139999,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿En qué comuna está ubicado?",
+                                            "start": 11.5199995,
+                                            "end": 12.9,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Antofagasta, segunda región.",
+                                            "start": 13.44,
+                                            "end": 14.98,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Señora Jessica, a continuación le informo los costos administrativos de su tarjeta, que son de 0 coma 0 97 pesos mensual, aproximadamente 3500 pesos, se paga solo si la tarjeta se usa.",
+                                            "start": 15.554999,
+                                            "end": 25.175,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 42.0,
+                                    "start": 9.76,
+                                    "end": 25.175,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 1.04,
+                "end": 6.02,
+                "confidence": 0.8732879,
+                "channel": 0.0,
+                "transcript": "Arroba iCloud, ya. Punto com, perfecto. Me faltaría, por último, su dirección particular.",
+                "words": [
+                    {
+                        "word": "arroba",
+                        "start": 1.04,
+                        "end": 1.54,
+                        "confidence": 0.9822157,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "Arroba",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "icloud",
+                        "start": 1.5999999,
+                        "end": 2.1,
+                        "confidence": 0.73232347,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "iCloud,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ya",
+                        "start": 2.24,
+                        "end": 2.48,
+                        "confidence": 0.6321747,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "ya.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "punto",
+                        "start": 3.04,
+                        "end": 3.28,
+                        "confidence": 0.54856044,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "Punto",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "com",
+                        "start": 3.28,
+                        "end": 3.52,
+                        "confidence": 0.9665972,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "com,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "perfecto",
+                        "start": 3.52,
+                        "end": 3.84,
+                        "confidence": 0.9830338,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "perfecto.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "me",
+                        "start": 3.84,
+                        "end": 4.0,
+                        "confidence": 0.5927398,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "Me",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "faltaría",
+                        "start": 4.0,
+                        "end": 4.4,
+                        "confidence": 0.9310646,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "faltaría,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "por",
+                        "start": 4.4,
+                        "end": 4.48,
+                        "confidence": 0.99995124,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685241,
+                        "punctuated_word": "por",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "último",
+                        "start": 4.48,
+                        "end": 4.88,
+                        "confidence": 0.99911463,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.62955177,
+                        "punctuated_word": "último,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "su",
+                        "start": 4.88,
+                        "end": 5.12,
+                        "confidence": 0.9851177,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.62955177,
+                        "punctuated_word": "su",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "dirección",
+                        "start": 5.12,
+                        "end": 5.52,
+                        "confidence": 0.99991786,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.62955177,
+                        "punctuated_word": "dirección",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "particular",
+                        "start": 5.52,
+                        "end": 6.02,
+                        "confidence": 0.9999315,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.62955177,
+                        "punctuated_word": "particular.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "4039ff69-1028-4a1e-a704-99fb73243f5b",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 7.04,
+                "end": 7.54,
+                "confidence": 0.99384594,
+                "channel": 0.0,
+                "transcript": "Miraflores.",
+                "words": [
+                    {
+                        "word": "miraflores",
+                        "start": 7.04,
+                        "end": 7.54,
+                        "confidence": 0.99384594,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.62955177,
+                        "punctuated_word": "Miraflores.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "9926482b-7917-4f49-ac59-cc4905468214",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 8.48,
+                "end": 11.139999,
+                "confidence": 0.98842824,
+                "channel": 0.0,
+                "transcript": "Miraflores, sí. 25 84.",
+                "words": [
+                    {
+                        "word": "miraflores",
+                        "start": 8.48,
+                        "end": 8.98,
+                        "confidence": 0.9894036,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29835355,
+                        "punctuated_word": "Miraflores,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "sí",
+                        "start": 9.04,
+                        "end": 9.54,
+                        "confidence": 0.9698262,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29835355,
+                        "punctuated_word": "sí.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "25",
+                        "start": 9.76,
+                        "end": 10.26,
+                        "confidence": 0.99937266,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29835355,
+                        "punctuated_word": "25",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "84",
+                        "start": 10.32,
+                        "end": 11.139999,
+                        "confidence": 0.9951105,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29835355,
+                        "punctuated_word": "84.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "a474d245-81de-4eab-b8b7-0865babe266a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 11.5199995,
+                "end": 12.9,
+                "confidence": 0.78546965,
+                "channel": 0.0,
+                "transcript": "¿En qué comuna está ubicado?",
+                "words": [
+                    {
+                        "word": "en",
+                        "start": 11.5199995,
+                        "end": 11.759999,
+                        "confidence": 0.72828424,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4523744,
+                        "punctuated_word": "¿En",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "qué",
+                        "start": 11.759999,
+                        "end": 12.0,
+                        "confidence": 0.9946615,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4523744,
+                        "punctuated_word": "qué",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "comuna",
+                        "start": 12.0,
+                        "end": 12.24,
+                        "confidence": 0.35899726,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4523744,
+                        "punctuated_word": "comuna",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "está",
+                        "start": 12.24,
+                        "end": 12.4,
+                        "confidence": 0.9486959,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4523744,
+                        "punctuated_word": "está",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ubicado",
+                        "start": 12.4,
+                        "end": 12.9,
+                        "confidence": 0.8967091,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4523744,
+                        "punctuated_word": "ubicado?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "1e210b83-142f-49aa-b8bc-d1afb0f54579",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 13.44,
+                "end": 14.98,
+                "confidence": 0.8705249,
+                "channel": 0.0,
+                "transcript": "Antofagasta, segunda región.",
+                "words": [
+                    {
+                        "word": "antofagasta",
+                        "start": 13.44,
+                        "end": 13.94,
+                        "confidence": 0.98086995,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5749544,
+                        "punctuated_word": "Antofagasta,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "segunda",
+                        "start": 14.16,
+                        "end": 14.48,
+                        "confidence": 0.6415365,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5749544,
+                        "punctuated_word": "segunda",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "región",
+                        "start": 14.48,
+                        "end": 14.98,
+                        "confidence": 0.98916817,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5749544,
+                        "punctuated_word": "región.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "3c79aaa5-22b6-4449-9f93-10424bbf12c5",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 15.554999,
+                "end": 17.494999,
+                "confidence": 0.95837945,
+                "channel": 0.0,
+                "transcript": "Señora Jessica, a continuación le informo los costos administrativos",
+                "words": [
+                    {
+                        "word": "señora",
+                        "start": 15.554999,
+                        "end": 15.794999,
+                        "confidence": 0.9934917,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5749544,
+                        "punctuated_word": "Señora",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "jessica",
+                        "start": 15.794999,
+                        "end": 16.035,
+                        "confidence": 0.8452599,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5749544,
+                        "punctuated_word": "Jessica,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "a",
+                        "start": 16.035,
+                        "end": 16.195,
+                        "confidence": 0.9994055,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.41217422,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "continuación",
+                        "start": 16.195,
+                        "end": 16.675,
+                        "confidence": 0.99996364,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.41217422,
+                        "punctuated_word": "continuación",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "le",
+                        "start": 16.675,
+                        "end": 16.755,
+                        "confidence": 0.85413826,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.41217422,
+                        "punctuated_word": "le",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "informo",
+                        "start": 16.755,
+                        "end": 16.835,
+                        "confidence": 0.9993042,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.41217422,
+                        "punctuated_word": "informo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "los",
+                        "start": 16.835,
+                        "end": 16.914999,
+                        "confidence": 0.9792985,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.41217422,
+                        "punctuated_word": "los",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "costos",
+                        "start": 16.914999,
+                        "end": 16.994999,
+                        "confidence": 0.96046025,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6130146,
+                        "punctuated_word": "costos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "administrativos",
+                        "start": 16.994999,
+                        "end": 17.494999,
+                        "confidence": 0.9940923,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6130146,
+                        "punctuated_word": "administrativos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "9d326745-6a94-435c-be6a-2bb43311fb2a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 18.115,
+                "end": 22.835,
+                "confidence": 0.9585191,
+                "channel": 0.0,
+                "transcript": "de su tarjeta, que son de 0 coma 0 97 pesos mensual, aproximadamente 3500",
+                "words": [
+                    {
+                        "word": "de",
+                        "start": 18.115,
+                        "end": 18.275,
+                        "confidence": 0.9992512,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6130146,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "su",
+                        "start": 18.275,
+                        "end": 18.435,
+                        "confidence": 0.9958556,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6130146,
+                        "punctuated_word": "su",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tarjeta",
+                        "start": 18.435,
+                        "end": 18.755,
+                        "confidence": 0.9377166,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6130146,
+                        "punctuated_word": "tarjeta,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 18.755,
+                        "end": 18.835,
+                        "confidence": 0.99988556,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6130146,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "son",
+                        "start": 18.835,
+                        "end": 18.994999,
+                        "confidence": 0.99966156,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "son",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "de",
+                        "start": 18.994999,
+                        "end": 19.154999,
+                        "confidence": 0.9894175,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "0",
+                        "start": 19.154999,
+                        "end": 19.395,
+                        "confidence": 0.9998222,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "0",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "coma",
+                        "start": 19.395,
+                        "end": 19.555,
+                        "confidence": 0.99499387,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "coma",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "0",
+                        "start": 19.555,
+                        "end": 19.875,
+                        "confidence": 0.99548596,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "0",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "97",
+                        "start": 19.875,
+                        "end": 20.515,
+                        "confidence": 0.99854046,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "97",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pesos",
+                        "start": 20.515,
+                        "end": 20.755,
+                        "confidence": 0.6236658,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "pesos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "mensual",
+                        "start": 20.755,
+                        "end": 21.235,
+                        "confidence": 0.9715669,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "mensual,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "aproximadamente",
+                        "start": 21.235,
+                        "end": 21.735,
+                        "confidence": 0.9989411,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "aproximadamente",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "3500",
+                        "start": 21.955,
+                        "end": 22.835,
+                        "confidence": 0.9144619,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "3500",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "a9d1db0d-34b8-47ac-9bc8-03d326579e47",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 22.835,
+                "end": 25.175,
+                "confidence": 0.9401813,
+                "channel": 0.0,
+                "transcript": "pesos, se paga solo si la tarjeta se usa.",
+                "words": [
+                    {
+                        "word": "pesos",
+                        "start": 22.835,
+                        "end": 23.154999,
+                        "confidence": 0.7530279,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "pesos,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "se",
+                        "start": 23.154999,
+                        "end": 23.314999,
+                        "confidence": 0.9959812,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "se",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "paga",
+                        "start": 23.314999,
+                        "end": 23.555,
+                        "confidence": 0.9993882,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "paga",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "solo",
+                        "start": 23.555,
+                        "end": 23.794998,
+                        "confidence": 0.9789738,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.59291995,
+                        "punctuated_word": "solo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "si",
+                        "start": 23.794998,
+                        "end": 23.954998,
+                        "confidence": 0.9966511,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.0,
+                        "punctuated_word": "si",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "la",
+                        "start": 23.954998,
+                        "end": 24.115,
+                        "confidence": 0.99839884,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4344598,
+                        "punctuated_word": "la",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tarjeta",
+                        "start": 24.115,
+                        "end": 24.515,
+                        "confidence": 0.9992261,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4344598,
+                        "punctuated_word": "tarjeta",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "se",
+                        "start": 24.515,
+                        "end": 24.675,
+                        "confidence": 0.99566334,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4344598,
+                        "punctuated_word": "se",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "usa",
+                        "start": 24.675,
+                        "end": 25.175,
+                        "confidence": 0.744321,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.4344598,
+                        "punctuated_word": "usa.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "6ed51545-1099-4b68-ab41-bdee78d569fc",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

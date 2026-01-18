@@ -35,13 +35,13 @@
         },
         {
             "text": "How",
-            "start": 28.31999969482422,
-            "end": 29.899999618530273,
+            "start": 29.18000030517578,
+            "end": 29.8799991607666,
             "confidence": 0.99
         },
         {
             "text": "to",
-            "start": 29.899999618530273,
+            "start": 29.8799991607666,
             "end": 30.219999313354492,
             "confidence": 0.99
         },
@@ -396,12 +396,12 @@
         {
             "text": "she",
             "start": 94.13999938964844,
-            "end": 95.4000015258789,
+            "end": 95.41999816894531,
             "confidence": 0.99
         },
         {
             "text": "is",
-            "start": 95.4000015258789,
+            "start": 95.41999816894531,
             "end": 96.33999633789062,
             "confidence": 0.99
         },
@@ -504,12 +504,12 @@
         {
             "text": "Every",
             "start": 112.0,
-            "end": 113.04000091552734,
+            "end": 113.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "breath",
-            "start": 113.04000091552734,
+            "start": 113.05999755859375,
             "end": 114.22000122070312,
             "confidence": 0.99
         },
@@ -1308,18 +1308,39 @@
     ],
     "sentiment_analysis_results": [
         {
+            "segment": "Heartbeats fast, colors and promises How to be brave, how can I love when I'm afraid to fall",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        },
+        {
+            "segment": "Watching you stand alone All of my doubt suddenly goes away somehow",
             "sentiment": "POSITIVE",
-            "confidence": 0.95
+            "confidence": 0.85
+        },
+        {
+            "segment": "I have died everyday waiting for you Darling don't be afraid I have loved you for a thousand years",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "I will not let anything take away Standing in front of me Every breath, every hour has come to this",
+            "sentiment": "POSITIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "And all along I believed I would find you Time has brought your heart to me",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
         }
     ],
     "chapters": [
         {
-            "headline": "The Journey of Love",
-            "summary": "The narrator expresses deep love and anticipation for a significant other, showcasing the emotional journey of waiting and the fear of love.",
+            "headline": "Love and Bravery",
+            "summary": "This segment explores the themes of love, bravery, and waiting for the one you love over the years.",
             "start": 0,
-            "end": 300
+            "end": 200
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

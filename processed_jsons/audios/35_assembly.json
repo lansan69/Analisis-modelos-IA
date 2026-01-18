@@ -1,0 +1,580 @@
+{
+    "id": "7df3f315-9adf-43c1-b6ca-1031e93a0e2c",
+    "status": "completed",
+    "text": "Me tiene que crear su clave y esa clave le funciona para la aplicación Fat Spark en el teléfono y las cuotas las puede pagar a través de la aplicación, a través de la página tarjeta FAT COM, puede pagar en sus tiendas con débito excesivo o en página web de sencillito supermercados UNIMARK OKmarket mayoritaria. ¿Quedó con alguna duda o consulta? No, nada, está bien. Le agradezco mucho su tiempo, Que esté muy bien. Hasta luego. Ya hasta llegó.",
+    "words": [
+        {
+            "text": "Me",
+            "start": 80,
+            "end": 200,
+            "confidence": 0.7495117,
+            "speaker": "A"
+        },
+        {
+            "text": "tiene",
+            "start": 200,
+            "end": 320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 320,
+            "end": 480,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        },
+        {
+            "text": "crear",
+            "start": 480,
+            "end": 880,
+            "confidence": 0.97387695,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 880,
+            "end": 960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "clave",
+            "start": 960,
+            "end": 1160,
+            "confidence": 0.99527997,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 1160,
+            "end": 1280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esa",
+            "start": 1280,
+            "end": 1480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "clave",
+            "start": 1480,
+            "end": 1720,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 1720,
+            "end": 1840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "funciona",
+            "start": 1840,
+            "end": 2080,
+            "confidence": 0.97753906,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 2080,
+            "end": 2280,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 2280,
+            "end": 2400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "aplicación",
+            "start": 2400,
+            "end": 2720,
+            "confidence": 0.96972656,
+            "speaker": "A"
+        },
+        {
+            "text": "Fat",
+            "start": 2720,
+            "end": 3200,
+            "confidence": 0.8354492,
+            "speaker": "A"
+        },
+        {
+            "text": "Spark",
+            "start": 3200,
+            "end": 3600,
+            "confidence": 0.8520508,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 3600,
+            "end": 3680,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 3680,
+            "end": 3760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "teléfono",
+            "start": 3760,
+            "end": 4320,
+            "confidence": 0.88883466,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 4560,
+            "end": 4880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 4880,
+            "end": 5120,
+            "confidence": 0.9760742,
+            "speaker": "A"
+        },
+        {
+            "text": "cuotas",
+            "start": 5120,
+            "end": 5680,
+            "confidence": 0.8753255,
+            "speaker": "A"
+        },
+        {
+            "text": "las",
+            "start": 5680,
+            "end": 5840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 5840,
+            "end": 5960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pagar",
+            "start": 5960,
+            "end": 6240,
+            "confidence": 0.9621582,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 6240,
+            "end": 6400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "través",
+            "start": 6400,
+            "end": 6520,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 6520,
+            "end": 6640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 6640,
+            "end": 6720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "aplicación,",
+            "start": 6720,
+            "end": 7120,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 7200,
+            "end": 7440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "través",
+            "start": 7440,
+            "end": 7560,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 7560,
+            "end": 7680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 7680,
+            "end": 7760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "página",
+            "start": 7760,
+            "end": 8200,
+            "confidence": 0.9571533,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 8200,
+            "end": 8560,
+            "confidence": 0.8343099,
+            "speaker": "A"
+        },
+        {
+            "text": "FAT",
+            "start": 8560,
+            "end": 8960,
+            "confidence": 0.7697754,
+            "speaker": "A"
+        },
+        {
+            "text": "COM,",
+            "start": 9280,
+            "end": 9680,
+            "confidence": 0.5966797,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 9840,
+            "end": 10120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "pagar",
+            "start": 10120,
+            "end": 10400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 10400,
+            "end": 10600,
+            "confidence": 0.921875,
+            "speaker": "A"
+        },
+        {
+            "text": "sus",
+            "start": 10600,
+            "end": 10760,
+            "confidence": 0.56640625,
+            "speaker": "A"
+        },
+        {
+            "text": "tiendas",
+            "start": 10760,
+            "end": 11040,
+            "confidence": 0.8741862,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 11040,
+            "end": 11120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "débito",
+            "start": 11120,
+            "end": 11520,
+            "confidence": 0.90983075,
+            "speaker": "A"
+        },
+        {
+            "text": "excesivo",
+            "start": 11520,
+            "end": 12040,
+            "confidence": 0.8141276,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 12040,
+            "end": 12160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 12160,
+            "end": 12240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "página",
+            "start": 12240,
+            "end": 12520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "web",
+            "start": 12520,
+            "end": 12760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 12760,
+            "end": 12920,
+            "confidence": 0.98046875,
+            "speaker": "A"
+        },
+        {
+            "text": "sencillito",
+            "start": 12920,
+            "end": 13560,
+            "confidence": 0.9967041,
+            "speaker": "A"
+        },
+        {
+            "text": "supermercados",
+            "start": 13560,
+            "end": 14120,
+            "confidence": 0.990332,
+            "speaker": "A"
+        },
+        {
+            "text": "UNIMARK",
+            "start": 14120,
+            "end": 14920,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "OKmarket",
+            "start": 14920,
+            "end": 15680,
+            "confidence": 0.98115,
+            "speaker": "A"
+        },
+        {
+            "text": "mayoritaria.",
+            "start": 15680,
+            "end": 16320,
+            "confidence": 0.7348633,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Quedó",
+            "start": 18480,
+            "end": 19120,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 19120,
+            "end": 19200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "alguna",
+            "start": 19200,
+            "end": 19400,
+            "confidence": 0.99438477,
+            "speaker": "A"
+        },
+        {
+            "text": "duda",
+            "start": 19400,
+            "end": 19680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 19680,
+            "end": 19840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "consulta?",
+            "start": 19840,
+            "end": 20240,
+            "confidence": 0.95914716,
+            "speaker": "A"
+        },
+        {
+            "text": "No,",
+            "start": 20640,
+            "end": 21040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "nada,",
+            "start": 21280,
+            "end": 21720,
+            "confidence": 0.8815918,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 21720,
+            "end": 21960,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "bien.",
+            "start": 21960,
+            "end": 22240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Le",
+            "start": 22560,
+            "end": 22800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "agradezco",
+            "start": 22800,
+            "end": 23200,
+            "confidence": 0.9942627,
+            "speaker": "A"
+        },
+        {
+            "text": "mucho",
+            "start": 23200,
+            "end": 23320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 23320,
+            "end": 23440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tiempo,",
+            "start": 23440,
+            "end": 23560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Que",
+            "start": 23560,
+            "end": 23720,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "esté",
+            "start": 23720,
+            "end": 24000,
+            "confidence": 0.8005371,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 24000,
+            "end": 24160,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "bien.",
+            "start": 24160,
+            "end": 24440,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "Hasta",
+            "start": 24440,
+            "end": 24640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "luego.",
+            "start": 24640,
+            "end": 24840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Ya",
+            "start": 24840,
+            "end": 25040,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "hasta",
+            "start": 25040,
+            "end": 25280,
+            "confidence": 0.69384766,
+            "speaker": "A"
+        },
+        {
+            "text": "llegó.",
+            "start": 25280,
+            "end": 25920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Me tiene que crear su clave y esa clave le funciona para la aplicación Fat Spark en el teléfono y las cuotas las puede pagar a través de la aplicación, a través de la página tarjeta FAT COM, puede pagar en sus tiendas con débito excesivo o en página web de sencillito supermercados UNIMARK OKmarket mayoritaria. ¿Quedó con alguna duda o consulta? No, nada, está bien. Le agradezco mucho su tiempo, Que esté muy bien. Hasta luego. Ya hasta llegó.",
+            "start": 80,
+            "end": 25920,
+            "confidence": 0.94977325,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 27,
+    "language_code": "es"
+}

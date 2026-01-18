@@ -372,12 +372,12 @@
         {
             "text": "You're",
             "start": 47.720001220703125,
-            "end": 48.47999954223633,
+            "end": 48.459999084472656,
             "confidence": 0.99
         },
         {
             "text": "crazy",
-            "start": 48.47999954223633,
+            "start": 48.459999084472656,
             "end": 49.31999969482422,
             "confidence": 0.99
         },
@@ -696,12 +696,12 @@
         {
             "text": "all",
             "start": 84.81999969482422,
-            "end": 85.41999816894531,
+            "end": 85.37999725341797,
             "confidence": 0.99
         },
         {
             "text": "of",
-            "start": 85.41999816894531,
+            "start": 85.37999725341797,
             "end": 87.80000305175781,
             "confidence": 0.99
         },
@@ -2010,19 +2010,34 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "What would I do without your smart mouth Drawing me in and you kicking me out...",
+            "segment": "What would I do without your smart mouth Drawing me in and you kicking me out",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Cause all of me loves all of you Love your curves and all your edges All your perfect imperfections",
             "sentiment": "POSITIVE",
             "confidence": 0.95
+        },
+        {
+            "segment": "The world is beating you down I'm around through every mood",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Cards on the table, we're both showing hearts Risking it, although it's hard",
+            "sentiment": "POSITIVE",
+            "confidence": 0.8
         }
     ],
     "chapters": [
         {
-            "headline": "All of Me",
-            "summary": "A heartfelt expression of love where the speaker embraces their partner's imperfections and offers complete devotion.",
+            "headline": "Emotional Journey of Love",
+            "summary": "The narrator expresses deep affection and admiration for their partner, highlighting the complexities and beauty of their relationship.",
             "start": 0,
-            "end": 270
+            "end": 1
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

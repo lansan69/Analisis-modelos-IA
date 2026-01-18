@@ -1,5 +1,5 @@
 {
-    "text": "All day long I think of things, but nothing seems to satisfy. Think I'll lose my mind if I don't find something to pacify. Can you help me? Occupy my brain. Oh, yeah. I need someone to show me the things in life that I can't find. I can't see the things that make true happiness. Yes, I'm a beeline. Make a joke and I will sigh and you will laugh and I will cry. Happiness I cannot feel and love to me is so unreal. And so as you hear these words telling you now all my mistakes, I tell you to end your life, I wish I could burn you alive.",
+    "text": "All day long I think of things, but nothing seems to satisfy. Think I'll lose my mind if I don't find something to pacify. Can you help me? Occupy my brain. Oh, yeah. I need someone to show me the things in life that I can't find. I can't see the things that make true happiness. Yes, I'm a beeline. Make a joke and I will sigh and you will laugh and I will cry. Happiness I cannot feel and love to me is so real. And so as you hear these words telling you now all my mistakes, I tell you to end your life, I wish I could burn you alive.",
     "audio_duration": 171.1699981689453,
     "confidence": 0.36787944117144233,
     "words": [
@@ -72,12 +72,12 @@
         {
             "text": "satisfy",
             "start": 42.63999938964844,
-            "end": 43.34000015258789,
+            "end": 43.29999923706055,
             "confidence": 0.99
         },
         {
             "text": "Think",
-            "start": 44.060001373291016,
+            "start": 44.040000915527344,
             "end": 44.119998931884766,
             "confidence": 0.99
         },
@@ -102,12 +102,12 @@
         {
             "text": "mind",
             "start": 45.20000076293945,
-            "end": 45.63999938964844,
+            "end": 45.619998931884766,
             "confidence": 0.99
         },
         {
             "text": "if",
-            "start": 45.63999938964844,
+            "start": 45.619998931884766,
             "end": 46.0,
             "confidence": 0.99
         },
@@ -514,7 +514,7 @@
             "confidence": 0.99
         },
         {
-            "text": "unreal",
+            "text": "real",
             "start": 131.4199981689453,
             "end": 132.0,
             "confidence": 0.99
@@ -694,12 +694,12 @@
             "confidence": 0.9
         },
         {
-            "segment": "Can you help me? Occupy my brain. Oh, yeah.",
+            "segment": "Can you help me? Occupy my brain.",
             "sentiment": "NEUTRAL",
-            "confidence": 0.5
+            "confidence": 0.7
         },
         {
-            "segment": "I need someone to show me the things in life that I can't find.",
+            "segment": "Oh, yeah. I need someone to show me the things in life that I can't find.",
             "sentiment": "NEGATIVE",
             "confidence": 0.8
         },
@@ -709,34 +709,29 @@
             "confidence": 0.88
         },
         {
-            "segment": "Yes, I'm a beeline.",
+            "segment": "Yes, I'm a beeline. Make a joke and I will sigh and you will laugh and I will cry.",
             "sentiment": "NEUTRAL",
-            "confidence": 0.55
+            "confidence": 0.75
         },
         {
-            "segment": "Make a joke and I will sigh and you will laugh and I will cry.",
+            "segment": "Happiness I cannot feel and love to me is so real.",
             "sentiment": "NEGATIVE",
-            "confidence": 0.87
-        },
-        {
-            "segment": "Happiness I cannot feel and love to me is so unreal.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.92
+            "confidence": 0.9
         },
         {
             "segment": "And so as you hear these words telling you now all my mistakes, I tell you to end your life, I wish I could burn you alive.",
             "sentiment": "NEGATIVE",
-            "confidence": 0.96
+            "confidence": 0.95
         }
     ],
     "chapters": [
         {
-            "headline": "Searching for Happiness",
-            "summary": "The speaker expresses deep dissatisfaction with life, feeling a lack of fulfillment and mental distress. There is a plea for help to find true happiness, mixed with feelings of hopelessness and darkness.",
+            "headline": "Struggle for Happiness",
+            "summary": "The speaker expresses deep dissatisfaction and a longing for true happiness, conveying feelings of mental turmoil and a desire for support.",
             "start": 0,
-            "end": 90
+            "end": 120
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

@@ -252,12 +252,12 @@
         {
             "text": "in",
             "start": 13.619999885559082,
-            "end": 13.920000076293945,
+            "end": 13.9399995803833,
             "confidence": 0.99
         },
         {
             "text": "front",
-            "start": 13.920000076293945,
+            "start": 13.9399995803833,
             "end": 13.979999542236328,
             "confidence": 0.99
         },
@@ -414,29 +414,18 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "I think everyone is a leader, whether we want to admit it or not.",
             "sentiment": "POSITIVE",
-            "confidence": 0.85
-        },
-        {
-            "segment": "We may be more comfortable at times letting someone else carry the mantle, but those of us who value good leadership always want to be the one in front.",
-            "sentiment": "NEUTRAL",
-            "confidence": 0.75
-        },
-        {
-            "segment": "And we always make mistakes while we're doing it and learning it, and those that are great leaders truly learn from those mistakes and evolve.",
-            "sentiment": "POSITIVE",
-            "confidence": 0.8
+            "confidence": 0.95
         }
     ],
     "chapters": [
         {
             "headline": "The Essence of Leadership",
-            "summary": "Everyone possesses leadership qualities, and true leaders learn from their mistakes and evolve over time.",
+            "summary": "This segment discusses the intrinsic qualities of leadership and the importance of learning from mistakes.",
             "start": 0,
-            "end": 45
+            "end": 30
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

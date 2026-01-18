@@ -1,0 +1,524 @@
+{
+    "id": "d350a73c-41b1-4aed-82bb-751572d95570",
+    "status": "completed",
+    "text": "Brevemente le indicó el costo administrativo de la tarjeta es de 0,097 u 8 mensual, aproximadamente 3500 pesos solo si utiliza la tarjeta. Además ya forma parte del centro beneficios en Fashion, donde puede vencer su descuento en beneficiospp CL y también en la persona tarjeta Fashionpar Com puede revisar su contrato de apertura y crear o recuperar la clave del sitio web y de la aplicación para realizar todos sus movimientos.",
+    "words": [
+        {
+            "text": "Brevemente",
+            "start": 240,
+            "end": 560,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 560,
+            "end": 720,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "indicó",
+            "start": 720,
+            "end": 1120,
+            "confidence": 0.9082031,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 1120,
+            "end": 1200,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "costo",
+            "start": 1200,
+            "end": 1400,
+            "confidence": 0.9851074,
+            "speaker": "A"
+        },
+        {
+            "text": "administrativo",
+            "start": 1400,
+            "end": 1840,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 1840,
+            "end": 2000,
+            "confidence": 0.60546875,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 2000,
+            "end": 2080,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 2080,
+            "end": 2400,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 2400,
+            "end": 2560,
+            "confidence": 0.49609375,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 2560,
+            "end": 2680,
+            "confidence": 0.9863281,
+            "speaker": "A"
+        },
+        {
+            "text": "0,097",
+            "start": 2680,
+            "end": 4080,
+            "confidence": 0.93892,
+            "speaker": "A"
+        },
+        {
+            "text": "u",
+            "start": 4080,
+            "end": 4280,
+            "confidence": 0.8935547,
+            "speaker": "A"
+        },
+        {
+            "text": "8",
+            "start": 4280,
+            "end": 4520,
+            "confidence": 0.98462,
+            "speaker": "A"
+        },
+        {
+            "text": "mensual,",
+            "start": 4520,
+            "end": 4920,
+            "confidence": 0.94222003,
+            "speaker": "A"
+        },
+        {
+            "text": "aproximadamente",
+            "start": 4920,
+            "end": 5520,
+            "confidence": 0.9182129,
+            "speaker": "A"
+        },
+        {
+            "text": "3500",
+            "start": 5520,
+            "end": 6280,
+            "confidence": 0.99514,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos",
+            "start": 6280,
+            "end": 6600,
+            "confidence": 0.9943034,
+            "speaker": "A"
+        },
+        {
+            "text": "solo",
+            "start": 6600,
+            "end": 6960,
+            "confidence": 0.8261719,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 7120,
+            "end": 7440,
+            "confidence": 0.53564453,
+            "speaker": "A"
+        },
+        {
+            "text": "utiliza",
+            "start": 7440,
+            "end": 7840,
+            "confidence": 0.9954427,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 7840,
+            "end": 8000,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta.",
+            "start": 8000,
+            "end": 8560,
+            "confidence": 0.8642578,
+            "speaker": "A"
+        },
+        {
+            "text": "Además",
+            "start": 8720,
+            "end": 9120,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 9120,
+            "end": 9440,
+            "confidence": 0.80615234,
+            "speaker": "A"
+        },
+        {
+            "text": "forma",
+            "start": 9520,
+            "end": 9920,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "parte",
+            "start": 9920,
+            "end": 10000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 10000,
+            "end": 10160,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "centro",
+            "start": 10160,
+            "end": 10480,
+            "confidence": 0.82958984,
+            "speaker": "A"
+        },
+        {
+            "text": "beneficios",
+            "start": 10480,
+            "end": 10920,
+            "confidence": 0.97058105,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 10920,
+            "end": 11080,
+            "confidence": 0.56152344,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion,",
+            "start": 11080,
+            "end": 11440,
+            "confidence": 0.9350586,
+            "speaker": "A"
+        },
+        {
+            "text": "donde",
+            "start": 11440,
+            "end": 11600,
+            "confidence": 0.9638672,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 11600,
+            "end": 11680,
+            "confidence": 0.98339844,
+            "speaker": "A"
+        },
+        {
+            "text": "vencer",
+            "start": 11680,
+            "end": 12000,
+            "confidence": 0.68969727,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 12000,
+            "end": 12160,
+            "confidence": 0.94628906,
+            "speaker": "A"
+        },
+        {
+            "text": "descuento",
+            "start": 12160,
+            "end": 12400,
+            "confidence": 0.99153644,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 12400,
+            "end": 12520,
+            "confidence": 0.5488281,
+            "speaker": "A"
+        },
+        {
+            "text": "beneficiospp",
+            "start": 12520,
+            "end": 13280,
+            "confidence": 0.9890625,
+            "speaker": "A"
+        },
+        {
+            "text": "CL",
+            "start": 13360,
+            "end": 13760,
+            "confidence": 0.6176758,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 14160,
+            "end": 14400,
+            "confidence": 0.92089844,
+            "speaker": "A"
+        },
+        {
+            "text": "también",
+            "start": 14400,
+            "end": 14560,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 14560,
+            "end": 14720,
+            "confidence": 0.9794922,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 14720,
+            "end": 14840,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "persona",
+            "start": 14840,
+            "end": 15160,
+            "confidence": 0.90722656,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 15160,
+            "end": 15520,
+            "confidence": 0.92838544,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashionpar",
+            "start": 15520,
+            "end": 16080,
+            "confidence": 0.71591794,
+            "speaker": "A"
+        },
+        {
+            "text": "Com",
+            "start": 16160,
+            "end": 16480,
+            "confidence": 0.78125,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 16480,
+            "end": 16800,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "revisar",
+            "start": 18480,
+            "end": 19000,
+            "confidence": 0.9505208,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 19000,
+            "end": 19160,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "contrato",
+            "start": 19160,
+            "end": 19480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 19480,
+            "end": 19600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "apertura",
+            "start": 19600,
+            "end": 19880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 19880,
+            "end": 20040,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "crear",
+            "start": 20040,
+            "end": 20360,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 20360,
+            "end": 20480,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "recuperar",
+            "start": 20480,
+            "end": 20840,
+            "confidence": 0.9625244,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 20840,
+            "end": 20960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "clave",
+            "start": 20960,
+            "end": 21160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 21160,
+            "end": 21320,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "sitio",
+            "start": 21320,
+            "end": 21640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "web",
+            "start": 21640,
+            "end": 21800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 21800,
+            "end": 21960,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 21960,
+            "end": 22080,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 22080,
+            "end": 22160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "aplicación",
+            "start": 22160,
+            "end": 22600,
+            "confidence": 0.9699707,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 22600,
+            "end": 22760,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "realizar",
+            "start": 22760,
+            "end": 23080,
+            "confidence": 0.9694824,
+            "speaker": "A"
+        },
+        {
+            "text": "todos",
+            "start": 23080,
+            "end": 23240,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "sus",
+            "start": 23240,
+            "end": 23440,
+            "confidence": 0.6191406,
+            "speaker": "A"
+        },
+        {
+            "text": "movimientos.",
+            "start": 23440,
+            "end": 24000,
+            "confidence": 0.9974365,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Brevemente le indicó el costo administrativo de la tarjeta es de 0,097 u 8 mensual, aproximadamente 3500 pesos solo si utiliza la tarjeta. Además ya forma parte del centro beneficios en Fashion, donde puede vencer su descuento en beneficiospp CL y también en la persona tarjeta Fashionpar Com puede revisar su contrato de apertura y crear o recuperar la clave del sitio web y de la aplicación para realizar todos sus movimientos.",
+            "start": 240,
+            "end": 24000,
+            "confidence": 0.9209979,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 25,
+    "language_code": "es"
+}

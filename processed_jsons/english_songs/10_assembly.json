@@ -1,5 +1,5 @@
 {
-    "id": "e263d10d-18e1-4669-8478-5951ab9fa3ad",
+    "id": "f549f69b-df1a-49e8-9423-8c2e119f7cbe",
     "status": "completed",
     "text": "They say the holy water's watered down and this town's lost its faith. Our colors will fade eventually so if our time is running out day after day we'll make the mundane a masterpiece. Oh by my oh my, oh my my love I take one look at you. You're taking me out of the ordinary. I want you laying me down to. The dead and buried on the edge. Of your knife Staying drunk in the vibe the angels up in the clouds are jealous Knowing we found this the world will be ordinary you got me kissing the ground we sanctuary Shatter me with your to oh Lord, return me to dust. The angels up in the clouds are jealous Nowhere we found. Hopeless Hallelujah. On this side of heaven's gate. Oh my life hallelujah. Breathe and take my breath away. At your altar I will pray you're the sculpt of the clay oh my my. You're taking me out of the ordinary I want you laying me down so we're dead and buried on the edge of your night staying drunk on your mind the angels up in the clouds know what we found so it's you got me kissing the ground. Angels up in the clouds My j know something so heavenly Higher than next to you see never you're next to me oh my what was in black and white Until I saw your light I thought you had to die to. Fight something so out of the ordinary. How are you laying me down to a dead and buried on the edge of your night Staying drunk on your provide? The angels up in the clouds are jealous Knowing we found something out of the ordinary. You got me kissing the crowd Sanctuary Sanctuary. Turn me to D The angels up in the clouds My dad is know where we found.",
     "words": [
@@ -2296,35 +2296,35 @@
             "start": 8400,
             "end": 13840,
             "sentiment": "NEGATIVE",
-            "confidence": 0.78797007
+            "confidence": 0.78797
         },
         {
             "text": "Our colors will fade eventually so if our time is running out day after day we'll make the mundane a masterpiece.",
             "start": 14160,
             "end": 26160,
             "sentiment": "NEUTRAL",
-            "confidence": 0.55616736
+            "confidence": 0.5561674
         },
         {
             "text": "Oh by my oh my, oh my my love I take one look at you.",
             "start": 26720,
             "end": 34000,
             "sentiment": "POSITIVE",
-            "confidence": 0.8400614
+            "confidence": 0.84006107
         },
         {
             "text": "You're taking me out of the ordinary.",
             "start": 34000,
             "end": 36800,
             "sentiment": "NEUTRAL",
-            "confidence": 0.60309243
+            "confidence": 0.6030925
         },
         {
             "text": "I want you laying me down to the dead and buried on the edge of your knife Staying drunk in the vibe the angels up in the clouds are jealous Knowing we found this the world will be ordinary you got me kissing the ground we sanctuary Shatter me with your to oh Lord, return me to dust.",
             "start": 37920,
             "end": 63260,
             "sentiment": "NEUTRAL",
-            "confidence": 0.62089205
+            "confidence": 0.6208923
         },
         {
             "text": "The angels up in the clouds are jealous Nowhere we found hopeless Hallelujah.",
@@ -2338,70 +2338,70 @@
             "start": 74460,
             "end": 78140,
             "sentiment": "NEUTRAL",
-            "confidence": 0.6131706
+            "confidence": 0.6131707
         },
         {
             "text": "Oh my life hallelujah.",
             "start": 78780,
             "end": 81660,
             "sentiment": "POSITIVE",
-            "confidence": 0.827062
+            "confidence": 0.82706237
         },
         {
             "text": "Breathe and take my breath away.",
             "start": 82940,
             "end": 86220,
             "sentiment": "NEUTRAL",
-            "confidence": 0.6744283
+            "confidence": 0.67442816
         },
         {
             "text": "At your altar I will pray you're the sculpt of the clay oh my my.",
             "start": 87900,
             "end": 94000,
             "sentiment": "POSITIVE",
-            "confidence": 0.4930865
+            "confidence": 0.49308655
         },
         {
             "text": "You're taking me out of the ordinary I want you laying me down so we're dead and buried on the edge of your night staying drunk on your mind the angels up in the clouds know what we found so it's you got me kissing the ground.",
             "start": 94000,
             "end": 116600,
             "sentiment": "NEUTRAL",
-            "confidence": 0.67091835
+            "confidence": 0.6709183
         },
         {
             "text": "Angels up in the clouds My j know something so heavenly Higher than next to you see never you're next to me oh my what was in black and white Until I saw your light I thought you had to die to fight something so out of the ordinary.",
             "start": 125060,
             "end": 148180,
             "sentiment": "POSITIVE",
-            "confidence": 0.56074643
+            "confidence": 0.560746
         },
         {
             "text": "How are you laying me down to a dead and buried on the edge of your night Staying drunk on your provide?",
             "start": 149300,
             "end": 157200,
             "sentiment": "NEUTRAL",
-            "confidence": 0.51967824
+            "confidence": 0.5196788
         },
         {
             "text": "The angels up in the clouds are jealous Knowing we found something out of the ordinary.",
             "start": 158800,
             "end": 165360,
             "sentiment": "NEUTRAL",
-            "confidence": 0.5983291
+            "confidence": 0.59832925
         },
         {
             "text": "You got me kissing the crowd Sanctuary Sanctuary.",
             "start": 166480,
             "end": 170480,
             "sentiment": "NEUTRAL",
-            "confidence": 0.48659873
+            "confidence": 0.48659834
         },
         {
             "text": "Turn me to D The angels up in the clouds My dad is know where we found.",
             "start": 173440,
             "end": 179840,
             "sentiment": "NEUTRAL",
-            "confidence": 0.56367147
+            "confidence": 0.5636722
         }
     ],
     "audio_duration": 187,

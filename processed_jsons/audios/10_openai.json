@@ -1,1031 +1,1043 @@
 {
-    "text": "Why did the Soviets make gas masks with a strange horn? Since people think that that strange bulk did not have any practical sense, but in reality this horn was the only thing that prevented a soldier from being completely blind inside a real gas cloud in the middle of combat. Since the first gas masks had a serious flaw because at the moment you breathed inside them, the lenses fogged up instantly due to the steam and heat of the breath, ruining visibility and sentencing the soldier to death. But taking off the mask to clean them would have been extremely dangerous. That is why the Soviet designers decided to create something brilliantly simple but effective. And it is that they put a soft rubber horn integrated directly into the front of the gas mask, causing that when the lenses fogged up, the soldier could press a finger from the outside and acted like a clean incorporated windshield, clearing the glass instantly without breaking the seal or exposing himself to gas.",
+    "text": "¿Por qué los soviéticos fabricaron máscaras de gas con un cuerno extraño? Ya que la gente piensa que ese bulto extraño no tenía ningún sentido práctico, pero en realidad este cuerno era lo único que evitaba que un soldado quedara completamente ciego dentro de una nube de gas real en pleno combate, ya que las primeras máscaras de gas tenían un fallo grave porque en el momento en que respirabas dentro de ellas, los lentes se empañaban al instante debido al vapor y al calor del aliento, arruinando la visibilidad y sentenciando de muerte al soldado. Pero quitarse la máscara para limpiarlos habría sido extremadamente peligroso. Es por esto que los diseñadores soviéticos decidieron crear algo brillantemente simple pero efectivo, y es que pusieron un cuerno de goma blanda integrado directamente en el frente de la máscara de gas, provocando que cuando los lentes se empañaban, el soldado podía presionar un dedo desde afuera y actuaba como un limpia parabrisas incorporado, despejando el vidrio al instante sin romper el sello ni exponerse al gas.",
     "audio_duration": 46.130001068115234,
     "confidence": 0.36787944117144233,
     "words": [
         {
-            "text": "Why",
+            "text": "¿Por",
             "start": 0.0,
-            "end": 0.2199999988079071,
+            "end": 0.18000000715255737,
             "confidence": 0.99
         },
         {
-            "text": "did",
-            "start": 0.2199999988079071,
-            "end": 0.30000001192092896,
+            "text": "qué",
+            "start": 0.18000000715255737,
+            "end": 0.20000000298023224,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 0.30000001192092896,
+            "text": "los",
+            "start": 0.20000000298023224,
+            "end": 0.4399999976158142,
+            "confidence": 0.99
+        },
+        {
+            "text": "soviéticos",
+            "start": 0.4399999976158142,
             "end": 0.8999999761581421,
             "confidence": 0.99
         },
         {
-            "text": "Soviets",
-            "start": 0.8999999761581421,
-            "end": 0.8999999761581421,
-            "confidence": 0.99
-        },
-        {
-            "text": "make",
+            "text": "fabricaron",
             "start": 0.8999999761581421,
             "end": 1.4800000190734863,
             "confidence": 0.99
         },
         {
-            "text": "gas",
+            "text": "máscaras",
             "start": 1.4800000190734863,
+            "end": 1.899999976158142,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 1.899999976158142,
             "end": 2.240000009536743,
             "confidence": 0.99
         },
         {
-            "text": "masks",
+            "text": "gas",
             "start": 2.240000009536743,
             "end": 2.240000009536743,
             "confidence": 0.99
         },
         {
-            "text": "with",
+            "text": "con",
             "start": 2.240000009536743,
-            "end": 2.4800000190734863,
+            "end": 2.5,
             "confidence": 0.99
         },
         {
-            "text": "a",
-            "start": 2.4800000190734863,
-            "end": 2.940000057220459,
+            "text": "un",
+            "start": 2.5,
+            "end": 2.799999952316284,
             "confidence": 0.99
         },
         {
-            "text": "strange",
-            "start": 2.940000057220459,
-            "end": 3.2200000286102295,
+            "text": "cuerno",
+            "start": 2.799999952316284,
+            "end": 2.819999933242798,
             "confidence": 0.99
         },
         {
-            "text": "horn",
-            "start": 3.2200000286102295,
-            "end": 3.2200000286102295,
+            "text": "extraño",
+            "start": 2.819999933242798,
+            "end": 3.2799999713897705,
             "confidence": 0.99
         },
         {
-            "text": "Since",
-            "start": 3.359999895095825,
-            "end": 3.559999942779541,
+            "text": "Ya",
+            "start": 3.3399999141693115,
+            "end": 3.5,
             "confidence": 0.99
         },
         {
-            "text": "people",
-            "start": 3.559999942779541,
+            "text": "que",
+            "start": 3.5,
+            "end": 3.5799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 3.5799999237060547,
+            "end": 3.740000009536743,
+            "confidence": 0.99
+        },
+        {
+            "text": "gente",
+            "start": 3.740000009536743,
             "end": 3.9200000762939453,
             "confidence": 0.99
         },
         {
-            "text": "think",
+            "text": "piensa",
             "start": 3.9200000762939453,
-            "end": 4.320000171661377,
+            "end": 4.28000020980835,
             "confidence": 0.99
         },
         {
-            "text": "that",
-            "start": 4.320000171661377,
-            "end": 4.579999923706055,
+            "text": "que",
+            "start": 4.28000020980835,
+            "end": 4.5,
             "confidence": 0.99
         },
         {
-            "text": "that",
-            "start": 4.579999923706055,
+            "text": "ese",
+            "start": 4.5,
             "end": 4.699999809265137,
             "confidence": 0.99
         },
         {
-            "text": "strange",
+            "text": "bulto",
             "start": 4.699999809265137,
-            "end": 5.340000152587891,
+            "end": 4.980000019073486,
             "confidence": 0.99
         },
         {
-            "text": "bulk",
-            "start": 5.340000152587891,
-            "end": 5.340000152587891,
+            "text": "extraño",
+            "start": 4.980000019073486,
+            "end": 5.400000095367432,
             "confidence": 0.99
         },
         {
-            "text": "did",
-            "start": 5.340000152587891,
-            "end": 5.639999866485596,
+            "text": "no",
+            "start": 5.400000095367432,
+            "end": 5.659999847412109,
             "confidence": 0.99
         },
         {
-            "text": "not",
-            "start": 5.639999866485596,
-            "end": 5.639999866485596,
+            "text": "tenía",
+            "start": 5.659999847412109,
+            "end": 5.840000152587891,
             "confidence": 0.99
         },
         {
-            "text": "have",
-            "start": 5.639999866485596,
-            "end": 5.880000114440918,
+            "text": "ningún",
+            "start": 5.840000152587891,
+            "end": 6.300000190734863,
             "confidence": 0.99
         },
         {
-            "text": "any",
-            "start": 5.880000114440918,
-            "end": 6.239999771118164,
+            "text": "sentido",
+            "start": 6.300000190734863,
+            "end": 6.559999942779541,
             "confidence": 0.99
         },
         {
-            "text": "practical",
-            "start": 6.239999771118164,
-            "end": 6.980000019073486,
+            "text": "práctico",
+            "start": 6.559999942779541,
+            "end": 7.019999980926514,
             "confidence": 0.99
         },
         {
-            "text": "sense",
-            "start": 6.980000019073486,
-            "end": 6.980000019073486,
-            "confidence": 0.99
-        },
-        {
-            "text": "but",
-            "start": 7.119999885559082,
+            "text": "pero",
+            "start": 7.179999828338623,
             "end": 7.199999809265137,
             "confidence": 0.99
         },
         {
-            "text": "in",
+            "text": "en",
             "start": 7.199999809265137,
-            "end": 7.320000171661377,
+            "end": 7.360000133514404,
             "confidence": 0.99
         },
         {
-            "text": "reality",
-            "start": 7.320000171661377,
-            "end": 7.699999809265137,
+            "text": "realidad",
+            "start": 7.360000133514404,
+            "end": 7.639999866485596,
             "confidence": 0.99
         },
         {
-            "text": "this",
-            "start": 7.699999809265137,
-            "end": 7.980000019073486,
+            "text": "este",
+            "start": 7.639999866485596,
+            "end": 8.0,
             "confidence": 0.99
         },
         {
-            "text": "horn",
-            "start": 7.980000019073486,
-            "end": 8.279999732971191,
+            "text": "cuerno",
+            "start": 8.0,
+            "end": 8.359999656677246,
             "confidence": 0.99
         },
         {
-            "text": "was",
-            "start": 8.279999732971191,
+            "text": "era",
+            "start": 8.359999656677246,
             "end": 8.520000457763672,
             "confidence": 0.99
         },
         {
-            "text": "the",
+            "text": "lo",
             "start": 8.520000457763672,
-            "end": 8.699999809265137,
+            "end": 8.779999732971191,
             "confidence": 0.99
         },
         {
-            "text": "only",
-            "start": 8.699999809265137,
-            "end": 9.0,
+            "text": "único",
+            "start": 8.779999732971191,
+            "end": 8.960000038146973,
             "confidence": 0.99
         },
         {
-            "text": "thing",
-            "start": 9.0,
-            "end": 9.119999885559082,
-            "confidence": 0.99
-        },
-        {
-            "text": "that",
-            "start": 9.119999885559082,
+            "text": "que",
+            "start": 8.960000038146973,
             "end": 9.180000305175781,
             "confidence": 0.99
         },
         {
-            "text": "prevented",
+            "text": "evitaba",
             "start": 9.180000305175781,
-            "end": 9.520000457763672,
+            "end": 9.479999542236328,
             "confidence": 0.99
         },
         {
-            "text": "a",
-            "start": 9.520000457763672,
+            "text": "que",
+            "start": 9.479999542236328,
+            "end": 9.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 9.720000267028809,
+            "end": 10.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "soldado",
+            "start": 10.020000457763672,
             "end": 10.260000228881836,
             "confidence": 0.99
         },
         {
-            "text": "soldier",
+            "text": "quedara",
             "start": 10.260000228881836,
-            "end": 10.260000228881836,
+            "end": 10.600000381469727,
             "confidence": 0.99
         },
         {
-            "text": "from",
-            "start": 10.260000228881836,
-            "end": 10.5600004196167,
+            "text": "completamente",
+            "start": 10.600000381469727,
+            "end": 11.399999618530273,
             "confidence": 0.99
         },
         {
-            "text": "being",
-            "start": 10.5600004196167,
-            "end": 10.640000343322754,
+            "text": "ciego",
+            "start": 11.399999618530273,
+            "end": 11.720000267028809,
             "confidence": 0.99
         },
         {
-            "text": "completely",
-            "start": 10.640000343322754,
-            "end": 11.420000076293945,
+            "text": "dentro",
+            "start": 11.720000267028809,
+            "end": 12.020000457763672,
             "confidence": 0.99
         },
         {
-            "text": "blind",
-            "start": 11.420000076293945,
-            "end": 11.699999809265137,
+            "text": "de",
+            "start": 12.020000457763672,
+            "end": 12.239999771118164,
             "confidence": 0.99
         },
         {
-            "text": "inside",
-            "start": 11.699999809265137,
-            "end": 12.079999923706055,
+            "text": "una",
+            "start": 12.239999771118164,
+            "end": 12.420000076293945,
             "confidence": 0.99
         },
         {
-            "text": "a",
-            "start": 12.079999923706055,
-            "end": 12.279999732971191,
+            "text": "nube",
+            "start": 12.420000076293945,
+            "end": 12.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 12.460000038146973,
+            "end": 12.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "gas",
+            "start": 12.84000015258789,
+            "end": 12.84000015258789,
             "confidence": 0.99
         },
         {
             "text": "real",
-            "start": 12.279999732971191,
-            "end": 12.279999732971191,
+            "start": 12.84000015258789,
+            "end": 13.039999961853027,
             "confidence": 0.99
         },
         {
-            "text": "gas",
-            "start": 12.279999732971191,
-            "end": 13.020000457763672,
-            "confidence": 0.99
-        },
-        {
-            "text": "cloud",
-            "start": 13.020000457763672,
-            "end": 13.020000457763672,
-            "confidence": 0.99
-        },
-        {
-            "text": "in",
-            "start": 13.020000457763672,
+            "text": "en",
+            "start": 13.039999961853027,
             "end": 13.199999809265137,
             "confidence": 0.99
         },
         {
-            "text": "the",
+            "text": "pleno",
             "start": 13.199999809265137,
-            "end": 13.34000015258789,
+            "end": 13.380000114440918,
             "confidence": 0.99
         },
         {
-            "text": "middle",
-            "start": 13.34000015258789,
-            "end": 13.34000015258789,
+            "text": "combate",
+            "start": 13.380000114440918,
+            "end": 13.720000267028809,
             "confidence": 0.99
         },
         {
-            "text": "of",
-            "start": 13.34000015258789,
-            "end": 13.739999771118164,
+            "text": "ya",
+            "start": 13.880000114440918,
+            "end": 13.920000076293945,
             "confidence": 0.99
         },
         {
-            "text": "combat",
-            "start": 13.739999771118164,
-            "end": 13.739999771118164,
+            "text": "que",
+            "start": 13.920000076293945,
+            "end": 14.020000457763672,
             "confidence": 0.99
         },
         {
-            "text": "Since",
-            "start": 13.800000190734863,
-            "end": 14.0,
+            "text": "las",
+            "start": 14.020000457763672,
+            "end": 14.199999809265137,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 14.0,
-            "end": 14.140000343322754,
-            "confidence": 0.99
-        },
-        {
-            "text": "first",
-            "start": 14.140000343322754,
+            "text": "primeras",
+            "start": 14.199999809265137,
             "end": 14.460000038146973,
             "confidence": 0.99
         },
         {
-            "text": "gas",
+            "text": "máscaras",
             "start": 14.460000038146973,
-            "end": 15.079999923706055,
+            "end": 14.800000190734863,
             "confidence": 0.99
         },
         {
-            "text": "masks",
-            "start": 15.079999923706055,
-            "end": 15.079999923706055,
+            "text": "de",
+            "start": 14.800000190734863,
+            "end": 15.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "had",
-            "start": 15.079999923706055,
+            "text": "gas",
+            "start": 15.100000381469727,
+            "end": 15.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "tenían",
+            "start": 15.100000381469727,
             "end": 15.359999656677246,
             "confidence": 0.99
         },
         {
-            "text": "a",
+            "text": "un",
             "start": 15.359999656677246,
-            "end": 15.539999961853027,
+            "end": 15.619999885559082,
             "confidence": 0.99
         },
         {
-            "text": "serious",
-            "start": 15.539999961853027,
-            "end": 16.020000457763672,
+            "text": "fallo",
+            "start": 15.619999885559082,
+            "end": 15.779999732971191,
             "confidence": 0.99
         },
         {
-            "text": "flaw",
-            "start": 16.020000457763672,
-            "end": 16.020000457763672,
+            "text": "grave",
+            "start": 15.779999732971191,
+            "end": 16.040000915527344,
             "confidence": 0.99
         },
         {
-            "text": "because",
-            "start": 16.020000457763672,
+            "text": "porque",
+            "start": 16.040000915527344,
             "end": 16.280000686645508,
             "confidence": 0.99
         },
         {
-            "text": "at",
+            "text": "en",
             "start": 16.280000686645508,
-            "end": 16.440000534057617,
+            "end": 16.420000076293945,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 16.440000534057617,
-            "end": 16.520000457763672,
+            "text": "el",
+            "start": 16.420000076293945,
+            "end": 16.799999237060547,
             "confidence": 0.99
         },
         {
-            "text": "moment",
-            "start": 16.520000457763672,
-            "end": 16.84000015258789,
+            "text": "momento",
+            "start": 16.799999237060547,
+            "end": 16.799999237060547,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 16.84000015258789,
+            "text": "en",
+            "start": 16.799999237060547,
+            "end": 16.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 16.979999542236328,
             "end": 17.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "breathed",
+            "text": "respirabas",
             "start": 17.100000381469727,
-            "end": 17.579999923706055,
+            "end": 17.540000915527344,
             "confidence": 0.99
         },
         {
-            "text": "inside",
-            "start": 17.579999923706055,
-            "end": 17.920000076293945,
+            "text": "dentro",
+            "start": 17.540000915527344,
+            "end": 17.860000610351562,
             "confidence": 0.99
         },
         {
-            "text": "them",
-            "start": 17.920000076293945,
-            "end": 18.399999618530273,
+            "text": "de",
+            "start": 17.860000610351562,
+            "end": 18.260000228881836,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 18.459999084472656,
-            "end": 18.479999542236328,
+            "text": "ellas",
+            "start": 18.260000228881836,
+            "end": 18.260000228881836,
             "confidence": 0.99
         },
         {
-            "text": "lenses",
-            "start": 18.479999542236328,
-            "end": 18.860000610351562,
+            "text": "los",
+            "start": 18.360000610351562,
+            "end": 18.559999465942383,
             "confidence": 0.99
         },
         {
-            "text": "fogged",
-            "start": 18.860000610351562,
-            "end": 19.440000534057617,
+            "text": "lentes",
+            "start": 18.559999465942383,
+            "end": 18.780000686645508,
             "confidence": 0.99
         },
         {
-            "text": "up",
-            "start": 19.440000534057617,
-            "end": 19.979999542236328,
+            "text": "se",
+            "start": 18.780000686645508,
+            "end": 19.18000030517578,
             "confidence": 0.99
         },
         {
-            "text": "instantly",
-            "start": 19.979999542236328,
-            "end": 20.15999984741211,
+            "text": "empañaban",
+            "start": 19.18000030517578,
+            "end": 19.459999084472656,
             "confidence": 0.99
         },
         {
-            "text": "due",
-            "start": 20.15999984741211,
-            "end": 20.3799991607666,
+            "text": "al",
+            "start": 19.459999084472656,
+            "end": 19.719999313354492,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 20.3799991607666,
-            "end": 20.5,
+            "text": "instante",
+            "start": 19.719999313354492,
+            "end": 20.020000457763672,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 20.5,
-            "end": 20.540000915527344,
+            "text": "debido",
+            "start": 20.020000457763672,
+            "end": 20.34000015258789,
             "confidence": 0.99
         },
         {
-            "text": "steam",
-            "start": 20.540000915527344,
-            "end": 20.81999969482422,
+            "text": "al",
+            "start": 20.34000015258789,
+            "end": 20.579999923706055,
             "confidence": 0.99
         },
         {
-            "text": "and",
-            "start": 20.81999969482422,
-            "end": 21.020000457763672,
+            "text": "vapor",
+            "start": 20.579999923706055,
+            "end": 20.799999237060547,
             "confidence": 0.99
         },
         {
-            "text": "heat",
-            "start": 21.020000457763672,
-            "end": 21.399999618530273,
+            "text": "y",
+            "start": 20.799999237060547,
+            "end": 20.979999542236328,
             "confidence": 0.99
         },
         {
-            "text": "of",
-            "start": 21.399999618530273,
-            "end": 21.459999084472656,
+            "text": "al",
+            "start": 20.979999542236328,
+            "end": 21.360000610351562,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 21.459999084472656,
+            "text": "calor",
+            "start": 21.360000610351562,
+            "end": 21.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 21.360000610351562,
             "end": 21.540000915527344,
             "confidence": 0.99
         },
         {
-            "text": "breath",
+            "text": "aliento",
             "start": 21.540000915527344,
-            "end": 21.799999237060547,
+            "end": 21.780000686645508,
             "confidence": 0.99
         },
         {
-            "text": "ruining",
-            "start": 22.299999237060547,
+            "text": "arruinando",
+            "start": 22.139999389648438,
             "end": 22.31999969482422,
             "confidence": 0.99
         },
         {
-            "text": "visibility",
+            "text": "la",
             "start": 22.31999969482422,
             "end": 22.959999084472656,
             "confidence": 0.99
         },
         {
-            "text": "and",
+            "text": "visibilidad",
+            "start": 22.959999084472656,
+            "end": 22.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
             "start": 22.959999084472656,
             "end": 23.280000686645508,
             "confidence": 0.99
         },
         {
-            "text": "sentencing",
+            "text": "sentenciando",
             "start": 23.280000686645508,
-            "end": 23.6200008392334,
+            "end": 23.700000762939453,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 23.6200008392334,
-            "end": 24.219999313354492,
+            "text": "de",
+            "start": 23.700000762939453,
+            "end": 24.079999923706055,
             "confidence": 0.99
         },
         {
-            "text": "soldier",
-            "start": 24.219999313354492,
+            "text": "muerte",
+            "start": 24.079999923706055,
+            "end": 24.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "al",
+            "start": 24.079999923706055,
+            "end": 24.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "soldado",
+            "start": 24.31999969482422,
             "end": 24.559999465942383,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 24.559999465942383,
-            "end": 24.559999465942383,
+            "text": "Pero",
+            "start": 24.700000762939453,
+            "end": 24.84000015258789,
             "confidence": 0.99
         },
         {
-            "text": "death",
-            "start": 24.559999465942383,
-            "end": 24.559999465942383,
+            "text": "quitarse",
+            "start": 24.84000015258789,
+            "end": 25.1200008392334,
             "confidence": 0.99
         },
         {
-            "text": "But",
-            "start": 24.68000030517578,
-            "end": 24.899999618530273,
+            "text": "la",
+            "start": 25.1200008392334,
+            "end": 25.5,
             "confidence": 0.99
         },
         {
-            "text": "taking",
-            "start": 24.899999618530273,
-            "end": 25.0,
+            "text": "máscara",
+            "start": 25.5,
+            "end": 25.5,
             "confidence": 0.99
         },
         {
-            "text": "off",
-            "start": 25.0,
-            "end": 25.100000381469727,
+            "text": "para",
+            "start": 25.5,
+            "end": 25.719999313354492,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 25.100000381469727,
-            "end": 25.280000686645508,
+            "text": "limpiarlos",
+            "start": 25.719999313354492,
+            "end": 26.280000686645508,
             "confidence": 0.99
         },
         {
-            "text": "mask",
-            "start": 25.280000686645508,
-            "end": 25.459999084472656,
+            "text": "habría",
+            "start": 26.280000686645508,
+            "end": 26.559999465942383,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 25.459999084472656,
-            "end": 25.760000228881836,
+            "text": "sido",
+            "start": 26.559999465942383,
+            "end": 26.780000686645508,
             "confidence": 0.99
         },
         {
-            "text": "clean",
-            "start": 25.760000228881836,
-            "end": 26.020000457763672,
+            "text": "extremadamente",
+            "start": 26.780000686645508,
+            "end": 27.459999084472656,
             "confidence": 0.99
         },
         {
-            "text": "them",
-            "start": 26.020000457763672,
-            "end": 26.239999771118164,
+            "text": "peligroso",
+            "start": 27.459999084472656,
+            "end": 27.940000534057617,
             "confidence": 0.99
         },
         {
-            "text": "would",
-            "start": 26.239999771118164,
-            "end": 26.5,
+            "text": "Es",
+            "start": 27.940000534057617,
+            "end": 28.079999923706055,
             "confidence": 0.99
         },
         {
-            "text": "have",
-            "start": 26.5,
-            "end": 26.65999984741211,
+            "text": "por",
+            "start": 28.079999923706055,
+            "end": 28.31999969482422,
             "confidence": 0.99
         },
         {
-            "text": "been",
-            "start": 26.65999984741211,
-            "end": 26.760000228881836,
+            "text": "esto",
+            "start": 28.31999969482422,
+            "end": 28.459999084472656,
             "confidence": 0.99
         },
         {
-            "text": "extremely",
-            "start": 26.760000228881836,
-            "end": 27.399999618530273,
+            "text": "que",
+            "start": 28.459999084472656,
+            "end": 28.579999923706055,
             "confidence": 0.99
         },
         {
-            "text": "dangerous",
-            "start": 27.399999618530273,
-            "end": 27.799999237060547,
+            "text": "los",
+            "start": 28.579999923706055,
+            "end": 28.739999771118164,
             "confidence": 0.99
         },
         {
-            "text": "That",
-            "start": 27.799999237060547,
-            "end": 28.100000381469727,
+            "text": "diseñadores",
+            "start": 28.739999771118164,
+            "end": 29.219999313354492,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 28.100000381469727,
-            "end": 28.100000381469727,
+            "text": "soviéticos",
+            "start": 29.219999313354492,
+            "end": 29.780000686645508,
             "confidence": 0.99
         },
         {
-            "text": "why",
-            "start": 28.100000381469727,
-            "end": 28.540000915527344,
+            "text": "decidieron",
+            "start": 29.780000686645508,
+            "end": 30.219999313354492,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 28.540000915527344,
-            "end": 28.700000762939453,
+            "text": "crear",
+            "start": 30.219999313354492,
+            "end": 30.459999084472656,
             "confidence": 0.99
         },
         {
-            "text": "Soviet",
-            "start": 28.700000762939453,
-            "end": 29.700000762939453,
+            "text": "algo",
+            "start": 30.459999084472656,
+            "end": 30.700000762939453,
             "confidence": 0.99
         },
         {
-            "text": "designers",
-            "start": 29.700000762939453,
-            "end": 29.700000762939453,
-            "confidence": 0.99
-        },
-        {
-            "text": "decided",
-            "start": 29.700000762939453,
-            "end": 30.100000381469727,
-            "confidence": 0.99
-        },
-        {
-            "text": "to",
-            "start": 30.100000381469727,
-            "end": 30.479999542236328,
-            "confidence": 0.99
-        },
-        {
-            "text": "create",
-            "start": 30.479999542236328,
-            "end": 30.479999542236328,
-            "confidence": 0.99
-        },
-        {
-            "text": "something",
-            "start": 30.479999542236328,
-            "end": 30.719999313354492,
-            "confidence": 0.99
-        },
-        {
-            "text": "brilliantly",
-            "start": 30.719999313354492,
-            "end": 31.360000610351562,
+            "text": "brillantemente",
+            "start": 30.700000762939453,
+            "end": 31.399999618530273,
             "confidence": 0.99
         },
         {
             "text": "simple",
-            "start": 31.360000610351562,
+            "start": 31.399999618530273,
             "end": 31.719999313354492,
             "confidence": 0.99
         },
         {
-            "text": "but",
+            "text": "pero",
             "start": 31.719999313354492,
             "end": 31.899999618530273,
             "confidence": 0.99
         },
         {
-            "text": "effective",
+            "text": "efectivo",
             "start": 31.899999618530273,
-            "end": 32.29999923706055,
+            "end": 32.31999969482422,
             "confidence": 0.99
         },
         {
-            "text": "And",
-            "start": 32.47999954223633,
-            "end": 32.47999954223633,
+            "text": "y",
+            "start": 32.5,
+            "end": 32.5,
             "confidence": 0.99
         },
         {
-            "text": "it",
-            "start": 32.47999954223633,
-            "end": 32.540000915527344,
+            "text": "es",
+            "start": 32.5,
+            "end": 32.599998474121094,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 32.540000915527344,
-            "end": 32.81999969482422,
+            "text": "que",
+            "start": 32.599998474121094,
+            "end": 32.70000076293945,
             "confidence": 0.99
         },
         {
-            "text": "that",
-            "start": 32.81999969482422,
-            "end": 32.97999954223633,
+            "text": "pusieron",
+            "start": 32.70000076293945,
+            "end": 32.939998626708984,
             "confidence": 0.99
         },
         {
-            "text": "they",
-            "start": 32.97999954223633,
-            "end": 32.97999954223633,
+            "text": "un",
+            "start": 32.939998626708984,
+            "end": 33.15999984741211,
             "confidence": 0.99
         },
         {
-            "text": "put",
-            "start": 32.97999954223633,
-            "end": 32.97999954223633,
+            "text": "cuerno",
+            "start": 33.15999984741211,
+            "end": 33.47999954223633,
             "confidence": 0.99
         },
         {
-            "text": "a",
-            "start": 32.97999954223633,
-            "end": 33.13999938964844,
+            "text": "de",
+            "start": 33.47999954223633,
+            "end": 33.58000183105469,
             "confidence": 0.99
         },
         {
-            "text": "soft",
-            "start": 33.13999938964844,
-            "end": 33.31999969482422,
+            "text": "goma",
+            "start": 33.58000183105469,
+            "end": 33.7599983215332,
             "confidence": 0.99
         },
         {
-            "text": "rubber",
-            "start": 33.31999969482422,
-            "end": 34.060001373291016,
+            "text": "blanda",
+            "start": 33.7599983215332,
+            "end": 34.099998474121094,
             "confidence": 0.99
         },
         {
-            "text": "horn",
-            "start": 34.060001373291016,
-            "end": 34.060001373291016,
+            "text": "integrado",
+            "start": 34.099998474121094,
+            "end": 34.599998474121094,
             "confidence": 0.99
         },
         {
-            "text": "integrated",
-            "start": 34.060001373291016,
-            "end": 34.52000045776367,
-            "confidence": 0.99
-        },
-        {
-            "text": "directly",
-            "start": 34.52000045776367,
+            "text": "directamente",
+            "start": 34.599998474121094,
             "end": 35.119998931884766,
             "confidence": 0.99
         },
         {
-            "text": "into",
+            "text": "en",
             "start": 35.119998931884766,
-            "end": 35.34000015258789,
+            "end": 35.279998779296875,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 35.34000015258789,
-            "end": 35.400001525878906,
+            "text": "el",
+            "start": 35.279998779296875,
+            "end": 35.5,
             "confidence": 0.99
         },
         {
-            "text": "front",
-            "start": 35.400001525878906,
-            "end": 35.65999984741211,
+            "text": "frente",
+            "start": 35.5,
+            "end": 35.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "of",
-            "start": 35.65999984741211,
-            "end": 35.7599983215332,
+            "text": "de",
+            "start": 35.63999938964844,
+            "end": 35.779998779296875,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 35.7599983215332,
-            "end": 36.36000061035156,
+            "text": "la",
+            "start": 35.779998779296875,
+            "end": 35.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "máscara",
+            "start": 35.900001525878906,
+            "end": 36.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 36.20000076293945,
+            "end": 36.29999923706055,
             "confidence": 0.99
         },
         {
             "text": "gas",
-            "start": 36.36000061035156,
+            "start": 36.29999923706055,
             "end": 36.400001525878906,
             "confidence": 0.99
         },
         {
-            "text": "mask",
-            "start": 36.400001525878906,
-            "end": 36.400001525878906,
-            "confidence": 0.99
-        },
-        {
-            "text": "causing",
+            "text": "provocando",
             "start": 36.560001373291016,
             "end": 36.900001525878906,
             "confidence": 0.99
         },
         {
-            "text": "that",
+            "text": "que",
             "start": 36.900001525878906,
-            "end": 37.040000915527344,
+            "end": 37.060001373291016,
             "confidence": 0.99
         },
         {
-            "text": "when",
-            "start": 37.040000915527344,
+            "text": "cuando",
+            "start": 37.060001373291016,
             "end": 37.2400016784668,
             "confidence": 0.99
         },
         {
-            "text": "the",
+            "text": "los",
             "start": 37.2400016784668,
-            "end": 37.400001525878906,
+            "end": 37.439998626708984,
             "confidence": 0.99
         },
         {
-            "text": "lenses",
-            "start": 37.400001525878906,
-            "end": 37.70000076293945,
+            "text": "lentes",
+            "start": 37.439998626708984,
+            "end": 37.68000030517578,
             "confidence": 0.99
         },
         {
-            "text": "fogged",
-            "start": 37.70000076293945,
+            "text": "se",
+            "start": 37.68000030517578,
+            "end": 37.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "empañaban",
+            "start": 37.900001525878906,
             "end": 38.34000015258789,
             "confidence": 0.99
         },
         {
-            "text": "up",
-            "start": 38.34000015258789,
-            "end": 38.41999816894531,
-            "confidence": 0.99
-        },
-        {
-            "text": "the",
+            "text": "el",
             "start": 38.47999954223633,
-            "end": 38.560001373291016,
+            "end": 38.540000915527344,
             "confidence": 0.99
         },
         {
-            "text": "soldier",
-            "start": 38.560001373291016,
-            "end": 38.84000015258789,
+            "text": "soldado",
+            "start": 38.540000915527344,
+            "end": 38.900001525878906,
             "confidence": 0.99
         },
         {
-            "text": "could",
-            "start": 38.84000015258789,
+            "text": "podía",
+            "start": 38.900001525878906,
             "end": 39.15999984741211,
             "confidence": 0.99
         },
         {
-            "text": "press",
+            "text": "presionar",
             "start": 39.15999984741211,
-            "end": 39.5,
+            "end": 39.58000183105469,
             "confidence": 0.99
         },
         {
-            "text": "a",
-            "start": 39.5,
-            "end": 39.779998779296875,
+            "text": "un",
+            "start": 39.58000183105469,
+            "end": 39.81999969482422,
             "confidence": 0.99
         },
         {
-            "text": "finger",
-            "start": 39.779998779296875,
-            "end": 39.91999816894531,
+            "text": "dedo",
+            "start": 39.81999969482422,
+            "end": 39.97999954223633,
             "confidence": 0.99
         },
         {
-            "text": "from",
-            "start": 39.91999816894531,
-            "end": 40.099998474121094,
+            "text": "desde",
+            "start": 39.97999954223633,
+            "end": 40.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 40.099998474121094,
-            "end": 40.31999969482422,
+            "text": "afuera",
+            "start": 40.13999938964844,
+            "end": 40.41999816894531,
             "confidence": 0.99
         },
         {
-            "text": "outside",
-            "start": 40.31999969482422,
-            "end": 40.400001525878906,
+            "text": "y",
+            "start": 40.41999816894531,
+            "end": 40.58000183105469,
             "confidence": 0.99
         },
         {
-            "text": "and",
-            "start": 40.400001525878906,
-            "end": 40.540000915527344,
+            "text": "actuaba",
+            "start": 40.58000183105469,
+            "end": 40.880001068115234,
             "confidence": 0.99
         },
         {
-            "text": "acted",
-            "start": 40.540000915527344,
-            "end": 40.84000015258789,
+            "text": "como",
+            "start": 40.880001068115234,
+            "end": 41.060001373291016,
             "confidence": 0.99
         },
         {
-            "text": "like",
-            "start": 40.84000015258789,
-            "end": 41.08000183105469,
-            "confidence": 0.99
-        },
-        {
-            "text": "a",
-            "start": 41.08000183105469,
+            "text": "un",
+            "start": 41.060001373291016,
             "end": 41.2400016784668,
             "confidence": 0.99
         },
         {
-            "text": "clean",
+            "text": "limpia",
             "start": 41.2400016784668,
-            "end": 41.47999954223633,
+            "end": 41.560001373291016,
             "confidence": 0.99
         },
         {
-            "text": "incorporated",
-            "start": 41.47999954223633,
-            "end": 41.52000045776367,
-            "confidence": 0.99
-        },
-        {
-            "text": "windshield",
-            "start": 41.52000045776367,
+            "text": "parabrisas",
+            "start": 41.560001373291016,
             "end": 42.0,
             "confidence": 0.99
         },
         {
-            "text": "clearing",
-            "start": 42.70000076293945,
-            "end": 43.0,
+            "text": "incorporado",
+            "start": 42.0,
+            "end": 42.599998474121094,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 43.0,
-            "end": 43.2599983215332,
+            "text": "despejando",
+            "start": 42.779998779296875,
+            "end": 43.08000183105469,
             "confidence": 0.99
         },
         {
-            "text": "glass",
-            "start": 43.2599983215332,
-            "end": 43.41999816894531,
+            "text": "el",
+            "start": 43.08000183105469,
+            "end": 43.2400016784668,
             "confidence": 0.99
         },
         {
-            "text": "instantly",
-            "start": 43.41999816894531,
+            "text": "vidrio",
+            "start": 43.2400016784668,
+            "end": 43.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "al",
+            "start": 43.459999084472656,
+            "end": 43.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "instante",
+            "start": 43.58000183105469,
             "end": 44.0,
             "confidence": 0.99
         },
         {
-            "text": "without",
+            "text": "sin",
             "start": 44.0,
-            "end": 44.2599983215332,
+            "end": 44.2400016784668,
             "confidence": 0.99
         },
         {
-            "text": "breaking",
-            "start": 44.2599983215332,
-            "end": 44.47999954223633,
+            "text": "romper",
+            "start": 44.2400016784668,
+            "end": 44.52000045776367,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 44.47999954223633,
+            "text": "el",
+            "start": 44.52000045776367,
             "end": 44.79999923706055,
             "confidence": 0.99
         },
         {
-            "text": "seal",
+            "text": "sello",
             "start": 44.79999923706055,
-            "end": 44.91999816894531,
+            "end": 44.939998626708984,
             "confidence": 0.99
         },
         {
-            "text": "or",
-            "start": 44.91999816894531,
+            "text": "ni",
+            "start": 44.939998626708984,
             "end": 45.20000076293945,
             "confidence": 0.99
         },
         {
-            "text": "exposing",
+            "text": "exponerse",
             "start": 45.20000076293945,
-            "end": 45.459999084472656,
+            "end": 45.68000030517578,
             "confidence": 0.99
         },
         {
-            "text": "himself",
-            "start": 45.459999084472656,
-            "end": 45.65999984741211,
-            "confidence": 0.99
-        },
-        {
-            "text": "to",
-            "start": 45.65999984741211,
+            "text": "al",
+            "start": 45.68000030517578,
             "end": 45.779998779296875,
             "confidence": 0.99
         },
@@ -1038,39 +1050,19 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "Why did the Soviets make gas masks with a strange horn? Since people think that that strange bulk did not have any practical sense, but in reality this horn was the only thing that prevented a soldier from being completely blind inside a real gas cloud in the middle of combat.",
-            "sentiment": "NEUTRAL",
+            "segment": "¿Por qué los soviéticos fabricaron máscaras de gas con un cuerno extraño? Ya que la gente piensa que ese bulto extraño no tenía ningún sentido práctico, pero en realidad este cuerno era lo único que evitaba que un soldado quedara completamente ciego dentro de una nube de gas real en pleno combate, ya que las primeras máscaras de gas tenían un fallo grave porque en el momento en que respirabas dentro de ellas, los lentes se empañaban al instante debido al vapor y al calor del aliento, arruinando la visibilidad y sentenciando de muerte al soldado. Pero quitarse la máscara para limpiarlos habría sido extremadamente peligroso. Es por esto que los diseñadores soviéticos decidieron crear algo brillantemente simple pero efectivo, y es que pusieron un cuerno de goma blanda integrado directamente en el frente de la máscara de gas, provocando que cuando los lentes se empañaban, el soldado podía presionar un dedo desde afuera y actuaba como un limpia parabrisas incorporado, despejando el vidrio al instante sin romper el sello ni exponerse al gas.",
+            "sentiment": "POSITIVE",
             "confidence": 0.85
-        },
-        {
-            "segment": "Since the first gas masks had a serious flaw because at the moment you breathed inside them, the lenses fogged up instantly due to the steam and heat of the breath, ruining visibility and sentencing the soldier to death.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.9
-        },
-        {
-            "segment": "But taking off the mask to clean them would have been extremely dangerous.",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.95
-        },
-        {
-            "segment": "That is why the Soviet designers decided to create something brilliantly simple but effective.",
-            "sentiment": "POSITIVE",
-            "confidence": 0.92
-        },
-        {
-            "segment": "And it is that they put a soft rubber horn integrated directly into the front of the gas mask, causing that when the lenses fogged up, the soldier could press a finger from the outside and acted like a clean incorporated windshield, clearing the glass instantly without breaking the seal or exposing himself to gas.",
-            "sentiment": "POSITIVE",
-            "confidence": 0.95
         }
     ],
     "chapters": [
         {
-            "headline": "The Design of Soviet Gas Masks",
-            "summary": "An exploration of the design features of Soviet gas masks, particularly the innovative horn that helped soldiers maintain visibility in gas conditions.",
+            "headline": "Innovación en máscaras de gas soviéticas",
+            "summary": "Esta sección detalla la creación y la importancia de un cuerno en las máscaras de gas soviéticas, que previene que los soldados pierdan visibilidad en combate al limpiar los lentes empañados sin quitarse la máscara.",
             "start": 0,
-            "end": 245
+            "end": 300
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "spanish"
 }

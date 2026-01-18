@@ -1,7 +1,7 @@
 {
-    "id": "7f89b724-64ba-480d-b6ee-e9763cc75335",
+    "id": "bc0abe53-52ea-4099-a741-28e804362c71",
     "status": "completed",
-    "text": "Heart beats fast Colors and promises how to be brave how can I love when I'm afraid to fall? But watching you stand alone all of. My doubt Suddenly goes away somehow One step closer I have died every day waiting for you Darling, don't be afraid I have loved you For a thousand years I love you for a thousand years. Time stands still Beauty and old she is I will be brave I will not let anything take away. Standing in. Front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years. I love you for a thousand more. And all along I believed I would find you Time has brought your heart to me I have loved you for a thousand years Love you for a thousand years. One step closer. One step closer. I've died every day waiting for you Darling, don't be afraid I have love I loved you for. A thousand. Years I love you for a thousand. More. And all along I believed I would find you Time has brought your heart to me I loved you for a thousand years I love you for a thousand. Sam.",
+    "text": "Heart beats fast Colors and promises how to be brave how can I love when I'm afraid to fall? But watching you stand alone all of. My doubt Suddenly goes away somehow One step closer I have died every day waiting for you Darling, don't be afraid I have loved you For a thousand years I love you for a thousand years. Time stands still Beauty and old she is I will be brave I will not let anything take away. Standing in. Front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years. I love you for a thousand more. And all along I believed I would. Find you Time has brought your heart. To me I have loved you for a thousand years Love you for a thousand years. One step closer. One step closer. I've died every day waiting for you Darling, don't be afraid I have love I loved you for. A thousand. Years I love you for a thousand. More. And all along I believed I would find you Time has. Brought your heart to me I loved. You for a thousand years I love you for a thousand. Sam.",
     "words": [
         {
             "text": "Heart",
@@ -14,7 +14,7 @@
             "text": "beats",
             "start": 21840,
             "end": 22400,
-            "confidence": 0.71899414,
+            "confidence": 0.7092285,
             "speaker": "A"
         },
         {
@@ -119,14 +119,14 @@
             "text": "afraid",
             "start": 35660,
             "end": 36460,
-            "confidence": 0.9876302,
+            "confidence": 0.9889323,
             "speaker": "A"
         },
         {
             "text": "to",
             "start": 37260,
             "end": 37660,
-            "confidence": 0.9873047,
+            "confidence": 0.9868164,
             "speaker": "A"
         },
         {
@@ -161,7 +161,7 @@
             "text": "stand",
             "start": 40980,
             "end": 41340,
-            "confidence": 0.6791992,
+            "confidence": 0.6928711,
             "speaker": "A"
         },
         {
@@ -196,7 +196,7 @@
             "text": "doubt",
             "start": 46140,
             "end": 46860,
-            "confidence": 0.86848956,
+            "confidence": 0.8655599,
             "speaker": "B"
         },
         {
@@ -287,7 +287,7 @@
             "text": "waiting",
             "start": 64380,
             "end": 64940,
-            "confidence": 0.8388672,
+            "confidence": 0.8520508,
             "speaker": "B"
         },
         {
@@ -343,7 +343,7 @@
             "text": "have",
             "start": 70380,
             "end": 70740,
-            "confidence": 0.9423828,
+            "confidence": 0.9448242,
             "speaker": "B"
         },
         {
@@ -455,14 +455,14 @@
             "text": "still",
             "start": 90140,
             "end": 90540,
-            "confidence": 0.99365234,
+            "confidence": 0.99316406,
             "speaker": "C"
         },
         {
             "text": "Beauty",
             "start": 91580,
             "end": 92140,
-            "confidence": 0.99072266,
+            "confidence": 0.9913737,
             "speaker": "C"
         },
         {
@@ -504,7 +504,7 @@
             "text": "will",
             "start": 97120,
             "end": 97400,
-            "confidence": 0.9975586,
+            "confidence": 0.9980469,
             "speaker": "C"
         },
         {
@@ -588,14 +588,14 @@
             "text": "Front",
             "start": 108080,
             "end": 108440,
-            "confidence": 0.85839844,
+            "confidence": 0.8520508,
             "speaker": "C"
         },
         {
             "text": "of",
             "start": 109639,
             "end": 110040,
-            "confidence": 0.98095703,
+            "confidence": 0.9819336,
             "speaker": "C"
         },
         {
@@ -644,7 +644,7 @@
             "text": "come",
             "start": 117160,
             "end": 117560,
-            "confidence": 0.63183594,
+            "confidence": 0.63134766,
             "speaker": "C"
         },
         {
@@ -658,7 +658,7 @@
             "text": "pass",
             "start": 118600,
             "end": 119000,
-            "confidence": 0.5048828,
+            "confidence": 0.50439453,
             "speaker": "C"
         },
         {
@@ -686,7 +686,7 @@
             "text": "and",
             "start": 125620,
             "end": 125860,
-            "confidence": 0.37304688,
+            "confidence": 0.3737793,
             "speaker": "C"
         },
         {
@@ -700,14 +700,14 @@
             "text": "have",
             "start": 129300,
             "end": 129620,
-            "confidence": 0.98779297,
+            "confidence": 0.9873047,
             "speaker": "C"
         },
         {
             "text": "died",
             "start": 129620,
             "end": 130100,
-            "confidence": 0.9169922,
+            "confidence": 0.92529297,
             "speaker": "C"
         },
         {
@@ -756,7 +756,7 @@
             "text": "don't",
             "start": 134820,
             "end": 135300,
-            "confidence": 0.9145508,
+            "confidence": 0.9220378,
             "speaker": "C"
         },
         {
@@ -770,7 +770,7 @@
             "text": "afraid",
             "start": 135860,
             "end": 136500,
-            "confidence": 0.9498698,
+            "confidence": 0.95491534,
             "speaker": "C"
         },
         {
@@ -824,9 +824,9 @@
         },
         {
             "text": "years.",
-            "start": 141220,
-            "end": 141620,
-            "confidence": 0.5307617,
+            "start": 141460,
+            "end": 141859,
+            "confidence": 0.9995117,
             "speaker": "C"
         },
         {
@@ -875,7 +875,7 @@
             "text": "more.",
             "start": 147060,
             "end": 147460,
-            "confidence": 0.9589844,
+            "confidence": 0.95947266,
             "speaker": "B"
         },
         {
@@ -921,66 +921,66 @@
             "speaker": "C"
         },
         {
-            "text": "would",
+            "text": "would.",
             "start": 153140,
             "end": 153540,
             "confidence": 0.99609375,
             "speaker": "C"
         },
         {
-            "text": "find",
+            "text": "Find",
             "start": 153540,
             "end": 153940,
             "confidence": 0.9995117,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "you",
             "start": 154100,
             "end": 154500,
             "confidence": 0.99902344,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "Time",
             "start": 154900,
             "end": 155300,
             "confidence": 0.99902344,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "has",
             "start": 155300,
             "end": 155660,
             "confidence": 0.99658203,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "brought",
             "start": 155660,
             "end": 156060,
             "confidence": 0.99975586,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "your",
             "start": 156060,
             "end": 156340,
             "confidence": 0.9448242,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
-            "text": "heart",
+            "text": "heart.",
             "start": 156340,
             "end": 156620,
             "confidence": 0.99853516,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
-            "text": "to",
+            "text": "To",
             "start": 156620,
             "end": 156900,
-            "confidence": 0.99658203,
+            "confidence": 0.9970703,
             "speaker": "C"
         },
         {
@@ -1001,7 +1001,7 @@
             "text": "have",
             "start": 158400,
             "end": 158760,
-            "confidence": 0.6328125,
+            "confidence": 0.64697266,
             "speaker": "C"
         },
         {
@@ -1029,7 +1029,7 @@
             "text": "a",
             "start": 160000,
             "end": 160280,
-            "confidence": 0.9873047,
+            "confidence": 0.98779297,
             "speaker": "C"
         },
         {
@@ -1043,7 +1043,7 @@
             "text": "years",
             "start": 162400,
             "end": 162800,
-            "confidence": 0.9550781,
+            "confidence": 0.9526367,
             "speaker": "C"
         },
         {
@@ -1071,7 +1071,7 @@
             "text": "a",
             "start": 165080,
             "end": 165440,
-            "confidence": 0.9873047,
+            "confidence": 0.9863281,
             "speaker": "C"
         },
         {
@@ -1085,7 +1085,7 @@
             "text": "years.",
             "start": 168000,
             "end": 168400,
-            "confidence": 0.81152344,
+            "confidence": 0.8120117,
             "speaker": "C"
         },
         {
@@ -1106,7 +1106,7 @@
             "text": "closer.",
             "start": 196300,
             "end": 199020,
-            "confidence": 0.96191406,
+            "confidence": 0.96606445,
             "speaker": "B"
         },
         {
@@ -1183,7 +1183,7 @@
             "text": "Darling,",
             "start": 216940,
             "end": 217580,
-            "confidence": 0.93863934,
+            "confidence": 0.9423828,
             "speaker": "A"
         },
         {
@@ -1204,7 +1204,7 @@
             "text": "afraid",
             "start": 218700,
             "end": 219340,
-            "confidence": 0.8359375,
+            "confidence": 0.83902997,
             "speaker": "A"
         },
         {
@@ -1218,21 +1218,21 @@
             "text": "have",
             "start": 220380,
             "end": 220700,
-            "confidence": 0.9550781,
+            "confidence": 0.95458984,
             "speaker": "A"
         },
         {
             "text": "love",
             "start": 220700,
             "end": 221020,
-            "confidence": 0.95458984,
+            "confidence": 0.9550781,
             "speaker": "A"
         },
         {
             "text": "I",
             "start": 221160,
             "end": 221280,
-            "confidence": 0.6352539,
+            "confidence": 0.6347656,
             "speaker": "A"
         },
         {
@@ -1372,7 +1372,7 @@
             "text": "would",
             "start": 235960,
             "end": 236360,
-            "confidence": 0.95996094,
+            "confidence": 0.95751953,
             "speaker": "C"
         },
         {
@@ -1397,63 +1397,63 @@
             "speaker": "C"
         },
         {
-            "text": "has",
+            "text": "has.",
             "start": 238200,
             "end": 238520,
             "confidence": 0.9941406,
             "speaker": "C"
         },
         {
-            "text": "brought",
+            "text": "Brought",
             "start": 238520,
             "end": 238880,
-            "confidence": 0.91967773,
-            "speaker": "C"
+            "confidence": 0.91674805,
+            "speaker": "B"
         },
         {
             "text": "your",
             "start": 238880,
             "end": 239200,
-            "confidence": 0.9379883,
-            "speaker": "C"
+            "confidence": 0.9375,
+            "speaker": "B"
         },
         {
             "text": "heart",
             "start": 239200,
             "end": 239520,
             "confidence": 0.9975586,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "to",
             "start": 239520,
             "end": 239800,
             "confidence": 0.99902344,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "me",
             "start": 239800,
             "end": 240120,
             "confidence": 0.9995117,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
             "text": "I",
             "start": 240600,
             "end": 241000,
             "confidence": 0.9995117,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
-            "text": "loved",
+            "text": "loved.",
             "start": 241400,
             "end": 242280,
             "confidence": 0.60424805,
-            "speaker": "C"
+            "speaker": "B"
         },
         {
-            "text": "you",
+            "text": "You",
             "start": 242280,
             "end": 242560,
             "confidence": 0.99902344,
@@ -1470,7 +1470,7 @@
             "text": "a",
             "start": 242880,
             "end": 243160,
-            "confidence": 0.89746094,
+            "confidence": 0.89697266,
             "speaker": "C"
         },
         {
@@ -1484,7 +1484,7 @@
             "text": "years",
             "start": 245240,
             "end": 245640,
-            "confidence": 0.74853516,
+            "confidence": 0.7470703,
             "speaker": "C"
         },
         {
@@ -1533,7 +1533,7 @@
             "text": "Sam.",
             "start": 253220,
             "end": 268820,
-            "confidence": 0.88549805,
+            "confidence": 0.8840332,
             "speaker": "B"
         }
     ],
@@ -1542,21 +1542,21 @@
             "text": "Heart beats fast Colors and promises how to be brave how can I love when I'm afraid to fall? But watching you stand alone all of.",
             "start": 20800,
             "end": 45740,
-            "confidence": 0.9261443,
+            "confidence": 0.92632586,
             "speaker": "A"
         },
         {
             "text": "My doubt Suddenly goes away somehow One step closer I have died every day waiting for you Darling, don't be afraid I have loved you For a thousand years I love you for a thousand years.",
             "start": 45740,
             "end": 80220,
-            "confidence": 0.9404776,
+            "confidence": 0.94083023,
             "speaker": "B"
         },
         {
             "text": "Time stands still Beauty and old she is I will be brave I will not let anything take away.",
             "start": 87740,
             "end": 105000,
-            "confidence": 0.9151033,
+            "confidence": 0.9151376,
             "speaker": "C"
         },
         {
@@ -1569,36 +1569,50 @@
         {
             "text": "Front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years.",
             "start": 108080,
-            "end": 141620,
-            "confidence": 0.8868513,
+            "end": 141859,
+            "confidence": 0.900665,
             "speaker": "C"
         },
         {
             "text": "I love you for a thousand more.",
             "start": 142900,
             "end": 147460,
-            "confidence": 0.97998047,
+            "confidence": 0.9800502,
             "speaker": "B"
         },
         {
-            "text": "And all along I believed I would find you Time has brought your heart to me I have loved you for a thousand years Love you for a thousand years.",
+            "text": "And all along I believed I would.",
             "start": 149540,
+            "end": 153540,
+            "confidence": 0.97098213,
+            "speaker": "C"
+        },
+        {
+            "text": "Find you Time has brought your heart.",
+            "start": 153540,
+            "end": 156620,
+            "confidence": 0.99103653,
+            "speaker": "B"
+        },
+        {
+            "text": "To me I have loved you for a thousand years Love you for a thousand years.",
+            "start": 156620,
             "end": 168400,
-            "confidence": 0.9661458,
+            "confidence": 0.9539032,
             "speaker": "C"
         },
         {
             "text": "One step closer. One step closer.",
             "start": 193980,
             "end": 209340,
-            "confidence": 0.9624837,
+            "confidence": 0.9631755,
             "speaker": "B"
         },
         {
             "text": "I've died every day waiting for you Darling, don't be afraid I have love I loved you for.",
             "start": 211740,
             "end": 222000,
-            "confidence": 0.91801846,
+            "confidence": 0.91837114,
             "speaker": "A"
         },
         {
@@ -1623,25 +1637,39 @@
             "speaker": "B"
         },
         {
-            "text": "And all along I believed I would find you Time has brought your heart to me I loved you for a thousand years I love you for a thousand.",
+            "text": "And all along I believed I would find you Time has.",
             "start": 232360,
+            "end": 238520,
+            "confidence": 0.97631836,
+            "speaker": "C"
+        },
+        {
+            "text": "Brought your heart to me I loved.",
+            "start": 238520,
+            "end": 242280,
+            "confidence": 0.92201453,
+            "speaker": "B"
+        },
+        {
+            "text": "You for a thousand years I love you for a thousand.",
+            "start": 242280,
             "end": 248680,
-            "confidence": 0.95427835,
+            "confidence": 0.9520597,
             "speaker": "C"
         },
         {
             "text": "Sam.",
             "start": 253220,
             "end": 268820,
-            "confidence": 0.88549805,
+            "confidence": 0.8840332,
             "speaker": "B"
         }
     ],
     "chapters": [
         {
-            "summary": "\"I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years. And all along I believed I would find you \" One step closer.",
+            "summary": "\"I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years. And all along I believed I would. Find you Time has brought your heart. To me \"",
             "headline": "One step closer. My doubt Suddenly goes away somehow One step closer",
-            "gist": "I Love You For A Thousand Years",
+            "gist": "I Have Loved You For A Thousand Years",
             "start": 20800,
             "end": 268820
         }
@@ -1659,35 +1687,35 @@
             "start": 39500,
             "end": 80220,
             "sentiment": "POSITIVE",
-            "confidence": 0.8462731
+            "confidence": 0.84627306
         },
         {
             "text": "Time stands still Beauty and old she is I will be brave I will not let anything take away Standing in front of me Every breath Every hour has come to pass One step close and I have died every day waiting for you Darling, don't be afraid I have loved you for a thousand years I love you for a thousand more and all along I believed I would find you Time has brought your heart to me I have loved you for a thousand years Love you for a thousand years.",
             "start": 87740,
             "end": 168400,
             "sentiment": "POSITIVE",
-            "confidence": 0.8707825
+            "confidence": 0.870782
         },
         {
             "text": "One step closer.",
             "start": 193980,
             "end": 199020,
             "sentiment": "POSITIVE",
-            "confidence": 0.6128547
+            "confidence": 0.61285436
         },
         {
             "text": "One step closer I've died every day waiting for you Darling, don't be afraid I have love I loved you for a thousand years I love you for a thousand more and all along I believed I would find you Time has brought your heart to me I loved you for a thousand years I love you for a thousand.",
             "start": 204140,
             "end": 248680,
             "sentiment": "POSITIVE",
-            "confidence": 0.86444783
+            "confidence": 0.8644478
         },
         {
             "text": "Sam.",
             "start": 253220,
             "end": 268820,
             "sentiment": "NEUTRAL",
-            "confidence": 0.67229044
+            "confidence": 0.67229056
         }
     ],
     "audio_duration": 288,

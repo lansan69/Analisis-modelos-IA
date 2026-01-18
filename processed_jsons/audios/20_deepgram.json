@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "55c938aa-f50f-4eaa-a33f-a9facc68fad7",
+        "sha256": "ba25216d1ebfb607ad3254083af608527737286b77f81bf3ef225c89b5246374",
+        "created": "2026-01-18T00:01:00.796000Z",
+        "duration": 36.888,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "",
+                        "confidence": 0.0,
+                        "words": [],
+                        "paragraphs": {
+                            "transcript": "\n",
+                            "paragraphs": []
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": []
+    }
+}

@@ -1,860 +1,1037 @@
 {
-    "id": "128a3f7d-e8ef-4a65-b486-3d8f12d964b0",
+    "id": "0c7e054e-6e55-46f0-963b-dd2932f9ea6a",
     "status": "completed",
-    "text": "Bring your friends to pretend she's over Self sure. You We are now, entertainers I'm stupid They're containers Here we are now, ado I'm a vinyl I'm a shadow I'm a video. I wasn't one I do best to fall for being blessed I little it's always been always will tell. Dangerous Here we are now, entertaining us after Spoodle Field Entertainers Here we are now, entertainers I'm latter I'm a fighter I'm a gator. And I forget just wild Yeah, makes me smile I found it hard It's hard to find well whatever never mind. You We are now entertainers I'm stupid Entertainer Here we are now entertainers coming out Everybody know Cominator Calavera.",
+    "text": "Sam? Load up on guns? Bring your friends far to lose to pretend she's overborne? Self assured. Up lies down Entertainers, Here we are now? Entertain us? I'm stupid Entertainers? Here we are now, Entertain us? I'm a d. I'm a b. I'm a sc. I, I'm wasn't what I do best to fall this gift of fear? Here we are now, entertaining us? How can still be? Here we are now, Entertain us? Ale. And I forget just what is so yeah yes, it makes me smile? I found it hard? It's hard to find the. Well, whatever never mind. Weaponized down Entertainers Here we are now? Entertainers? I'm stupid Entertainers Here we are now Entertain us? I'm a lot of.",
     "words": [
         {
+            "text": "Sam?",
+            "start": 240,
+            "end": 8800,
+            "confidence": 0.7192383,
+            "speaker": "A"
+        },
+        {
+            "text": "Load",
+            "start": 26800,
+            "end": 27040,
+            "confidence": 0.5180664,
+            "speaker": "A"
+        },
+        {
+            "text": "up",
+            "start": 27040,
+            "end": 27360,
+            "confidence": 0.93603516,
+            "speaker": "A"
+        },
+        {
+            "text": "on",
+            "start": 27360,
+            "end": 27760,
+            "confidence": 0.41137695,
+            "speaker": "A"
+        },
+        {
+            "text": "guns?",
+            "start": 27840,
+            "end": 28480,
+            "confidence": 0.81347656,
+            "speaker": "A"
+        },
+        {
             "text": "Bring",
-            "start": 29200,
-            "end": 29600,
-            "confidence": 0.76342773,
+            "start": 28960,
+            "end": 29360,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "your",
-            "start": 29760,
-            "end": 30040,
-            "confidence": 0.9560547,
+            "start": 29600,
+            "end": 30000,
+            "confidence": 0.9379883,
             "speaker": "A"
         },
         {
             "text": "friends",
-            "start": 30040,
-            "end": 30960,
-            "confidence": 0.8413086,
+            "start": 30000,
+            "end": 30400,
+            "confidence": 0.97558594,
+            "speaker": "A"
+        },
+        {
+            "text": "far",
+            "start": 30960,
+            "end": 31360,
+            "confidence": 0.84472656,
             "speaker": "A"
         },
         {
             "text": "to",
-            "start": 33120,
-            "end": 33520,
-            "confidence": 0.9897461,
+            "start": 31760,
+            "end": 32080,
+            "confidence": 0.8203125,
+            "speaker": "A"
+        },
+        {
+            "text": "lose",
+            "start": 32080,
+            "end": 32560,
+            "confidence": 0.7126465,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 33040,
+            "end": 33440,
+            "confidence": 0.98095703,
             "speaker": "A"
         },
         {
             "text": "pretend",
             "start": 33840,
             "end": 34560,
-            "confidence": 0.9949544,
+            "confidence": 0.92285156,
             "speaker": "A"
         },
         {
             "text": "she's",
-            "start": 34720,
-            "end": 35320,
-            "confidence": 0.7635091,
+            "start": 34800,
+            "end": 35280,
+            "confidence": 0.8769531,
             "speaker": "A"
         },
         {
-            "text": "over",
-            "start": 35320,
-            "end": 35680,
-            "confidence": 0.60546875,
+            "text": "overborne?",
+            "start": 35280,
+            "end": 36800,
+            "confidence": 0.64001465,
             "speaker": "A"
         },
         {
             "text": "Self",
-            "start": 37360,
-            "end": 38160,
-            "confidence": 0.71240234,
+            "start": 37280,
+            "end": 37960,
+            "confidence": 0.74780273,
             "speaker": "A"
         },
         {
-            "text": "sure.",
-            "start": 38160,
-            "end": 38880,
-            "confidence": 0.6455078,
+            "text": "assured.",
+            "start": 37960,
+            "end": 38640,
+            "confidence": 0.67285156,
             "speaker": "A"
         },
         {
-            "text": "You",
-            "start": 62620,
-            "end": 62820,
-            "confidence": 0.6040039,
-            "speaker": "B"
+            "text": "Up",
+            "start": 58620,
+            "end": 58860,
+            "confidence": 0.40478516,
+            "speaker": "A"
         },
         {
-            "text": "We",
-            "start": 62820,
-            "end": 63100,
-            "confidence": 0.6459961,
-            "speaker": "B"
+            "text": "lies",
+            "start": 58860,
+            "end": 59420,
+            "confidence": 0.29418945,
+            "speaker": "A"
+        },
+        {
+            "text": "down",
+            "start": 59420,
+            "end": 59820,
+            "confidence": 0.7763672,
+            "speaker": "A"
+        },
+        {
+            "text": "Entertainers,",
+            "start": 60380,
+            "end": 61740,
+            "confidence": 0.63134766,
+            "speaker": "A"
+        },
+        {
+            "text": "Here",
+            "start": 62380,
+            "end": 62700,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "we",
+            "start": 62700,
+            "end": 62980,
+            "confidence": 0.77685547,
+            "speaker": "A"
         },
         {
             "text": "are",
-            "start": 63100,
-            "end": 63420,
-            "confidence": 0.7236328,
-            "speaker": "B"
+            "start": 62980,
+            "end": 63340,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
-            "text": "now,",
-            "start": 63420,
-            "end": 63820,
-            "confidence": 0.92333984,
-            "speaker": "B"
+            "text": "now?",
+            "start": 63500,
+            "end": 63900,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
-            "text": "entertainers",
-            "start": 64620,
-            "end": 66060,
-            "confidence": 0.6657715,
-            "speaker": "B"
+            "text": "Entertain",
+            "start": 64540,
+            "end": 65340,
+            "confidence": 0.7873535,
+            "speaker": "A"
+        },
+        {
+            "text": "us?",
+            "start": 65500,
+            "end": 65900,
+            "confidence": 0.6220703,
+            "speaker": "A"
         },
         {
             "text": "I'm",
             "start": 66540,
-            "end": 67020,
-            "confidence": 0.8961589,
-            "speaker": "B"
+            "end": 66980,
+            "confidence": 0.9272461,
+            "speaker": "A"
         },
         {
             "text": "stupid",
-            "start": 67100,
-            "end": 67980,
-            "confidence": 0.97998047,
-            "speaker": "B"
+            "start": 66980,
+            "end": 67900,
+            "confidence": 0.7524414,
+            "speaker": "A"
         },
         {
-            "text": "They're",
+            "text": "Entertainers?",
             "start": 68540,
-            "end": 68900,
-            "confidence": 0.56221515,
-            "speaker": "B"
-        },
-        {
-            "text": "containers",
-            "start": 68900,
             "end": 69980,
-            "confidence": 0.7467448,
-            "speaker": "B"
+            "confidence": 0.6456706,
+            "speaker": "A"
         },
         {
             "text": "Here",
-            "start": 70540,
-            "end": 70980,
-            "confidence": 0.77319336,
-            "speaker": "B"
+            "start": 70620,
+            "end": 70940,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "we",
-            "start": 70980,
+            "start": 70940,
             "end": 71220,
-            "confidence": 0.7294922,
-            "speaker": "B"
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "are",
             "start": 71220,
             "end": 71580,
-            "confidence": 0.9506836,
-            "speaker": "B"
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "now,",
             "start": 71660,
             "end": 72060,
-            "confidence": 0.77734375,
-            "speaker": "B"
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "ado",
+            "text": "Entertain",
             "start": 72700,
-            "end": 76220,
-            "confidence": 0.52905273,
-            "speaker": "B"
+            "end": 73500,
+            "confidence": 0.6717529,
+            "speaker": "A"
+        },
+        {
+            "text": "us?",
+            "start": 73660,
+            "end": 74060,
+            "confidence": 0.7006836,
+            "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 76700,
+            "start": 74700,
+            "end": 75060,
+            "confidence": 0.8154297,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 75060,
+            "end": 75260,
+            "confidence": 0.58447266,
+            "speaker": "A"
+        },
+        {
+            "text": "d.",
+            "start": 75260,
+            "end": 75580,
+            "confidence": 0.49365234,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 76780,
             "end": 77140,
-            "confidence": 0.82926434,
-            "speaker": "B"
+            "confidence": 0.7967122,
+            "speaker": "A"
         },
         {
             "text": "a",
             "start": 77140,
-            "end": 77380,
-            "confidence": 0.5991211,
-            "speaker": "B"
+            "end": 77340,
+            "confidence": 0.984375,
+            "speaker": "A"
         },
         {
-            "text": "vinyl",
-            "start": 77380,
-            "end": 78140,
-            "confidence": 0.64941406,
-            "speaker": "B"
+            "text": "b.",
+            "start": 77340,
+            "end": 77660,
+            "confidence": 0.2788086,
+            "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 78700,
+            "start": 78780,
             "end": 79140,
-            "confidence": 0.8649089,
-            "speaker": "B"
+            "confidence": 0.8595378,
+            "speaker": "A"
         },
         {
             "text": "a",
             "start": 79140,
-            "end": 79380,
-            "confidence": 0.8930664,
-            "speaker": "B"
+            "end": 79300,
+            "confidence": 0.9458008,
+            "speaker": "A"
         },
         {
-            "text": "shadow",
-            "start": 79380,
-            "end": 80300,
-            "confidence": 0.6858724,
-            "speaker": "B"
+            "text": "sc.",
+            "start": 79300,
+            "end": 79580,
+            "confidence": 0.2565918,
+            "speaker": "A"
+        },
+        {
+            "text": "I,",
+            "start": 80540,
+            "end": 80940,
+            "confidence": 0.45874023,
+            "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 80860,
-            "end": 81220,
-            "confidence": 0.5358073,
-            "speaker": "B"
-        },
-        {
-            "text": "a",
-            "start": 81220,
-            "end": 81420,
-            "confidence": 0.68408203,
-            "speaker": "B"
-        },
-        {
-            "text": "video.",
-            "start": 81420,
-            "end": 82140,
-            "confidence": 0.49047852,
-            "speaker": "B"
-        },
-        {
-            "text": "I",
-            "start": 100840,
-            "end": 101040,
-            "confidence": 0.9916992,
+            "start": 100760,
+            "end": 101000,
+            "confidence": 0.8515625,
             "speaker": "A"
         },
         {
             "text": "wasn't",
-            "start": 101040,
-            "end": 102040,
-            "confidence": 0.9953613,
+            "start": 101000,
+            "end": 101800,
+            "confidence": 0.7984619,
             "speaker": "A"
         },
         {
-            "text": "one",
-            "start": 102040,
-            "end": 102440,
-            "confidence": 0.80029297,
+            "text": "what",
+            "start": 101960,
+            "end": 102360,
+            "confidence": 0.9140625,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 103080,
-            "end": 103480,
-            "confidence": 0.67822266,
+            "start": 103000,
+            "end": 103400,
+            "confidence": 0.53125,
             "speaker": "A"
         },
         {
             "text": "do",
-            "start": 103720,
-            "end": 104120,
-            "confidence": 0.72216797,
+            "start": 103640,
+            "end": 104040,
+            "confidence": 0.85546875,
             "speaker": "A"
         },
         {
             "text": "best",
-            "start": 104120,
-            "end": 104520,
-            "confidence": 0.9741211,
+            "start": 104040,
+            "end": 104440,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "to",
-            "start": 104840,
-            "end": 105120,
-            "confidence": 0.64404297,
+            "start": 104760,
+            "end": 105080,
+            "confidence": 0.39672852,
             "speaker": "A"
         },
         {
             "text": "fall",
-            "start": 105120,
+            "start": 105080,
             "end": 105400,
-            "confidence": 0.9086914,
+            "confidence": 0.84472656,
             "speaker": "A"
         },
         {
-            "text": "for",
-            "start": 106680,
-            "end": 107080,
-            "confidence": 0.703125,
+            "text": "this",
+            "start": 105720,
+            "end": 106080,
+            "confidence": 0.6010742,
             "speaker": "A"
         },
         {
-            "text": "being",
-            "start": 107080,
-            "end": 107480,
-            "confidence": 0.48486328,
+            "text": "gift",
+            "start": 106080,
+            "end": 106520,
+            "confidence": 0.7680664,
             "speaker": "A"
         },
         {
-            "text": "blessed",
-            "start": 108120,
-            "end": 108760,
-            "confidence": 0.6401367,
+            "text": "of",
+            "start": 106760,
+            "end": 107160,
+            "confidence": 0.42773438,
             "speaker": "A"
         },
         {
-            "text": "I",
-            "start": 108920,
-            "end": 109280,
-            "confidence": 0.5761719,
+            "text": "fear?",
+            "start": 107160,
+            "end": 107720,
+            "confidence": 0.50549316,
             "speaker": "A"
-        },
-        {
-            "text": "little",
-            "start": 109280,
-            "end": 110040,
-            "confidence": 0.5834961,
-            "speaker": "A"
-        },
-        {
-            "text": "it's",
-            "start": 111080,
-            "end": 111560,
-            "confidence": 0.9298503,
-            "speaker": "A"
-        },
-        {
-            "text": "always",
-            "start": 111560,
-            "end": 112360,
-            "confidence": 0.7265625,
-            "speaker": "A"
-        },
-        {
-            "text": "been",
-            "start": 112360,
-            "end": 112760,
-            "confidence": 0.7763672,
-            "speaker": "A"
-        },
-        {
-            "text": "always",
-            "start": 113880,
-            "end": 114440,
-            "confidence": 0.9876302,
-            "speaker": "A"
-        },
-        {
-            "text": "will",
-            "start": 114600,
-            "end": 115000,
-            "confidence": 0.9013672,
-            "speaker": "A"
-        },
-        {
-            "text": "tell.",
-            "start": 115480,
-            "end": 116040,
-            "confidence": 0.79833984,
-            "speaker": "A"
-        },
-        {
-            "text": "Dangerous",
-            "start": 135220,
-            "end": 135940,
-            "confidence": 0.770874,
-            "speaker": "B"
         },
         {
             "text": "Here",
-            "start": 136420,
-            "end": 136780,
-            "confidence": 0.9692383,
-            "speaker": "B"
+            "start": 136580,
+            "end": 136740,
+            "confidence": 0.5620117,
+            "speaker": "A"
         },
         {
             "text": "we",
-            "start": 136780,
-            "end": 137060,
-            "confidence": 0.6220703,
-            "speaker": "B"
+            "start": 136740,
+            "end": 137020,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "are",
-            "start": 137060,
-            "end": 137460,
+            "start": 137020,
+            "end": 137380,
             "confidence": 0.9980469,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "now,",
-            "start": 137540,
-            "end": 137940,
-            "confidence": 0.9970703,
-            "speaker": "B"
+            "start": 137460,
+            "end": 137860,
+            "confidence": 0.9746094,
+            "speaker": "A"
         },
         {
             "text": "entertaining",
-            "start": 138580,
-            "end": 139860,
-            "confidence": 0.7393799,
-            "speaker": "B"
+            "start": 138500,
+            "end": 139820,
+            "confidence": 0.94905597,
+            "speaker": "A"
         },
         {
-            "text": "us",
-            "start": 139860,
+            "text": "us?",
+            "start": 139820,
             "end": 140180,
-            "confidence": 0.6772461,
-            "speaker": "B"
+            "confidence": 0.9711914,
+            "speaker": "A"
         },
         {
-            "text": "after",
+            "text": "How",
             "start": 140500,
-            "end": 140900,
-            "confidence": 0.47143555,
-            "speaker": "B"
+            "end": 140780,
+            "confidence": 0.3737793,
+            "speaker": "A"
         },
         {
-            "text": "Spoodle",
-            "start": 140900,
-            "end": 141700,
-            "confidence": 0.5236206,
-            "speaker": "B"
+            "text": "can",
+            "start": 140780,
+            "end": 140980,
+            "confidence": 0.48266602,
+            "speaker": "A"
         },
         {
-            "text": "Field",
-            "start": 141700,
-            "end": 142180,
-            "confidence": 0.6555176,
-            "speaker": "B"
+            "text": "still",
+            "start": 140980,
+            "end": 141300,
+            "confidence": 0.55029297,
+            "speaker": "A"
         },
         {
-            "text": "Entertainers",
-            "start": 142580,
-            "end": 144020,
-            "confidence": 0.6107178,
-            "speaker": "B"
+            "text": "be?",
+            "start": 141460,
+            "end": 141860,
+            "confidence": 0.36914062,
+            "speaker": "A"
         },
         {
             "text": "Here",
-            "start": 144500,
-            "end": 144940,
-            "confidence": 0.8859863,
-            "speaker": "B"
+            "start": 144420,
+            "end": 144820,
+            "confidence": 0.5908203,
+            "speaker": "A"
         },
         {
             "text": "we",
-            "start": 144940,
+            "start": 144820,
             "end": 145140,
-            "confidence": 0.80126953,
-            "speaker": "B"
+            "confidence": 0.98583984,
+            "speaker": "A"
         },
         {
             "text": "are",
             "start": 145140,
             "end": 145460,
-            "confidence": 0.8671875,
-            "speaker": "B"
+            "confidence": 0.5307617,
+            "speaker": "A"
         },
         {
             "text": "now,",
-            "start": 145540,
-            "end": 145940,
-            "confidence": 0.5600586,
-            "speaker": "B"
+            "start": 145620,
+            "end": 146020,
+            "confidence": 0.9746094,
+            "speaker": "A"
         },
         {
-            "text": "entertainers",
+            "text": "Entertain",
             "start": 146660,
-            "end": 148260,
-            "confidence": 0.8466797,
-            "speaker": "B"
+            "end": 147380,
+            "confidence": 0.9038086,
+            "speaker": "A"
         },
         {
-            "text": "I'm",
-            "start": 148660,
-            "end": 149140,
-            "confidence": 0.85872394,
-            "speaker": "B"
+            "text": "us?",
+            "start": 147620,
+            "end": 148020,
+            "confidence": 0.890625,
+            "speaker": "A"
         },
         {
-            "text": "latter",
-            "start": 149220,
-            "end": 150180,
-            "confidence": 0.67659503,
-            "speaker": "B"
-        },
-        {
-            "text": "I'm",
-            "start": 150660,
-            "end": 151100,
-            "confidence": 0.80875653,
-            "speaker": "B"
-        },
-        {
-            "text": "a",
-            "start": 151100,
-            "end": 151340,
-            "confidence": 0.7895508,
-            "speaker": "B"
-        },
-        {
-            "text": "fighter",
-            "start": 151340,
-            "end": 152180,
-            "confidence": 0.7483724,
-            "speaker": "B"
-        },
-        {
-            "text": "I'm",
-            "start": 152660,
-            "end": 153100,
-            "confidence": 0.7784017,
-            "speaker": "B"
-        },
-        {
-            "text": "a",
-            "start": 153100,
-            "end": 153340,
-            "confidence": 0.8203125,
-            "speaker": "B"
-        },
-        {
-            "text": "gator.",
-            "start": 153340,
-            "end": 153940,
-            "confidence": 0.5888672,
-            "speaker": "B"
+            "text": "Ale.",
+            "start": 154880,
+            "end": 174800,
+            "confidence": 0.5303955,
+            "speaker": "A"
         },
         {
             "text": "And",
             "start": 190780,
-            "end": 191020,
-            "confidence": 0.984375,
+            "end": 190980,
+            "confidence": 0.9941406,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 191020,
-            "end": 191420,
-            "confidence": 0.90234375,
+            "start": 190980,
+            "end": 191340,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "forget",
-            "start": 191420,
+            "start": 191500,
             "end": 192140,
-            "confidence": 0.7727051,
+            "confidence": 0.8520508,
             "speaker": "A"
         },
         {
             "text": "just",
             "start": 192620,
-            "end": 193020,
-            "confidence": 0.91796875,
+            "end": 192980,
+            "confidence": 0.9902344,
             "speaker": "A"
         },
         {
-            "text": "wild",
-            "start": 193020,
-            "end": 193740,
-            "confidence": 0.46923828,
+            "text": "what",
+            "start": 192980,
+            "end": 193340,
+            "confidence": 0.54248047,
             "speaker": "A"
         },
         {
-            "text": "Yeah,",
+            "text": "is",
+            "start": 193900,
+            "end": 194300,
+            "confidence": 0.3984375,
+            "speaker": "A"
+        },
+        {
+            "text": "so",
+            "start": 194700,
+            "end": 195020,
+            "confidence": 0.5205078,
+            "speaker": "A"
+        },
+        {
+            "text": "yeah",
             "start": 195020,
-            "end": 195900,
-            "confidence": 0.6472168,
+            "end": 195580,
+            "confidence": 0.7402344,
             "speaker": "A"
         },
         {
-            "text": "makes",
-            "start": 197260,
-            "end": 197940,
-            "confidence": 0.8779297,
-            "speaker": "A"
-        },
-        {
-            "text": "me",
-            "start": 197940,
-            "end": 198180,
-            "confidence": 0.83984375,
-            "speaker": "A"
-        },
-        {
-            "text": "smile",
-            "start": 198180,
-            "end": 198620,
-            "confidence": 0.9758301,
-            "speaker": "A"
-        },
-        {
-            "text": "I",
-            "start": 198940,
-            "end": 199260,
-            "confidence": 0.9995117,
-            "speaker": "A"
-        },
-        {
-            "text": "found",
-            "start": 199260,
-            "end": 199740,
-            "confidence": 0.98461914,
+            "text": "yes,",
+            "start": 195980,
+            "end": 196620,
+            "confidence": 0.6821289,
             "speaker": "A"
         },
         {
             "text": "it",
-            "start": 199820,
-            "end": 200180,
+            "start": 196780,
+            "end": 197180,
+            "confidence": 0.8881836,
+            "speaker": "A"
+        },
+        {
+            "text": "makes",
+            "start": 197180,
+            "end": 197580,
             "confidence": 1.0,
             "speaker": "A"
         },
         {
-            "text": "hard",
-            "start": 200180,
+            "text": "me",
+            "start": 197820,
+            "end": 198140,
+            "confidence": 0.9277344,
+            "speaker": "A"
+        },
+        {
+            "text": "smile?",
+            "start": 198140,
+            "end": 198620,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 198860,
+            "end": 199180,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "found",
+            "start": 199180,
+            "end": 199500,
+            "confidence": 0.56103516,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 199660,
+            "end": 200060,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "hard?",
+            "start": 200220,
             "end": 200620,
-            "confidence": 0.94018555,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "It's",
-            "start": 200940,
-            "end": 201340,
-            "confidence": 0.9239909,
+            "start": 200860,
+            "end": 201300,
+            "confidence": 0.8992513,
             "speaker": "A"
         },
         {
             "text": "hard",
-            "start": 201340,
-            "end": 201820,
-            "confidence": 0.83032227,
+            "start": 201300,
+            "end": 201660,
+            "confidence": 1.0,
             "speaker": "A"
         },
         {
             "text": "to",
-            "start": 202059,
-            "end": 202339,
-            "confidence": 0.9501953,
+            "start": 201900,
+            "end": 202220,
+            "confidence": 0.9790039,
             "speaker": "A"
         },
         {
             "text": "find",
-            "start": 202339,
-            "end": 202620,
-            "confidence": 0.77685547,
+            "start": 202220,
+            "end": 202539,
+            "confidence": 0.6069336,
             "speaker": "A"
         },
         {
-            "text": "well",
-            "start": 203420,
-            "end": 203820,
-            "confidence": 0.6386719,
+            "text": "the.",
+            "start": 202940,
+            "end": 203260,
+            "confidence": 0.38427734,
+            "speaker": "A"
+        },
+        {
+            "text": "Well,",
+            "start": 203260,
+            "end": 203580,
+            "confidence": 0.7885742,
             "speaker": "A"
         },
         {
             "text": "whatever",
             "start": 204060,
-            "end": 204940,
-            "confidence": 0.76090497,
+            "end": 204780,
+            "confidence": 0.9987793,
             "speaker": "A"
         },
         {
             "text": "never",
             "start": 205420,
-            "end": 205900,
-            "confidence": 0.89941406,
+            "end": 205820,
+            "confidence": 0.5620117,
             "speaker": "A"
         },
         {
             "text": "mind.",
-            "start": 206300,
-            "end": 206940,
-            "confidence": 0.81469727,
+            "start": 206380,
+            "end": 206780,
+            "confidence": 0.9008789,
             "speaker": "A"
         },
         {
-            "text": "You",
-            "start": 226360,
-            "end": 226560,
-            "confidence": 0.5078125,
-            "speaker": "B"
+            "text": "Weaponized",
+            "start": 222200,
+            "end": 223000,
+            "confidence": 0.7064209,
+            "speaker": "A"
         },
         {
-            "text": "We",
-            "start": 226560,
-            "end": 226800,
-            "confidence": 0.5776367,
-            "speaker": "B"
+            "text": "down",
+            "start": 223160,
+            "end": 223560,
+            "confidence": 0.72998047,
+            "speaker": "A"
         },
         {
-            "text": "are",
-            "start": 226800,
-            "end": 227080,
-            "confidence": 0.55371094,
-            "speaker": "B"
-        },
-        {
-            "text": "now",
-            "start": 227080,
-            "end": 227480,
-            "confidence": 0.77197266,
-            "speaker": "B"
-        },
-        {
-            "text": "entertainers",
-            "start": 228280,
-            "end": 229720,
-            "confidence": 0.9532471,
-            "speaker": "B"
-        },
-        {
-            "text": "I'm",
-            "start": 230280,
-            "end": 230760,
-            "confidence": 0.9632161,
-            "speaker": "B"
-        },
-        {
-            "text": "stupid",
-            "start": 230760,
-            "end": 231640,
-            "confidence": 0.9554036,
-            "speaker": "B"
-        },
-        {
-            "text": "Entertainer",
-            "start": 232280,
-            "end": 233800,
-            "confidence": 0.62976074,
-            "speaker": "B"
+            "text": "Entertainers",
+            "start": 224120,
+            "end": 225480,
+            "confidence": 0.73046875,
+            "speaker": "A"
         },
         {
             "text": "Here",
-            "start": 234280,
-            "end": 234680,
-            "confidence": 0.9440918,
-            "speaker": "B"
+            "start": 226120,
+            "end": 226440,
+            "confidence": 0.99316406,
+            "speaker": "A"
         },
         {
             "text": "we",
-            "start": 234680,
-            "end": 234880,
-            "confidence": 0.5317383,
-            "speaker": "B"
+            "start": 226440,
+            "end": 226680,
+            "confidence": 0.9614258,
+            "speaker": "A"
         },
         {
             "text": "are",
-            "start": 234880,
-            "end": 235160,
-            "confidence": 0.7319336,
-            "speaker": "B"
+            "start": 226680,
+            "end": 227000,
+            "confidence": 0.62158203,
+            "speaker": "A"
+        },
+        {
+            "text": "now?",
+            "start": 227160,
+            "end": 227560,
+            "confidence": 0.9091797,
+            "speaker": "A"
+        },
+        {
+            "text": "Entertainers?",
+            "start": 228280,
+            "end": 229640,
+            "confidence": 0.89778644,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 230200,
+            "end": 230720,
+            "confidence": 0.85091144,
+            "speaker": "A"
+        },
+        {
+            "text": "stupid",
+            "start": 230720,
+            "end": 231640,
+            "confidence": 0.8855794,
+            "speaker": "A"
+        },
+        {
+            "text": "Entertainers",
+            "start": 232200,
+            "end": 233640,
+            "confidence": 0.6058757,
+            "speaker": "A"
+        },
+        {
+            "text": "Here",
+            "start": 234200,
+            "end": 234520,
+            "confidence": 0.9824219,
+            "speaker": "A"
+        },
+        {
+            "text": "we",
+            "start": 234520,
+            "end": 234760,
+            "confidence": 0.9638672,
+            "speaker": "A"
+        },
+        {
+            "text": "are",
+            "start": 234760,
+            "end": 235080,
+            "confidence": 0.51464844,
+            "speaker": "A"
         },
         {
             "text": "now",
-            "start": 235160,
-            "end": 235560,
-            "confidence": 0.5551758,
-            "speaker": "B"
+            "start": 235240,
+            "end": 235640,
+            "confidence": 0.97558594,
+            "speaker": "A"
         },
         {
-            "text": "entertainers",
-            "start": 236280,
-            "end": 237800,
-            "confidence": 0.77734375,
-            "speaker": "B"
+            "text": "Entertain",
+            "start": 236360,
+            "end": 237080,
+            "confidence": 0.9968262,
+            "speaker": "A"
         },
         {
-            "text": "coming",
-            "start": 238360,
-            "end": 239080,
-            "confidence": 0.58154297,
-            "speaker": "B"
+            "text": "us?",
+            "start": 237240,
+            "end": 237640,
+            "confidence": 0.61279297,
+            "speaker": "A"
         },
         {
-            "text": "out",
-            "start": 239480,
-            "end": 239880,
-            "confidence": 0.421875,
-            "speaker": "B"
+            "text": "I'm",
+            "start": 238280,
+            "end": 238680,
+            "confidence": 0.7311198,
+            "speaker": "A"
         },
         {
-            "text": "Everybody",
-            "start": 240440,
-            "end": 241400,
-            "confidence": 0.7191162,
-            "speaker": "B"
+            "text": "a",
+            "start": 238680,
+            "end": 238880,
+            "confidence": 0.9316406,
+            "speaker": "A"
         },
         {
-            "text": "know",
-            "start": 241400,
-            "end": 241720,
-            "confidence": 0.9765625,
-            "speaker": "B"
+            "text": "lot",
+            "start": 238880,
+            "end": 239160,
+            "confidence": 0.828125,
+            "speaker": "A"
         },
         {
-            "text": "Cominator",
-            "start": 242360,
-            "end": 243800,
-            "confidence": 0.44207764,
-            "speaker": "B"
-        },
-        {
-            "text": "Calavera.",
-            "start": 244360,
-            "end": 245240,
-            "confidence": 0.4247233,
-            "speaker": "B"
+            "text": "of.",
+            "start": 239320,
+            "end": 239720,
+            "confidence": 0.59375,
+            "speaker": "A"
         }
     ],
     "utterances": [
         {
-            "text": "Bring your friends to pretend she's over Self sure.",
-            "start": 29200,
-            "end": 38880,
-            "confidence": 0.80804217,
+            "text": "Sam? Load up on guns? Bring your friends far to lose to pretend she's overborne? Self assured. Up lies down Entertainers, Here we are now? Entertain us? I'm stupid Entertainers? Here we are now, Entertain us? I'm a d. I'm a b. I'm a sc. I, I'm wasn't what I do best to fall this gift of fear? Here we are now, entertaining us? How can still be? Here we are now, Entertain us? Ale. And I forget just what is so yeah yes, it makes me smile? I found it hard? It's hard to find the. Well, whatever never mind. Weaponized down Entertainers Here we are now? Entertainers? I'm stupid Entertainers Here we are now Entertain us? I'm a lot of.",
+            "start": 240,
+            "end": 239720,
+            "confidence": 0.7733528,
             "speaker": "A"
-        },
-        {
-            "text": "You We are now, entertainers I'm stupid They're containers Here we are now, ado I'm a vinyl I'm a shadow I'm a video.",
-            "start": 62620,
-            "end": 82140,
-            "confidence": 0.7278097,
-            "speaker": "B"
-        },
-        {
-            "text": "I wasn't one I do best to fall for being blessed I little it's always been always will tell.",
-            "start": 100840,
-            "end": 116040,
-            "confidence": 0.7801321,
-            "speaker": "A"
-        },
-        {
-            "text": "Dangerous Here we are now, entertaining us after Spoodle Field Entertainers Here we are now, entertainers I'm latter I'm a fighter I'm a gator.",
-            "start": 135220,
-            "end": 153940,
-            "confidence": 0.75274915,
-            "speaker": "B"
-        },
-        {
-            "text": "And I forget just wild Yeah, makes me smile I found it hard It's hard to find well whatever never mind.",
-            "start": 190780,
-            "end": 206940,
-            "confidence": 0.8527057,
-            "speaker": "A"
-        },
-        {
-            "text": "You We are now entertainers I'm stupid Entertainer Here we are now entertainers coming out Everybody know Cominator Calavera.",
-            "start": 226360,
-            "end": 245240,
-            "confidence": 0.6852074,
-            "speaker": "B"
         }
     ],
-    "chapters": [],
-    "sentiment_analysis_results": [],
+    "chapters": [
+        {
+            "summary": "Sam? Load up on guns? Bring your friends far to lose to pretend she's overborne? Self assured. Up lies down Entertainers, Here we are now? Entertain us? I'm stupid.",
+            "headline": "Here we are now, entertaining us? How can still be",
+            "gist": "Entertainers",
+            "start": 240,
+            "end": 239720
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "Sam?",
+            "start": 240,
+            "end": 8800,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.707127
+        },
+        {
+            "text": "Load up on guns?",
+            "start": 26800,
+            "end": 28480,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.5384694
+        },
+        {
+            "text": "Bring your friends far to lose to pretend she's overborne?",
+            "start": 28960,
+            "end": 36800,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.52322906
+        },
+        {
+            "text": "Self assured.",
+            "start": 37280,
+            "end": 38640,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.61378926
+        },
+        {
+            "text": "Up lies down Entertainers, Here we are now?",
+            "start": 58620,
+            "end": 63900,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5258725
+        },
+        {
+            "text": "Entertain us?",
+            "start": 64540,
+            "end": 65900,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.850507
+        },
+        {
+            "text": "I'm stupid Entertainers?",
+            "start": 66540,
+            "end": 69980,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.6894521
+        },
+        {
+            "text": "Here we are now, Entertain us?",
+            "start": 70620,
+            "end": 74060,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7824753
+        },
+        {
+            "text": "I'm a d. I'm a b. I'm a sc.",
+            "start": 74700,
+            "end": 79580,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7436368
+        },
+        {
+            "text": "I, I'm wasn't what I do best to fall this gift of fear?",
+            "start": 80540,
+            "end": 107720,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.4866472
+        },
+        {
+            "text": "Here we are now, entertaining us?",
+            "start": 136580,
+            "end": 140180,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75090146
+        },
+        {
+            "text": "How can still be?",
+            "start": 140500,
+            "end": 141860,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.61303675
+        },
+        {
+            "text": "Here we are now, Entertain us?",
+            "start": 144420,
+            "end": 148020,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7824753
+        },
+        {
+            "text": "Ale.",
+            "start": 154880,
+            "end": 174800,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.58565104
+        },
+        {
+            "text": "And I forget just what is so yeah yes, it makes me smile?",
+            "start": 190780,
+            "end": 198620,
+            "sentiment": "POSITIVE",
+            "confidence": 0.93368846
+        },
+        {
+            "text": "I found it hard?",
+            "start": 198860,
+            "end": 200620,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.6336305
+        },
+        {
+            "text": "It's hard to find the.",
+            "start": 200860,
+            "end": 203260,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.5527663
+        },
+        {
+            "text": "Well, whatever never mind.",
+            "start": 203260,
+            "end": 206780,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.63198143
+        },
+        {
+            "text": "Weaponized down Entertainers Here we are now?",
+            "start": 222200,
+            "end": 227560,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.61126083
+        },
+        {
+            "text": "Entertainers?",
+            "start": 228280,
+            "end": 229640,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8210427
+        },
+        {
+            "text": "I'm stupid Entertainers Here we are now Entertain us?",
+            "start": 230200,
+            "end": 237640,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.7785537
+        },
+        {
+            "text": "I'm a lot of.",
+            "start": 238280,
+            "end": 239720,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.63290256
+        }
+    ],
     "audio_duration": 279,
-    "language_code": "es"
+    "language_code": "en"
 }

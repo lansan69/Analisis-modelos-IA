@@ -1,699 +1,708 @@
 {
-    "id": "1f7061da-6948-4d14-8e34-b1824ba79822",
+    "id": "a5f99fc1-0b64-433b-bd71-7d68abf4135d",
     "status": "completed",
-    "text": "¿People think I may safe Because I. Am frowning over time? ¿All day long I think, I think. But nothing seems to satisfy Think I lose my mind if I don't find something to put. Can you help me? Thank you for my brain. I need someone to show me the big life that I can find I guess that make true happiness I'm a beautiful. And so as you hear these words telling you now on my face I tell you to enjoy life I wish I could burn to la.",
+    "text": "All day long I think, I think but nothing seems to satisfy Think I lose my mind if I don't find something to find me by can you help me? Oh, yeah. I need someone to show me the things in life that I can find I can see the things that make you happiness I. Sa. Again I feel like love to me it's unreal. As I wish you hear these words telling you now oh, my I tell you to enjoy life I wish I could learn new. Sam.",
     "words": [
         {
-            "text": "¿People",
-            "start": 20480,
-            "end": 20720,
-            "confidence": 0.59228516,
-            "speaker": "A"
-        },
-        {
-            "text": "think",
-            "start": 20720,
-            "end": 21160,
-            "confidence": 0.9724121,
-            "speaker": "A"
-        },
-        {
-            "text": "I",
-            "start": 21160,
-            "end": 21520,
-            "confidence": 0.8173828,
-            "speaker": "A"
-        },
-        {
-            "text": "may",
-            "start": 21520,
-            "end": 21840,
-            "confidence": 0.42578125,
-            "speaker": "A"
-        },
-        {
-            "text": "safe",
-            "start": 21840,
-            "end": 22560,
-            "confidence": 0.52563477,
-            "speaker": "A"
-        },
-        {
-            "text": "Because",
-            "start": 22560,
-            "end": 22880,
-            "confidence": 0.99560547,
-            "speaker": "A"
-        },
-        {
-            "text": "I.",
-            "start": 23120,
-            "end": 23480,
-            "confidence": 0.9995117,
-            "speaker": "A"
-        },
-        {
-            "text": "Am",
-            "start": 23480,
-            "end": 23760,
-            "confidence": 0.96240234,
-            "speaker": "B"
-        },
-        {
-            "text": "frowning",
-            "start": 23760,
-            "end": 24640,
-            "confidence": 0.7084961,
-            "speaker": "B"
-        },
-        {
-            "text": "over",
-            "start": 24800,
-            "end": 25200,
-            "confidence": 0.51464844,
-            "speaker": "B"
-        },
-        {
-            "text": "time?",
-            "start": 25360,
-            "end": 25760,
-            "confidence": 0.5546875,
-            "speaker": "B"
-        },
-        {
-            "text": "¿All",
-            "start": 38140,
-            "end": 38300,
-            "confidence": 0.93896484,
+            "text": "All",
+            "start": 38060,
+            "end": 38220,
+            "confidence": 0.9663086,
             "speaker": "A"
         },
         {
             "text": "day",
-            "start": 38300,
-            "end": 38580,
-            "confidence": 0.99902344,
+            "start": 38220,
+            "end": 38500,
+            "confidence": 0.99609375,
             "speaker": "A"
         },
         {
             "text": "long",
-            "start": 38580,
-            "end": 38900,
+            "start": 38500,
+            "end": 38860,
             "confidence": 1.0,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 38900,
-            "end": 39180,
+            "start": 38860,
+            "end": 39260,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "think,",
-            "start": 39180,
-            "end": 39660,
-            "confidence": 0.78027344,
+            "start": 39260,
+            "end": 39620,
+            "confidence": 0.99853516,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 39660,
+            "start": 39620,
             "end": 39980,
-            "confidence": 0.55859375,
+            "confidence": 0.98828125,
             "speaker": "A"
         },
         {
-            "text": "think.",
+            "text": "think",
             "start": 39980,
-            "end": 40460,
-            "confidence": 0.9675293,
+            "end": 40380,
+            "confidence": 0.9824219,
             "speaker": "A"
         },
         {
-            "text": "But",
-            "start": 40460,
-            "end": 40860,
-            "confidence": 0.9760742,
-            "speaker": "B"
+            "text": "but",
+            "start": 40380,
+            "end": 40780,
+            "confidence": 0.84521484,
+            "speaker": "A"
         },
         {
             "text": "nothing",
             "start": 40860,
-            "end": 41460,
-            "confidence": 0.91031903,
-            "speaker": "B"
+            "end": 41420,
+            "confidence": 0.9699707,
+            "speaker": "A"
         },
         {
             "text": "seems",
-            "start": 41460,
-            "end": 41860,
-            "confidence": 0.5617676,
-            "speaker": "B"
+            "start": 41420,
+            "end": 41940,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "to",
-            "start": 41860,
+            "start": 41940,
             "end": 42220,
-            "confidence": 0.67871094,
-            "speaker": "B"
+            "confidence": 0.97216797,
+            "speaker": "A"
         },
         {
             "text": "satisfy",
             "start": 42300,
-            "end": 43420,
-            "confidence": 0.8588867,
-            "speaker": "B"
+            "end": 43340,
+            "confidence": 0.84990233,
+            "speaker": "A"
         },
         {
             "text": "Think",
             "start": 43660,
-            "end": 44140,
-            "confidence": 0.77490234,
-            "speaker": "B"
+            "end": 44060,
+            "confidence": 0.99072266,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 44140,
+            "start": 44060,
             "end": 44380,
-            "confidence": 0.99121094,
-            "speaker": "B"
+            "confidence": 0.9941406,
+            "speaker": "A"
         },
         {
             "text": "lose",
             "start": 44380,
-            "end": 44860,
-            "confidence": 0.8269043,
-            "speaker": "B"
+            "end": 44780,
+            "confidence": 0.98876953,
+            "speaker": "A"
         },
         {
             "text": "my",
-            "start": 44860,
+            "start": 44780,
             "end": 45100,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "mind",
             "start": 45100,
-            "end": 45660,
-            "confidence": 0.9313965,
-            "speaker": "B"
+            "end": 45500,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "if",
-            "start": 45660,
-            "end": 45980,
-            "confidence": 0.99902344,
-            "speaker": "B"
+            "start": 45500,
+            "end": 45860,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 45980,
-            "end": 46260,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "start": 45860,
+            "end": 46180,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "don't",
-            "start": 46260,
+            "start": 46180,
             "end": 46660,
-            "confidence": 0.8741862,
-            "speaker": "B"
+            "confidence": 0.9980469,
+            "speaker": "A"
         },
         {
             "text": "find",
             "start": 46660,
             "end": 47020,
-            "confidence": 0.92333984,
-            "speaker": "B"
-        },
-        {
-            "text": "something",
-            "start": 47020,
-            "end": 47660,
-            "confidence": 0.8613281,
-            "speaker": "B"
-        },
-        {
-            "text": "to",
-            "start": 47660,
-            "end": 48060,
-            "confidence": 0.99121094,
-            "speaker": "B"
-        },
-        {
-            "text": "put.",
-            "start": 48220,
-            "end": 48780,
-            "confidence": 0.44451904,
-            "speaker": "B"
-        },
-        {
-            "text": "Can",
-            "start": 51100,
-            "end": 51460,
             "confidence": 0.99902344,
             "speaker": "A"
         },
         {
-            "text": "you",
-            "start": 51460,
-            "end": 51780,
-            "confidence": 0.99853516,
-            "speaker": "A"
-        },
-        {
-            "text": "help",
-            "start": 51780,
-            "end": 52140,
-            "confidence": 0.77685547,
-            "speaker": "A"
-        },
-        {
-            "text": "me?",
-            "start": 52140,
-            "end": 52540,
+            "text": "something",
+            "start": 47020,
+            "end": 47420,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "Thank",
-            "start": 53980,
-            "end": 54460,
-            "confidence": 0.8569336,
-            "speaker": "B"
+            "text": "to",
+            "start": 47580,
+            "end": 47980,
+            "confidence": 0.9682617,
+            "speaker": "A"
+        },
+        {
+            "text": "find",
+            "start": 48140,
+            "end": 48500,
+            "confidence": 0.44335938,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 48500,
+            "end": 48860,
+            "confidence": 0.56689453,
+            "speaker": "A"
+        },
+        {
+            "text": "by",
+            "start": 48860,
+            "end": 49260,
+            "confidence": 0.5566406,
+            "speaker": "A"
+        },
+        {
+            "text": "can",
+            "start": 51100,
+            "end": 51420,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 54460,
-            "end": 54700,
-            "confidence": 0.90478516,
-            "speaker": "B"
+            "start": 51420,
+            "end": 51740,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "for",
-            "start": 54700,
-            "end": 55020,
-            "confidence": 0.72753906,
-            "speaker": "B"
+            "text": "help",
+            "start": 51740,
+            "end": 52100,
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
-            "text": "my",
-            "start": 55180,
-            "end": 55540,
-            "confidence": 0.9550781,
-            "speaker": "B"
+            "text": "me?",
+            "start": 52100,
+            "end": 52460,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
-            "text": "brain.",
-            "start": 55540,
-            "end": 63810,
-            "confidence": 0.37817383,
-            "speaker": "B"
+            "text": "Oh,",
+            "start": 57740,
+            "end": 58300,
+            "confidence": 0.6501465,
+            "speaker": "A"
+        },
+        {
+            "text": "yeah.",
+            "start": 58540,
+            "end": 59100,
+            "confidence": 0.89371747,
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 73480,
             "end": 73640,
-            "confidence": 0.8173828,
-            "speaker": "B"
+            "confidence": 0.5620117,
+            "speaker": "A"
         },
         {
             "text": "need",
             "start": 73640,
             "end": 73960,
-            "confidence": 0.99658203,
-            "speaker": "B"
+            "confidence": 0.9863281,
+            "speaker": "A"
         },
         {
             "text": "someone",
             "start": 73960,
-            "end": 74600,
-            "confidence": 0.88793945,
-            "speaker": "B"
+            "end": 74360,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "to",
-            "start": 74680,
+            "start": 74600,
             "end": 75000,
-            "confidence": 0.99853516,
-            "speaker": "B"
+            "confidence": 0.9980469,
+            "speaker": "A"
         },
         {
             "text": "show",
             "start": 75000,
-            "end": 75320,
-            "confidence": 0.6220703,
-            "speaker": "B"
+            "end": 75400,
+            "confidence": 0.9970703,
+            "speaker": "A"
         },
         {
             "text": "me",
             "start": 75400,
-            "end": 75800,
-            "confidence": 0.99658203,
-            "speaker": "B"
+            "end": 75760,
+            "confidence": 0.9980469,
+            "speaker": "A"
         },
         {
             "text": "the",
-            "start": 75800,
-            "end": 76200,
-            "confidence": 0.9555664,
-            "speaker": "B"
+            "start": 75760,
+            "end": 76080,
+            "confidence": 0.7866211,
+            "speaker": "A"
         },
         {
-            "text": "big",
-            "start": 76280,
-            "end": 76840,
-            "confidence": 0.65856934,
-            "speaker": "B"
+            "text": "things",
+            "start": 76080,
+            "end": 76440,
+            "confidence": 0.5727539,
+            "speaker": "A"
+        },
+        {
+            "text": "in",
+            "start": 76600,
+            "end": 76920,
+            "confidence": 0.9682617,
+            "speaker": "A"
         },
         {
             "text": "life",
-            "start": 77000,
-            "end": 77520,
-            "confidence": 0.64331055,
-            "speaker": "B"
+            "start": 76920,
+            "end": 77240,
+            "confidence": 0.63623047,
+            "speaker": "A"
         },
         {
             "text": "that",
-            "start": 77520,
-            "end": 77840,
-            "confidence": 0.93896484,
-            "speaker": "B"
+            "start": 77400,
+            "end": 77760,
+            "confidence": 0.8051758,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 77840,
-            "end": 78120,
-            "confidence": 0.99609375,
-            "speaker": "B"
+            "start": 77760,
+            "end": 78080,
+            "confidence": 0.9873047,
+            "speaker": "A"
         },
         {
             "text": "can",
-            "start": 78120,
+            "start": 78080,
             "end": 78440,
-            "confidence": 0.98779297,
-            "speaker": "B"
+            "confidence": 0.91308594,
+            "speaker": "A"
         },
         {
             "text": "find",
-            "start": 78520,
-            "end": 78920,
-            "confidence": 0.99072266,
-            "speaker": "B"
+            "start": 78440,
+            "end": 78840,
+            "confidence": 0.96435547,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 79320,
-            "end": 79600,
-            "confidence": 0.9682617,
-            "speaker": "B"
+            "start": 79240,
+            "end": 79560,
+            "confidence": 0.79589844,
+            "speaker": "A"
         },
         {
-            "text": "guess",
-            "start": 79600,
-            "end": 79960,
-            "confidence": 0.76464844,
-            "speaker": "B"
+            "text": "can",
+            "start": 79560,
+            "end": 79840,
+            "confidence": 0.80566406,
+            "speaker": "A"
+        },
+        {
+            "text": "see",
+            "start": 79840,
+            "end": 80199,
+            "confidence": 0.92041016,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 80200,
+            "end": 80600,
+            "confidence": 0.84814453,
+            "speaker": "A"
+        },
+        {
+            "text": "things",
+            "start": 80600,
+            "end": 81000,
+            "confidence": 0.76123047,
+            "speaker": "A"
         },
         {
             "text": "that",
-            "start": 81080,
-            "end": 81440,
-            "confidence": 0.6196289,
-            "speaker": "B"
+            "start": 81000,
+            "end": 81400,
+            "confidence": 0.86376953,
+            "speaker": "A"
         },
         {
             "text": "make",
-            "start": 81440,
-            "end": 81800,
-            "confidence": 0.9707031,
-            "speaker": "B"
+            "start": 81400,
+            "end": 81760,
+            "confidence": 0.86865234,
+            "speaker": "A"
         },
         {
-            "text": "true",
-            "start": 81800,
-            "end": 82280,
-            "confidence": 0.79956055,
-            "speaker": "B"
+            "text": "you",
+            "start": 81760,
+            "end": 82120,
+            "confidence": 0.57177734,
+            "speaker": "A"
         },
         {
             "text": "happiness",
-            "start": 82280,
+            "start": 82200,
             "end": 82920,
-            "confidence": 0.7941081,
-            "speaker": "B"
+            "confidence": 0.96972656,
+            "speaker": "A"
         },
         {
-            "text": "I'm",
-            "start": 83400,
-            "end": 84000,
-            "confidence": 0.7845052,
-            "speaker": "B"
+            "text": "I.",
+            "start": 83320,
+            "end": 83720,
+            "confidence": 0.72753906,
+            "speaker": "A"
         },
         {
-            "text": "a",
-            "start": 84000,
-            "end": 84200,
-            "confidence": 0.92529297,
-            "speaker": "B"
+            "text": "Sa.",
+            "start": 95860,
+            "end": 96100,
+            "confidence": 0.7631836,
+            "speaker": "A"
         },
         {
-            "text": "beautiful.",
-            "start": 84200,
-            "end": 95710,
-            "confidence": 0.7147827,
-            "speaker": "B"
+            "text": "Again",
+            "start": 127760,
+            "end": 128000,
+            "confidence": 0.6904297,
+            "speaker": "A"
         },
         {
-            "text": "And",
-            "start": 144320,
-            "end": 144480,
-            "confidence": 0.91552734,
-            "speaker": "B"
+            "text": "I",
+            "start": 128160,
+            "end": 128520,
+            "confidence": 0.9873047,
+            "speaker": "A"
         },
         {
-            "text": "so",
-            "start": 144480,
-            "end": 144800,
-            "confidence": 0.93115234,
-            "speaker": "B"
+            "text": "feel",
+            "start": 128520,
+            "end": 128880,
+            "confidence": 0.97753906,
+            "speaker": "A"
         },
         {
-            "text": "as",
-            "start": 144880,
+            "text": "like",
+            "start": 128880,
+            "end": 129280,
+            "confidence": 0.7294922,
+            "speaker": "A"
+        },
+        {
+            "text": "love",
+            "start": 129280,
+            "end": 129640,
+            "confidence": 0.9628906,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 129640,
+            "end": 129960,
+            "confidence": 0.9433594,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 129960,
+            "end": 130320,
+            "confidence": 0.5864258,
+            "speaker": "A"
+        },
+        {
+            "text": "it's",
+            "start": 130400,
+            "end": 130960,
+            "confidence": 0.898112,
+            "speaker": "A"
+        },
+        {
+            "text": "unreal.",
+            "start": 130960,
+            "end": 132000,
+            "confidence": 0.7006836,
+            "speaker": "A"
+        },
+        {
+            "text": "As",
+            "start": 144160,
+            "end": 144520,
+            "confidence": 0.65625,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 144520,
+            "end": 144760,
+            "confidence": 0.9736328,
+            "speaker": "A"
+        },
+        {
+            "text": "wish",
+            "start": 144760,
             "end": 145240,
-            "confidence": 0.64697266,
-            "speaker": "B"
+            "confidence": 0.8652344,
+            "speaker": "A"
         },
         {
             "text": "you",
             "start": 145240,
-            "end": 145560,
-            "confidence": 0.98339844,
-            "speaker": "B"
+            "end": 145520,
+            "confidence": 0.8095703,
+            "speaker": "A"
         },
         {
             "text": "hear",
-            "start": 145560,
-            "end": 145960,
-            "confidence": 0.9589844,
-            "speaker": "B"
+            "start": 145520,
+            "end": 145840,
+            "confidence": 0.8120117,
+            "speaker": "A"
         },
         {
             "text": "these",
-            "start": 145960,
-            "end": 146240,
-            "confidence": 0.72998047,
-            "speaker": "B"
+            "start": 145840,
+            "end": 146200,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "words",
-            "start": 146240,
-            "end": 146760,
-            "confidence": 0.83121747,
-            "speaker": "B"
+            "start": 146200,
+            "end": 146720,
+            "confidence": 0.99194336,
+            "speaker": "A"
         },
         {
             "text": "telling",
-            "start": 146760,
-            "end": 147480,
-            "confidence": 0.8727214,
-            "speaker": "B"
+            "start": 146720,
+            "end": 147400,
+            "confidence": 0.98999023,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 147480,
+            "start": 147400,
             "end": 147760,
-            "confidence": 0.73095703,
-            "speaker": "B"
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "now",
             "start": 147840,
             "end": 148240,
-            "confidence": 0.9848633,
-            "speaker": "B"
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
-            "text": "on",
-            "start": 148560,
+            "text": "oh,",
+            "start": 148480,
             "end": 148880,
-            "confidence": 0.7739258,
-            "speaker": "B"
+            "confidence": 0.71069336,
+            "speaker": "A"
         },
         {
             "text": "my",
             "start": 148880,
             "end": 149200,
-            "confidence": 0.72558594,
-            "speaker": "B"
-        },
-        {
-            "text": "face",
-            "start": 149360,
-            "end": 149760,
-            "confidence": 0.7890625,
-            "speaker": "B"
+            "confidence": 0.86572266,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 150080,
-            "end": 150400,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "start": 150000,
+            "end": 150360,
+            "confidence": 0.9819336,
+            "speaker": "A"
         },
         {
             "text": "tell",
-            "start": 150400,
-            "end": 150840,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "start": 150360,
+            "end": 150680,
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 150840,
-            "end": 151120,
-            "confidence": 0.48291016,
-            "speaker": "B"
+            "start": 150680,
+            "end": 151040,
+            "confidence": 0.95703125,
+            "speaker": "A"
         },
         {
             "text": "to",
-            "start": 151120,
-            "end": 151520,
-            "confidence": 0.9951172,
-            "speaker": "B"
+            "start": 151040,
+            "end": 151440,
+            "confidence": 0.9946289,
+            "speaker": "A"
         },
         {
             "text": "enjoy",
-            "start": 151600,
-            "end": 152320,
-            "confidence": 0.9998372,
-            "speaker": "B"
+            "start": 151520,
+            "end": 152160,
+            "confidence": 0.98128253,
+            "speaker": "A"
         },
         {
             "text": "life",
-            "start": 152320,
-            "end": 152680,
-            "confidence": 0.99658203,
-            "speaker": "B"
+            "start": 152160,
+            "end": 152560,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 152680,
-            "end": 152960,
-            "confidence": 0.9970703,
-            "speaker": "B"
+            "start": 152640,
+            "end": 153000,
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
             "text": "wish",
-            "start": 152960,
-            "end": 153360,
-            "confidence": 0.74121094,
-            "speaker": "B"
+            "start": 153000,
+            "end": 153400,
+            "confidence": 0.99609375,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 153360,
-            "end": 153600,
-            "confidence": 0.7290039,
-            "speaker": "B"
+            "start": 153400,
+            "end": 153680,
+            "confidence": 0.99365234,
+            "speaker": "A"
         },
         {
             "text": "could",
-            "start": 153600,
-            "end": 153920,
-            "confidence": 0.8027344,
-            "speaker": "B"
+            "start": 153680,
+            "end": 154000,
+            "confidence": 0.99316406,
+            "speaker": "A"
         },
         {
-            "text": "burn",
-            "start": 154160,
-            "end": 154840,
-            "confidence": 0.7791341,
-            "speaker": "B"
+            "text": "learn",
+            "start": 154000,
+            "end": 154560,
+            "confidence": 0.7416992,
+            "speaker": "A"
         },
         {
-            "text": "to",
-            "start": 154840,
-            "end": 155200,
-            "confidence": 0.8173828,
-            "speaker": "B"
+            "text": "new.",
+            "start": 154720,
+            "end": 155120,
+            "confidence": 0.3762207,
+            "speaker": "A"
         },
         {
-            "text": "la.",
-            "start": 155280,
-            "end": 155680,
-            "confidence": 0.47387695,
-            "speaker": "B"
+            "text": "Sam.",
+            "start": 159740,
+            "end": 171180,
+            "confidence": 0.4680786,
+            "speaker": "A"
         }
     ],
     "utterances": [
         {
-            "text": "¿People think I may safe Because I.",
-            "start": 20480,
-            "end": 23480,
-            "confidence": 0.76123047,
+            "text": "All day long I think, I think but nothing seems to satisfy Think I lose my mind if I don't find something to find me by can you help me? Oh, yeah. I need someone to show me the things in life that I can find I can see the things that make you happiness I. Sa. Again I feel like love to me it's unreal. As I wish you hear these words telling you now oh, my I tell you to enjoy life I wish I could learn new. Sam.",
+            "start": 38060,
+            "end": 171180,
+            "confidence": 0.8823701,
             "speaker": "A"
-        },
-        {
-            "text": "Am frowning over time?",
-            "start": 23480,
-            "end": 25760,
-            "confidence": 0.6850586,
-            "speaker": "B"
-        },
-        {
-            "text": "¿All day long I think, I think.",
-            "start": 38140,
-            "end": 40460,
-            "confidence": 0.89198524,
-            "speaker": "A"
-        },
-        {
-            "text": "But nothing seems to satisfy Think I lose my mind if I don't find something to put.",
-            "start": 40460,
-            "end": 48780,
-            "confidence": 0.85898846,
-            "speaker": "B"
-        },
-        {
-            "text": "Can you help me?",
-            "start": 51100,
-            "end": 52540,
-            "confidence": 0.94348145,
-            "speaker": "A"
-        },
-        {
-            "text": "Thank you for my brain. I need someone to show me the big life that I can find I guess that make true happiness I'm a beautiful. And so as you hear these words telling you now on my face I tell you to enjoy life I wish I could burn to la.",
-            "start": 53980,
-            "end": 155680,
-            "confidence": 0.8365928,
-            "speaker": "B"
         }
     ],
-    "chapters": [],
-    "sentiment_analysis_results": [],
+    "chapters": [
+        {
+            "summary": "All day long I think, I think but nothing seems to satisfy Think I lose my mind if I don't find something to find me by can you help me? I need someone to show me the things in life that I can find. Again I feel like love to me it's unreal.",
+            "headline": "All day long I think, I think but nothing seems to satisfy",
+            "gist": "Looking for Love in this Life",
+            "start": 38060,
+            "end": 171180
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "All day long I think, I think but nothing seems to satisfy Think I lose my mind if I don't find something to find me by can you help me?",
+            "start": 38060,
+            "end": 52460,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.6545885
+        },
+        {
+            "text": "Oh, yeah.",
+            "start": 57740,
+            "end": 59100,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.55853385
+        },
+        {
+            "text": "I need someone to show me the things in life that I can find I can see the things that make you happiness I. Sa.",
+            "start": 73480,
+            "end": 96100,
+            "sentiment": "POSITIVE",
+            "confidence": 0.69680613
+        },
+        {
+            "text": "Again I feel like love to me it's unreal.",
+            "start": 127760,
+            "end": 132000,
+            "sentiment": "POSITIVE",
+            "confidence": 0.88150287
+        },
+        {
+            "text": "As I wish you hear these words telling you now oh, my I tell you to enjoy life I wish I could learn new.",
+            "start": 144160,
+            "end": 155120,
+            "sentiment": "POSITIVE",
+            "confidence": 0.6959866
+        },
+        {
+            "text": "Sam.",
+            "start": 159740,
+            "end": 171180,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6722906
+        }
+    ],
     "audio_duration": 172,
-    "language_code": "es"
+    "language_code": "en"
 }

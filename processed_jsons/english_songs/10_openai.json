@@ -204,18 +204,18 @@
         {
             "text": "masterpiece",
             "start": 25.260000228881836,
-            "end": 26.18000030517578,
+            "end": 26.200000762939453,
             "confidence": 0.99
         },
         {
             "text": "Oh",
-            "start": 26.18000030517578,
-            "end": 27.15999984741211,
+            "start": 26.200000762939453,
+            "end": 27.139999389648438,
             "confidence": 0.99
         },
         {
             "text": "my",
-            "start": 27.15999984741211,
+            "start": 27.139999389648438,
             "end": 27.860000610351562,
             "confidence": 0.99
         },
@@ -239,7 +239,7 @@
         },
         {
             "text": "my",
-            "start": 29.940000534057617,
+            "start": 30.020000457763672,
             "end": 30.579999923706055,
             "confidence": 0.99
         },
@@ -270,12 +270,12 @@
         {
             "text": "look",
             "start": 33.2400016784668,
-            "end": 33.540000915527344,
+            "end": 33.560001373291016,
             "confidence": 0.99
         },
         {
             "text": "at",
-            "start": 33.540000915527344,
+            "start": 33.560001373291016,
             "end": 33.7599983215332,
             "confidence": 0.99
         },
@@ -300,18 +300,18 @@
         {
             "text": "me",
             "start": 34.560001373291016,
-            "end": 35.20000076293945,
+            "end": 35.15999984741211,
             "confidence": 0.99
         },
         {
             "text": "out",
-            "start": 35.20000076293945,
-            "end": 35.400001525878906,
+            "start": 35.15999984741211,
+            "end": 35.380001068115234,
             "confidence": 0.99
         },
         {
             "text": "of",
-            "start": 35.400001525878906,
+            "start": 35.380001068115234,
             "end": 35.779998779296875,
             "confidence": 0.99
         },
@@ -384,13 +384,13 @@
         {
             "text": "and",
             "start": 40.58000183105469,
-            "end": 41.279998779296875,
+            "end": 41.459999084472656,
             "confidence": 0.99
         },
         {
             "text": "buried",
-            "start": 41.279998779296875,
-            "end": 41.279998779296875,
+            "start": 41.459999084472656,
+            "end": 41.86000061035156,
             "confidence": 0.99
         },
         {
@@ -498,24 +498,24 @@
         {
             "text": "Are",
             "start": 49.279998779296875,
-            "end": 50.040000915527344,
+            "end": 50.02000045776367,
             "confidence": 0.99
         },
         {
             "text": "jealous",
-            "start": 50.040000915527344,
+            "start": 50.02000045776367,
             "end": 50.2599983215332,
             "confidence": 0.99
         },
         {
             "text": "knowing",
             "start": 50.2599983215332,
-            "end": 50.63999938964844,
+            "end": 50.619998931884766,
             "confidence": 0.99
         },
         {
             "text": "we",
-            "start": 50.63999938964844,
+            "start": 50.619998931884766,
             "end": 50.939998626708984,
             "confidence": 0.99
         },
@@ -918,12 +918,12 @@
         {
             "text": "I'm",
             "start": 91.36000061035156,
-            "end": 91.58000183105469,
+            "end": 91.55999755859375,
             "confidence": 0.99
         },
         {
             "text": "the",
-            "start": 91.58000183105469,
+            "start": 91.55999755859375,
             "end": 91.72000122070312,
             "confidence": 0.99
         },
@@ -1230,12 +1230,12 @@
         {
             "text": "You",
             "start": 113.9800033569336,
-            "end": 115.36000061035156,
+            "end": 115.33999633789062,
             "confidence": 0.99
         },
         {
             "text": "got",
-            "start": 115.36000061035156,
+            "start": 115.33999633789062,
             "end": 115.55999755859375,
             "confidence": 0.99
         },
@@ -1494,12 +1494,12 @@
         {
             "text": "my",
             "start": 137.16000366210938,
-            "end": 137.94000244140625,
+            "end": 137.9600067138672,
             "confidence": 0.99
         },
         {
             "text": "Always",
-            "start": 137.94000244140625,
+            "start": 137.9600067138672,
             "end": 138.55999755859375,
             "confidence": 0.99
         },
@@ -2082,59 +2082,39 @@
     ],
     "sentiment_analysis_results": [
         {
-            "sentence": "They say the holy water's watered down",
+            "segment": "They say the holy water's watered down And this town's lost its faith",
             "sentiment": "NEGATIVE",
-            "confidence": 0.7
-        },
-        {
-            "sentence": "This town's lost its faith",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.8
-        },
-        {
-            "sentence": "We'll make the mundane a masterpiece",
-            "sentiment": "POSITIVE",
-            "confidence": 0.9
-        },
-        {
-            "sentence": "You're taking me out of the ordinary",
-            "sentiment": "POSITIVE",
             "confidence": 0.85
         },
         {
-            "sentence": "Staying drunk on your vibe",
+            "segment": "We'll make the mundane a masterpiece",
             "sentiment": "POSITIVE",
-            "confidence": 0.88
+            "confidence": 0.75
         },
         {
-            "sentence": "The angels up in the clouds are jealous knowing we found something so wild",
+            "segment": "You're taking me out of the ordinary",
             "sentiment": "POSITIVE",
             "confidence": 0.9
         },
         {
-            "sentence": "Shattered me when you touched",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.75
-        },
-        {
-            "sentence": "Oh Lord, return me to dust",
+            "segment": "Oh Lord, return me to dust",
             "sentiment": "NEGATIVE",
             "confidence": 0.8
         },
         {
-            "sentence": "Something so heavenly higher than ecstasy",
+            "segment": "Something so heavenly Higher than ecstasy",
             "sentiment": "POSITIVE",
-            "confidence": 0.9
+            "confidence": 0.95
         }
     ],
     "chapters": [
         {
-            "headline": "The Struggle Between Faith and Love",
-            "summary": "The text explores themes of loss of faith, the mundane nature of life, and the transformative power of love.",
+            "headline": "Exploration of Faith and Love",
+            "summary": "The lyrics reflect a journey through disillusionment and the discovery of something extraordinary in the midst of the ordinary. There's a tension between despair and hope, encapsulated in the transcendent feeling of love.",
             "start": 0,
-            "end": 180
+            "end": 258
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

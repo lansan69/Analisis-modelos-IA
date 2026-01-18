@@ -1,0 +1,137 @@
+{
+    "text": "Ya, ahora sí, ggallant, arroba, inflow.com, es con inflow. Claro, hay que irte a mover iPhone, ¿cierto?",
+    "audio_duration": 30.84000015258789,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Ya",
+            "start": 0.0,
+            "end": 2.2799999713897705,
+            "confidence": 0.99
+        },
+        {
+            "text": "ahora",
+            "start": 15.779999732971191,
+            "end": 15.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "sí",
+            "start": 15.84000015258789,
+            "end": 16.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "ggallant",
+            "start": 17.31999969482422,
+            "end": 18.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "arroba",
+            "start": 18.780000686645508,
+            "end": 19.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "inflow",
+            "start": 20.040000915527344,
+            "end": 20.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "com",
+            "start": 20.34000015258789,
+            "end": 24.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 25.540000915527344,
+            "end": 25.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 25.860000610351562,
+            "end": 26.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "inflow",
+            "start": 26.15999984741211,
+            "end": 27.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "Claro",
+            "start": 27.719999313354492,
+            "end": 28.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "hay",
+            "start": 28.81999969482422,
+            "end": 28.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 28.979999542236328,
+            "end": 29.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "irte",
+            "start": 29.15999984741211,
+            "end": 29.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 29.3799991607666,
+            "end": 29.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "mover",
+            "start": 29.399999618530273,
+            "end": 29.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "iPhone",
+            "start": 29.579999923706055,
+            "end": 29.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿cierto",
+            "start": 30.040000915527344,
+            "end": 30.200000762939453,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Ya, ahora sí, ggallant, arroba, inflow.com, es con inflow.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        },
+        {
+            "segment": "Claro, hay que irte a mover iPhone, ¿cierto?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Discussion on inflow.com",
+            "summary": "The speaker mentions inflow.com and suggests moving to an iPhone.",
+            "start": 0,
+            "end": 10
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

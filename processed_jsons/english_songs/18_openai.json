@@ -131,8 +131,8 @@
         },
         {
             "text": "Maybe",
-            "start": 36.0,
-            "end": 36.63999938964844,
+            "start": 36.119998931884766,
+            "end": 36.7599983215332,
             "confidence": 0.99
         },
         {
@@ -240,12 +240,12 @@
         {
             "text": "on",
             "start": 45.119998931884766,
-            "end": 45.279998779296875,
+            "end": 45.29999923706055,
             "confidence": 0.99
         },
         {
             "text": "with",
-            "start": 45.279998779296875,
+            "start": 45.29999923706055,
             "end": 45.540000915527344,
             "confidence": 0.99
         },
@@ -425,13 +425,13 @@
         },
         {
             "text": "I'm",
-            "start": 63.7400016784668,
-            "end": 64.69999694824219,
+            "start": 63.720001220703125,
+            "end": 64.68000030517578,
             "confidence": 0.99
         },
         {
             "text": "blinded",
-            "start": 64.69999694824219,
+            "start": 64.68000030517578,
             "end": 65.22000122070312,
             "confidence": 0.99
         },
@@ -1488,54 +1488,34 @@
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "I've been tryin' to call I've been on my own for long enough Maybe you can show me how to love Maybe I'm goin' through a drought",
-            "sentiment": "NEGATIVE",
-            "confidence": 0.85
-        },
-        {
-            "segment": "You don't even have to do too much You can turn me on with just a touch Baby I look around Since it is cold and empty No one's around to judge me",
-            "sentiment": "NEUTRAL",
-            "confidence": 0.65
-        },
-        {
-            "segment": "I can see clearly when you're gone I said, ooh I'm blinded by the lights No, I can't sleep until I feel your touch",
-            "sentiment": "POSITIVE",
-            "confidence": 0.75
-        },
-        {
-            "segment": "I said, ooh I'm drowning in the night Oh, when I'm like this, you're the one I just Hey, hey, hey",
-            "sentiment": "POSITIVE",
-            "confidence": 0.8
-        },
-        {
-            "segment": "I'm running out of time Cause I can see the sunlight up the sky So I hit the road in overdrive Baby",
+            "segment": "I've been tryin' to call I've been on my own for long enough Maybe you can show me how to love",
             "sentiment": "NEUTRAL",
             "confidence": 0.7
         },
         {
-            "segment": "Oh, the city's cold and empty No one's around to judge me I can see clearly when you're gone",
-            "sentiment": "NEGATIVE",
+            "segment": "I said, ooh I'm blinded by the lights No, I can't sleep until I feel your touch",
+            "sentiment": "POSITIVE",
             "confidence": 0.8
         },
         {
-            "segment": "I'm just coming back to let you know I can never see it on the phone Will never let you go this time",
+            "segment": "Oh, when I'm like this, you're the one I just",
             "sentiment": "POSITIVE",
-            "confidence": 0.78
+            "confidence": 0.75
         },
         {
-            "segment": "I said, ooh I'm blinded by the lights No, I can't sleep until I feel your touch",
-            "sentiment": "POSITIVE",
-            "confidence": 0.85
+            "segment": "I'm just coming back to let you know I can never see it on the phone Will never let you go this time",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.65
         }
     ],
     "chapters": [
         {
-            "headline": "Seeking Connection",
-            "summary": "The speaker expresses feelings of isolation and a desire for love and connection, depicting a journey through longing and hope.",
+            "headline": "Emotional Yearning",
+            "summary": "The speaker expresses feelings of loneliness and a desire for love and connection.",
             "start": 0,
-            "end": 160
+            "end": 60
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

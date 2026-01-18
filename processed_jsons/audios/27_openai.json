@@ -1,0 +1,1199 @@
+{
+    "text": "Estoy saliendo con alguien y me están presentando a todas las familias. Y me cagan. No, no, pero... No, no, no. No me cagan. Está muy chistoso porque entramos y los primeros como... De lo que se platica, güey, es de Pitbull, Raven... ¿Qué hubo? ¿Pitbull, Raven? O sea, de que puros... Pitbull, pendejo. Ah, Pitbull. ¿Pitbull? Mister Wawa, ya. Sí, claro, güey. Latino, ya. Güey, yo qué mejor, güey. Y de que ayer me pusieron a ver el juego de justo Steelers contra los Ravenclaw. ¿Ravenclaw? ¿O cómo? ¿Cuál es la de? Ah, güey. Se platica mucho de eso, güey. Entonces, soy como de... O hay de dos. O aprendo. O te vuelves la comidilla. O me vuelvo la comidilla. Entonces, antes sí estoy de... Necesito aprender de esa madre. O sea, ya quiero aprender para poder tener temas de conversación. Está cagado. Yo aprendí justo igual así como de... Unos cuatro superbolos para acá he aprendido. ¿Qué es? ¿Primero de diez? Es lo único que tienes que hacer y yo se suelta. Ah, güey. Si te quedaste picado, métete a clase libre para que veas el capítulo completo.",
+    "audio_duration": 60.27000045776367,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Estoy",
+            "start": 0.0,
+            "end": 0.14000000059604645,
+            "confidence": 0.99
+        },
+        {
+            "text": "saliendo",
+            "start": 0.14000000059604645,
+            "end": 0.4000000059604645,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 0.4000000059604645,
+            "end": 0.6000000238418579,
+            "confidence": 0.99
+        },
+        {
+            "text": "alguien",
+            "start": 0.6000000238418579,
+            "end": 0.8999999761581421,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 0.8999999761581421,
+            "end": 1.0399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 1.0399999618530273,
+            "end": 1.159999966621399,
+            "confidence": 0.99
+        },
+        {
+            "text": "están",
+            "start": 1.159999966621399,
+            "end": 1.2599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "presentando",
+            "start": 1.2599999904632568,
+            "end": 1.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 1.559999942779541,
+            "end": 1.7400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "todas",
+            "start": 1.7400000095367432,
+            "end": 1.8200000524520874,
+            "confidence": 0.99
+        },
+        {
+            "text": "las",
+            "start": 1.8200000524520874,
+            "end": 1.9199999570846558,
+            "confidence": 0.99
+        },
+        {
+            "text": "familias",
+            "start": 1.9199999570846558,
+            "end": 2.1600000858306885,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 2.5199999809265137,
+            "end": 3.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 3.0,
+            "end": 3.240000009536743,
+            "confidence": 0.99
+        },
+        {
+            "text": "cagan",
+            "start": 3.240000009536743,
+            "end": 3.359999895095825,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 4.019999980926514,
+            "end": 4.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 4.5,
+            "end": 4.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "pero",
+            "start": 4.760000228881836,
+            "end": 5.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 5.380000114440918,
+            "end": 5.679999828338623,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 5.679999828338623,
+            "end": 5.820000171661377,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 5.820000171661377,
+            "end": 6.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 7.059999942779541,
+            "end": 7.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 7.539999961853027,
+            "end": 7.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "cagan",
+            "start": 7.699999809265137,
+            "end": 7.900000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "Está",
+            "start": 8.579999923706055,
+            "end": 8.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 8.680000305175781,
+            "end": 8.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "chistoso",
+            "start": 8.9399995803833,
+            "end": 9.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "porque",
+            "start": 9.039999961853027,
+            "end": 9.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "entramos",
+            "start": 9.460000038146973,
+            "end": 10.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 10.239999771118164,
+            "end": 10.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 10.460000038146973,
+            "end": 10.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "primeros",
+            "start": 10.680000305175781,
+            "end": 11.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 11.180000305175781,
+            "end": 11.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "De",
+            "start": 11.920000076293945,
+            "end": 12.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 12.020000457763672,
+            "end": 12.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 12.0600004196167,
+            "end": 12.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 12.140000343322754,
+            "end": 12.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "platica",
+            "start": 12.539999961853027,
+            "end": 12.720000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "güey",
+            "start": 12.9399995803833,
+            "end": 12.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 13.0,
+            "end": 13.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 13.319999694824219,
+            "end": 13.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pitbull",
+            "start": 13.34000015258789,
+            "end": 13.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Raven",
+            "start": 14.039999961853027,
+            "end": 14.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Qué",
+            "start": 14.779999732971191,
+            "end": 14.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "hubo",
+            "start": 14.779999732971191,
+            "end": 14.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Pitbull",
+            "start": 15.880000114440918,
+            "end": 16.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Raven",
+            "start": 16.600000381469727,
+            "end": 16.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 16.799999237060547,
+            "end": 16.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "sea",
+            "start": 16.940000534057617,
+            "end": 17.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 17.100000381469727,
+            "end": 17.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 17.34000015258789,
+            "end": 17.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "puros",
+            "start": 17.65999984741211,
+            "end": 17.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pitbull",
+            "start": 17.799999237060547,
+            "end": 17.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "pendejo",
+            "start": 18.18000030517578,
+            "end": 18.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ah",
+            "start": 18.700000762939453,
+            "end": 19.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pitbull",
+            "start": 19.040000915527344,
+            "end": 19.200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Pitbull",
+            "start": 20.139999389648438,
+            "end": 20.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mister",
+            "start": 21.219999313354492,
+            "end": 21.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Wawa",
+            "start": 21.5,
+            "end": 22.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 22.34000015258789,
+            "end": 22.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sí",
+            "start": 22.68000030517578,
+            "end": 22.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "claro",
+            "start": 22.799999237060547,
+            "end": 23.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "güey",
+            "start": 23.1200008392334,
+            "end": 23.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "Latino",
+            "start": 23.8799991607666,
+            "end": 24.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 24.479999542236328,
+            "end": 24.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Güey",
+            "start": 25.639999389648438,
+            "end": 25.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 25.920000076293945,
+            "end": 26.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "qué",
+            "start": 26.15999984741211,
+            "end": 26.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "mejor",
+            "start": 26.360000610351562,
+            "end": 26.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "güey",
+            "start": 26.65999984741211,
+            "end": 26.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 26.739999771118164,
+            "end": 26.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 26.84000015258789,
+            "end": 26.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 26.940000534057617,
+            "end": 27.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "ayer",
+            "start": 27.18000030517578,
+            "end": 27.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 27.299999237060547,
+            "end": 27.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "pusieron",
+            "start": 27.65999984741211,
+            "end": 27.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 27.8799991607666,
+            "end": 28.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "ver",
+            "start": 28.100000381469727,
+            "end": 28.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 28.100000381469727,
+            "end": 28.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "juego",
+            "start": 28.5,
+            "end": 28.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 28.5,
+            "end": 28.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "justo",
+            "start": 28.799999237060547,
+            "end": 29.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "Steelers",
+            "start": 29.459999084472656,
+            "end": 30.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "contra",
+            "start": 30.68000030517578,
+            "end": 31.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 31.079999923706055,
+            "end": 31.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ravenclaw",
+            "start": 31.479999542236328,
+            "end": 31.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Ravenclaw",
+            "start": 32.20000076293945,
+            "end": 32.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿O",
+            "start": 33.41999816894531,
+            "end": 33.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "cómo",
+            "start": 33.70000076293945,
+            "end": 33.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Cuál",
+            "start": 33.91999816894531,
+            "end": 34.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 34.099998474121094,
+            "end": 34.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 34.2400016784668,
+            "end": 34.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 34.41999816894531,
+            "end": 34.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ah",
+            "start": 35.2599983215332,
+            "end": 35.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "güey",
+            "start": 35.68000030517578,
+            "end": 36.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "Se",
+            "start": 37.0,
+            "end": 37.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "platica",
+            "start": 37.400001525878906,
+            "end": 37.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "mucho",
+            "start": 37.720001220703125,
+            "end": 38.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 38.02000045776367,
+            "end": 38.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "eso",
+            "start": 38.20000076293945,
+            "end": 38.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "güey",
+            "start": 38.380001068115234,
+            "end": 38.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "Entonces",
+            "start": 38.560001373291016,
+            "end": 38.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "soy",
+            "start": 38.79999923706055,
+            "end": 38.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 38.959999084472656,
+            "end": 39.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 39.099998474121094,
+            "end": 39.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 39.47999954223633,
+            "end": 39.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "hay",
+            "start": 39.47999954223633,
+            "end": 39.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 39.52000045776367,
+            "end": 39.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "dos",
+            "start": 39.70000076293945,
+            "end": 39.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 40.20000076293945,
+            "end": 40.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "aprendo",
+            "start": 40.599998474121094,
+            "end": 41.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 41.060001373291016,
+            "end": 41.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 41.18000030517578,
+            "end": 41.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "vuelves",
+            "start": 41.29999923706055,
+            "end": 41.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 41.400001525878906,
+            "end": 41.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "comidilla",
+            "start": 41.65999984741211,
+            "end": 41.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 42.040000915527344,
+            "end": 42.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 42.18000030517578,
+            "end": 42.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "vuelvo",
+            "start": 42.279998779296875,
+            "end": 42.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 42.34000015258789,
+            "end": 42.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "comidilla",
+            "start": 42.5,
+            "end": 42.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Entonces",
+            "start": 43.040000915527344,
+            "end": 43.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "antes",
+            "start": 43.20000076293945,
+            "end": 43.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "sí",
+            "start": 43.47999954223633,
+            "end": 43.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "estoy",
+            "start": 43.68000030517578,
+            "end": 43.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 43.720001220703125,
+            "end": 44.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Necesito",
+            "start": 44.58000183105469,
+            "end": 44.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "aprender",
+            "start": 44.97999954223633,
+            "end": 45.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 45.380001068115234,
+            "end": 45.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "esa",
+            "start": 45.619998931884766,
+            "end": 45.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "madre",
+            "start": 45.7599983215332,
+            "end": 45.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "O",
+            "start": 45.939998626708984,
+            "end": 46.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "sea",
+            "start": 46.08000183105469,
+            "end": 46.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "ya",
+            "start": 46.08000183105469,
+            "end": 46.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "quiero",
+            "start": 46.34000015258789,
+            "end": 46.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "aprender",
+            "start": 46.41999816894531,
+            "end": 46.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 46.68000030517578,
+            "end": 46.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "poder",
+            "start": 46.91999816894531,
+            "end": 47.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "tener",
+            "start": 47.220001220703125,
+            "end": 47.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "temas",
+            "start": 47.41999816894531,
+            "end": 47.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 47.70000076293945,
+            "end": 47.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "conversación",
+            "start": 47.959999084472656,
+            "end": 48.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Está",
+            "start": 48.47999954223633,
+            "end": 48.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "cagado",
+            "start": 48.5,
+            "end": 48.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yo",
+            "start": 49.279998779296875,
+            "end": 49.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "aprendí",
+            "start": 49.41999816894531,
+            "end": 49.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "justo",
+            "start": 49.720001220703125,
+            "end": 50.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "igual",
+            "start": 50.060001373291016,
+            "end": 50.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 50.29999923706055,
+            "end": 50.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "como",
+            "start": 50.58000183105469,
+            "end": 50.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 50.79999923706055,
+            "end": 51.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Unos",
+            "start": 51.400001525878906,
+            "end": 51.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuatro",
+            "start": 51.400001525878906,
+            "end": 51.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "superbolos",
+            "start": 51.619998931884766,
+            "end": 51.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 51.97999954223633,
+            "end": 52.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "acá",
+            "start": 52.20000076293945,
+            "end": 52.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "he",
+            "start": 52.34000015258789,
+            "end": 52.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "aprendido",
+            "start": 52.68000030517578,
+            "end": 53.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Qué",
+            "start": 53.20000076293945,
+            "end": 53.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 53.52000045776367,
+            "end": 53.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Primero",
+            "start": 53.63999938964844,
+            "end": 53.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 53.779998779296875,
+            "end": 53.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "diez",
+            "start": 53.959999084472656,
+            "end": 54.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "Es",
+            "start": 54.20000076293945,
+            "end": 54.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 54.5,
+            "end": 54.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "único",
+            "start": 54.7599983215332,
+            "end": 54.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 54.779998779296875,
+            "end": 54.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "tienes",
+            "start": 54.959999084472656,
+            "end": 55.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 55.119998931884766,
+            "end": 55.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "hacer",
+            "start": 55.220001220703125,
+            "end": 55.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 55.41999816894531,
+            "end": 55.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 55.58000183105469,
+            "end": 55.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 55.65999984741211,
+            "end": 55.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "suelta",
+            "start": 55.81999969482422,
+            "end": 56.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ah",
+            "start": 56.040000915527344,
+            "end": 56.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "güey",
+            "start": 56.52000045776367,
+            "end": 56.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Si",
+            "start": 56.939998626708984,
+            "end": 57.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "te",
+            "start": 57.2599983215332,
+            "end": 57.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "quedaste",
+            "start": 57.439998626708984,
+            "end": 57.619998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "picado",
+            "start": 57.619998931884766,
+            "end": 58.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "métete",
+            "start": 58.08000183105469,
+            "end": 58.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 58.36000061035156,
+            "end": 58.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "clase",
+            "start": 58.400001525878906,
+            "end": 58.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "libre",
+            "start": 58.540000915527344,
+            "end": 58.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 58.7400016784668,
+            "end": 58.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 58.91999816894531,
+            "end": 58.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "veas",
+            "start": 58.97999954223633,
+            "end": 59.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 59.099998474121094,
+            "end": 59.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "capítulo",
+            "start": 59.2400016784668,
+            "end": 59.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "completo",
+            "start": 59.560001373291016,
+            "end": 60.119998931884766,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "Estoy saliendo con alguien y me están presentando a todas las familias. Y me cagan.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "No, no, pero... No, no, no. No me cagan.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "Está muy chistoso porque entramos y los primeros como... De lo que se platica, güey, es de Pitbull, Raven...",
+            "sentiment": "POSITIVE",
+            "confidence": 0.7
+        },
+        {
+            "segment": "O sea, de que puros... Pitbull, pendejo.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.6
+        },
+        {
+            "segment": "Latino, ya. Güey, yo qué mejor, güey.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Entonces, soy como de... O hay de dos. O aprendo. O te vuelves la comidilla.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "Entonces, antes sí estoy de... Necesito aprender de esa madre.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.7
+        },
+        {
+            "segment": "Está cagado.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Introducción a la familia",
+            "summary": "El hablante comparte su experiencia de conocer a la familia de su pareja y su necesidad de adaptarse a las conversaciones familiares.",
+            "start": 0,
+            "end": 60
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

@@ -1,0 +1,362 @@
+{
+    "text": "¿Sí? ¿Me escuchas? ¿Me escuchas? Ahora sí. Tus teléfonos son medio raros. Pensé que me había cortado, don Cristian. No, a veces has activado el modo silencio. Ya después entras. Indíqueme su root para poder confirmar su titularidad. 126407017 Correcto. ¿Tiene algún correo electrónico, don Cristian, para enviar el estado de su cuenta?",
+    "audio_duration": 28.520000457763672,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "¿Sí",
+            "start": 0.0,
+            "end": 0.6200000047683716,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Me",
+            "start": 0.6800000071525574,
+            "end": 0.9200000166893005,
+            "confidence": 0.99
+        },
+        {
+            "text": "escuchas",
+            "start": 0.9200000166893005,
+            "end": 1.2400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Me",
+            "start": 2.359999895095825,
+            "end": 2.9000000953674316,
+            "confidence": 0.99
+        },
+        {
+            "text": "escuchas",
+            "start": 2.9000000953674316,
+            "end": 3.1600000858306885,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ahora",
+            "start": 4.099999904632568,
+            "end": 4.659999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "sí",
+            "start": 4.659999847412109,
+            "end": 5.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tus",
+            "start": 6.880000114440918,
+            "end": 7.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "teléfonos",
+            "start": 7.440000057220459,
+            "end": 7.78000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "son",
+            "start": 7.78000020980835,
+            "end": 8.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "medio",
+            "start": 8.039999961853027,
+            "end": 8.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "raros",
+            "start": 8.319999694824219,
+            "end": 8.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pensé",
+            "start": 10.5,
+            "end": 11.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 11.0600004196167,
+            "end": 11.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 11.180000305175781,
+            "end": 11.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "había",
+            "start": 11.34000015258789,
+            "end": 11.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "cortado",
+            "start": 11.479999542236328,
+            "end": 11.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "don",
+            "start": 12.199999809265137,
+            "end": 12.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "Cristian",
+            "start": 12.199999809265137,
+            "end": 12.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 13.699999809265137,
+            "end": 14.199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 14.199999809265137,
+            "end": 14.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "veces",
+            "start": 14.380000114440918,
+            "end": 14.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "has",
+            "start": 14.380000114440918,
+            "end": 14.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "activado",
+            "start": 14.600000381469727,
+            "end": 14.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 14.9399995803833,
+            "end": 15.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "modo",
+            "start": 15.15999984741211,
+            "end": 15.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "silencio",
+            "start": 15.239999771118164,
+            "end": 15.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ya",
+            "start": 16.31999969482422,
+            "end": 16.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "después",
+            "start": 16.34000015258789,
+            "end": 16.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "entras",
+            "start": 16.559999465942383,
+            "end": 16.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "Indíqueme",
+            "start": 17.700000762939453,
+            "end": 18.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 18.260000228881836,
+            "end": 18.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "root",
+            "start": 18.559999465942383,
+            "end": 18.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 18.68000030517578,
+            "end": 18.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "poder",
+            "start": 18.920000076293945,
+            "end": 19.200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "confirmar",
+            "start": 19.200000762939453,
+            "end": 19.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 19.579999923706055,
+            "end": 19.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "titularidad",
+            "start": 19.84000015258789,
+            "end": 20.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "126407017",
+            "start": 22.600000381469727,
+            "end": 23.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Correcto",
+            "start": 24.219999313354492,
+            "end": 24.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Tiene",
+            "start": 24.780000686645508,
+            "end": 24.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "algún",
+            "start": 24.920000076293945,
+            "end": 25.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "correo",
+            "start": 25.260000228881836,
+            "end": 25.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "electrónico",
+            "start": 25.559999465942383,
+            "end": 26.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "don",
+            "start": 26.260000228881836,
+            "end": 26.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "Cristian",
+            "start": 26.3799991607666,
+            "end": 26.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 26.68000030517578,
+            "end": 26.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "enviar",
+            "start": 26.760000228881836,
+            "end": 27.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 27.0,
+            "end": 27.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "estado",
+            "start": 27.280000686645508,
+            "end": 27.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 27.5,
+            "end": 27.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 27.719999313354492,
+            "end": 28.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 28.18000030517578,
+            "end": 28.18000030517578,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "¿Sí? ¿Me escuchas? ¿Me escuchas? Ahora sí.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Tus teléfonos son medio raros. Pensé que me había cortado, don Cristian.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "No, a veces has activado el modo silencio. Ya después entras.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "Indíqueme su root para poder confirmar su titularidad.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        },
+        {
+            "segment": "¿Tiene algún correo electrónico, don Cristian, para enviar el estado de su cuenta?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Introducción de la conversación",
+            "summary": "El interlocutor está realizando preguntas sobre la comunicación y solicitando información personal.",
+            "start": 0,
+            "end": 60
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

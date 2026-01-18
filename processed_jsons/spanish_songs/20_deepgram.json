@@ -1,9 +1,9 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "4daf6a99-5417-458c-bbb8-d17361aa7fc8",
+        "request_id": "766ffcce-a5bd-4aa1-8c79-1e3927ef8c63",
         "sha256": "2702c3a9ffc222a3b8679a23067560d25851771b9eb796c9555974de8bf47733",
-        "created": "2026-01-17T23:20:08.347000Z",
+        "created": "2026-01-18T00:42:37.940000Z",
         "duration": 253.776,
         "channels": 1.0,
         "models": [
@@ -29,17 +29,237 @@
             {
                 "alternatives": [
                     {
-                        "transcript": "Hacia atrás. Pero yo, corazón, entendí en el tiempo que pasó, que no nos servía ya",
-                        "confidence": 0.97922814,
+                        "transcript": "Muchas cosas han pasado mucho tiempo fue la duda y el rencor que despertamos al ver que no nos queríamos hacia atrás. Pero yo, corazón, entendí en el tiempo que pasó, que no nos servía ya",
+                        "confidence": 0.97163355,
                         "words": [
+                            {
+                                "word": "muchas",
+                                "start": 43.575,
+                                "end": 44.075,
+                                "confidence": 0.20006412,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55312526,
+                                "punctuated_word": "Muchas",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "cosas",
+                                "start": 44.295,
+                                "end": 44.795,
+                                "confidence": 0.9558693,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55312526,
+                                "punctuated_word": "cosas",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "han",
+                                "start": 45.015,
+                                "end": 45.515,
+                                "confidence": 0.89062,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55312526,
+                                "punctuated_word": "han",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pasado",
+                                "start": 45.735,
+                                "end": 46.235,
+                                "confidence": 0.9968773,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55312526,
+                                "punctuated_word": "pasado",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "mucho",
+                                "start": 46.454998,
+                                "end": 46.855,
+                                "confidence": 0.9459683,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "mucho",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tiempo",
+                                "start": 46.855,
+                                "end": 47.355,
+                                "confidence": 0.9896281,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "tiempo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "fue",
+                                "start": 47.975,
+                                "end": 48.135,
+                                "confidence": 0.70445263,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "fue",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "la",
+                                "start": 48.135,
+                                "end": 48.295,
+                                "confidence": 0.734918,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "la",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "duda",
+                                "start": 48.295,
+                                "end": 48.795,
+                                "confidence": 0.9935442,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "duda",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 48.855,
+                                "end": 49.015,
+                                "confidence": 0.9556975,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "el",
+                                "start": 49.015,
+                                "end": 49.335,
+                                "confidence": 0.96603405,
+                                "speaker": 0,
+                                "speaker_confidence": 0.6674409,
+                                "punctuated_word": "el",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "rencor",
+                                "start": 49.335,
+                                "end": 49.835,
+                                "confidence": 0.9851896,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "rencor",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 51.415,
+                                "end": 51.655,
+                                "confidence": 0.8294169,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "despertamos",
+                                "start": 51.655,
+                                "end": 52.155,
+                                "confidence": 0.9475761,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "despertamos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "al",
+                                "start": 52.375,
+                                "end": 52.535,
+                                "confidence": 0.9848728,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "al",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "ver",
+                                "start": 52.535,
+                                "end": 53.035,
+                                "confidence": 0.98226786,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "ver",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 53.495,
+                                "end": 53.735,
+                                "confidence": 0.8085839,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 53.735,
+                                "end": 54.055,
+                                "confidence": 0.9844534,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "nos",
+                                "start": 54.055,
+                                "end": 54.295,
+                                "confidence": 0.9969639,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "nos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "queríamos",
+                                "start": 54.295,
+                                "end": 54.795,
+                                "confidence": 0.95618063,
+                                "speaker": 0,
+                                "speaker_confidence": 0.73387355,
+                                "punctuated_word": "queríamos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
                             {
                                 "word": "hacia",
                                 "start": 131.49501,
                                 "end": 131.99501,
                                 "confidence": 0.97163355,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7063294,
-                                "punctuated_word": "Hacia",
+                                "speaker_confidence": 0.29851836,
+                                "punctuated_word": "hacia",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
                             },
@@ -49,7 +269,7 @@
                                 "end": 133.035,
                                 "confidence": 0.91270256,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7063294,
+                                "speaker_confidence": 0.29851836,
                                 "punctuated_word": "atrás.",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -60,7 +280,7 @@
                                 "end": 135.495,
                                 "confidence": 0.95071787,
                                 "speaker": 0,
-                                "speaker_confidence": 0.6805146,
+                                "speaker_confidence": 0.28578186,
                                 "punctuated_word": "Pero",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -71,7 +291,7 @@
                                 "end": 135.735,
                                 "confidence": 0.7694266,
                                 "speaker": 0,
-                                "speaker_confidence": 0.6805146,
+                                "speaker_confidence": 0.28578186,
                                 "punctuated_word": "yo,",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -82,7 +302,7 @@
                                 "end": 136.235,
                                 "confidence": 0.9779837,
                                 "speaker": 0,
-                                "speaker_confidence": 0.6805146,
+                                "speaker_confidence": 0.28578186,
                                 "punctuated_word": "corazón,",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -93,7 +313,7 @@
                                 "end": 138.475,
                                 "confidence": 0.9928405,
                                 "speaker": 0,
-                                "speaker_confidence": 0.79723364,
+                                "speaker_confidence": 0.7059704,
                                 "punctuated_word": "entendí",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -104,7 +324,7 @@
                                 "end": 139.27501,
                                 "confidence": 0.842566,
                                 "speaker": 0,
-                                "speaker_confidence": 0.79723364,
+                                "speaker_confidence": 0.7059704,
                                 "punctuated_word": "en",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -115,7 +335,7 @@
                                 "end": 139.975,
                                 "confidence": 0.99589705,
                                 "speaker": 0,
-                                "speaker_confidence": 0.79723364,
+                                "speaker_confidence": 0.7059704,
                                 "punctuated_word": "el",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -126,7 +346,7 @@
                                 "end": 140.375,
                                 "confidence": 0.99807525,
                                 "speaker": 0,
-                                "speaker_confidence": 0.79723364,
+                                "speaker_confidence": 0.7059704,
                                 "punctuated_word": "tiempo",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -137,7 +357,7 @@
                                 "end": 140.875,
                                 "confidence": 0.97922814,
                                 "speaker": 0,
-                                "speaker_confidence": 0.79723364,
+                                "speaker_confidence": 0.7059704,
                                 "punctuated_word": "que",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -148,7 +368,7 @@
                                 "end": 142.395,
                                 "confidence": 0.7934308,
                                 "speaker": 0,
-                                "speaker_confidence": 0.79723364,
+                                "speaker_confidence": 0.7059704,
                                 "punctuated_word": "pasó,",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -159,7 +379,7 @@
                                 "end": 143.015,
                                 "confidence": 0.9852851,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7898297,
+                                "speaker_confidence": 0.60255796,
                                 "punctuated_word": "que",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -170,7 +390,7 @@
                                 "end": 143.255,
                                 "confidence": 0.98290265,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7898297,
+                                "speaker_confidence": 0.60255796,
                                 "punctuated_word": "no",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -181,7 +401,7 @@
                                 "end": 143.49501,
                                 "confidence": 0.9922943,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7898297,
+                                "speaker_confidence": 0.60255796,
                                 "punctuated_word": "nos",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -192,7 +412,7 @@
                                 "end": 143.895,
                                 "confidence": 0.9985794,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7898297,
+                                "speaker_confidence": 0.60255796,
                                 "punctuated_word": "servía",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
@@ -203,20 +423,20 @@
                                 "end": 144.395,
                                 "confidence": 0.870129,
                                 "speaker": 0,
-                                "speaker_confidence": 0.7898297,
+                                "speaker_confidence": 0.60255796,
                                 "punctuated_word": "ya",
                                 "sentiment": "neutral",
                                 "sentiment_score": 0.0
                             }
                         ],
                         "paragraphs": {
-                            "transcript": "\nSpeaker 0: Hacia atrás. Pero yo, corazón, entendí en el tiempo que pasó, que no nos servía ya",
+                            "transcript": "\nSpeaker 0: Muchas cosas han pasado mucho tiempo fue la duda y el rencor que despertamos al ver que no nos queríamos hacia atrás. Pero yo, corazón, entendí en el tiempo que pasó, que no nos servía ya",
                             "paragraphs": [
                                 {
                                     "sentences": [
                                         {
-                                            "text": "Hacia atrás.",
-                                            "start": 131.49501,
+                                            "text": "Muchas cosas han pasado mucho tiempo fue la duda y el rencor que despertamos al ver que no nos queríamos hacia atrás.",
+                                            "start": 43.575,
                                             "end": 133.035,
                                             "sentiment": "neutral",
                                             "sentiment_score": 0.0
@@ -230,8 +450,8 @@
                                         }
                                     ],
                                     "speaker": 0.0,
-                                    "num_words": 16.0,
-                                    "start": 131.49501,
+                                    "num_words": 36.0,
+                                    "start": 43.575,
                                     "end": 144.395,
                                     "sentiment": "neutral",
                                     "sentiment_score": 0.0
@@ -244,11 +464,283 @@
         ],
         "utterances": [
             {
+                "start": 43.575,
+                "end": 47.355,
+                "confidence": 0.8298378,
+                "channel": 0.0,
+                "transcript": "Muchas cosas han pasado mucho tiempo",
+                "words": [
+                    {
+                        "word": "muchas",
+                        "start": 43.575,
+                        "end": 44.075,
+                        "confidence": 0.20006412,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55312526,
+                        "punctuated_word": "Muchas",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "cosas",
+                        "start": 44.295,
+                        "end": 44.795,
+                        "confidence": 0.9558693,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55312526,
+                        "punctuated_word": "cosas",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "han",
+                        "start": 45.015,
+                        "end": 45.515,
+                        "confidence": 0.89062,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55312526,
+                        "punctuated_word": "han",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pasado",
+                        "start": 45.735,
+                        "end": 46.235,
+                        "confidence": 0.9968773,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55312526,
+                        "punctuated_word": "pasado",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "mucho",
+                        "start": 46.454998,
+                        "end": 46.855,
+                        "confidence": 0.9459683,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "mucho",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tiempo",
+                        "start": 46.855,
+                        "end": 47.355,
+                        "confidence": 0.9896281,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "tiempo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "04c1ae84-49da-4842-a440-e08e2ead1604",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 47.975,
+                "end": 49.835,
+                "confidence": 0.8899726,
+                "channel": 0.0,
+                "transcript": "fue la duda y el rencor",
+                "words": [
+                    {
+                        "word": "fue",
+                        "start": 47.975,
+                        "end": 48.135,
+                        "confidence": 0.70445263,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "fue",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "la",
+                        "start": 48.135,
+                        "end": 48.295,
+                        "confidence": 0.734918,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "la",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "duda",
+                        "start": 48.295,
+                        "end": 48.795,
+                        "confidence": 0.9935442,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "duda",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 48.855,
+                        "end": 49.015,
+                        "confidence": 0.9556975,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "el",
+                        "start": 49.015,
+                        "end": 49.335,
+                        "confidence": 0.96603405,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.6674409,
+                        "punctuated_word": "el",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "rencor",
+                        "start": 49.335,
+                        "end": 49.835,
+                        "confidence": 0.9851896,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "rencor",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "628982bb-8e05-4fcd-9afc-d444c34e034c",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 51.415,
+                "end": 53.035,
+                "confidence": 0.9360334,
+                "channel": 0.0,
+                "transcript": "que despertamos al ver",
+                "words": [
+                    {
+                        "word": "que",
+                        "start": 51.415,
+                        "end": 51.655,
+                        "confidence": 0.8294169,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "despertamos",
+                        "start": 51.655,
+                        "end": 52.155,
+                        "confidence": 0.9475761,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "despertamos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "al",
+                        "start": 52.375,
+                        "end": 52.535,
+                        "confidence": 0.9848728,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "al",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "ver",
+                        "start": 52.535,
+                        "end": 53.035,
+                        "confidence": 0.98226786,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "ver",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "432efc19-dd87-4f21-8667-e66e7a50845a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 53.495,
+                "end": 54.795,
+                "confidence": 0.93654543,
+                "channel": 0.0,
+                "transcript": "que no nos queríamos",
+                "words": [
+                    {
+                        "word": "que",
+                        "start": 53.495,
+                        "end": 53.735,
+                        "confidence": 0.8085839,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 53.735,
+                        "end": 54.055,
+                        "confidence": 0.9844534,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "nos",
+                        "start": 54.055,
+                        "end": 54.295,
+                        "confidence": 0.9969639,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "nos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "queríamos",
+                        "start": 54.295,
+                        "end": 54.795,
+                        "confidence": 0.95618063,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.73387355,
+                        "punctuated_word": "queríamos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "cc10a62d-4a45-42dd-a589-ae2da520eb21",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
                 "start": 131.49501,
                 "end": 131.99501,
                 "confidence": 0.97163355,
                 "channel": 0.0,
-                "transcript": "Hacia",
+                "transcript": "hacia",
                 "words": [
                     {
                         "word": "hacia",
@@ -256,14 +748,14 @@
                         "end": 131.99501,
                         "confidence": 0.97163355,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7063294,
-                        "punctuated_word": "Hacia",
+                        "speaker_confidence": 0.29851836,
+                        "punctuated_word": "hacia",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "6ab48601-0218-4107-940e-6e03929ef28c",
+                "id": "f60745b2-fa0f-4882-983e-2e1db03b009e",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -280,14 +772,14 @@
                         "end": 133.035,
                         "confidence": 0.91270256,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7063294,
+                        "speaker_confidence": 0.29851836,
                         "punctuated_word": "atrás.",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "954ffca5-8e80-4e0f-90e8-887ce24004c9",
+                "id": "ab80581c-b533-4a18-83fe-2a2b7f49a465",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -304,7 +796,7 @@
                         "end": 135.495,
                         "confidence": 0.95071787,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.6805146,
+                        "speaker_confidence": 0.28578186,
                         "punctuated_word": "Pero",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -315,7 +807,7 @@
                         "end": 135.735,
                         "confidence": 0.7694266,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.6805146,
+                        "speaker_confidence": 0.28578186,
                         "punctuated_word": "yo,",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -326,14 +818,14 @@
                         "end": 136.235,
                         "confidence": 0.9779837,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.6805146,
+                        "speaker_confidence": 0.28578186,
                         "punctuated_word": "corazón,",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "f77574cb-3175-4ea3-b0de-30a6a912e7dd",
+                "id": "6050ce95-9361-4bc0-8946-a11dd1f7de9a",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -350,14 +842,14 @@
                         "end": 138.475,
                         "confidence": 0.9928405,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.79723364,
+                        "speaker_confidence": 0.7059704,
                         "punctuated_word": "entendí",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "12fd1544-7651-4579-a266-4409a47f9cc1",
+                "id": "469e93c1-4691-48d2-a00d-d5c6185b26ff",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -374,14 +866,14 @@
                         "end": 139.27501,
                         "confidence": 0.842566,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.79723364,
+                        "speaker_confidence": 0.7059704,
                         "punctuated_word": "en",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "f4fd4d78-3b80-4177-98cd-0f707afb2676",
+                "id": "44145272-5a75-4bca-b526-747c506e22a0",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -398,7 +890,7 @@
                         "end": 139.975,
                         "confidence": 0.99589705,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.79723364,
+                        "speaker_confidence": 0.7059704,
                         "punctuated_word": "el",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -409,7 +901,7 @@
                         "end": 140.375,
                         "confidence": 0.99807525,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.79723364,
+                        "speaker_confidence": 0.7059704,
                         "punctuated_word": "tiempo",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -420,14 +912,14 @@
                         "end": 140.875,
                         "confidence": 0.97922814,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.79723364,
+                        "speaker_confidence": 0.7059704,
                         "punctuated_word": "que",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "def0f263-109d-4c92-b50e-2a53688fb4da",
+                "id": "cae4e120-f73e-4faa-ad8d-edca335ae7d5",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -444,14 +936,14 @@
                         "end": 142.395,
                         "confidence": 0.7934308,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.79723364,
+                        "speaker_confidence": 0.7059704,
                         "punctuated_word": "pasó,",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "35b385e9-d9f7-4bf0-ab93-b2a78e0d5f50",
+                "id": "59b7356a-4d1b-4750-9ca1-bac3b40dcbe3",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             },
@@ -468,7 +960,7 @@
                         "end": 143.015,
                         "confidence": 0.9852851,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7898297,
+                        "speaker_confidence": 0.60255796,
                         "punctuated_word": "que",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -479,7 +971,7 @@
                         "end": 143.255,
                         "confidence": 0.98290265,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7898297,
+                        "speaker_confidence": 0.60255796,
                         "punctuated_word": "no",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -490,7 +982,7 @@
                         "end": 143.49501,
                         "confidence": 0.9922943,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7898297,
+                        "speaker_confidence": 0.60255796,
                         "punctuated_word": "nos",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -501,7 +993,7 @@
                         "end": 143.895,
                         "confidence": 0.9985794,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7898297,
+                        "speaker_confidence": 0.60255796,
                         "punctuated_word": "servía",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
@@ -512,14 +1004,14 @@
                         "end": 144.395,
                         "confidence": 0.870129,
                         "speaker": 0.0,
-                        "speaker_confidence": 0.7898297,
+                        "speaker_confidence": 0.60255796,
                         "punctuated_word": "ya",
                         "sentiment": "neutral",
                         "sentiment_score": 0.0
                     }
                 ],
                 "speaker": 0.0,
-                "id": "5dda37d8-ca1f-42e3-abe1-1096306af5fd",
+                "id": "1e0447e4-c1ce-4597-a96f-d8685f595df2",
                 "sentiment": "neutral",
                 "sentiment_score": 0.0
             }

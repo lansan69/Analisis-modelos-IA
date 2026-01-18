@@ -1,0 +1,496 @@
+{
+    "id": "30f119a1-b63b-45d6-869e-70f4d7efa3d9",
+    "status": "completed",
+    "text": "Buenos días, hablo con don Andrés Guillermo Burgos Garrido. Mucho gusto, le saluda Mayra Tavez, ejecutiva de Fashion Park. Lo llamo para darle la bienvenida a su tarjeta y corroborar algunos datos. Ya para su seguridad, esta llamada está siendo grabada y su tarjeta se habilitó con fecha 2 de septiembre de 2023 en la sucursal de Paseo Puente y tiene un cupo inicial de 150 mil pesos.",
+    "words": [
+        {
+            "text": "Buenos",
+            "start": 2960,
+            "end": 3240,
+            "confidence": 0.93969727,
+            "speaker": "A"
+        },
+        {
+            "text": "días,",
+            "start": 3240,
+            "end": 3480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "hablo",
+            "start": 3480,
+            "end": 3840,
+            "confidence": 0.9094238,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 3840,
+            "end": 3960,
+            "confidence": 0.49291992,
+            "speaker": "A"
+        },
+        {
+            "text": "don",
+            "start": 3960,
+            "end": 4160,
+            "confidence": 0.99072266,
+            "speaker": "A"
+        },
+        {
+            "text": "Andrés",
+            "start": 4160,
+            "end": 4560,
+            "confidence": 0.89436847,
+            "speaker": "A"
+        },
+        {
+            "text": "Guillermo",
+            "start": 4560,
+            "end": 5040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Burgos",
+            "start": 5040,
+            "end": 5520,
+            "confidence": 0.9248047,
+            "speaker": "A"
+        },
+        {
+            "text": "Garrido.",
+            "start": 5520,
+            "end": 5920,
+            "confidence": 0.8741862,
+            "speaker": "A"
+        },
+        {
+            "text": "Mucho",
+            "start": 7680,
+            "end": 8000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "gusto,",
+            "start": 8000,
+            "end": 8360,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 8360,
+            "end": 8560,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        },
+        {
+            "text": "saluda",
+            "start": 8560,
+            "end": 8840,
+            "confidence": 0.95735675,
+            "speaker": "A"
+        },
+        {
+            "text": "Mayra",
+            "start": 8840,
+            "end": 9160,
+            "confidence": 0.82421875,
+            "speaker": "A"
+        },
+        {
+            "text": "Tavez,",
+            "start": 9160,
+            "end": 9640,
+            "confidence": 0.74397784,
+            "speaker": "A"
+        },
+        {
+            "text": "ejecutiva",
+            "start": 9640,
+            "end": 9960,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 9960,
+            "end": 10080,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion",
+            "start": 10080,
+            "end": 10600,
+            "confidence": 0.6385498,
+            "speaker": "A"
+        },
+        {
+            "text": "Park.",
+            "start": 10600,
+            "end": 10960,
+            "confidence": 0.8510742,
+            "speaker": "A"
+        },
+        {
+            "text": "Lo",
+            "start": 10960,
+            "end": 11120,
+            "confidence": 0.5371094,
+            "speaker": "A"
+        },
+        {
+            "text": "llamo",
+            "start": 11120,
+            "end": 11440,
+            "confidence": 0.98079425,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 11440,
+            "end": 11560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "darle",
+            "start": 11560,
+            "end": 11760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 11760,
+            "end": 11840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "bienvenida",
+            "start": 11840,
+            "end": 12160,
+            "confidence": 0.97477216,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 12160,
+            "end": 12360,
+            "confidence": 0.8154297,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 12360,
+            "end": 12480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 12480,
+            "end": 12840,
+            "confidence": 0.97233075,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 12840,
+            "end": 12960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "corroborar",
+            "start": 12960,
+            "end": 13480,
+            "confidence": 0.9546875,
+            "speaker": "A"
+        },
+        {
+            "text": "algunos",
+            "start": 13480,
+            "end": 13840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "datos.",
+            "start": 13840,
+            "end": 14240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Ya",
+            "start": 15360,
+            "end": 15760,
+            "confidence": 0.9707031,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 17200,
+            "end": 17480,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 17480,
+            "end": 17600,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "seguridad,",
+            "start": 17600,
+            "end": 17840,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "esta",
+            "start": 17840,
+            "end": 18040,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "llamada",
+            "start": 18040,
+            "end": 18360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 18360,
+            "end": 18520,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "siendo",
+            "start": 18520,
+            "end": 18720,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "grabada",
+            "start": 18720,
+            "end": 19080,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 19080,
+            "end": 19240,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 19240,
+            "end": 19360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 19360,
+            "end": 19680,
+            "confidence": 0.92578125,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 19680,
+            "end": 19840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "habilitó",
+            "start": 19840,
+            "end": 20440,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 20440,
+            "end": 20600,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "fecha",
+            "start": 20600,
+            "end": 20960,
+            "confidence": 0.9838867,
+            "speaker": "A"
+        },
+        {
+            "text": "2",
+            "start": 21120,
+            "end": 21520,
+            "confidence": 0.73096,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 21520,
+            "end": 21920,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "septiembre",
+            "start": 21920,
+            "end": 22720,
+            "confidence": 0.78393555,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 22800,
+            "end": 23080,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "2023",
+            "start": 23080,
+            "end": 24000,
+            "confidence": 0.9876,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 24400,
+            "end": 24680,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 24680,
+            "end": 24840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sucursal",
+            "start": 24840,
+            "end": 25400,
+            "confidence": 0.8582031,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 25400,
+            "end": 25600,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "Paseo",
+            "start": 25600,
+            "end": 26280,
+            "confidence": 0.82210284,
+            "speaker": "A"
+        },
+        {
+            "text": "Puente",
+            "start": 26280,
+            "end": 26680,
+            "confidence": 0.91015625,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 26680,
+            "end": 26840,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tiene",
+            "start": 26840,
+            "end": 27000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 27000,
+            "end": 27120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cupo",
+            "start": 27120,
+            "end": 27440,
+            "confidence": 0.5559082,
+            "speaker": "A"
+        },
+        {
+            "text": "inicial",
+            "start": 27440,
+            "end": 27800,
+            "confidence": 0.9682617,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 27800,
+            "end": 28080,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "150",
+            "start": 28080,
+            "end": 28720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mil",
+            "start": 28720,
+            "end": 29080,
+            "confidence": 0.8515625,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos.",
+            "start": 29080,
+            "end": 29520,
+            "confidence": 0.93880206,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Buenos días, hablo con don Andrés Guillermo Burgos Garrido. Mucho gusto, le saluda Mayra Tavez, ejecutiva de Fashion Park. Lo llamo para darle la bienvenida a su tarjeta y corroborar algunos datos. Ya para su seguridad, esta llamada está siendo grabada y su tarjeta se habilitó con fecha 2 de septiembre de 2023 en la sucursal de Paseo Puente y tiene un cupo inicial de 150 mil pesos.",
+            "start": 2960,
+            "end": 29520,
+            "confidence": 0.9337864,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 30,
+    "language_code": "es"
+}

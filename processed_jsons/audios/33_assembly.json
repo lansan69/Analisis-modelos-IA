@@ -1,0 +1,412 @@
+{
+    "id": "c8949af9-3932-4afb-9ad5-a639a17de144",
+    "status": "completed",
+    "text": "Me faltaría por último su dirección particular. Mira Flores. Mira Flores. Sí, 2584. ¿En qué comuna está ubicado? Antofagasta, segunda región. Señora Jessica, a continuación le informo los costos administrativos de su tarjeta, que son de 0,097 uso mensual, aproximadamente 3.500 pesos. Se paga solo si la tarjeta se usa.",
+    "words": [
+        {
+            "text": "Me",
+            "start": 4000,
+            "end": 4080,
+            "confidence": 0.7241211,
+            "speaker": "A"
+        },
+        {
+            "text": "faltaría",
+            "start": 4080,
+            "end": 4400,
+            "confidence": 0.9104004,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 4400,
+            "end": 4480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "último",
+            "start": 4480,
+            "end": 4800,
+            "confidence": 0.81136066,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 4800,
+            "end": 5040,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "dirección",
+            "start": 5040,
+            "end": 5400,
+            "confidence": 0.9404297,
+            "speaker": "A"
+        },
+        {
+            "text": "particular.",
+            "start": 5400,
+            "end": 6000,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "Mira",
+            "start": 6880,
+            "end": 7400,
+            "confidence": 0.7089844,
+            "speaker": "B"
+        },
+        {
+            "text": "Flores.",
+            "start": 7400,
+            "end": 7840,
+            "confidence": 0.9992676,
+            "speaker": "B"
+        },
+        {
+            "text": "Mira",
+            "start": 8240,
+            "end": 8800,
+            "confidence": 0.76000977,
+            "speaker": "A"
+        },
+        {
+            "text": "Flores.",
+            "start": 8800,
+            "end": 9120,
+            "confidence": 0.95336914,
+            "speaker": "A"
+        },
+        {
+            "text": "Sí,",
+            "start": 9120,
+            "end": 9680,
+            "confidence": 0.77246094,
+            "speaker": "B"
+        },
+        {
+            "text": "2584.",
+            "start": 9680,
+            "end": 11040,
+            "confidence": 0.93292,
+            "speaker": "B"
+        },
+        {
+            "text": "¿En",
+            "start": 11520,
+            "end": 11800,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "qué",
+            "start": 11800,
+            "end": 11960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "comuna",
+            "start": 11960,
+            "end": 12320,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 12320,
+            "end": 12440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "ubicado?",
+            "start": 12440,
+            "end": 13200,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "Antofagasta,",
+            "start": 13200,
+            "end": 14200,
+            "confidence": 0.85298663,
+            "speaker": "B"
+        },
+        {
+            "text": "segunda",
+            "start": 14200,
+            "end": 14520,
+            "confidence": 0.95963544,
+            "speaker": "B"
+        },
+        {
+            "text": "región.",
+            "start": 14520,
+            "end": 15040,
+            "confidence": 0.80810547,
+            "speaker": "B"
+        },
+        {
+            "text": "Señora",
+            "start": 15280,
+            "end": 15720,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "Jessica,",
+            "start": 15720,
+            "end": 16240,
+            "confidence": 0.90722656,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 16240,
+            "end": 16400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "continuación",
+            "start": 16400,
+            "end": 16680,
+            "confidence": 0.99397784,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 16680,
+            "end": 16800,
+            "confidence": 0.8798828,
+            "speaker": "A"
+        },
+        {
+            "text": "informo",
+            "start": 16800,
+            "end": 17200,
+            "confidence": 0.9567871,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 17200,
+            "end": 17280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "costos",
+            "start": 17280,
+            "end": 17520,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "administrativos",
+            "start": 17520,
+            "end": 18120,
+            "confidence": 0.9506836,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 18120,
+            "end": 18240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 18240,
+            "end": 18360,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta,",
+            "start": 18360,
+            "end": 18760,
+            "confidence": 0.99869794,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 18760,
+            "end": 18880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "son",
+            "start": 18880,
+            "end": 19000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 19000,
+            "end": 19160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "0,097",
+            "start": 19160,
+            "end": 20520,
+            "confidence": 0.99536,
+            "speaker": "A"
+        },
+        {
+            "text": "uso",
+            "start": 20520,
+            "end": 20920,
+            "confidence": 0.8696289,
+            "speaker": "A"
+        },
+        {
+            "text": "mensual,",
+            "start": 20920,
+            "end": 21280,
+            "confidence": 0.9991862,
+            "speaker": "A"
+        },
+        {
+            "text": "aproximadamente",
+            "start": 21280,
+            "end": 21920,
+            "confidence": 0.99886066,
+            "speaker": "A"
+        },
+        {
+            "text": "3.500",
+            "start": 21920,
+            "end": 22800,
+            "confidence": 0.99802,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos.",
+            "start": 22800,
+            "end": 23120,
+            "confidence": 0.8925781,
+            "speaker": "A"
+        },
+        {
+            "text": "Se",
+            "start": 23120,
+            "end": 23280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "paga",
+            "start": 23280,
+            "end": 23560,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "solo",
+            "start": 23560,
+            "end": 23760,
+            "confidence": 0.7211914,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 23760,
+            "end": 23920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 23920,
+            "end": 24040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 24040,
+            "end": 24400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 24400,
+            "end": 24600,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "usa.",
+            "start": 24600,
+            "end": 25040,
+            "confidence": 0.7067871,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Me faltaría por último su dirección particular.",
+            "start": 4000,
+            "end": 6000,
+            "confidence": 0.8733375,
+            "speaker": "A"
+        },
+        {
+            "text": "Mira Flores.",
+            "start": 6880,
+            "end": 7840,
+            "confidence": 0.854126,
+            "speaker": "B"
+        },
+        {
+            "text": "Mira Flores.",
+            "start": 8240,
+            "end": 9120,
+            "confidence": 0.85668945,
+            "speaker": "A"
+        },
+        {
+            "text": "Sí, 2584.",
+            "start": 9120,
+            "end": 11040,
+            "confidence": 0.85269046,
+            "speaker": "B"
+        },
+        {
+            "text": "¿En qué comuna está ubicado?",
+            "start": 11520,
+            "end": 13200,
+            "confidence": 0.99731445,
+            "speaker": "A"
+        },
+        {
+            "text": "Antofagasta, segunda región.",
+            "start": 13200,
+            "end": 15040,
+            "confidence": 0.87357587,
+            "speaker": "B"
+        },
+        {
+            "text": "Señora Jessica, a continuación le informo los costos administrativos de su tarjeta, que son de 0,097 uso mensual, aproximadamente 3.500 pesos. Se paga solo si la tarjeta se usa.",
+            "start": 15280,
+            "end": 25040,
+            "confidence": 0.9515385,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 26,
+    "language_code": "es"
+}

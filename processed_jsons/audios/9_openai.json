@@ -1,0 +1,1204 @@
+{
+    "text": "My Tesla finally came. As I understand, cars depreciate 10% as soon as they fall off the truck. So if the car costs $100, well, you just lost 10. Plus, it has a frunk, a front trunk. You left before me. How was I able to park before you? I had to park on level five. So unlike you, the world understands that I'm saving the planet and has rewarded me with primo spot. What the fuck is that? The cheapest thing I could find that qualified as an electric vehicle. Now you get to park on the fifth floor. It does feel good to be a part of the green revolution. Hey, look at you in your 10s. Oh, you got up early because you thought you could take my space. That's cute. Yeah, I guess this is a bike, isn't it? So I get to use the bike lane. No, bikes don't have to follow traffic laws. That's not fair. You want to get insane? You go vile! Something's wrong with your frunk. You know how much it's going to cost to fix my Tesla? $17,000.",
+    "audio_duration": 58.439998626708984,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "My",
+            "start": 0.0,
+            "end": 0.25999999046325684,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tesla",
+            "start": 0.25999999046325684,
+            "end": 0.6800000071525574,
+            "confidence": 0.99
+        },
+        {
+            "text": "finally",
+            "start": 0.6800000071525574,
+            "end": 1.1399999856948853,
+            "confidence": 0.99
+        },
+        {
+            "text": "came",
+            "start": 1.1399999856948853,
+            "end": 1.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "As",
+            "start": 1.7000000476837158,
+            "end": 1.7000000476837158,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 1.7000000476837158,
+            "end": 1.9600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "understand",
+            "start": 1.9600000381469727,
+            "end": 2.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "cars",
+            "start": 2.9000000953674316,
+            "end": 2.9200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "depreciate",
+            "start": 2.9200000762939453,
+            "end": 3.5799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "10",
+            "start": 3.5799999237060547,
+            "end": 3.9000000953674316,
+            "confidence": 0.99
+        },
+        {
+            "text": "",
+            "start": 3.9000000953674316,
+            "end": 4.28000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 4.28000020980835,
+            "end": 4.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "soon",
+            "start": 4.539999961853027,
+            "end": 4.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 4.559999942779541,
+            "end": 4.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "they",
+            "start": 4.699999809265137,
+            "end": 4.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "fall",
+            "start": 4.880000114440918,
+            "end": 5.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "off",
+            "start": 5.119999885559082,
+            "end": 5.320000171661377,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 5.320000171661377,
+            "end": 5.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "truck",
+            "start": 5.579999923706055,
+            "end": 5.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "So",
+            "start": 5.980000019073486,
+            "end": 6.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "if",
+            "start": 6.400000095367432,
+            "end": 6.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 6.579999923706055,
+            "end": 6.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "car",
+            "start": 6.800000190734863,
+            "end": 7.039999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "costs",
+            "start": 7.039999961853027,
+            "end": 7.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "100",
+            "start": 7.400000095367432,
+            "end": 7.940000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "well",
+            "start": 8.420000076293945,
+            "end": 8.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 8.579999923706055,
+            "end": 8.619999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "just",
+            "start": 8.619999885559082,
+            "end": 8.859999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "lost",
+            "start": 8.859999656677246,
+            "end": 9.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "10",
+            "start": 9.0600004196167,
+            "end": 9.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "Plus",
+            "start": 9.5600004196167,
+            "end": 9.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 9.899999618530273,
+            "end": 10.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "has",
+            "start": 10.020000457763672,
+            "end": 10.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 10.220000267028809,
+            "end": 10.380000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "frunk",
+            "start": 10.380000114440918,
+            "end": 10.819999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 11.020000457763672,
+            "end": 11.220000267028809,
+            "confidence": 0.99
+        },
+        {
+            "text": "front",
+            "start": 11.220000267028809,
+            "end": 11.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "trunk",
+            "start": 11.460000038146973,
+            "end": 11.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 11.899999618530273,
+            "end": 12.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "left",
+            "start": 12.100000381469727,
+            "end": 12.4399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "before",
+            "start": 12.4399995803833,
+            "end": 12.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 12.9399995803833,
+            "end": 13.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "How",
+            "start": 13.199999809265137,
+            "end": 13.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "was",
+            "start": 13.319999694824219,
+            "end": 13.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 13.5,
+            "end": 13.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "able",
+            "start": 13.739999771118164,
+            "end": 13.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 13.760000228881836,
+            "end": 14.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "park",
+            "start": 14.180000305175781,
+            "end": 14.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "before",
+            "start": 14.180000305175781,
+            "end": 14.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 14.520000457763672,
+            "end": 14.859999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 14.9399995803833,
+            "end": 15.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "had",
+            "start": 15.140000343322754,
+            "end": 15.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 15.300000190734863,
+            "end": 15.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "park",
+            "start": 15.5600004196167,
+            "end": 15.5600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "on",
+            "start": 15.5600004196167,
+            "end": 15.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "level",
+            "start": 15.800000190734863,
+            "end": 15.9399995803833,
+            "confidence": 0.99
+        },
+        {
+            "text": "five",
+            "start": 15.9399995803833,
+            "end": 16.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "So",
+            "start": 16.459999084472656,
+            "end": 16.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "unlike",
+            "start": 16.81999969482422,
+            "end": 17.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 17.15999984741211,
+            "end": 17.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 17.65999984741211,
+            "end": 17.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "world",
+            "start": 17.959999084472656,
+            "end": 18.200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "understands",
+            "start": 18.200000762939453,
+            "end": 18.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 18.780000686645508,
+            "end": 19.059999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "I'm",
+            "start": 19.059999465942383,
+            "end": 19.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "saving",
+            "start": 19.399999618530273,
+            "end": 19.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 19.739999771118164,
+            "end": 20.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "planet",
+            "start": 20.440000534057617,
+            "end": 20.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "and",
+            "start": 20.600000381469727,
+            "end": 21.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "has",
+            "start": 21.079999923706055,
+            "end": 21.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "rewarded",
+            "start": 21.399999618530273,
+            "end": 21.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 21.719999313354492,
+            "end": 22.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "with",
+            "start": 22.100000381469727,
+            "end": 22.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "primo",
+            "start": 22.479999542236328,
+            "end": 22.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "spot",
+            "start": 22.81999969482422,
+            "end": 23.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "What",
+            "start": 24.8799991607666,
+            "end": 25.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 25.360000610351562,
+            "end": 25.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "fuck",
+            "start": 25.559999465942383,
+            "end": 25.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 25.579999923706055,
+            "end": 25.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 25.739999771118164,
+            "end": 26.139999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "The",
+            "start": 26.15999984741211,
+            "end": 26.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "cheapest",
+            "start": 26.399999618530273,
+            "end": 26.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "thing",
+            "start": 26.639999389648438,
+            "end": 26.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 26.860000610351562,
+            "end": 27.020000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 27.020000457763672,
+            "end": 27.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "find",
+            "start": 27.260000228881836,
+            "end": 27.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "that",
+            "start": 27.520000457763672,
+            "end": 27.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "qualified",
+            "start": 27.799999237060547,
+            "end": 28.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "as",
+            "start": 28.18000030517578,
+            "end": 28.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "an",
+            "start": 28.399999618530273,
+            "end": 28.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "electric",
+            "start": 28.600000381469727,
+            "end": 28.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "vehicle",
+            "start": 28.799999237060547,
+            "end": 29.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Now",
+            "start": 29.079999923706055,
+            "end": 29.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 29.299999237060547,
+            "end": 29.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "get",
+            "start": 29.440000534057617,
+            "end": 29.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 29.579999923706055,
+            "end": 29.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "park",
+            "start": 29.8799991607666,
+            "end": 29.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "on",
+            "start": 29.920000076293945,
+            "end": 30.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 30.100000381469727,
+            "end": 30.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "fifth",
+            "start": 30.280000686645508,
+            "end": 30.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "floor",
+            "start": 30.459999084472656,
+            "end": 30.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "It",
+            "start": 31.0,
+            "end": 31.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "does",
+            "start": 31.1200008392334,
+            "end": 31.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "feel",
+            "start": 31.360000610351562,
+            "end": 31.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "good",
+            "start": 31.520000457763672,
+            "end": 31.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 31.68000030517578,
+            "end": 31.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "be",
+            "start": 31.799999237060547,
+            "end": 31.8799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 31.8799991607666,
+            "end": 32.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "part",
+            "start": 32.099998474121094,
+            "end": 32.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "of",
+            "start": 32.099998474121094,
+            "end": 32.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 32.18000030517578,
+            "end": 32.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "green",
+            "start": 32.31999969482422,
+            "end": 32.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "revolution",
+            "start": 32.5,
+            "end": 32.97999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hey",
+            "start": 33.20000076293945,
+            "end": 33.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "look",
+            "start": 33.939998626708984,
+            "end": 34.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "at",
+            "start": 34.18000030517578,
+            "end": 34.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 34.31999969482422,
+            "end": 34.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "in",
+            "start": 34.58000183105469,
+            "end": 34.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 34.7599983215332,
+            "end": 35.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "10s",
+            "start": 35.040000915527344,
+            "end": 35.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 35.58000183105469,
+            "end": 35.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 35.84000015258789,
+            "end": 36.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "got",
+            "start": 36.0,
+            "end": 36.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "up",
+            "start": 36.18000030517578,
+            "end": 36.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "early",
+            "start": 36.400001525878906,
+            "end": 36.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "because",
+            "start": 36.65999984741211,
+            "end": 36.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 36.84000015258789,
+            "end": 37.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "thought",
+            "start": 37.18000030517578,
+            "end": 37.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "you",
+            "start": 37.220001220703125,
+            "end": 37.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "could",
+            "start": 37.34000015258789,
+            "end": 37.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "take",
+            "start": 37.459999084472656,
+            "end": 37.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 37.68000030517578,
+            "end": 37.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "space",
+            "start": 37.939998626708984,
+            "end": 38.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "That's",
+            "start": 38.5,
+            "end": 38.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "cute",
+            "start": 38.91999816894531,
+            "end": 39.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "Yeah",
+            "start": 39.36000061035156,
+            "end": 39.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 39.65999984741211,
+            "end": 39.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "guess",
+            "start": 39.900001525878906,
+            "end": 39.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "this",
+            "start": 39.900001525878906,
+            "end": 40.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "is",
+            "start": 40.099998474121094,
+            "end": 40.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 40.279998779296875,
+            "end": 40.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "bike",
+            "start": 40.63999938964844,
+            "end": 40.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "isn't",
+            "start": 40.84000015258789,
+            "end": 40.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "it",
+            "start": 40.880001068115234,
+            "end": 41.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "So",
+            "start": 41.040000915527344,
+            "end": 41.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "I",
+            "start": 41.20000076293945,
+            "end": 41.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "get",
+            "start": 41.34000015258789,
+            "end": 41.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 41.459999084472656,
+            "end": 41.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "use",
+            "start": 41.720001220703125,
+            "end": 41.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "the",
+            "start": 41.81999969482422,
+            "end": 42.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "bike",
+            "start": 42.060001373291016,
+            "end": 42.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "lane",
+            "start": 42.279998779296875,
+            "end": 42.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 43.34000015258789,
+            "end": 43.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "bikes",
+            "start": 43.779998779296875,
+            "end": 44.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "don't",
+            "start": 44.119998931884766,
+            "end": 44.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "have",
+            "start": 44.599998474121094,
+            "end": 44.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 44.779998779296875,
+            "end": 45.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "follow",
+            "start": 45.099998474121094,
+            "end": 45.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "traffic",
+            "start": 45.099998474121094,
+            "end": 45.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "laws",
+            "start": 45.439998626708984,
+            "end": 45.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "That's",
+            "start": 45.7599983215332,
+            "end": 46.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "not",
+            "start": 46.02000045776367,
+            "end": 46.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "fair",
+            "start": 46.459999084472656,
+            "end": 46.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 46.81999969482422,
+            "end": 47.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "want",
+            "start": 47.02000045776367,
+            "end": 47.08000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 47.08000183105469,
+            "end": 47.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "get",
+            "start": 47.15999984741211,
+            "end": 47.439998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "insane",
+            "start": 47.439998626708984,
+            "end": 47.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 49.459999084472656,
+            "end": 49.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "go",
+            "start": 49.900001525878906,
+            "end": 50.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "vile",
+            "start": 50.15999984741211,
+            "end": 50.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Something's",
+            "start": 53.31999969482422,
+            "end": 53.7599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "wrong",
+            "start": 53.7599983215332,
+            "end": 53.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "with",
+            "start": 53.939998626708984,
+            "end": 54.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "your",
+            "start": 54.119998931884766,
+            "end": 54.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "frunk",
+            "start": 54.70000076293945,
+            "end": 55.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "You",
+            "start": 55.20000076293945,
+            "end": 55.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "know",
+            "start": 55.31999969482422,
+            "end": 55.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "how",
+            "start": 55.41999816894531,
+            "end": 55.58000183105469,
+            "confidence": 0.99
+        },
+        {
+            "text": "much",
+            "start": 55.58000183105469,
+            "end": 55.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "it's",
+            "start": 55.599998474121094,
+            "end": 55.779998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "going",
+            "start": 55.779998779296875,
+            "end": 55.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 55.84000015258789,
+            "end": 56.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "cost",
+            "start": 56.02000045776367,
+            "end": 56.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "to",
+            "start": 56.20000076293945,
+            "end": 56.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "fix",
+            "start": 56.5,
+            "end": 56.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "my",
+            "start": 56.5,
+            "end": 56.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tesla",
+            "start": 56.7400016784668,
+            "end": 57.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "17",
+            "start": 57.400001525878906,
+            "end": 57.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "000",
+            "start": 57.84000015258789,
+            "end": 58.02000045776367,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "My Tesla finally came. As I understand, cars depreciate 10% as soon as they fall off the truck. So if the car costs $100, well, you just lost 10.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Plus, it has a frunk, a front trunk. You left before me. How was I able to park before you? I had to park on level five.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "segment": "So unlike you, the world understands that I'm saving the planet and has rewarded me with primo spot.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "What the fuck is that? The cheapest thing I could find that qualified as an electric vehicle.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "Now you get to park on the fifth floor. It does feel good to be a part of the green revolution.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.88
+        },
+        {
+            "segment": "Hey, look at you in your 10s. Oh, you got up early because you thought you could take my space. That's cute.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        },
+        {
+            "segment": "Yeah, I guess this is a bike, isn't it? So I get to use the bike lane.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "segment": "No, bikes don't have to follow traffic laws. That's not fair. You want to get insane? You go vile!",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.82
+        },
+        {
+            "segment": "Something's wrong with your frunk. You know how much it's going to cost to fix my Tesla? $17,000.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.9
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Tesla Arrival and Reactions",
+            "summary": "The speaker expresses mixed feelings about their new Tesla, from excitement about electric vehicles to annoyance at parking challenges and repair costs.",
+            "start": 0,
+            "end": 180
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "english"
+}

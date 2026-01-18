@@ -1,0 +1,303 @@
+{
+    "text": "A continuación, necesitamos validar su titularidad, por favor, me indica su número de root, que comienza Andrés, por favor. 12-640-0535 Correcto, muy amable. ¿Y tiene algún correo electrónico para poder mandar su estado de cuenta? Sí. Andrés, con mi núcleo, andrés.gurgo",
+    "audio_duration": 27.760000228881836,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "A",
+            "start": 0.0,
+            "end": 0.8999999761581421,
+            "confidence": 0.99
+        },
+        {
+            "text": "continuación",
+            "start": 0.8999999761581421,
+            "end": 1.2000000476837158,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesitamos",
+            "start": 1.3200000524520874,
+            "end": 1.7999999523162842,
+            "confidence": 0.99
+        },
+        {
+            "text": "validar",
+            "start": 1.7999999523162842,
+            "end": 2.240000009536743,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 2.240000009536743,
+            "end": 2.440000057220459,
+            "confidence": 0.99
+        },
+        {
+            "text": "titularidad",
+            "start": 2.440000057220459,
+            "end": 2.9200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 3.0999999046325684,
+            "end": 3.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "favor",
+            "start": 3.5,
+            "end": 3.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 3.5999999046325684,
+            "end": 3.819999933242798,
+            "confidence": 0.99
+        },
+        {
+            "text": "indica",
+            "start": 3.819999933242798,
+            "end": 3.9200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 3.9200000762939453,
+            "end": 4.139999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "número",
+            "start": 4.139999866485596,
+            "end": 4.28000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 4.28000020980835,
+            "end": 4.639999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "root",
+            "start": 4.639999866485596,
+            "end": 4.639999866485596,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 4.679999828338623,
+            "end": 4.820000171661377,
+            "confidence": 0.99
+        },
+        {
+            "text": "comienza",
+            "start": 4.820000171661377,
+            "end": 5.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "Andrés",
+            "start": 5.119999885559082,
+            "end": 5.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 5.420000076293945,
+            "end": 6.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "favor",
+            "start": 6.079999923706055,
+            "end": 6.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "12",
+            "start": 8.5,
+            "end": 9.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "640",
+            "start": 9.100000381469727,
+            "end": 9.699999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "0535",
+            "start": 9.699999809265137,
+            "end": 12.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Correcto",
+            "start": 13.739999771118164,
+            "end": 14.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "muy",
+            "start": 14.399999618530273,
+            "end": 14.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "amable",
+            "start": 14.520000457763672,
+            "end": 14.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Y",
+            "start": 14.84000015258789,
+            "end": 14.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiene",
+            "start": 14.979999542236328,
+            "end": 15.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "algún",
+            "start": 15.119999885559082,
+            "end": 15.460000038146973,
+            "confidence": 0.99
+        },
+        {
+            "text": "correo",
+            "start": 15.460000038146973,
+            "end": 15.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "electrónico",
+            "start": 15.65999984741211,
+            "end": 16.280000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 16.280000686645508,
+            "end": 16.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "poder",
+            "start": 16.459999084472656,
+            "end": 16.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "mandar",
+            "start": 16.780000686645508,
+            "end": 16.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 16.979999542236328,
+            "end": 17.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "estado",
+            "start": 17.18000030517578,
+            "end": 17.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 17.34000015258789,
+            "end": 17.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuenta",
+            "start": 17.860000610351562,
+            "end": 17.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sí",
+            "start": 18.780000686645508,
+            "end": 19.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Andrés",
+            "start": 21.520000457763672,
+            "end": 21.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 21.979999542236328,
+            "end": 22.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 22.639999389648438,
+            "end": 23.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "núcleo",
+            "start": 23.100000381469727,
+            "end": 23.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "andrés",
+            "start": 24.020000457763672,
+            "end": 24.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "gurgo",
+            "start": 24.520000457763672,
+            "end": 27.020000457763672,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "segment": "A continuación, necesitamos validar su titularidad, por favor, me indica su número de root, que comienza Andrés, por favor.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "segment": "12-640-0535 Correcto, muy amable.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "¿Y tiene algún correo electrónico para poder mandar su estado de cuenta?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "segment": "Sí. Andrés, con mi núcleo, andrés.gurgo",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "Validación de Titularidad",
+            "summary": "En este segmento, se solicita la validación de la titularidad con el número de root y se menciona un correo electrónico para el envío del estado de cuenta.",
+            "start": 0,
+            "end": 30
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

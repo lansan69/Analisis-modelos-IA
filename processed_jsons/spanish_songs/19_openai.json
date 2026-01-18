@@ -1,174 +1,144 @@
 {
-    "text": "What are you looking at? Nothing. Sorry. Sorry, sir. Finish your job and let yourself out. I'm already late for my vacation. Come on. Let's go. **** you, flaco. Flaco. I don't know what that means. Te quieres comer mi mandado. So vacation, huh? All right. It'll be clean when you get back. White Records. I hate that guy. Presenta Chris Brown. I've been looking for you for a while now, oh, and I, I just can't get you out of my mind. So mama, just hold my hand and move your body, I'm your man, I need your body, can I take you there? Can I take you there? And you could be the love of my life. Seguimos acercándonos. We are alone. Sintiéndonos. Besándonos. Man, I gotta get to her, she's the only one I want up in my crib, all my crib, cuz I think with her, and I don't think she knows how beautiful she is, oh, she is, and when the moon comes up, and the mood is just right, we go, and what we do between us, we do it all night, and she knows, yeah, yeah. La generosidad. Hay algo que me gusta de ti, y ese algo me encanta, siento que eres necesaria para mi. Me vuelve loco tu pelo, tu boca, tu piel, tu cintura, dura, dura, hey, hey. Me vuelve loco tu pelo, tu boca, tu piel, tu cintura, dura, dura, hey, hey. Ruéntalo. Seguimos acercándonos. Sintiéndonos. Besándonos. Seguimos acercándonos. Líderes. Doble Yandel. En conexión con T-Pain. Chris Brown. Legendarios. W. White Records. Chris Brown.  O'Neal. La base del químico.  Multimedia Records.",
+    "text": "¿Qué estás mirando? Nada, perdón, nada, perdón señor. Termina tu trabajo y déjate ir. Ya estoy tarde para mi vacación. Vamos, vamos. Mierda, flaco. Flaco, no sé qué significa eso. ¿Te quieres comer mi mandado? ¿Vacación, eh? Muy bien. Será limpio cuando vuelvas. White Records. ¿Qué es eso? Presenta Chris Brown. T-Pain. W. Yandel. Hay algo que me gusta de ti. Y ese algo me encanta. Siento que eres necesaria para mí. Igual que el ojo, tu pelo, tu boca, tu piel. Siento que eres necesaria para mí. Igual que el ojo, tu pelo, tu boca, tu piel. Siento que eres necesaria para mí. Seguimos avanzando. Tú y yo. Sintiéndonos. Besándonos. Seguimos avanzando. Tú y yo. Sin que nadie nos vea. Disfrutándonos. ¿Por qué me llamas así? He estado buscando a ti por un tiempo. Y ahora. Oh, y ahora. No puedo dejar de pensar en ti. Así que, mamá, solo agarra mi mano y mueve tu cuerpo. Soy tu hombre. Necesito tu cuerpo. ¿Puedo tomártelo? ¿Puedo tomártelo? Y tú podrías ser el amor de mi vida. Seguimos avanzando. Tú y yo. Sintiéndonos. Besándonos. Seguimos avanzando. Tú y yo. Sin que nadie nos vea. Disfrutándonos. Oh, y ahora. No puedo dejar de pensar en ti.     Oh, oh, oh. Y, y. ¡La generación! Hay algo que me gusta de ti. Y ese algo me encanta. Siento que eres necesaria para mí. Me vuelve loco tu pelo, tu boca, tu viento, su mirada dura, dura. Me vuelve loco tu pelo, tu boca, tu viento, su mirada dura, dura. Seguimos avanzando. Tú y yo. Sintiéndonos. Besándonos. Tú y yo. Seguimos avanzando. Tú y yo. Sin que nadie nos vea. Disfrutándonos. Doble Yandel. En colección con T-Pain. Chris Brown. Legendarios. W. White Records. ¡Chris Brown! ¡Chris Jedi! ¡O'Neal! Teclabaza El Químico. ¡Ole! Multimedia Records. Subtítulos realizados por la comunidad de Amara.org",
     "audio_duration": 295.80999755859375,
     "confidence": 0.36787944117144233,
     "words": [
         {
-            "text": "What",
-            "start": 4.900000095367432,
-            "end": 5.380000114440918,
+            "text": "¿Qué",
+            "start": 4.880000114440918,
+            "end": 5.460000038146973,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 5.380000114440918,
-            "end": 5.539999961853027,
+            "text": "estás",
+            "start": 5.460000038146973,
+            "end": 6.0,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 5.539999961853027,
-            "end": 5.739999771118164,
+            "text": "mirando",
+            "start": 6.0,
+            "end": 6.0,
             "confidence": 0.99
         },
         {
-            "text": "looking",
-            "start": 5.739999771118164,
-            "end": 6.039999961853027,
-            "confidence": 0.99
-        },
-        {
-            "text": "at",
-            "start": 6.039999961853027,
-            "end": 6.320000171661377,
-            "confidence": 0.99
-        },
-        {
-            "text": "Nothing",
-            "start": 6.559999942779541,
+            "text": "Nada",
+            "start": 6.300000190734863,
             "end": 6.579999923706055,
             "confidence": 0.99
         },
         {
-            "text": "Sorry",
-            "start": 6.980000019073486,
-            "end": 7.119999885559082,
+            "text": "perdón",
+            "start": 7.039999961853027,
+            "end": 7.159999847412109,
             "confidence": 0.99
         },
         {
-            "text": "Sorry",
-            "start": 7.360000133514404,
-            "end": 7.760000228881836,
+            "text": "nada",
+            "start": 7.159999847412109,
+            "end": 7.920000076293945,
             "confidence": 0.99
         },
         {
-            "text": "sir",
-            "start": 7.980000019073486,
-            "end": 7.980000019073486,
+            "text": "perdón",
+            "start": 7.920000076293945,
+            "end": 7.920000076293945,
             "confidence": 0.99
         },
         {
-            "text": "Finish",
-            "start": 8.119999885559082,
-            "end": 8.300000190734863,
+            "text": "señor",
+            "start": 7.920000076293945,
+            "end": 8.199999809265137,
             "confidence": 0.99
         },
         {
-            "text": "your",
-            "start": 8.300000190734863,
-            "end": 8.5600004196167,
+            "text": "Termina",
+            "start": 8.199999809265137,
+            "end": 8.34000015258789,
             "confidence": 0.99
         },
         {
-            "text": "job",
-            "start": 8.5600004196167,
-            "end": 8.9399995803833,
+            "text": "tu",
+            "start": 8.34000015258789,
+            "end": 8.619999885559082,
             "confidence": 0.99
         },
         {
-            "text": "and",
-            "start": 8.9399995803833,
-            "end": 9.260000228881836,
+            "text": "trabajo",
+            "start": 8.619999885559082,
+            "end": 8.84000015258789,
             "confidence": 0.99
         },
         {
-            "text": "let",
-            "start": 9.260000228881836,
-            "end": 9.399999618530273,
+            "text": "y",
+            "start": 8.84000015258789,
+            "end": 9.479999542236328,
             "confidence": 0.99
         },
         {
-            "text": "yourself",
-            "start": 9.399999618530273,
-            "end": 9.800000190734863,
+            "text": "déjate",
+            "start": 9.479999542236328,
+            "end": 9.479999542236328,
             "confidence": 0.99
         },
         {
-            "text": "out",
-            "start": 9.800000190734863,
-            "end": 10.15999984741211,
+            "text": "ir",
+            "start": 9.479999542236328,
+            "end": 9.479999542236328,
             "confidence": 0.99
         },
         {
-            "text": "I'm",
-            "start": 10.260000228881836,
-            "end": 10.5,
+            "text": "Ya",
+            "start": 10.300000190734863,
+            "end": 10.760000228881836,
             "confidence": 0.99
         },
         {
-            "text": "already",
-            "start": 10.5,
-            "end": 10.880000114440918,
+            "text": "estoy",
+            "start": 10.760000228881836,
+            "end": 10.899999618530273,
             "confidence": 0.99
         },
         {
-            "text": "late",
-            "start": 10.880000114440918,
-            "end": 11.140000343322754,
+            "text": "tarde",
+            "start": 10.899999618530273,
+            "end": 11.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "for",
-            "start": 11.140000343322754,
+            "text": "para",
+            "start": 11.100000381469727,
             "end": 11.319999694824219,
             "confidence": 0.99
         },
         {
-            "text": "my",
+            "text": "mi",
             "start": 11.319999694824219,
-            "end": 11.5600004196167,
+            "end": 11.960000038146973,
             "confidence": 0.99
         },
         {
-            "text": "vacation",
-            "start": 11.5600004196167,
-            "end": 12.039999961853027,
+            "text": "vacación",
+            "start": 11.960000038146973,
+            "end": 12.020000457763672,
             "confidence": 0.99
         },
         {
-            "text": "Come",
-            "start": 12.319999694824219,
-            "end": 12.5,
+            "text": "Vamos",
+            "start": 12.539999961853027,
+            "end": 12.600000381469727,
             "confidence": 0.99
         },
         {
-            "text": "on",
-            "start": 12.5,
-            "end": 12.680000305175781,
+            "text": "vamos",
+            "start": 12.680000305175781,
+            "end": 12.9399995803833,
             "confidence": 0.99
         },
         {
-            "text": "Let's",
-            "start": 12.699999809265137,
-            "end": 12.859999656677246,
-            "confidence": 0.99
-        },
-        {
-            "text": "go",
-            "start": 12.859999656677246,
-            "end": 13.119999885559082,
-            "confidence": 0.99
-        },
-        {
-            "text": "",
-            "start": 13.220000267028809,
-            "end": 13.5600004196167,
-            "confidence": 0.99
-        },
-        {
-            "text": "you",
-            "start": 13.5600004196167,
-            "end": 14.039999961853027,
+            "text": "Mierda",
+            "start": 13.199999809265137,
+            "end": 13.720000267028809,
             "confidence": 0.99
         },
         {
@@ -179,49 +149,43 @@
         },
         {
             "text": "Flaco",
-            "start": 14.420000076293945,
-            "end": 14.479999542236328,
+            "start": 14.479999542236328,
+            "end": 14.520000457763672,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 14.800000190734863,
-            "end": 15.020000457763672,
+            "text": "no",
+            "start": 14.699999809265137,
+            "end": 15.0600004196167,
             "confidence": 0.99
         },
         {
-            "text": "don't",
-            "start": 15.020000457763672,
-            "end": 15.039999961853027,
+            "text": "sé",
+            "start": 15.0600004196167,
+            "end": 15.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "know",
-            "start": 15.039999961853027,
-            "end": 15.119999885559082,
-            "confidence": 0.99
-        },
-        {
-            "text": "what",
-            "start": 15.119999885559082,
+            "text": "qué",
+            "start": 15.100000381469727,
             "end": 15.239999771118164,
             "confidence": 0.99
         },
         {
-            "text": "that",
+            "text": "significa",
             "start": 15.239999771118164,
-            "end": 15.520000457763672,
+            "end": 15.720000267028809,
             "confidence": 0.99
         },
         {
-            "text": "means",
-            "start": 15.520000457763672,
-            "end": 15.739999771118164,
+            "text": "eso",
+            "start": 15.720000267028809,
+            "end": 15.720000267028809,
             "confidence": 0.99
         },
         {
-            "text": "Te",
-            "start": 15.899999618530273,
+            "text": "¿Te",
+            "start": 15.859999656677246,
             "end": 16.079999923706055,
             "confidence": 0.99
         },
@@ -234,12 +198,12 @@
         {
             "text": "comer",
             "start": 16.34000015258789,
-            "end": 16.65999984741211,
+            "end": 16.639999389648438,
             "confidence": 0.99
         },
         {
             "text": "mi",
-            "start": 16.65999984741211,
+            "start": 16.639999389648438,
             "end": 16.899999618530273,
             "confidence": 0.99
         },
@@ -250,122 +214,92 @@
             "confidence": 0.99
         },
         {
-            "text": "So",
-            "start": 17.579999923706055,
-            "end": 17.780000686645508,
+            "text": "¿Vacación",
+            "start": 17.600000381469727,
+            "end": 18.139999389648438,
             "confidence": 0.99
         },
         {
-            "text": "vacation",
-            "start": 17.780000686645508,
-            "end": 18.200000762939453,
+            "text": "eh",
+            "start": 18.3799991607666,
+            "end": 18.65999984741211,
             "confidence": 0.99
         },
         {
-            "text": "huh",
-            "start": 18.31999969482422,
-            "end": 18.639999389648438,
+            "text": "Muy",
+            "start": 18.68000030517578,
+            "end": 19.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 18.719999313354492,
-            "end": 19.200000762939453,
+            "text": "bien",
+            "start": 19.100000381469727,
+            "end": 19.100000381469727,
             "confidence": 0.99
         },
         {
-            "text": "right",
-            "start": 19.200000762939453,
-            "end": 19.200000762939453,
+            "text": "Será",
+            "start": 19.799999237060547,
+            "end": 19.799999237060547,
             "confidence": 0.99
         },
         {
-            "text": "It'll",
-            "start": 19.299999237060547,
-            "end": 19.600000381469727,
+            "text": "limpio",
+            "start": 19.799999237060547,
+            "end": 20.020000457763672,
             "confidence": 0.99
         },
         {
-            "text": "be",
-            "start": 19.600000381469727,
-            "end": 19.81999969482422,
+            "text": "cuando",
+            "start": 20.020000457763672,
+            "end": 20.239999771118164,
             "confidence": 0.99
         },
         {
-            "text": "clean",
-            "start": 19.81999969482422,
-            "end": 20.040000915527344,
-            "confidence": 0.99
-        },
-        {
-            "text": "when",
-            "start": 20.040000915527344,
-            "end": 20.219999313354492,
-            "confidence": 0.99
-        },
-        {
-            "text": "you",
-            "start": 20.219999313354492,
-            "end": 20.34000015258789,
-            "confidence": 0.99
-        },
-        {
-            "text": "get",
-            "start": 20.34000015258789,
-            "end": 20.600000381469727,
-            "confidence": 0.99
-        },
-        {
-            "text": "back",
-            "start": 20.600000381469727,
-            "end": 21.139999389648438,
+            "text": "vuelvas",
+            "start": 20.239999771118164,
+            "end": 20.6200008392334,
             "confidence": 0.99
         },
         {
             "text": "White",
-            "start": 22.100000381469727,
-            "end": 22.459999084472656,
+            "start": 21.899999618530273,
+            "end": 22.479999542236328,
             "confidence": 0.99
         },
         {
             "text": "Records",
-            "start": 22.459999084472656,
-            "end": 23.020000457763672,
+            "start": 22.479999542236328,
+            "end": 23.059999465942383,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 23.719999313354492,
-            "end": 23.899999618530273,
+            "text": "¿Qué",
+            "start": 23.700000762939453,
+            "end": 24.15999984741211,
             "confidence": 0.99
         },
         {
-            "text": "hate",
-            "start": 23.899999618530273,
-            "end": 23.959999084472656,
+            "text": "es",
+            "start": 24.15999984741211,
+            "end": 24.15999984741211,
             "confidence": 0.99
         },
         {
-            "text": "that",
-            "start": 23.959999084472656,
-            "end": 24.18000030517578,
-            "confidence": 0.99
-        },
-        {
-            "text": "guy",
-            "start": 24.18000030517578,
-            "end": 24.3799991607666,
+            "text": "eso",
+            "start": 24.15999984741211,
+            "end": 24.15999984741211,
             "confidence": 0.99
         },
         {
             "text": "Presenta",
-            "start": 26.239999771118164,
-            "end": 26.719999313354492,
+            "start": 26.040000915527344,
+            "end": 26.6200008392334,
             "confidence": 0.99
         },
         {
             "text": "Chris",
-            "start": 26.719999313354492,
+            "start": 26.6200008392334,
             "end": 27.200000762939453,
             "confidence": 0.99
         },
@@ -376,818 +310,992 @@
             "confidence": 0.99
         },
         {
-            "text": "I've",
-            "start": 100.91999816894531,
-            "end": 101.80000305175781,
+            "text": "T",
+            "start": 29.420000076293945,
+            "end": 30.280000686645508,
             "confidence": 0.99
         },
         {
-            "text": "been",
-            "start": 101.80000305175781,
-            "end": 102.68000030517578,
+            "text": "Pain",
+            "start": 30.280000686645508,
+            "end": 31.139999389648438,
             "confidence": 0.99
         },
         {
-            "text": "looking",
-            "start": 102.68000030517578,
-            "end": 103.04000091552734,
+            "text": "W",
+            "start": 31.15999984741211,
+            "end": 32.02000045776367,
             "confidence": 0.99
         },
         {
-            "text": "for",
-            "start": 103.04000091552734,
-            "end": 103.68000030517578,
+            "text": "Yandel",
+            "start": 32.18000030517578,
+            "end": 32.560001373291016,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 103.68000030517578,
-            "end": 104.22000122070312,
+            "text": "Hay",
+            "start": 36.619998931884766,
+            "end": 37.47999954223633,
             "confidence": 0.99
         },
         {
-            "text": "for",
-            "start": 104.22000122070312,
-            "end": 104.63999938964844,
+            "text": "algo",
+            "start": 37.47999954223633,
+            "end": 38.34000015258789,
             "confidence": 0.99
         },
         {
-            "text": "a",
-            "start": 104.63999938964844,
-            "end": 105.0999984741211,
+            "text": "que",
+            "start": 38.34000015258789,
+            "end": 38.70000076293945,
             "confidence": 0.99
         },
         {
-            "text": "while",
-            "start": 105.0999984741211,
-            "end": 105.31999969482422,
+            "text": "me",
+            "start": 38.70000076293945,
+            "end": 39.279998779296875,
             "confidence": 0.99
         },
         {
-            "text": "now",
-            "start": 105.31999969482422,
-            "end": 107.0999984741211,
+            "text": "gusta",
+            "start": 39.279998779296875,
+            "end": 39.279998779296875,
             "confidence": 0.99
         },
         {
-            "text": "oh",
-            "start": 107.0999984741211,
-            "end": 108.05999755859375,
+            "text": "de",
+            "start": 39.279998779296875,
+            "end": 41.060001373291016,
             "confidence": 0.99
         },
         {
-            "text": "and",
-            "start": 108.12000274658203,
-            "end": 108.31999969482422,
+            "text": "ti",
+            "start": 41.060001373291016,
+            "end": 41.060001373291016,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 108.31999969482422,
-            "end": 109.22000122070312,
+            "text": "Y",
+            "start": 41.560001373291016,
+            "end": 42.41999816894531,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 109.62000274658203,
-            "end": 109.73999786376953,
+            "text": "ese",
+            "start": 42.41999816894531,
+            "end": 42.79999923706055,
             "confidence": 0.99
         },
         {
-            "text": "just",
-            "start": 109.73999786376953,
-            "end": 110.05999755859375,
+            "text": "algo",
+            "start": 42.79999923706055,
+            "end": 43.08000183105469,
             "confidence": 0.99
         },
         {
-            "text": "can't",
-            "start": 110.05999755859375,
-            "end": 110.68000030517578,
+            "text": "me",
+            "start": 43.08000183105469,
+            "end": 43.459999084472656,
             "confidence": 0.99
         },
         {
-            "text": "get",
-            "start": 110.68000030517578,
-            "end": 111.0,
+            "text": "encanta",
+            "start": 43.459999084472656,
+            "end": 44.040000915527344,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 111.0,
-            "end": 111.4000015258789,
+            "text": "Siento",
+            "start": 45.97999954223633,
+            "end": 46.040000915527344,
             "confidence": 0.99
         },
         {
-            "text": "out",
-            "start": 111.4000015258789,
-            "end": 111.45999908447266,
+            "text": "que",
+            "start": 46.040000915527344,
+            "end": 46.5,
             "confidence": 0.99
         },
         {
-            "text": "of",
-            "start": 111.45999908447266,
-            "end": 111.68000030517578,
+            "text": "eres",
+            "start": 46.5,
+            "end": 46.720001220703125,
             "confidence": 0.99
         },
         {
-            "text": "my",
-            "start": 111.68000030517578,
-            "end": 112.4000015258789,
+            "text": "necesaria",
+            "start": 46.720001220703125,
+            "end": 47.939998626708984,
             "confidence": 0.99
         },
         {
-            "text": "mind",
-            "start": 113.05999755859375,
-            "end": 113.94000244140625,
+            "text": "para",
+            "start": 47.939998626708984,
+            "end": 48.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "So",
-            "start": 113.94000244140625,
-            "end": 114.9000015258789,
+            "text": "mí",
+            "start": 48.63999938964844,
+            "end": 49.97999954223633,
             "confidence": 0.99
         },
         {
-            "text": "mama",
-            "start": 114.9000015258789,
-            "end": 115.33999633789062,
+            "text": "Igual",
+            "start": 50.63999938964844,
+            "end": 50.939998626708984,
             "confidence": 0.99
         },
         {
-            "text": "just",
-            "start": 115.69999694824219,
-            "end": 115.86000061035156,
+            "text": "que",
+            "start": 50.939998626708984,
+            "end": 51.119998931884766,
             "confidence": 0.99
         },
         {
-            "text": "hold",
-            "start": 115.86000061035156,
-            "end": 116.31999969482422,
+            "text": "el",
+            "start": 51.119998931884766,
+            "end": 51.52000045776367,
             "confidence": 0.99
         },
         {
-            "text": "my",
-            "start": 116.31999969482422,
-            "end": 117.27999877929688,
+            "text": "ojo",
+            "start": 51.52000045776367,
+            "end": 51.599998474121094,
             "confidence": 0.99
         },
         {
-            "text": "hand",
-            "start": 117.27999877929688,
-            "end": 117.30000305175781,
+            "text": "tu",
+            "start": 51.84000015258789,
+            "end": 52.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "and",
-            "start": 117.30000305175781,
-            "end": 118.08000183105469,
+            "text": "pelo",
+            "start": 52.63999938964844,
+            "end": 52.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "move",
-            "start": 118.08000183105469,
-            "end": 118.13999938964844,
+            "text": "tu",
+            "start": 52.84000015258789,
+            "end": 53.599998474121094,
             "confidence": 0.99
         },
         {
-            "text": "your",
-            "start": 118.13999938964844,
-            "end": 118.5199966430664,
+            "text": "boca",
+            "start": 53.599998474121094,
+            "end": 53.599998474121094,
             "confidence": 0.99
         },
         {
-            "text": "body",
-            "start": 118.5199966430664,
-            "end": 119.0199966430664,
+            "text": "tu",
+            "start": 54.0,
+            "end": 54.2599983215332,
             "confidence": 0.99
         },
         {
-            "text": "I'm",
-            "start": 119.0199966430664,
-            "end": 119.95999908447266,
+            "text": "piel",
+            "start": 54.2599983215332,
+            "end": 54.2599983215332,
             "confidence": 0.99
         },
         {
-            "text": "your",
-            "start": 119.95999908447266,
-            "end": 120.5199966430664,
+            "text": "Siento",
+            "start": 54.2599983215332,
+            "end": 54.900001525878906,
             "confidence": 0.99
         },
         {
-            "text": "man",
-            "start": 120.5199966430664,
-            "end": 121.0199966430664,
+            "text": "que",
+            "start": 54.900001525878906,
+            "end": 55.36000061035156,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 121.04000091552734,
-            "end": 121.66000366210938,
+            "text": "eres",
+            "start": 55.36000061035156,
+            "end": 56.939998626708984,
             "confidence": 0.99
         },
         {
-            "text": "need",
-            "start": 121.66000366210938,
-            "end": 121.9000015258789,
+            "text": "necesaria",
+            "start": 56.939998626708984,
+            "end": 56.959999084472656,
             "confidence": 0.99
         },
         {
-            "text": "your",
-            "start": 121.9000015258789,
-            "end": 122.22000122070312,
+            "text": "para",
+            "start": 56.959999084472656,
+            "end": 58.099998474121094,
             "confidence": 0.99
         },
         {
-            "text": "body",
-            "start": 122.22000122070312,
-            "end": 122.86000061035156,
+            "text": "mí",
+            "start": 58.099998474121094,
+            "end": 58.099998474121094,
             "confidence": 0.99
         },
         {
-            "text": "can",
-            "start": 122.91999816894531,
-            "end": 123.23999786376953,
+            "text": "Igual",
+            "start": 58.099998474121094,
+            "end": 58.36000061035156,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 123.23999786376953,
-            "end": 123.41999816894531,
+            "text": "que",
+            "start": 58.36000061035156,
+            "end": 58.560001373291016,
             "confidence": 0.99
         },
         {
-            "text": "take",
-            "start": 123.41999816894531,
-            "end": 123.62000274658203,
+            "text": "el",
+            "start": 58.560001373291016,
+            "end": 58.560001373291016,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 123.62000274658203,
-            "end": 123.73999786376953,
+            "text": "ojo",
+            "start": 58.560001373291016,
+            "end": 58.939998626708984,
             "confidence": 0.99
         },
         {
-            "text": "there",
-            "start": 123.73999786376953,
-            "end": 124.22000122070312,
+            "text": "tu",
+            "start": 59.20000076293945,
+            "end": 59.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "Can",
-            "start": 124.77999877929688,
-            "end": 125.05999755859375,
+            "text": "pelo",
+            "start": 59.63999938964844,
+            "end": 60.060001373291016,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 125.05999755859375,
-            "end": 125.30000305175781,
+            "text": "tu",
+            "start": 60.58000183105469,
+            "end": 61.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "take",
-            "start": 125.30000305175781,
-            "end": 125.45999908447266,
+            "text": "boca",
+            "start": 61.13999938964844,
+            "end": 61.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 125.45999908447266,
-            "end": 125.66000366210938,
+            "text": "tu",
+            "start": 61.47999954223633,
+            "end": 61.81999969482422,
             "confidence": 0.99
         },
         {
-            "text": "there",
-            "start": 125.66000366210938,
-            "end": 125.9800033569336,
+            "text": "piel",
+            "start": 61.81999969482422,
+            "end": 61.81999969482422,
             "confidence": 0.99
         },
         {
-            "text": "And",
-            "start": 126.66000366210938,
-            "end": 127.12000274658203,
+            "text": "Siento",
+            "start": 62.400001525878906,
+            "end": 62.560001373291016,
             "confidence": 0.99
         },
         {
-            "text": "you",
-            "start": 127.12000274658203,
-            "end": 127.55999755859375,
+            "text": "que",
+            "start": 62.560001373291016,
+            "end": 63.099998474121094,
             "confidence": 0.99
         },
         {
-            "text": "could",
-            "start": 127.55999755859375,
-            "end": 127.83999633789062,
+            "text": "eres",
+            "start": 63.099998474121094,
+            "end": 64.05999755859375,
             "confidence": 0.99
         },
         {
-            "text": "be",
-            "start": 127.83999633789062,
-            "end": 128.4600067138672,
+            "text": "necesaria",
+            "start": 64.05999755859375,
+            "end": 64.12000274658203,
             "confidence": 0.99
         },
         {
-            "text": "the",
-            "start": 128.4600067138672,
-            "end": 128.82000732421875,
+            "text": "para",
+            "start": 64.12000274658203,
+            "end": 65.66000366210938,
             "confidence": 0.99
         },
         {
-            "text": "love",
-            "start": 128.82000732421875,
-            "end": 129.25999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "of",
-            "start": 129.25999450683594,
-            "end": 129.4199981689453,
-            "confidence": 0.99
-        },
-        {
-            "text": "my",
-            "start": 129.4199981689453,
-            "end": 130.13999938964844,
-            "confidence": 0.99
-        },
-        {
-            "text": "life",
-            "start": 130.13999938964844,
-            "end": 130.16000366210938,
+            "text": "mí",
+            "start": 65.66000366210938,
+            "end": 65.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "Seguimos",
-            "start": 130.9600067138672,
-            "end": 131.05999755859375,
+            "start": 68.62000274658203,
+            "end": 69.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "acercándonos",
-            "start": 131.05999755859375,
-            "end": 132.25999450683594,
+            "text": "avanzando",
+            "start": 69.13999938964844,
+            "end": 70.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "We",
-            "start": 134.5800018310547,
-            "end": 134.66000366210938,
+            "text": "Tú",
+            "start": 72.4800033569336,
+            "end": 72.55999755859375,
             "confidence": 0.99
         },
         {
-            "text": "are",
-            "start": 134.66000366210938,
-            "end": 135.05999755859375,
+            "text": "y",
+            "start": 72.55999755859375,
+            "end": 72.76000213623047,
             "confidence": 0.99
         },
         {
-            "text": "alone",
-            "start": 135.05999755859375,
-            "end": 136.9600067138672,
+            "text": "yo",
+            "start": 72.76000213623047,
+            "end": 73.26000213623047,
             "confidence": 0.99
         },
         {
             "text": "Sintiéndonos",
-            "start": 138.8000030517578,
+            "start": 76.77999877929688,
+            "end": 77.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Besándonos",
+            "start": 80.13999938964844,
+            "end": 81.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "Seguimos",
+            "start": 83.12000274658203,
+            "end": 84.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "avanzando",
+            "start": 84.22000122070312,
+            "end": 85.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tú",
+            "start": 87.36000061035156,
+            "end": 87.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 87.76000213623047,
+            "end": 87.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 87.86000061035156,
+            "end": 88.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sin",
+            "start": 90.08000183105469,
+            "end": 91.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 91.18000030517578,
+            "end": 91.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "nadie",
+            "start": 91.45999908447266,
+            "end": 91.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 91.83999633789062,
+            "end": 92.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "vea",
+            "start": 92.22000122070312,
+            "end": 94.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Disfrutándonos",
+            "start": 95.69999694824219,
+            "end": 96.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Por",
+            "start": 97.9800033569336,
+            "end": 98.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "qué",
+            "start": 98.23999786376953,
+            "end": 98.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "me",
+            "start": 98.23999786376953,
+            "end": 98.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "llamas",
+            "start": 98.4800033569336,
+            "end": 98.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 98.69999694824219,
+            "end": 99.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "He",
+            "start": 101.66000366210938,
+            "end": 102.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "estado",
+            "start": 102.76000213623047,
+            "end": 102.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "buscando",
+            "start": 102.76000213623047,
+            "end": 103.23999786376953,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 103.23999786376953,
+            "end": 103.76000213623047,
+            "confidence": 0.99
+        },
+        {
+            "text": "ti",
+            "start": 103.76000213623047,
+            "end": 104.19999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 104.19999694824219,
+            "end": 104.45999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 104.45999908447266,
+            "end": 104.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "tiempo",
+            "start": 104.66000366210938,
+            "end": 105.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 105.27999877929688,
+            "end": 105.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "ahora",
+            "start": 105.27999877929688,
+            "end": 106.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 107.08000183105469,
+            "end": 107.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 108.12000274658203,
+            "end": 108.16000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "ahora",
+            "start": 108.16000366210938,
+            "end": 109.05999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 109.9000015258789,
+            "end": 109.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "puedo",
+            "start": 109.9800033569336,
+            "end": 110.62000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "dejar",
+            "start": 110.62000274658203,
+            "end": 110.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 110.9800033569336,
+            "end": 111.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "pensar",
+            "start": 111.0199966430664,
+            "end": 112.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 112.4000015258789,
+            "end": 112.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "ti",
+            "start": 112.4000015258789,
+            "end": 112.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Así",
+            "start": 114.4000015258789,
+            "end": 115.0199966430664,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 115.0199966430664,
+            "end": 115.04000091552734,
+            "confidence": 0.99
+        },
+        {
+            "text": "mamá",
+            "start": 115.44000244140625,
+            "end": 115.44000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "solo",
+            "start": 115.83999633789062,
+            "end": 116.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "agarra",
+            "start": 116.31999969482422,
+            "end": 116.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 116.31999969482422,
+            "end": 116.87999725341797,
+            "confidence": 0.99
+        },
+        {
+            "text": "mano",
+            "start": 116.87999725341797,
+            "end": 117.12000274658203,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 117.12000274658203,
+            "end": 118.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "mueve",
+            "start": 118.18000030517578,
+            "end": 118.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "tu",
+            "start": 118.18000030517578,
+            "end": 118.4800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuerpo",
+            "start": 118.4800033569336,
+            "end": 118.94000244140625,
+            "confidence": 0.99
+        },
+        {
+            "text": "Soy",
+            "start": 119.69999694824219,
+            "end": 119.9800033569336,
+            "confidence": 0.99
+        },
+        {
+            "text": "tu",
+            "start": 119.9800033569336,
+            "end": 120.4000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "hombre",
+            "start": 120.4000015258789,
+            "end": 120.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Necesito",
+            "start": 121.36000061035156,
+            "end": 121.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "tu",
+            "start": 121.83999633789062,
+            "end": 122.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuerpo",
+            "start": 122.22000122070312,
+            "end": 122.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Puedo",
+            "start": 123.19999694824219,
+            "end": 123.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "tomártelo",
+            "start": 123.36000061035156,
+            "end": 123.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿Puedo",
+            "start": 124.55999755859375,
+            "end": 125.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "tomártelo",
+            "start": 125.18000030517578,
+            "end": 125.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 126.54000091552734,
+            "end": 127.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "tú",
+            "start": 127.27999877929688,
+            "end": 127.5999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "podrías",
+            "start": 127.5999984741211,
+            "end": 127.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "ser",
+            "start": 127.83999633789062,
+            "end": 128.47999572753906,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 128.47999572753906,
+            "end": 128.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "amor",
+            "start": 128.75999450683594,
+            "end": 129.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 129.22000122070312,
+            "end": 129.4199981689453,
+            "confidence": 0.99
+        },
+        {
+            "text": "mi",
+            "start": 129.4199981689453,
+            "end": 129.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "vida",
+            "start": 129.75999450683594,
+            "end": 129.75999450683594,
+            "confidence": 0.99
+        },
+        {
+            "text": "Seguimos",
+            "start": 130.05999755859375,
+            "end": 131.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "avanzando",
+            "start": 131.0,
+            "end": 131.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tú",
+            "start": 131.5800018310547,
+            "end": 132.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 132.36000061035156,
+            "end": 134.6199951171875,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 134.6199951171875,
+            "end": 135.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sintiéndonos",
+            "start": 138.27999877929688,
             "end": 139.67999267578125,
             "confidence": 0.99
         },
         {
             "text": "Besándonos",
-            "start": 142.33999633789062,
-            "end": 143.22000122070312,
+            "start": 142.0800018310547,
+            "end": 143.47999572753906,
             "confidence": 0.99
         },
         {
-            "text": "Man",
-            "start": 160.4199981689453,
-            "end": 161.10000610351562,
+            "text": "Seguimos",
+            "start": 145.55999755859375,
+            "end": 146.0399932861328,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 161.6199951171875,
-            "end": 161.6199951171875,
+            "text": "avanzando",
+            "start": 146.0399932861328,
+            "end": 146.97999572753906,
             "confidence": 0.99
         },
         {
-            "text": "gotta",
-            "start": 161.6199951171875,
-            "end": 161.75999450683594,
+            "text": "Tú",
+            "start": 149.05999755859375,
+            "end": 149.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "get",
-            "start": 161.75999450683594,
-            "end": 162.10000610351562,
+            "text": "y",
+            "start": 149.63999938964844,
+            "end": 150.1199951171875,
             "confidence": 0.99
         },
         {
-            "text": "to",
-            "start": 162.10000610351562,
-            "end": 162.3800048828125,
+            "text": "yo",
+            "start": 150.1199951171875,
+            "end": 150.24000549316406,
             "confidence": 0.99
         },
         {
-            "text": "her",
-            "start": 162.3800048828125,
-            "end": 162.55999755859375,
-            "confidence": 0.99
-        },
-        {
-            "text": "she's",
-            "start": 162.55999755859375,
-            "end": 163.5800018310547,
-            "confidence": 0.99
-        },
-        {
-            "text": "the",
-            "start": 163.5800018310547,
-            "end": 163.75999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "only",
-            "start": 163.75999450683594,
-            "end": 164.10000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "one",
-            "start": 164.10000610351562,
-            "end": 164.4600067138672,
-            "confidence": 0.99
-        },
-        {
-            "text": "I",
-            "start": 164.4600067138672,
-            "end": 164.6999969482422,
-            "confidence": 0.99
-        },
-        {
-            "text": "want",
-            "start": 164.6999969482422,
-            "end": 164.9600067138672,
-            "confidence": 0.99
-        },
-        {
-            "text": "up",
-            "start": 164.9600067138672,
-            "end": 165.25999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "in",
-            "start": 165.25999450683594,
-            "end": 165.36000061035156,
-            "confidence": 0.99
-        },
-        {
-            "text": "my",
-            "start": 165.36000061035156,
-            "end": 166.02000427246094,
-            "confidence": 0.99
-        },
-        {
-            "text": "crib",
-            "start": 166.02000427246094,
-            "end": 166.02000427246094,
-            "confidence": 0.99
-        },
-        {
-            "text": "all",
-            "start": 166.39999389648438,
-            "end": 167.13999938964844,
-            "confidence": 0.99
-        },
-        {
-            "text": "my",
-            "start": 167.13999938964844,
-            "end": 167.5,
-            "confidence": 0.99
-        },
-        {
-            "text": "crib",
-            "start": 167.5,
-            "end": 167.86000061035156,
-            "confidence": 0.99
-        },
-        {
-            "text": "cuz",
-            "start": 167.94000244140625,
-            "end": 168.60000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "I",
-            "start": 168.60000610351562,
-            "end": 168.8000030517578,
-            "confidence": 0.99
-        },
-        {
-            "text": "think",
-            "start": 168.8000030517578,
-            "end": 169.10000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "with",
-            "start": 169.10000610351562,
-            "end": 169.10000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "her",
-            "start": 169.10000610351562,
-            "end": 169.97999572753906,
-            "confidence": 0.99
-        },
-        {
-            "text": "and",
-            "start": 170.89999389648438,
-            "end": 170.94000244140625,
-            "confidence": 0.99
-        },
-        {
-            "text": "I",
-            "start": 170.94000244140625,
-            "end": 171.1199951171875,
-            "confidence": 0.99
-        },
-        {
-            "text": "don't",
-            "start": 171.1199951171875,
-            "end": 171.25999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "think",
-            "start": 171.25999450683594,
-            "end": 171.4199981689453,
-            "confidence": 0.99
-        },
-        {
-            "text": "she",
-            "start": 171.4199981689453,
-            "end": 171.74000549316406,
-            "confidence": 0.99
-        },
-        {
-            "text": "knows",
-            "start": 171.74000549316406,
-            "end": 171.86000061035156,
-            "confidence": 0.99
-        },
-        {
-            "text": "how",
-            "start": 171.86000061035156,
-            "end": 172.22000122070312,
-            "confidence": 0.99
-        },
-        {
-            "text": "beautiful",
-            "start": 172.22000122070312,
-            "end": 172.6999969482422,
-            "confidence": 0.99
-        },
-        {
-            "text": "she",
-            "start": 172.6999969482422,
-            "end": 173.27999877929688,
-            "confidence": 0.99
-        },
-        {
-            "text": "is",
-            "start": 173.27999877929688,
-            "end": 174.02000427246094,
-            "confidence": 0.99
-        },
-        {
-            "text": "oh",
-            "start": 174.02000427246094,
-            "end": 174.72000122070312,
-            "confidence": 0.99
-        },
-        {
-            "text": "she",
-            "start": 174.72000122070312,
-            "end": 175.02000427246094,
-            "confidence": 0.99
-        },
-        {
-            "text": "is",
-            "start": 175.02000427246094,
-            "end": 175.3800048828125,
-            "confidence": 0.99
-        },
-        {
-            "text": "and",
-            "start": 175.3800048828125,
-            "end": 176.25999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "when",
-            "start": 176.25999450683594,
-            "end": 176.5399932861328,
-            "confidence": 0.99
-        },
-        {
-            "text": "the",
-            "start": 176.5399932861328,
-            "end": 176.9600067138672,
-            "confidence": 0.99
-        },
-        {
-            "text": "moon",
-            "start": 176.9600067138672,
-            "end": 177.24000549316406,
-            "confidence": 0.99
-        },
-        {
-            "text": "comes",
-            "start": 177.24000549316406,
-            "end": 177.74000549316406,
-            "confidence": 0.99
-        },
-        {
-            "text": "up",
-            "start": 177.74000549316406,
-            "end": 178.0,
-            "confidence": 0.99
-        },
-        {
-            "text": "and",
-            "start": 178.0,
-            "end": 178.1999969482422,
-            "confidence": 0.99
-        },
-        {
-            "text": "the",
-            "start": 178.1999969482422,
-            "end": 178.5,
-            "confidence": 0.99
-        },
-        {
-            "text": "mood",
-            "start": 178.5,
-            "end": 178.94000244140625,
-            "confidence": 0.99
-        },
-        {
-            "text": "is",
-            "start": 178.94000244140625,
-            "end": 179.1999969482422,
-            "confidence": 0.99
-        },
-        {
-            "text": "just",
-            "start": 179.1999969482422,
-            "end": 179.60000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "right",
-            "start": 179.60000610351562,
-            "end": 180.02000427246094,
-            "confidence": 0.99
-        },
-        {
-            "text": "we",
-            "start": 180.02000427246094,
-            "end": 180.32000732421875,
-            "confidence": 0.99
-        },
-        {
-            "text": "go",
-            "start": 180.32000732421875,
-            "end": 181.67999267578125,
-            "confidence": 0.99
-        },
-        {
-            "text": "and",
-            "start": 182.83999633789062,
-            "end": 183.75999450683594,
-            "confidence": 0.99
-        },
-        {
-            "text": "what",
-            "start": 183.75999450683594,
-            "end": 184.02000427246094,
-            "confidence": 0.99
-        },
-        {
-            "text": "we",
-            "start": 184.02000427246094,
-            "end": 184.3000030517578,
-            "confidence": 0.99
-        },
-        {
-            "text": "do",
-            "start": 184.3000030517578,
-            "end": 184.5399932861328,
-            "confidence": 0.99
-        },
-        {
-            "text": "between",
-            "start": 184.5399932861328,
-            "end": 185.24000549316406,
-            "confidence": 0.99
-        },
-        {
-            "text": "us",
-            "start": 185.24000549316406,
-            "end": 185.6199951171875,
-            "confidence": 0.99
-        },
-        {
-            "text": "we",
-            "start": 185.63999938964844,
-            "end": 185.94000244140625,
-            "confidence": 0.99
-        },
-        {
-            "text": "do",
-            "start": 185.94000244140625,
-            "end": 186.44000244140625,
-            "confidence": 0.99
-        },
-        {
-            "text": "it",
-            "start": 186.44000244140625,
-            "end": 187.0399932861328,
-            "confidence": 0.99
-        },
-        {
-            "text": "all",
-            "start": 187.0399932861328,
-            "end": 187.16000366210938,
-            "confidence": 0.99
-        },
-        {
-            "text": "night",
-            "start": 187.16000366210938,
-            "end": 187.32000732421875,
-            "confidence": 0.99
-        },
-        {
-            "text": "and",
-            "start": 187.32000732421875,
-            "end": 187.55999755859375,
-            "confidence": 0.99
-        },
-        {
-            "text": "she",
-            "start": 187.55999755859375,
-            "end": 187.83999633789062,
-            "confidence": 0.99
-        },
-        {
-            "text": "knows",
-            "start": 187.83999633789062,
-            "end": 190.72000122070312,
-            "confidence": 0.99
-        },
-        {
-            "text": "yeah",
-            "start": 191.17999267578125,
-            "end": 191.83999633789062,
-            "confidence": 0.99
-        },
-        {
-            "text": "yeah",
-            "start": 191.83999633789062,
-            "end": 192.1999969482422,
-            "confidence": 0.99
-        },
-        {
-            "text": "La",
-            "start": 192.1999969482422,
-            "end": 192.97999572753906,
-            "confidence": 0.99
-        },
-        {
-            "text": "generosidad",
-            "start": 192.97999572753906,
-            "end": 193.5399932861328,
-            "confidence": 0.99
-        },
-        {
-            "text": "Hay",
-            "start": 195.3000030517578,
-            "end": 195.47999572753906,
-            "confidence": 0.99
-        },
-        {
-            "text": "algo",
-            "start": 195.47999572753906,
-            "end": 195.86000061035156,
+            "text": "Sin",
+            "start": 152.8800048828125,
+            "end": 153.0800018310547,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 195.86000061035156,
+            "start": 153.0800018310547,
+            "end": 153.33999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "nadie",
+            "start": 153.33999633789062,
+            "end": 153.66000366210938,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 153.66000366210938,
+            "end": 154.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "vea",
+            "start": 154.10000610351562,
+            "end": 155.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "Disfrutándonos",
+            "start": 156.82000732421875,
+            "end": 158.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 158.02000427246094,
+            "end": 158.02000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 158.02000427246094,
+            "end": 161.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "ahora",
+            "start": 161.1999969482422,
+            "end": 161.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 185.02000427246094,
+            "end": 186.10000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "puedo",
+            "start": 186.10000610351562,
+            "end": 187.17999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "dejar",
+            "start": 187.17999267578125,
+            "end": 187.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 187.1999969482422,
+            "end": 187.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "pensar",
+            "start": 187.1999969482422,
+            "end": 187.1999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 187.1999969482422,
+            "end": 187.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "ti",
+            "start": 187.22000122070312,
+            "end": 187.22000122070312,
+            "confidence": 0.99
+        },
+        {
+            "text": "Oh",
+            "start": 188.0,
+            "end": 188.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 189.05999755859375,
+            "end": 189.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "oh",
+            "start": 189.63999938964844,
+            "end": 191.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "Y",
+            "start": 191.24000549316406,
+            "end": 191.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 191.83999633789062,
+            "end": 192.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "¡La",
+            "start": 192.63999938964844,
+            "end": 192.89999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "generación",
+            "start": 192.89999389648438,
+            "end": 193.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "Hay",
+            "start": 194.86000061035156,
+            "end": 195.52000427246094,
+            "confidence": 0.99
+        },
+        {
+            "text": "algo",
+            "start": 195.52000427246094,
+            "end": 195.82000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 195.82000732421875,
             "end": 196.17999267578125,
             "confidence": 0.99
         },
@@ -1212,306 +1320,360 @@
         {
             "text": "ti",
             "start": 198.1999969482422,
-            "end": 198.39999389648438,
+            "end": 198.36000061035156,
             "confidence": 0.99
         },
         {
-            "text": "y",
-            "start": 198.6999969482422,
-            "end": 199.75999450683594,
+            "text": "Y",
+            "start": 198.83999633789062,
+            "end": 199.77999877929688,
             "confidence": 0.99
         },
         {
             "text": "ese",
-            "start": 199.75999450683594,
-            "end": 200.27999877929688,
+            "start": 199.77999877929688,
+            "end": 200.25999450683594,
             "confidence": 0.99
         },
         {
             "text": "algo",
-            "start": 200.27999877929688,
+            "start": 200.25999450683594,
             "end": 200.5800018310547,
             "confidence": 0.99
         },
         {
             "text": "me",
             "start": 200.5800018310547,
-            "end": 200.94000244140625,
+            "end": 200.9199981689453,
             "confidence": 0.99
         },
         {
             "text": "encanta",
-            "start": 200.94000244140625,
-            "end": 201.82000732421875,
+            "start": 200.9199981689453,
+            "end": 201.5800018310547,
             "confidence": 0.99
         },
         {
-            "text": "siento",
-            "start": 203.24000549316406,
-            "end": 203.5399932861328,
+            "text": "Siento",
+            "start": 203.36000061035156,
+            "end": 203.52000427246094,
             "confidence": 0.99
         },
         {
             "text": "que",
-            "start": 203.5399932861328,
-            "end": 203.97999572753906,
+            "start": 203.52000427246094,
+            "end": 204.0,
             "confidence": 0.99
         },
         {
             "text": "eres",
-            "start": 203.97999572753906,
+            "start": 204.0,
             "end": 204.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "necesaria",
             "start": 204.16000366210938,
-            "end": 205.44000244140625,
+            "end": 205.4199981689453,
             "confidence": 0.99
         },
         {
             "text": "para",
-            "start": 205.44000244140625,
-            "end": 206.17999267578125,
+            "start": 205.4199981689453,
+            "end": 206.16000366210938,
             "confidence": 0.99
         },
         {
-            "text": "mi",
-            "start": 206.17999267578125,
-            "end": 207.47999572753906,
+            "text": "mí",
+            "start": 206.16000366210938,
+            "end": 207.44000244140625,
             "confidence": 0.99
         },
         {
             "text": "Me",
-            "start": 208.22000122070312,
+            "start": 208.4199981689453,
             "end": 208.4199981689453,
             "confidence": 0.99
         },
         {
             "text": "vuelve",
             "start": 208.4199981689453,
-            "end": 208.52000427246094,
+            "end": 208.55999755859375,
             "confidence": 0.99
         },
         {
             "text": "loco",
-            "start": 208.52000427246094,
-            "end": 209.05999755859375,
+            "start": 208.55999755859375,
+            "end": 209.0800018310547,
             "confidence": 0.99
         },
         {
             "text": "tu",
-            "start": 209.05999755859375,
-            "end": 209.63999938964844,
+            "start": 209.0800018310547,
+            "end": 209.60000610351562,
             "confidence": 0.99
         },
         {
             "text": "pelo",
-            "start": 209.63999938964844,
-            "end": 210.0399932861328,
+            "start": 209.60000610351562,
+            "end": 210.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "tu",
             "start": 210.55999755859375,
-            "end": 211.0,
+            "end": 211.02000427246094,
             "confidence": 0.99
         },
         {
             "text": "boca",
-            "start": 211.0,
-            "end": 211.0,
+            "start": 211.02000427246094,
+            "end": 211.02000427246094,
             "confidence": 0.99
         },
         {
             "text": "tu",
-            "start": 211.52000427246094,
-            "end": 211.63999938964844,
+            "start": 211.4600067138672,
+            "end": 211.89999389648438,
             "confidence": 0.99
         },
         {
-            "text": "piel",
-            "start": 211.63999938964844,
-            "end": 211.77999877929688,
+            "text": "viento",
+            "start": 211.89999389648438,
+            "end": 211.89999389648438,
             "confidence": 0.99
         },
         {
-            "text": "tu",
-            "start": 211.8800048828125,
-            "end": 212.33999633789062,
+            "text": "su",
+            "start": 212.16000366210938,
+            "end": 212.52000427246094,
             "confidence": 0.99
         },
         {
-            "text": "cintura",
-            "start": 212.33999633789062,
-            "end": 212.89999389648438,
-            "confidence": 0.99
-        },
-        {
-            "text": "dura",
-            "start": 213.13999938964844,
-            "end": 213.8800048828125,
+            "text": "mirada",
+            "start": 212.52000427246094,
+            "end": 213.0399932861328,
             "confidence": 0.99
         },
         {
             "text": "dura",
-            "start": 213.8800048828125,
-            "end": 214.36000061035156,
+            "start": 213.0399932861328,
+            "end": 213.9199981689453,
             "confidence": 0.99
         },
         {
-            "text": "hey",
-            "start": 214.36000061035156,
-            "end": 214.97999572753906,
-            "confidence": 0.99
-        },
-        {
-            "text": "hey",
-            "start": 214.97999572753906,
-            "end": 215.22000122070312,
+            "text": "dura",
+            "start": 214.33999633789062,
+            "end": 214.39999389648438,
             "confidence": 0.99
         },
         {
             "text": "Me",
-            "start": 215.22000122070312,
-            "end": 215.6199951171875,
+            "start": 214.39999389648438,
+            "end": 215.5,
             "confidence": 0.99
         },
         {
             "text": "vuelve",
-            "start": 215.6199951171875,
-            "end": 216.02000427246094,
+            "start": 215.5,
+            "end": 216.0399932861328,
             "confidence": 0.99
         },
         {
             "text": "loco",
-            "start": 216.02000427246094,
-            "end": 216.52000427246094,
+            "start": 216.0399932861328,
+            "end": 216.4600067138672,
             "confidence": 0.99
         },
         {
             "text": "tu",
-            "start": 216.52000427246094,
-            "end": 217.13999938964844,
+            "start": 216.4600067138672,
+            "end": 217.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "pelo",
-            "start": 217.13999938964844,
-            "end": 217.63999938964844,
+            "start": 217.16000366210938,
+            "end": 217.66000366210938,
             "confidence": 0.99
         },
         {
             "text": "tu",
             "start": 218.0800018310547,
-            "end": 218.6199951171875,
+            "end": 218.63999938964844,
             "confidence": 0.99
         },
         {
             "text": "boca",
-            "start": 218.6199951171875,
-            "end": 218.6199951171875,
+            "start": 218.63999938964844,
+            "end": 218.63999938964844,
             "confidence": 0.99
         },
         {
             "text": "tu",
-            "start": 219.24000549316406,
-            "end": 219.3000030517578,
+            "start": 218.66000366210938,
+            "end": 219.3800048828125,
             "confidence": 0.99
         },
         {
-            "text": "piel",
-            "start": 219.3000030517578,
-            "end": 219.3000030517578,
+            "text": "viento",
+            "start": 219.3800048828125,
+            "end": 219.3800048828125,
             "confidence": 0.99
         },
         {
-            "text": "tu",
-            "start": 219.39999389648438,
-            "end": 219.74000549316406,
+            "text": "su",
+            "start": 219.77999877929688,
+            "end": 219.82000732421875,
             "confidence": 0.99
         },
         {
-            "text": "cintura",
-            "start": 219.74000549316406,
-            "end": 220.33999633789062,
+            "text": "mirada",
+            "start": 219.82000732421875,
+            "end": 220.5399932861328,
             "confidence": 0.99
         },
         {
             "text": "dura",
-            "start": 220.60000610351562,
+            "start": 220.5399932861328,
+            "end": 220.5800018310547,
+            "confidence": 0.99
+        },
+        {
+            "text": "dura",
+            "start": 220.5800018310547,
             "end": 221.39999389648438,
             "confidence": 0.99
         },
         {
-            "text": "dura",
-            "start": 221.39999389648438,
-            "end": 221.86000061035156,
-            "confidence": 0.99
-        },
-        {
-            "text": "hey",
-            "start": 221.86000061035156,
-            "end": 222.10000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "hey",
-            "start": 222.10000610351562,
-            "end": 223.22000122070312,
-            "confidence": 0.99
-        },
-        {
-            "text": "Ruéntalo",
-            "start": 225.5800018310547,
-            "end": 225.9199981689453,
-            "confidence": 0.99
-        },
-        {
             "text": "Seguimos",
-            "start": 226.47999572753906,
-            "end": 226.67999267578125,
+            "start": 226.24000549316406,
+            "end": 226.66000366210938,
             "confidence": 0.99
         },
         {
-            "text": "acercándonos",
-            "start": 226.67999267578125,
-            "end": 227.22999572753906,
+            "text": "avanzando",
+            "start": 226.66000366210938,
+            "end": 227.67999267578125,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tú",
+            "start": 230.10000610351562,
+            "end": 230.24000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 230.24000549316406,
+            "end": 230.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 230.63999938964844,
+            "end": 230.67999267578125,
             "confidence": 0.99
         },
         {
             "text": "Sintiéndonos",
-            "start": 234.0399932861328,
-            "end": 234.58999633789062,
+            "start": 233.89999389648438,
+            "end": 235.16000366210938,
             "confidence": 0.99
         },
         {
             "text": "Besándonos",
-            "start": 237.6199951171875,
+            "start": 237.47999572753906,
+            "end": 238.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tú",
+            "start": 238.4600067138672,
             "end": 238.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 238.5,
+            "end": 238.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 238.5,
+            "end": 239.89999389648438,
             "confidence": 0.99
         },
         {
             "text": "Seguimos",
             "start": 241.13999938964844,
-            "end": 241.6199951171875,
+            "end": 241.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "acercándonos",
-            "start": 241.6199951171875,
-            "end": 242.97999572753906,
+            "text": "avanzando",
+            "start": 241.63999938964844,
+            "end": 242.60000610351562,
             "confidence": 0.99
         },
         {
-            "text": "Líderes",
-            "start": 243.97999572753906,
-            "end": 244.94000244140625,
+            "text": "Tú",
+            "start": 244.17999267578125,
+            "end": 244.32000732421875,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 244.32000732421875,
+            "end": 244.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "yo",
+            "start": 244.4600067138672,
+            "end": 244.4600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sin",
+            "start": 248.36000061035156,
+            "end": 248.60000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 248.60000610351562,
+            "end": 248.9600067138672,
+            "confidence": 0.99
+        },
+        {
+            "text": "nadie",
+            "start": 248.9600067138672,
+            "end": 249.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "nos",
+            "start": 249.36000061035156,
+            "end": 249.74000549316406,
+            "confidence": 0.99
+        },
+        {
+            "text": "vea",
+            "start": 249.74000549316406,
+            "end": 251.27999877929688,
+            "confidence": 0.99
+        },
+        {
+            "text": "Disfrutándonos",
+            "start": 252.67999267578125,
+            "end": 253.67999267578125,
             "confidence": 0.99
         },
         {
             "text": "Doble",
-            "start": 257.8299865722656,
+            "start": 257.8999938964844,
             "end": 258.4200134277344,
             "confidence": 0.99
         },
@@ -1523,167 +1685,221 @@
         },
         {
             "text": "En",
-            "start": 260.6400146484375,
-            "end": 260.6400146484375,
+            "start": 260.4800109863281,
+            "end": 260.6600036621094,
             "confidence": 0.99
         },
         {
-            "text": "conexión",
-            "start": 260.6400146484375,
-            "end": 260.8999938964844,
+            "text": "colección",
+            "start": 260.6600036621094,
+            "end": 260.8800048828125,
             "confidence": 0.99
         },
         {
             "text": "con",
-            "start": 260.8999938964844,
-            "end": 261.1600036621094,
+            "start": 260.8800048828125,
+            "end": 261.17999267578125,
             "confidence": 0.99
         },
         {
             "text": "T",
-            "start": 261.1600036621094,
-            "end": 261.4200134277344,
+            "start": 261.17999267578125,
+            "end": 261.3999938964844,
             "confidence": 0.99
         },
         {
             "text": "Pain",
-            "start": 261.4200134277344,
-            "end": 261.739990234375,
+            "start": 261.3999938964844,
+            "end": 261.760009765625,
             "confidence": 0.99
         },
         {
             "text": "Chris",
-            "start": 263.2799987792969,
+            "start": 263.32000732421875,
             "end": 263.6000061035156,
             "confidence": 0.99
         },
         {
             "text": "Brown",
             "start": 263.6000061035156,
-            "end": 264.0199890136719,
+            "end": 264.0400085449219,
             "confidence": 0.99
         },
         {
             "text": "Legendarios",
-            "start": 266.2200012207031,
-            "end": 267.0,
+            "start": 265.6600036621094,
+            "end": 267.05999755859375,
             "confidence": 0.99
         },
         {
             "text": "W",
-            "start": 269.0199890136719,
+            "start": 269.260009765625,
             "end": 269.32000732421875,
             "confidence": 0.99
         },
         {
             "text": "White",
-            "start": 269.44000244140625,
-            "end": 269.5,
+            "start": 269.5199890136719,
+            "end": 269.5199890136719,
             "confidence": 0.99
         },
         {
             "text": "Records",
-            "start": 269.5,
-            "end": 270.0899963378906,
+            "start": 269.5199890136719,
+            "end": 270.1400146484375,
             "confidence": 0.99
         },
         {
-            "text": "Chris",
-            "start": 271.0899963378906,
-            "end": 272.7699890136719,
+            "text": "¡Chris",
+            "start": 271.3999938964844,
+            "end": 272.3399963378906,
             "confidence": 0.99
         },
         {
             "text": "Brown",
-            "start": 272.7699890136719,
-            "end": 272.7699890136719,
+            "start": 272.3399963378906,
+            "end": 272.3399963378906,
             "confidence": 0.99
         },
         {
-            "text": "O",
-            "start": 277.3699951171875,
-            "end": 277.8299865722656,
+            "text": "¡Chris",
+            "start": 275.2200012207031,
+            "end": 275.6000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "Jedi",
+            "start": 275.6000061035156,
+            "end": 276.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "¡O",
+            "start": 277.4599914550781,
+            "end": 277.82000732421875,
             "confidence": 0.99
         },
         {
             "text": "Neal",
-            "start": 277.8299865722656,
-            "end": 278.010009765625,
+            "start": 277.82000732421875,
+            "end": 277.82000732421875,
             "confidence": 0.99
         },
         {
-            "text": "La",
-            "start": 279.4700012207031,
-            "end": 279.4700012207031,
+            "text": "Teclabaza",
+            "start": 279.260009765625,
+            "end": 279.7799987792969,
             "confidence": 0.99
         },
         {
-            "text": "base",
-            "start": 279.4700012207031,
-            "end": 279.7699890136719,
+            "text": "El",
+            "start": 279.7799987792969,
+            "end": 280.20001220703125,
             "confidence": 0.99
         },
         {
-            "text": "del",
-            "start": 279.7699890136719,
-            "end": 280.1499938964844,
+            "text": "Químico",
+            "start": 280.20001220703125,
+            "end": 280.5400085449219,
             "confidence": 0.99
         },
         {
-            "text": "químico",
-            "start": 280.1499938964844,
-            "end": 280.7699890136719,
+            "text": "¡Ole",
+            "start": 282.55999755859375,
+            "end": 283.9599914550781,
             "confidence": 0.99
         },
         {
             "text": "Multimedia",
-            "start": 285.8500061035156,
-            "end": 286.2099914550781,
+            "start": 284.82000732421875,
+            "end": 286.2200012207031,
             "confidence": 0.99
         },
         {
             "text": "Records",
-            "start": 286.2099914550781,
-            "end": 286.6700134277344,
+            "start": 286.2200012207031,
+            "end": 286.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "Subtítulos",
+            "start": 294.3800048828125,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "realizados",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "por",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "comunidad",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "Amara",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
+            "confidence": 0.99
+        },
+        {
+            "text": "org",
+            "start": 295.7799987792969,
+            "end": 295.7799987792969,
             "confidence": 0.99
         }
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "What are you looking at? Nothing. Sorry. Sorry, sir. Finish your job and let yourself out. I'm already late for my vacation. Come on. Let's go. **** you, flaco.",
-            "sentiment": "NEGATIVE",
+            "segment": "¿Qué estás mirando? Nada, perdón, nada, perdón señor. Termina tu trabajo y déjate ir. Ya estoy tarde para mi vacación.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "segment": "Hay algo que me gusta de ti. Y ese algo me encanta. Siento que eres necesaria para mí.",
+            "sentiment": "POSITIVE",
             "confidence": 0.85
         },
         {
-            "segment": "So vacation, huh? All right. It'll be clean when you get back.",
-            "sentiment": "NEUTRAL",
-            "confidence": 0.65
-        },
-        {
-            "segment": "I've been looking for you for a while now, oh, and I, I just can't get you out of my mind. So mama, just hold my hand and move your body, I'm your man, I need your body, can I take you there? And you could be the love of my life.",
+            "segment": "¿Por qué me llamas así? He estado buscando a ti por un tiempo. Y ahora. Oh, y ahora. No puedo dejar de pensar en ti.",
             "sentiment": "POSITIVE",
             "confidence": 0.9
         },
         {
-            "segment": "La generosidad. Hay algo que me gusta de ti, y ese algo me encanta, siento que eres necesaria para mi.",
+            "segment": "Me vuelve loco tu pelo, tu boca, tu viento, su mirada dura, dura.",
             "sentiment": "POSITIVE",
-            "confidence": 0.95
+            "confidence": 0.88
         }
     ],
     "chapters": [
         {
-            "headline": "Tension and Departure",
-            "summary": "The conversation starts with a tense interaction before one character prepares to leave for vacation.",
+            "headline": "Encuentro y deseos",
+            "summary": "La conversación revela un deseo de conexión emocional y física, centrada en la atracción del hablante hacia otra persona.",
             "start": 0,
-            "end": 15
-        },
-        {
-            "headline": "Expressions of Love",
-            "summary": "The speaker expresses deep feelings towards another person, emphasizing their beauty and a desire to be close.",
-            "start": 15,
             "end": 120
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "spanish"
 }

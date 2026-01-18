@@ -1,0 +1,1168 @@
+{
+    "id": "13c75434-d050-4c88-9092-67126733e3da",
+    "status": "completed",
+    "text": "De hecho yo a través de mi. Música me expongo totalmente porque es algo que sale de mí, sale de mi. Cabeza, de. Mi cuerpo, de mi corazón, de mis manos, de mi voz y yo escribo lo que pienso sobre todo lo que siento y. Abrirme a poder. Escribir algo que es muy íntimo y mostrárselo a otras personas es como estar. Desnuda delante de un. Aula expuest básicamente, o sea, es. Abrir tu corazón o. Tu alma, sobre. Todo tus. Sentimientos y tus pensamientos. Por suerte la vulnerabilidad ahora la manejo mejor. Al inicio cuando recién empecé tenía pánico porque me daba. Vergüenza, me da mucha. Vergüenza que la gente sepa lo que pensaba o. Cómo me sentía. Después cuando empecé a tocar me di cuenta que había mucha gente que se sentía identificada con lo que yo decía y eso me dio mucha más confianza.",
+    "words": [
+        {
+            "text": "De",
+            "start": 80,
+            "end": 160,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "hecho",
+            "start": 160,
+            "end": 320,
+            "confidence": 0.8654785,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 320,
+            "end": 520,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 520,
+            "end": 640,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "través",
+            "start": 640,
+            "end": 800,
+            "confidence": 0.78100586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 800,
+            "end": 1000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mi.",
+            "start": 1000,
+            "end": 1120,
+            "confidence": 0.9614258,
+            "speaker": "A"
+        },
+        {
+            "text": "Música",
+            "start": 1120,
+            "end": 1520,
+            "confidence": 0.9998779,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 2240,
+            "end": 2600,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "expongo",
+            "start": 2600,
+            "end": 3520,
+            "confidence": 0.9580078,
+            "speaker": "B"
+        },
+        {
+            "text": "totalmente",
+            "start": 3520,
+            "end": 3920,
+            "confidence": 0.9929199,
+            "speaker": "B"
+        },
+        {
+            "text": "porque",
+            "start": 5120,
+            "end": 5520,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "es",
+            "start": 6720,
+            "end": 7000,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "algo",
+            "start": 7000,
+            "end": 7160,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 7160,
+            "end": 7280,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "sale",
+            "start": 7280,
+            "end": 7600,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 7600,
+            "end": 7720,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "mí,",
+            "start": 7720,
+            "end": 8040,
+            "confidence": 0.99438477,
+            "speaker": "B"
+        },
+        {
+            "text": "sale",
+            "start": 8040,
+            "end": 8480,
+            "confidence": 0.9987793,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 8480,
+            "end": 8560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "mi.",
+            "start": 8560,
+            "end": 8680,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Cabeza,",
+            "start": 8680,
+            "end": 9120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de.",
+            "start": 9280,
+            "end": 9560,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Mi",
+            "start": 9560,
+            "end": 9760,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "cuerpo,",
+            "start": 9760,
+            "end": 10240,
+            "confidence": 0.99365234,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 10240,
+            "end": 10520,
+            "confidence": 0.9975586,
+            "speaker": "B"
+        },
+        {
+            "text": "mi",
+            "start": 10520,
+            "end": 10640,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "corazón,",
+            "start": 10640,
+            "end": 11120,
+            "confidence": 0.96500653,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 11120,
+            "end": 11360,
+            "confidence": 0.99658203,
+            "speaker": "B"
+        },
+        {
+            "text": "mis",
+            "start": 11360,
+            "end": 11480,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "manos,",
+            "start": 11480,
+            "end": 11800,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "de",
+            "start": 11800,
+            "end": 11960,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "mi",
+            "start": 11960,
+            "end": 12120,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "voz",
+            "start": 12120,
+            "end": 12400,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 12400,
+            "end": 12600,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "yo",
+            "start": 12600,
+            "end": 12760,
+            "confidence": 0.99316406,
+            "speaker": "B"
+        },
+        {
+            "text": "escribo",
+            "start": 12760,
+            "end": 13160,
+            "confidence": 0.8905029,
+            "speaker": "B"
+        },
+        {
+            "text": "lo",
+            "start": 13160,
+            "end": 13280,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 13280,
+            "end": 13400,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "pienso",
+            "start": 13400,
+            "end": 13960,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "sobre",
+            "start": 13960,
+            "end": 14200,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "todo",
+            "start": 14200,
+            "end": 14400,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "lo",
+            "start": 14400,
+            "end": 14560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 14560,
+            "end": 14640,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "siento",
+            "start": 14640,
+            "end": 15040,
+            "confidence": 0.9383138,
+            "speaker": "B"
+        },
+        {
+            "text": "y.",
+            "start": 15120,
+            "end": 15520,
+            "confidence": 0.99121094,
+            "speaker": "B"
+        },
+        {
+            "text": "Abrirme",
+            "start": 15600,
+            "end": 16359,
+            "confidence": 0.95422363,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 16359,
+            "end": 16640,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "poder.",
+            "start": 16640,
+            "end": 16960,
+            "confidence": 0.81030273,
+            "speaker": "A"
+        },
+        {
+            "text": "Escribir",
+            "start": 16960,
+            "end": 17520,
+            "confidence": 0.9055176,
+            "speaker": "B"
+        },
+        {
+            "text": "algo",
+            "start": 17840,
+            "end": 18240,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "que",
+            "start": 18240,
+            "end": 18520,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "es",
+            "start": 18520,
+            "end": 18680,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "muy",
+            "start": 18680,
+            "end": 18840,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "íntimo",
+            "start": 18840,
+            "end": 19240,
+            "confidence": 0.92529297,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 19240,
+            "end": 19480,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "mostrárselo",
+            "start": 19480,
+            "end": 20200,
+            "confidence": 0.87386066,
+            "speaker": "B"
+        },
+        {
+            "text": "a",
+            "start": 20200,
+            "end": 20360,
+            "confidence": 0.98779297,
+            "speaker": "B"
+        },
+        {
+            "text": "otras",
+            "start": 20360,
+            "end": 20640,
+            "confidence": 0.99975586,
+            "speaker": "B"
+        },
+        {
+            "text": "personas",
+            "start": 20640,
+            "end": 20880,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "es",
+            "start": 22320,
+            "end": 22720,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "como",
+            "start": 23360,
+            "end": 23680,
+            "confidence": 0.9916992,
+            "speaker": "B"
+        },
+        {
+            "text": "estar.",
+            "start": 23680,
+            "end": 24080,
+            "confidence": 0.99560547,
+            "speaker": "B"
+        },
+        {
+            "text": "Desnuda",
+            "start": 24240,
+            "end": 25080,
+            "confidence": 0.9024658,
+            "speaker": "A"
+        },
+        {
+            "text": "delante",
+            "start": 25080,
+            "end": 25400,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 25400,
+            "end": 25640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un.",
+            "start": 25640,
+            "end": 25960,
+            "confidence": 0.9814453,
+            "speaker": "A"
+        },
+        {
+            "text": "Aula",
+            "start": 25960,
+            "end": 26480,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "expuest",
+            "start": 26480,
+            "end": 26980,
+            "confidence": 0.7944336,
+            "speaker": "B"
+        },
+        {
+            "text": "básicamente,",
+            "start": 27690,
+            "end": 28090,
+            "confidence": 0.9962158,
+            "speaker": "B"
+        },
+        {
+            "text": "o",
+            "start": 28090,
+            "end": 28370,
+            "confidence": 0.77197266,
+            "speaker": "B"
+        },
+        {
+            "text": "sea,",
+            "start": 28370,
+            "end": 28650,
+            "confidence": 0.9145508,
+            "speaker": "B"
+        },
+        {
+            "text": "es.",
+            "start": 29210,
+            "end": 29530,
+            "confidence": 0.9033203,
+            "speaker": "B"
+        },
+        {
+            "text": "Abrir",
+            "start": 29530,
+            "end": 29970,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "tu",
+            "start": 29970,
+            "end": 30130,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "corazón",
+            "start": 30130,
+            "end": 30490,
+            "confidence": 0.91031903,
+            "speaker": "A"
+        },
+        {
+            "text": "o.",
+            "start": 30490,
+            "end": 30770,
+            "confidence": 0.9194336,
+            "speaker": "A"
+        },
+        {
+            "text": "Tu",
+            "start": 30770,
+            "end": 30930,
+            "confidence": 0.9980469,
+            "speaker": "B"
+        },
+        {
+            "text": "alma,",
+            "start": 30930,
+            "end": 31290,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "sobre.",
+            "start": 31290,
+            "end": 31610,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Todo",
+            "start": 31610,
+            "end": 31930,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "tus.",
+            "start": 32570,
+            "end": 32970,
+            "confidence": 0.80908203,
+            "speaker": "A"
+        },
+        {
+            "text": "Sentimientos",
+            "start": 32970,
+            "end": 33610,
+            "confidence": 0.8927409,
+            "speaker": "B"
+        },
+        {
+            "text": "y",
+            "start": 33770,
+            "end": 34050,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "tus",
+            "start": 34050,
+            "end": 34290,
+            "confidence": 0.9807129,
+            "speaker": "B"
+        },
+        {
+            "text": "pensamientos.",
+            "start": 34290,
+            "end": 34890,
+            "confidence": 0.85839844,
+            "speaker": "B"
+        },
+        {
+            "text": "Por",
+            "start": 52910,
+            "end": 53030,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "suerte",
+            "start": 53030,
+            "end": 53510,
+            "confidence": 0.9842122,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 53510,
+            "end": 53870,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "vulnerabilidad",
+            "start": 53870,
+            "end": 54830,
+            "confidence": 0.97021484,
+            "speaker": "A"
+        },
+        {
+            "text": "ahora",
+            "start": 54910,
+            "end": 55270,
+            "confidence": 0.9848633,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 55270,
+            "end": 55430,
+            "confidence": 0.9741211,
+            "speaker": "A"
+        },
+        {
+            "text": "manejo",
+            "start": 55430,
+            "end": 55790,
+            "confidence": 0.93098956,
+            "speaker": "A"
+        },
+        {
+            "text": "mejor.",
+            "start": 55790,
+            "end": 56070,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "Al",
+            "start": 56070,
+            "end": 56310,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "inicio",
+            "start": 56310,
+            "end": 56670,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "cuando",
+            "start": 56670,
+            "end": 56950,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "recién",
+            "start": 56950,
+            "end": 57350,
+            "confidence": 0.9088542,
+            "speaker": "A"
+        },
+        {
+            "text": "empecé",
+            "start": 57350,
+            "end": 58190,
+            "confidence": 0.87369794,
+            "speaker": "A"
+        },
+        {
+            "text": "tenía",
+            "start": 58670,
+            "end": 59230,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "pánico",
+            "start": 59230,
+            "end": 59630,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "porque",
+            "start": 59630,
+            "end": 59950,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 59950,
+            "end": 60150,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "daba.",
+            "start": 60150,
+            "end": 60390,
+            "confidence": 0.9802246,
+            "speaker": "A"
+        },
+        {
+            "text": "Vergüenza,",
+            "start": 60390,
+            "end": 60990,
+            "confidence": 0.98964846,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 61550,
+            "end": 61790,
+            "confidence": 0.98779297,
+            "speaker": "B"
+        },
+        {
+            "text": "da",
+            "start": 61790,
+            "end": 61950,
+            "confidence": 0.5605469,
+            "speaker": "B"
+        },
+        {
+            "text": "mucha.",
+            "start": 61950,
+            "end": 62230,
+            "confidence": 0.810791,
+            "speaker": "B"
+        },
+        {
+            "text": "Vergüenza",
+            "start": 62230,
+            "end": 62670,
+            "confidence": 0.8484375,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 62670,
+            "end": 62910,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 62910,
+            "end": 63030,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "gente",
+            "start": 63030,
+            "end": 63230,
+            "confidence": 0.8654785,
+            "speaker": "A"
+        },
+        {
+            "text": "sepa",
+            "start": 63230,
+            "end": 63590,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 63590,
+            "end": 63710,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 63710,
+            "end": 63830,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pensaba",
+            "start": 63830,
+            "end": 64430,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "o.",
+            "start": 64590,
+            "end": 64910,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "Cómo",
+            "start": 64910,
+            "end": 65150,
+            "confidence": 0.95963544,
+            "speaker": "B"
+        },
+        {
+            "text": "me",
+            "start": 65150,
+            "end": 65230,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "sentía.",
+            "start": 65230,
+            "end": 65870,
+            "confidence": 1.0,
+            "speaker": "B"
+        },
+        {
+            "text": "Después",
+            "start": 65870,
+            "end": 66590,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "cuando",
+            "start": 66590,
+            "end": 66910,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "empecé",
+            "start": 66910,
+            "end": 67590,
+            "confidence": 0.8730469,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 67590,
+            "end": 67870,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "tocar",
+            "start": 68030,
+            "end": 68510,
+            "confidence": 0.90844727,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 68830,
+            "end": 69110,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "di",
+            "start": 69110,
+            "end": 69270,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "cuenta",
+            "start": 69270,
+            "end": 69590,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 69590,
+            "end": 69790,
+            "confidence": 0.9848633,
+            "speaker": "A"
+        },
+        {
+            "text": "había",
+            "start": 69790,
+            "end": 70030,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "mucha",
+            "start": 70030,
+            "end": 70190,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "gente",
+            "start": 70190,
+            "end": 70390,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 70390,
+            "end": 70510,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 70510,
+            "end": 70590,
+            "confidence": 0.98828125,
+            "speaker": "A"
+        },
+        {
+            "text": "sentía",
+            "start": 70590,
+            "end": 71070,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "identificada",
+            "start": 71070,
+            "end": 71750,
+            "confidence": 0.9996745,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 71750,
+            "end": 72030,
+            "confidence": 0.96240234,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 72110,
+            "end": 72350,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 72350,
+            "end": 72470,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 72470,
+            "end": 72630,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "decía",
+            "start": 72630,
+            "end": 73150,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 73150,
+            "end": 73390,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "eso",
+            "start": 73390,
+            "end": 73590,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 73590,
+            "end": 73750,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "dio",
+            "start": 73750,
+            "end": 74030,
+            "confidence": 0.80615234,
+            "speaker": "A"
+        },
+        {
+            "text": "mucha",
+            "start": 74030,
+            "end": 74230,
+            "confidence": 0.71533203,
+            "speaker": "A"
+        },
+        {
+            "text": "más",
+            "start": 74230,
+            "end": 74390,
+            "confidence": 0.9897461,
+            "speaker": "A"
+        },
+        {
+            "text": "confianza.",
+            "start": 74390,
+            "end": 74990,
+            "confidence": 1.0,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "De hecho yo a través de mi.",
+            "start": 80,
+            "end": 1120,
+            "confidence": 0.9434291,
+            "speaker": "A"
+        },
+        {
+            "text": "Música me expongo totalmente porque es algo que sale de mí, sale de mi.",
+            "start": 1120,
+            "end": 8680,
+            "confidence": 0.99582344,
+            "speaker": "B"
+        },
+        {
+            "text": "Cabeza, de.",
+            "start": 8680,
+            "end": 9560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Mi cuerpo, de mi corazón, de mis manos, de mi voz y yo escribo lo que pienso sobre todo lo que siento y.",
+            "start": 9560,
+            "end": 15520,
+            "confidence": 0.989571,
+            "speaker": "B"
+        },
+        {
+            "text": "Abrirme a poder.",
+            "start": 15600,
+            "end": 16960,
+            "confidence": 0.9208577,
+            "speaker": "A"
+        },
+        {
+            "text": "Escribir algo que es muy íntimo y mostrárselo a otras personas es como estar.",
+            "start": 16960,
+            "end": 24080,
+            "confidence": 0.9766555,
+            "speaker": "B"
+        },
+        {
+            "text": "Desnuda delante de un.",
+            "start": 24240,
+            "end": 25960,
+            "confidence": 0.9706726,
+            "speaker": "A"
+        },
+        {
+            "text": "Aula expuest básicamente, o sea, es.",
+            "start": 25960,
+            "end": 29530,
+            "confidence": 0.8965047,
+            "speaker": "B"
+        },
+        {
+            "text": "Abrir tu corazón o.",
+            "start": 29530,
+            "end": 30770,
+            "confidence": 0.8479004,
+            "speaker": "A"
+        },
+        {
+            "text": "Tu alma, sobre.",
+            "start": 30770,
+            "end": 31610,
+            "confidence": 0.99934894,
+            "speaker": "B"
+        },
+        {
+            "text": "Todo tus.",
+            "start": 31610,
+            "end": 32970,
+            "confidence": 0.90234375,
+            "speaker": "A"
+        },
+        {
+            "text": "Sentimientos y tus pensamientos.",
+            "start": 32970,
+            "end": 34890,
+            "confidence": 0.93271893,
+            "speaker": "B"
+        },
+        {
+            "text": "Por suerte la vulnerabilidad ahora la manejo mejor. Al inicio cuando recién empecé tenía pánico porque me daba.",
+            "start": 52910,
+            "end": 60390,
+            "confidence": 0.9767795,
+            "speaker": "A"
+        },
+        {
+            "text": "Vergüenza, me da mucha.",
+            "start": 60390,
+            "end": 62230,
+            "confidence": 0.8371948,
+            "speaker": "B"
+        },
+        {
+            "text": "Vergüenza que la gente sepa lo que pensaba o.",
+            "start": 62230,
+            "end": 64910,
+            "confidence": 0.9669651,
+            "speaker": "A"
+        },
+        {
+            "text": "Cómo me sentía.",
+            "start": 64910,
+            "end": 65870,
+            "confidence": 0.98621964,
+            "speaker": "B"
+        },
+        {
+            "text": "Después cuando empecé a tocar me di cuenta que había mucha gente que se sentía identificada con lo que yo decía y eso me dio mucha más confianza.",
+            "start": 65870,
+            "end": 74990,
+            "confidence": 0.95500547,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 77,
+    "language_code": "es"
+}

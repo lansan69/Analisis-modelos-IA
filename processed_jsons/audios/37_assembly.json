@@ -1,0 +1,524 @@
+{
+    "id": "62a04cd2-9fbd-4149-a59b-6ad450594c49",
+    "status": "completed",
+    "text": "A continuación, necesitamos validar su titularidad. Por favor, me indica su número de. R el 12 6 27. 3. 8 8. Muy amable. ¿Y tiene algún correo electrónico para poder mandar su estado de cuenta? No, no se preocupe. Su pago de cuenta le llegará a través de un mensaje de texto. Para finalizar, por favor, me indica su número de RUT. Disculpe, su domicilio particular.",
+    "words": [
+        {
+            "text": "A",
+            "start": 480,
+            "end": 600,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "continuación,",
+            "start": 600,
+            "end": 1120,
+            "confidence": 0.9391276,
+            "speaker": "A"
+        },
+        {
+            "text": "necesitamos",
+            "start": 1120,
+            "end": 1720,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "validar",
+            "start": 1720,
+            "end": 2040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 2040,
+            "end": 2240,
+            "confidence": 0.67871094,
+            "speaker": "A"
+        },
+        {
+            "text": "titularidad.",
+            "start": 2240,
+            "end": 2760,
+            "confidence": 0.74690753,
+            "speaker": "A"
+        },
+        {
+            "text": "Por",
+            "start": 2760,
+            "end": 3000,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "favor,",
+            "start": 3000,
+            "end": 3200,
+            "confidence": 0.78100586,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 3200,
+            "end": 3360,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "indica",
+            "start": 3360,
+            "end": 3640,
+            "confidence": 0.90649414,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 3640,
+            "end": 3840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "número",
+            "start": 3840,
+            "end": 4000,
+            "confidence": 0.9996338,
+            "speaker": "A"
+        },
+        {
+            "text": "de.",
+            "start": 4000,
+            "end": 4160,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "R",
+            "start": 4160,
+            "end": 4480,
+            "confidence": 0.97998047,
+            "speaker": "B"
+        },
+        {
+            "text": "el",
+            "start": 5120,
+            "end": 5400,
+            "confidence": 0.55371094,
+            "speaker": "B"
+        },
+        {
+            "text": "12",
+            "start": 5400,
+            "end": 6258,
+            "confidence": 0.87278,
+            "speaker": "B"
+        },
+        {
+            "text": "6",
+            "start": 6448,
+            "end": 7211,
+            "confidence": 0.87278,
+            "speaker": "B"
+        },
+        {
+            "text": "27.",
+            "start": 7402,
+            "end": 8164,
+            "confidence": 0.87278,
+            "speaker": "B"
+        },
+        {
+            "text": "3.",
+            "start": 8355,
+            "end": 9118,
+            "confidence": 0.87278,
+            "speaker": "A"
+        },
+        {
+            "text": "8",
+            "start": 9308,
+            "end": 10071,
+            "confidence": 0.87278,
+            "speaker": "B"
+        },
+        {
+            "text": "8.",
+            "start": 10262,
+            "end": 11120,
+            "confidence": 0.87278,
+            "speaker": "B"
+        },
+        {
+            "text": "Muy",
+            "start": 13040,
+            "end": 13320,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "amable.",
+            "start": 13320,
+            "end": 13600,
+            "confidence": 0.97558594,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Y",
+            "start": 13600,
+            "end": 13760,
+            "confidence": 0.8129883,
+            "speaker": "A"
+        },
+        {
+            "text": "tiene",
+            "start": 13760,
+            "end": 13960,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "algún",
+            "start": 13960,
+            "end": 14240,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "correo",
+            "start": 14240,
+            "end": 14480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "electrónico",
+            "start": 14480,
+            "end": 14880,
+            "confidence": 0.9772461,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 14880,
+            "end": 15040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "poder",
+            "start": 15040,
+            "end": 15200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mandar",
+            "start": 15200,
+            "end": 15600,
+            "confidence": 0.90755206,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 15600,
+            "end": 15720,
+            "confidence": 0.94628906,
+            "speaker": "A"
+        },
+        {
+            "text": "estado",
+            "start": 15720,
+            "end": 15999,
+            "confidence": 0.8063965,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 15999,
+            "end": 16160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cuenta?",
+            "start": 16160,
+            "end": 16480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "No,",
+            "start": 18640,
+            "end": 19040,
+            "confidence": 0.98876953,
+            "speaker": "B"
+        },
+        {
+            "text": "no",
+            "start": 20320,
+            "end": 20560,
+            "confidence": 0.9995117,
+            "speaker": "B"
+        },
+        {
+            "text": "se",
+            "start": 20560,
+            "end": 20640,
+            "confidence": 0.99853516,
+            "speaker": "B"
+        },
+        {
+            "text": "preocupe.",
+            "start": 20640,
+            "end": 21000,
+            "confidence": 0.99902344,
+            "speaker": "B"
+        },
+        {
+            "text": "Su",
+            "start": 21000,
+            "end": 21160,
+            "confidence": 0.9663086,
+            "speaker": "A"
+        },
+        {
+            "text": "pago",
+            "start": 21160,
+            "end": 21360,
+            "confidence": 0.6750488,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 21360,
+            "end": 21440,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "cuenta",
+            "start": 21440,
+            "end": 21640,
+            "confidence": 0.9794922,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 21640,
+            "end": 21760,
+            "confidence": 0.78466797,
+            "speaker": "A"
+        },
+        {
+            "text": "llegará",
+            "start": 21760,
+            "end": 22080,
+            "confidence": 0.828125,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 22080,
+            "end": 22160,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "través",
+            "start": 22160,
+            "end": 22320,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 22320,
+            "end": 22400,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 22400,
+            "end": 22480,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "mensaje",
+            "start": 22480,
+            "end": 22800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 22800,
+            "end": 22880,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "texto.",
+            "start": 22880,
+            "end": 23280,
+            "confidence": 0.92578125,
+            "speaker": "A"
+        },
+        {
+            "text": "Para",
+            "start": 23280,
+            "end": 23560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "finalizar,",
+            "start": 23560,
+            "end": 23960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 23960,
+            "end": 24160,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "favor,",
+            "start": 24160,
+            "end": 24400,
+            "confidence": 0.7373047,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 24400,
+            "end": 24560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "indica",
+            "start": 24560,
+            "end": 24880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 24880,
+            "end": 25080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "número",
+            "start": 25080,
+            "end": 25400,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 25400,
+            "end": 25560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "RUT.",
+            "start": 25560,
+            "end": 26000,
+            "confidence": 0.72436523,
+            "speaker": "A"
+        },
+        {
+            "text": "Disculpe,",
+            "start": 26080,
+            "end": 26640,
+            "confidence": 0.99641925,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 26640,
+            "end": 26840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "domicilio",
+            "start": 26840,
+            "end": 27360,
+            "confidence": 0.97888184,
+            "speaker": "A"
+        },
+        {
+            "text": "particular.",
+            "start": 27360,
+            "end": 27760,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "A continuación, necesitamos validar su titularidad. Por favor, me indica su número de.",
+            "start": 480,
+            "end": 4160,
+            "confidence": 0.9261537,
+            "speaker": "A"
+        },
+        {
+            "text": "R el 12 6 27.",
+            "start": 4160,
+            "end": 8164,
+            "confidence": 0.8304063,
+            "speaker": "B"
+        },
+        {
+            "text": "3.",
+            "start": 8355,
+            "end": 9118,
+            "confidence": 0.87278,
+            "speaker": "A"
+        },
+        {
+            "text": "8 8.",
+            "start": 9308,
+            "end": 11120,
+            "confidence": 0.87278,
+            "speaker": "B"
+        },
+        {
+            "text": "Muy amable. ¿Y tiene algún correo electrónico para poder mandar su estado de cuenta?",
+            "start": 13040,
+            "end": 16480,
+            "confidence": 0.9584287,
+            "speaker": "A"
+        },
+        {
+            "text": "No, no se preocupe.",
+            "start": 18640,
+            "end": 21000,
+            "confidence": 0.99645996,
+            "speaker": "B"
+        },
+        {
+            "text": "Su pago de cuenta le llegará a través de un mensaje de texto. Para finalizar, por favor, me indica su número de RUT. Disculpe, su domicilio particular.",
+            "start": 21000,
+            "end": 27760,
+            "confidence": 0.9402021,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 29,
+    "language_code": "es"
+}

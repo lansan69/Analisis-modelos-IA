@@ -1,612 +1,528 @@
 {
-    "text": "All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You  All I Want For Christmas is You All I Want For Christmas is You All I Want For Christmas is You",
+    "text": "First Time Second Time Third Time Fourth Time Fifth Time Sixth Time Seventh Time Eighth Time Ninth Time Tenth Time Eleventh Time   Ninth Time Tenth Time Ninth Time  Eighth Time     Ninth Time     Ninth Time Tenth Time Eleventh Time Twelfth Time Eighth Time Ninth Time Tenth Time Eleventh Time  Ninth Time Eleventh Time Twelfth Time Ninth Time Eleventh Time   Twelfth Time Ninth Time Eighth Time  Twelfth Time Ninth Time Twelfth Time Twelfth Time Ninth Time Twelfth Time Ninth Time Twelfth Time Thousand Hundred Thousand Hundred",
     "audio_duration": 278.3399963378906,
     "confidence": 0.36787944117144233,
     "words": [
         {
-            "text": "All",
-            "start": 28.020000457763672,
-            "end": 28.18000030517578,
-            "confidence": 0.99
-        },
-        {
-            "text": "I",
-            "start": 28.18000030517578,
-            "end": 28.34000015258789,
-            "confidence": 0.99
-        },
-        {
-            "text": "Want",
-            "start": 28.34000015258789,
-            "end": 28.420000076293945,
-            "confidence": 0.99
-        },
-        {
-            "text": "For",
-            "start": 28.420000076293945,
-            "end": 29.920000076293945,
-            "confidence": 0.99
-        },
-        {
-            "text": "Christmas",
-            "start": 29.920000076293945,
+            "text": "First",
+            "start": 28.540000915527344,
             "end": 29.940000534057617,
             "confidence": 0.99
         },
         {
-            "text": "is",
+            "text": "Time",
             "start": 29.940000534057617,
-            "end": 29.959999084472656,
-            "confidence": 0.99
-        },
-        {
-            "text": "You",
-            "start": 29.959999084472656,
             "end": 29.979999542236328,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 48.41999816894531,
-            "end": 49.099998474121094,
+            "text": "Second",
+            "start": 41.70000076293945,
+            "end": 41.959999084472656,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 49.099998474121094,
-            "end": 49.779998779296875,
+            "text": "Time",
+            "start": 41.959999084472656,
+            "end": 42.220001220703125,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 49.779998779296875,
-            "end": 53.41999816894531,
+            "text": "Third",
+            "start": 42.2599983215332,
+            "end": 42.52000045776367,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 53.41999816894531,
-            "end": 53.7599983215332,
+            "text": "Time",
+            "start": 42.52000045776367,
+            "end": 42.779998779296875,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 53.7599983215332,
-            "end": 53.779998779296875,
+            "text": "Fourth",
+            "start": 54.81999969482422,
+            "end": 55.08000183105469,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 53.779998779296875,
-            "end": 53.79999923706055,
+            "text": "Time",
+            "start": 55.08000183105469,
+            "end": 55.099998474121094,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 53.79999923706055,
-            "end": 53.81999969482422,
+            "text": "Fifth",
+            "start": 58.81999969482422,
+            "end": 59.08000183105469,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 72.72000122070312,
-            "end": 74.12000274658203,
+            "text": "Time",
+            "start": 59.08000183105469,
+            "end": 59.099998474121094,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 74.12000274658203,
-            "end": 75.5199966430664,
+            "text": "Sixth",
+            "start": 59.380001068115234,
+            "end": 59.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 75.5199966430664,
-            "end": 86.22000122070312,
+            "text": "Time",
+            "start": 59.63999938964844,
+            "end": 59.65999984741211,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 86.22000122070312,
+            "text": "Seventh",
+            "start": 59.65999984741211,
+            "end": 59.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "Time",
+            "start": 59.880001068115234,
+            "end": 59.900001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eighth",
+            "start": 59.900001525878906,
+            "end": 59.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "Time",
+            "start": 59.939998626708984,
+            "end": 59.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ninth",
+            "start": 72.27999877929688,
+            "end": 73.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "Time",
+            "start": 73.68000030517578,
+            "end": 73.80000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "Tenth",
+            "start": 73.80000305175781,
+            "end": 73.83999633789062,
+            "confidence": 0.99
+        },
+        {
+            "text": "Time",
+            "start": 73.83999633789062,
+            "end": 73.9000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Eleventh",
+            "start": 77.16000366210938,
+            "end": 78.55999755859375,
+            "confidence": 0.99
+        },
+        {
+            "text": "Time",
+            "start": 78.55999755859375,
+            "end": 79.95999908447266,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ninth",
+            "start": 84.30000305175781,
+            "end": 85.69999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "Time",
+            "start": 85.69999694824219,
             "end": 87.0999984741211,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
+            "text": "Tenth",
             "start": 87.0999984741211,
-            "end": 88.94000244140625,
+            "end": 87.66000366210938,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 88.94000244140625,
-            "end": 89.0,
+            "text": "Time",
+            "start": 87.66000366210938,
+            "end": 88.72000122070312,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 89.0,
-            "end": 89.0,
+            "text": "Ninth",
+            "start": 118.0199966430664,
+            "end": 118.45999908447266,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 119.19999694824219,
-            "end": 119.23999786376953,
+            "text": "Time",
+            "start": 118.45999908447266,
+            "end": 118.68000030517578,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 119.23999786376953,
-            "end": 119.27999877929688,
+            "text": "Eighth",
+            "start": 118.68000030517578,
+            "end": 118.68000030517578,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 119.27999877929688,
-            "end": 119.30000305175781,
+            "text": "Time",
+            "start": 118.68000030517578,
+            "end": 118.69999694824219,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 119.30000305175781,
-            "end": 119.31999969482422,
+            "text": "Ninth",
+            "start": 144.9199981689453,
+            "end": 146.32000732421875,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 119.31999969482422,
-            "end": 119.33999633789062,
+            "text": "Time",
+            "start": 146.32000732421875,
+            "end": 146.32000732421875,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 119.33999633789062,
-            "end": 119.36000061035156,
+            "text": "Ninth",
+            "start": 146.32000732421875,
+            "end": 146.47999572753906,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 119.36000061035156,
-            "end": 119.37999725341797,
+            "text": "Time",
+            "start": 146.47999572753906,
+            "end": 146.47999572753906,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 119.37999725341797,
-            "end": 119.4000015258789,
+            "text": "Tenth",
+            "start": 146.47999572753906,
+            "end": 146.47999572753906,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 119.4000015258789,
-            "end": 119.44000244140625,
+            "text": "Time",
+            "start": 146.47999572753906,
+            "end": 148.6199951171875,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 119.44000244140625,
-            "end": 119.45999908447266,
+            "text": "Eleventh",
+            "start": 148.6199951171875,
+            "end": 149.4600067138672,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 119.45999908447266,
-            "end": 119.4800033569336,
+            "text": "Time",
+            "start": 149.4600067138672,
+            "end": 151.6199951171875,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 119.4800033569336,
-            "end": 119.5,
+            "text": "Twelfth",
+            "start": 154.05999755859375,
+            "end": 154.94000244140625,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 119.5,
-            "end": 119.5199966430664,
+            "text": "Time",
+            "start": 154.94000244140625,
+            "end": 155.82000732421875,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 119.5199966430664,
-            "end": 119.54000091552734,
+            "text": "Eighth",
+            "start": 168.47999572753906,
+            "end": 169.36000061035156,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 119.54000091552734,
-            "end": 119.87999725341797,
+            "text": "Time",
+            "start": 169.36000061035156,
+            "end": 170.24000549316406,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 119.87999725341797,
-            "end": 149.32000732421875,
+            "text": "Ninth",
+            "start": 170.24000549316406,
+            "end": 170.27999877929688,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Time",
+            "start": 170.27999877929688,
+            "end": 170.3000030517578,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Tenth",
+            "start": 170.3000030517578,
+            "end": 170.33999633789062,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Time",
+            "start": 170.33999633789062,
+            "end": 170.36000061035156,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Eleventh",
+            "start": 176.83999633789062,
+            "end": 177.72000122070312,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Time",
+            "start": 177.72000122070312,
+            "end": 178.60000610351562,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Ninth",
+            "start": 199.44000244140625,
+            "end": 199.8000030517578,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Time",
+            "start": 199.8000030517578,
+            "end": 200.10000610351562,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Eleventh",
+            "start": 200.10000610351562,
+            "end": 200.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 149.32000732421875,
-            "end": 149.32000732421875,
+            "text": "Time",
+            "start": 200.13999938964844,
+            "end": 200.16000366210938,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 149.32000732421875,
-            "end": 149.3800048828125,
+            "text": "Twelfth",
+            "start": 201.4199981689453,
+            "end": 201.77999877929688,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 149.3800048828125,
-            "end": 149.3800048828125,
+            "text": "Time",
+            "start": 201.77999877929688,
+            "end": 202.13999938964844,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 149.3800048828125,
-            "end": 149.3800048828125,
+            "text": "Ninth",
+            "start": 202.13999938964844,
+            "end": 202.17999267578125,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 160.97999572753906,
-            "end": 161.02000427246094,
+            "text": "Time",
+            "start": 202.17999267578125,
+            "end": 202.1999969482422,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 161.02000427246094,
-            "end": 161.0399932861328,
-            "confidence": 0.99
-        },
-        {
-            "text": "Want",
-            "start": 161.0399932861328,
-            "end": 161.05999755859375,
-            "confidence": 0.99
-        },
-        {
-            "text": "For",
-            "start": 161.05999755859375,
-            "end": 161.0800018310547,
-            "confidence": 0.99
-        },
-        {
-            "text": "Christmas",
-            "start": 161.0800018310547,
-            "end": 161.10000610351562,
-            "confidence": 0.99
-        },
-        {
-            "text": "is",
-            "start": 161.10000610351562,
-            "end": 163.4600067138672,
-            "confidence": 0.99
-        },
-        {
-            "text": "You",
-            "start": 163.4600067138672,
-            "end": 163.47999572753906,
-            "confidence": 0.99
-        },
-        {
-            "text": "All",
-            "start": 208.4600067138672,
-            "end": 208.5,
-            "confidence": 0.99
-        },
-        {
-            "text": "I",
-            "start": 208.5,
-            "end": 208.5399932861328,
-            "confidence": 0.99
-        },
-        {
-            "text": "Want",
-            "start": 208.5399932861328,
+            "text": "Eleventh",
+            "start": 208.1999969482422,
             "end": 208.55999755859375,
             "confidence": 0.99
         },
         {
-            "text": "For",
+            "text": "Time",
             "start": 208.55999755859375,
-            "end": 208.9199981689453,
+            "end": 208.55999755859375,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 208.9199981689453,
-            "end": 208.94000244140625,
+            "text": "Twelfth",
+            "start": 221.83999633789062,
+            "end": 223.24000549316406,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 208.94000244140625,
-            "end": 208.9600067138672,
+            "text": "Time",
+            "start": 223.24000549316406,
+            "end": 223.24000549316406,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 208.9600067138672,
-            "end": 208.97999572753906,
+            "text": "Ninth",
+            "start": 223.94000244140625,
+            "end": 225.33999633789062,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 208.97999572753906,
-            "end": 209.0,
+            "text": "Time",
+            "start": 225.33999633789062,
+            "end": 225.33999633789062,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 209.0,
-            "end": 209.02000427246094,
+            "text": "Eighth",
+            "start": 225.33999633789062,
+            "end": 225.33999633789062,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 209.02000427246094,
-            "end": 209.0399932861328,
+            "text": "Time",
+            "start": 225.33999633789062,
+            "end": 226.0399932861328,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 209.0399932861328,
-            "end": 209.10000610351562,
+            "text": "Twelfth",
+            "start": 227.10000610351562,
+            "end": 228.5,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 209.10000610351562,
-            "end": 209.1199951171875,
+            "text": "Time",
+            "start": 228.5,
+            "end": 229.89999389648438,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 209.1199951171875,
-            "end": 209.13999938964844,
+            "text": "Ninth",
+            "start": 229.89999389648438,
+            "end": 229.94000244140625,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 209.13999938964844,
-            "end": 209.16000366210938,
+            "text": "Time",
+            "start": 229.94000244140625,
+            "end": 229.9600067138672,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 209.16000366210938,
-            "end": 209.63999938964844,
+            "text": "Twelfth",
+            "start": 237.13999938964844,
+            "end": 238.5399932861328,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 209.63999938964844,
-            "end": 239.13999938964844,
+            "text": "Time",
+            "start": 238.5399932861328,
+            "end": 238.5399932861328,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 239.13999938964844,
-            "end": 239.13999938964844,
+            "text": "Twelfth",
+            "start": 251.55999755859375,
+            "end": 251.63999938964844,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 239.13999938964844,
-            "end": 239.13999938964844,
+            "text": "Time",
+            "start": 251.63999938964844,
+            "end": 251.66000366210938,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 239.13999938964844,
-            "end": 239.13999938964844,
+            "text": "Ninth",
+            "start": 251.66000366210938,
+            "end": 251.6999969482422,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 239.13999938964844,
-            "end": 239.13999938964844,
+            "text": "Time",
+            "start": 251.6999969482422,
+            "end": 251.72000122070312,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 239.13999938964844,
-            "end": 239.13999938964844,
+            "text": "Twelfth",
+            "start": 251.72000122070312,
+            "end": 251.77999877929688,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 263.760009765625,
-            "end": 263.79998779296875,
+            "text": "Time",
+            "start": 251.77999877929688,
+            "end": 251.8000030517578,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 263.79998779296875,
-            "end": 263.8399963378906,
+            "text": "Ninth",
+            "start": 251.8000030517578,
+            "end": 251.83999633789062,
             "confidence": 0.99
         },
         {
-            "text": "Want",
-            "start": 263.8399963378906,
-            "end": 263.8399963378906,
+            "text": "Time",
+            "start": 251.83999633789062,
+            "end": 251.86000061035156,
             "confidence": 0.99
         },
         {
-            "text": "For",
-            "start": 263.8399963378906,
-            "end": 263.94000244140625,
+            "text": "Twelfth",
+            "start": 267.6199951171875,
+            "end": 267.70001220703125,
             "confidence": 0.99
         },
         {
-            "text": "Christmas",
-            "start": 263.94000244140625,
-            "end": 263.9599914550781,
+            "text": "Time",
+            "start": 267.70001220703125,
+            "end": 267.70001220703125,
             "confidence": 0.99
         },
         {
-            "text": "is",
-            "start": 263.9599914550781,
-            "end": 263.9800109863281,
+            "text": "Thousand",
+            "start": 268.1199951171875,
+            "end": 268.20001220703125,
             "confidence": 0.99
         },
         {
-            "text": "You",
-            "start": 263.9800109863281,
-            "end": 264.0,
+            "text": "Hundred",
+            "start": 268.44000244140625,
+            "end": 268.5199890136719,
             "confidence": 0.99
         },
         {
-            "text": "All",
-            "start": 264.0,
-            "end": 264.0199890136719,
+            "text": "Thousand",
+            "start": 276.8999938964844,
+            "end": 278.29998779296875,
             "confidence": 0.99
         },
         {
-            "text": "I",
-            "start": 264.0199890136719,
-            "end": 264.0400085449219,
-            "confidence": 0.99
-        },
-        {
-            "text": "Want",
-            "start": 264.0400085449219,
-            "end": 264.05999755859375,
-            "confidence": 0.99
-        },
-        {
-            "text": "For",
-            "start": 264.05999755859375,
-            "end": 267.3999938964844,
-            "confidence": 0.99
-        },
-        {
-            "text": "Christmas",
-            "start": 267.3999938964844,
-            "end": 267.7200012207031,
-            "confidence": 0.99
-        },
-        {
-            "text": "is",
-            "start": 267.7200012207031,
-            "end": 267.7200012207031,
-            "confidence": 0.99
-        },
-        {
-            "text": "You",
-            "start": 267.7200012207031,
-            "end": 267.7200012207031,
-            "confidence": 0.99
-        },
-        {
-            "text": "All",
-            "start": 278.1199951171875,
-            "end": 278.1600036621094,
-            "confidence": 0.99
-        },
-        {
-            "text": "I",
-            "start": 278.1600036621094,
-            "end": 278.17999267578125,
-            "confidence": 0.99
-        },
-        {
-            "text": "Want",
-            "start": 278.17999267578125,
-            "end": 278.20001220703125,
-            "confidence": 0.99
-        },
-        {
-            "text": "For",
-            "start": 278.20001220703125,
-            "end": 278.2200012207031,
-            "confidence": 0.99
-        },
-        {
-            "text": "Christmas",
-            "start": 278.2200012207031,
-            "end": 278.239990234375,
-            "confidence": 0.99
-        },
-        {
-            "text": "is",
-            "start": 278.239990234375,
-            "end": 278.260009765625,
-            "confidence": 0.99
-        },
-        {
-            "text": "You",
-            "start": 278.260009765625,
-            "end": 278.2799987792969,
+            "text": "Hundred",
+            "start": 278.29998779296875,
+            "end": 278.32000732421875,
             "confidence": 0.99
         }
     ],
     "sentiment_analysis_results": [
         {
-            "segment": "All I Want For Christmas is You",
-            "sentiment": "POSITIVE",
-            "confidence": 0.95
+            "segment": "The repeated phrases convey a sense of rhythm or process associated with time.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
         }
     ],
     "chapters": [
         {
-            "headline": "All I Want For Christmas",
-            "summary": "The text repetitively expresses a strong desire for a loved one during Christmas.",
+            "headline": "Repetition of Time Phrases",
+            "summary": "The transcript centers around the repetition of phrases signifying various time increments.",
             "start": 0,
-            "end": 60
+            "end": 10
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

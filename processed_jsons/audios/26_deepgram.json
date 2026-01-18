@@ -1,0 +1,2405 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "f1723626-fc99-4997-aa99-ef4dc890df39",
+        "sha256": "15d0149b18e7a31ba4d7f2523f65bc227f050549636ec7358a123a49bd1d5812",
+        "created": "2026-01-18T00:04:33.336000Z",
+        "duration": 38.136,
+        "channels": 1.0,
+        "models": [
+            "4f82af92-7749-4465-92ad-3db204bc8e03"
+        ],
+        "model_info": {
+            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+                "name": "2-general-nova",
+                "version": "2023-12-14.34983",
+                "arch": "nova-2"
+            }
+        },
+        "warnings": [
+            {
+                "parameter": "sentiment",
+                "type": "unsupported_language",
+                "message": "Sentiment is only supported for English."
+            }
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "¿A qué te dedicas, Daniel? Le fabrico a Pepsico e insertadores de promoción. ¿Y qué, perdón? Insertadores de promoción. ¿Qué es eso, perdóname? ¿Los que dejan los tazos y las estampas en las bolsitas? Oh. Eso. ¿Es una máquina la que hace eso? ¿Tú crees? Yo pensé que era una persona. Es que no sé si algún día les tocó la chida. A mí nunca me pasó, era una leyenda urbana en Cuautla que a un niño le salieron 6 tazos en una sola bolsa. Entonces, a todo les pasó, no, no, no soy yo, entonces.",
+                        "confidence": 0.9975198,
+                        "words": [
+                            {
+                                "word": "a",
+                                "start": 0.08,
+                                "end": 0.24,
+                                "confidence": 0.9940059,
+                                "speaker": 0,
+                                "speaker_confidence": 0.3517192,
+                                "punctuated_word": "¿A",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "qué",
+                                "start": 0.24,
+                                "end": 0.39999998,
+                                "confidence": 0.9983646,
+                                "speaker": 0,
+                                "speaker_confidence": 0.3517192,
+                                "punctuated_word": "qué",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "te",
+                                "start": 0.39999998,
+                                "end": 0.71999997,
+                                "confidence": 0.9987791,
+                                "speaker": 0,
+                                "speaker_confidence": 0.3517192,
+                                "punctuated_word": "te",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "dedicas",
+                                "start": 0.71999997,
+                                "end": 1.04,
+                                "confidence": 0.98411405,
+                                "speaker": 0,
+                                "speaker_confidence": 0.3517192,
+                                "punctuated_word": "dedicas,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "daniel",
+                                "start": 1.04,
+                                "end": 1.54,
+                                "confidence": 0.99983084,
+                                "speaker": 0,
+                                "speaker_confidence": 0.3517192,
+                                "punctuated_word": "Daniel?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "le",
+                                "start": 2.6399999,
+                                "end": 3.04,
+                                "confidence": 0.9976306,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "Le",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "fabrico",
+                                "start": 3.04,
+                                "end": 3.4399998,
+                                "confidence": 0.99880445,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "fabrico",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "a",
+                                "start": 3.4399998,
+                                "end": 3.9399998,
+                                "confidence": 0.99918324,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pepsico",
+                                "start": 4.0,
+                                "end": 4.5,
+                                "confidence": 0.9078959,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "Pepsico",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "e",
+                                "start": 4.8,
+                                "end": 5.3,
+                                "confidence": 0.75615716,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "e",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "insertadores",
+                                "start": 5.6,
+                                "end": 6.1,
+                                "confidence": 0.9998567,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "insertadores",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 6.24,
+                                "end": 6.48,
+                                "confidence": 0.99966836,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "promoción",
+                                "start": 6.48,
+                                "end": 6.98,
+                                "confidence": 0.99812686,
+                                "speaker": 0,
+                                "speaker_confidence": 0.16242552,
+                                "punctuated_word": "promoción.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 7.2799997,
+                                "end": 7.52,
+                                "confidence": 0.8666948,
+                                "speaker": 0,
+                                "speaker_confidence": 0.31756514,
+                                "punctuated_word": "¿Y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "qué",
+                                "start": 7.52,
+                                "end": 7.68,
+                                "confidence": 0.9352706,
+                                "speaker": 0,
+                                "speaker_confidence": 0.31756514,
+                                "punctuated_word": "qué,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "perdón",
+                                "start": 7.68,
+                                "end": 7.9199996,
+                                "confidence": 0.9996542,
+                                "speaker": 0,
+                                "speaker_confidence": 0.31756514,
+                                "punctuated_word": "perdón?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "insertadores",
+                                "start": 7.9199996,
+                                "end": 8.42,
+                                "confidence": 0.99587536,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14222336,
+                                "punctuated_word": "Insertadores",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "de",
+                                "start": 9.28,
+                                "end": 9.679999,
+                                "confidence": 0.999808,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14222336,
+                                "punctuated_word": "de",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "promoción",
+                                "start": 9.679999,
+                                "end": 10.08,
+                                "confidence": 0.99947965,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14222336,
+                                "punctuated_word": "promoción.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "qué",
+                                "start": 10.08,
+                                "end": 10.24,
+                                "confidence": 0.99879503,
+                                "speaker": 0,
+                                "speaker_confidence": 0.28534544,
+                                "punctuated_word": "¿Qué",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 10.24,
+                                "end": 10.32,
+                                "confidence": 0.99754995,
+                                "speaker": 0,
+                                "speaker_confidence": 0.28534544,
+                                "punctuated_word": "es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "eso",
+                                "start": 10.32,
+                                "end": 10.559999,
+                                "confidence": 0.86425817,
+                                "speaker": 0,
+                                "speaker_confidence": 0.28534544,
+                                "punctuated_word": "eso,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "perdóname",
+                                "start": 10.559999,
+                                "end": 11.059999,
+                                "confidence": 0.9175597,
+                                "speaker": 0,
+                                "speaker_confidence": 0.28534544,
+                                "punctuated_word": "perdóname?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "los",
+                                "start": 11.28,
+                                "end": 11.48,
+                                "confidence": 0.77383745,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "¿Los",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 11.48,
+                                "end": 11.679999,
+                                "confidence": 0.9993938,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "dejan",
+                                "start": 11.679999,
+                                "end": 12.179999,
+                                "confidence": 0.9994746,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "dejan",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "los",
+                                "start": 12.24,
+                                "end": 12.32,
+                                "confidence": 0.9983273,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "los",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tazos",
+                                "start": 12.32,
+                                "end": 12.6,
+                                "confidence": 0.9701016,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "tazos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "y",
+                                "start": 12.6,
+                                "end": 12.88,
+                                "confidence": 0.9978726,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "y",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "las",
+                                "start": 12.88,
+                                "end": 13.04,
+                                "confidence": 0.9985032,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "las",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "estampas",
+                                "start": 13.04,
+                                "end": 13.44,
+                                "confidence": 0.9994209,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "estampas",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 13.44,
+                                "end": 13.5199995,
+                                "confidence": 0.998657,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "en",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "las",
+                                "start": 13.5199995,
+                                "end": 13.679999,
+                                "confidence": 0.9962063,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "las",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "bolsitas",
+                                "start": 13.679999,
+                                "end": 14.179999,
+                                "confidence": 0.99970955,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "bolsitas?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "oh",
+                                "start": 15.515,
+                                "end": 16.015,
+                                "confidence": 0.59639376,
+                                "speaker": 0,
+                                "speaker_confidence": 0.17408824,
+                                "punctuated_word": "Oh.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "eso",
+                                "start": 17.755001,
+                                "end": 18.255001,
+                                "confidence": 0.763695,
+                                "speaker": 0,
+                                "speaker_confidence": 0.57999104,
+                                "punctuated_word": "Eso.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 18.395,
+                                "end": 18.715,
+                                "confidence": 0.7471259,
+                                "speaker": 0,
+                                "speaker_confidence": 0.57999104,
+                                "punctuated_word": "¿Es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "una",
+                                "start": 18.715,
+                                "end": 19.035,
+                                "confidence": 0.99887866,
+                                "speaker": 0,
+                                "speaker_confidence": 0.57999104,
+                                "punctuated_word": "una",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "máquina",
+                                "start": 19.035,
+                                "end": 19.435001,
+                                "confidence": 0.9979966,
+                                "speaker": 0,
+                                "speaker_confidence": 0.57999104,
+                                "punctuated_word": "máquina",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "la",
+                                "start": 19.435001,
+                                "end": 19.595001,
+                                "confidence": 0.9944014,
+                                "speaker": 0,
+                                "speaker_confidence": 0.57999104,
+                                "punctuated_word": "la",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 19.595001,
+                                "end": 19.675,
+                                "confidence": 0.9987313,
+                                "speaker": 0,
+                                "speaker_confidence": 0.13080907,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "hace",
+                                "start": 19.675,
+                                "end": 19.835,
+                                "confidence": 0.99879646,
+                                "speaker": 0,
+                                "speaker_confidence": 0.13080907,
+                                "punctuated_word": "hace",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "eso",
+                                "start": 19.835,
+                                "end": 20.235,
+                                "confidence": 0.9978944,
+                                "speaker": 0,
+                                "speaker_confidence": 0.13080907,
+                                "punctuated_word": "eso?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tú",
+                                "start": 20.235,
+                                "end": 20.475,
+                                "confidence": 0.97700435,
+                                "speaker": 0,
+                                "speaker_confidence": 0.0,
+                                "punctuated_word": "¿Tú",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "crees",
+                                "start": 20.475,
+                                "end": 20.975,
+                                "confidence": 0.99989057,
+                                "speaker": 0,
+                                "speaker_confidence": 0.0,
+                                "punctuated_word": "crees?",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "yo",
+                                "start": 21.115,
+                                "end": 21.355,
+                                "confidence": 0.995337,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "Yo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pensé",
+                                "start": 21.355,
+                                "end": 21.675,
+                                "confidence": 0.99888486,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "pensé",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 21.675,
+                                "end": 21.835,
+                                "confidence": 0.99833965,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "era",
+                                "start": 21.835,
+                                "end": 21.995,
+                                "confidence": 0.9981791,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "era",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "una",
+                                "start": 21.995,
+                                "end": 22.155,
+                                "confidence": 0.99847966,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "una",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "persona",
+                                "start": 22.155,
+                                "end": 22.655,
+                                "confidence": 0.95466673,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "persona.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "es",
+                                "start": 24.154999,
+                                "end": 24.235,
+                                "confidence": 0.98107785,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "Es",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 24.235,
+                                "end": 24.395,
+                                "confidence": 0.99950397,
+                                "speaker": 0,
+                                "speaker_confidence": 0.63183725,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 24.395,
+                                "end": 24.555,
+                                "confidence": 0.9943403,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "sé",
+                                "start": 24.555,
+                                "end": 24.795,
+                                "confidence": 0.98846984,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "sé",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "si",
+                                "start": 24.795,
+                                "end": 25.035,
+                                "confidence": 0.99235004,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "si",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "algún",
+                                "start": 25.035,
+                                "end": 25.195,
+                                "confidence": 0.9978594,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "algún",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "día",
+                                "start": 25.195,
+                                "end": 25.435001,
+                                "confidence": 0.99737465,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "día",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "les",
+                                "start": 25.435001,
+                                "end": 25.595001,
+                                "confidence": 0.9975198,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "les",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tocó",
+                                "start": 25.595001,
+                                "end": 25.835,
+                                "confidence": 0.9972773,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "tocó",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "la",
+                                "start": 25.835,
+                                "end": 25.994999,
+                                "confidence": 0.9981109,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "la",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "chida",
+                                "start": 25.994999,
+                                "end": 26.475,
+                                "confidence": 0.85590076,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "chida.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "a",
+                                "start": 26.475,
+                                "end": 26.635,
+                                "confidence": 0.8442782,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "A",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "mí",
+                                "start": 26.635,
+                                "end": 26.715,
+                                "confidence": 0.9589827,
+                                "speaker": 0,
+                                "speaker_confidence": 0.56844544,
+                                "punctuated_word": "mí",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "nunca",
+                                "start": 26.715,
+                                "end": 26.875,
+                                "confidence": 0.99904877,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "nunca",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "me",
+                                "start": 26.875,
+                                "end": 27.115,
+                                "confidence": 0.99763274,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "me",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pasó",
+                                "start": 27.115,
+                                "end": 27.355,
+                                "confidence": 0.8703679,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "pasó,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "era",
+                                "start": 27.355,
+                                "end": 27.595001,
+                                "confidence": 0.99427927,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "era",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "una",
+                                "start": 27.595001,
+                                "end": 27.755001,
+                                "confidence": 0.9970777,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "una",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "leyenda",
+                                "start": 27.755001,
+                                "end": 28.075,
+                                "confidence": 0.99978477,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "leyenda",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "urbana",
+                                "start": 28.075,
+                                "end": 28.475,
+                                "confidence": 0.9995845,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "urbana",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 28.475,
+                                "end": 28.635,
+                                "confidence": 0.9357269,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "en",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "cuautla",
+                                "start": 28.635,
+                                "end": 29.135,
+                                "confidence": 0.99935997,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "Cuautla",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "que",
+                                "start": 29.330938,
+                                "end": 29.490938,
+                                "confidence": 0.9997439,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "que",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "a",
+                                "start": 29.490938,
+                                "end": 29.650938,
+                                "confidence": 0.9978308,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "un",
+                                "start": 29.650938,
+                                "end": 30.150938,
+                                "confidence": 0.9995913,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5685945,
+                                "punctuated_word": "un",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "niño",
+                                "start": 30.370937,
+                                "end": 30.53094,
+                                "confidence": 0.9998247,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "niño",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "le",
+                                "start": 30.53094,
+                                "end": 30.770939,
+                                "confidence": 0.9935529,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "le",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "salieron",
+                                "start": 30.770939,
+                                "end": 31.170938,
+                                "confidence": 0.9998337,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "salieron",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "6",
+                                "start": 31.170938,
+                                "end": 31.410938,
+                                "confidence": 0.99892175,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "6",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "tazos",
+                                "start": 31.410938,
+                                "end": 31.810938,
+                                "confidence": 0.9885651,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "tazos",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "en",
+                                "start": 31.810938,
+                                "end": 31.970938,
+                                "confidence": 0.9958781,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "en",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "una",
+                                "start": 31.970938,
+                                "end": 32.13094,
+                                "confidence": 0.9982508,
+                                "speaker": 0,
+                                "speaker_confidence": 0.45257068,
+                                "punctuated_word": "una",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "sola",
+                                "start": 32.13094,
+                                "end": 32.63094,
+                                "confidence": 0.9933395,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "sola",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "bolsa",
+                                "start": 33.09094,
+                                "end": 33.59094,
+                                "confidence": 0.87956256,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "bolsa.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "entonces",
+                                "start": 33.65094,
+                                "end": 34.05094,
+                                "confidence": 0.9313142,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "Entonces,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "a",
+                                "start": 34.05094,
+                                "end": 34.45094,
+                                "confidence": 0.7897917,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "todo",
+                                "start": 34.45094,
+                                "end": 34.61094,
+                                "confidence": 0.67425334,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "todo",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "les",
+                                "start": 34.61094,
+                                "end": 34.77094,
+                                "confidence": 0.98736805,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "les",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "pasó",
+                                "start": 34.77094,
+                                "end": 35.09094,
+                                "confidence": 0.59531456,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "pasó,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 35.09094,
+                                "end": 35.41094,
+                                "confidence": 0.25155386,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "no,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 35.41094,
+                                "end": 35.91094,
+                                "confidence": 0.34915376,
+                                "speaker": 0,
+                                "speaker_confidence": 0.29719722,
+                                "punctuated_word": "no,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "no",
+                                "start": 36.690937,
+                                "end": 36.93094,
+                                "confidence": 0.3791397,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14168525,
+                                "punctuated_word": "no",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "soy",
+                                "start": 36.93094,
+                                "end": 37.170937,
+                                "confidence": 0.57527554,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14168525,
+                                "punctuated_word": "soy",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "yo",
+                                "start": 37.170937,
+                                "end": 37.33094,
+                                "confidence": 0.7542319,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14168525,
+                                "punctuated_word": "yo,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            },
+                            {
+                                "word": "entonces",
+                                "start": 37.33094,
+                                "end": 37.83094,
+                                "confidence": 0.9926925,
+                                "speaker": 0,
+                                "speaker_confidence": 0.14168525,
+                                "punctuated_word": "entonces.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nSpeaker 0: ¿A qué te dedicas, Daniel? Le fabrico a Pepsico e insertadores de promoción. ¿Y qué, perdón? Insertadores de promoción. ¿Qué es eso, perdóname?\n\n¿Los que dejan los tazos y las estampas en las bolsitas? Oh. Eso. ¿Es una máquina la que hace eso? ¿Tú crees?\n\nYo pensé que era una persona. Es que no sé si algún día les tocó la chida. A mí nunca me pasó, era una leyenda urbana en Cuautla que a un niño le salieron 6 tazos en una sola bolsa. Entonces, a todo les pasó, no, no, no soy yo, entonces.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "¿A qué te dedicas, Daniel?",
+                                            "start": 0.08,
+                                            "end": 1.54,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Le fabrico a Pepsico e insertadores de promoción.",
+                                            "start": 2.6399999,
+                                            "end": 6.98,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿Y qué, perdón?",
+                                            "start": 7.2799997,
+                                            "end": 7.9199996,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Insertadores de promoción.",
+                                            "start": 7.9199996,
+                                            "end": 10.08,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿Qué es eso, perdóname?",
+                                            "start": 10.08,
+                                            "end": 11.059999,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 23.0,
+                                    "start": 0.08,
+                                    "end": 11.059999,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "¿Los que dejan los tazos y las estampas en las bolsitas?",
+                                            "start": 11.28,
+                                            "end": 14.179999,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Oh.",
+                                            "start": 15.515,
+                                            "end": 16.015,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Eso.",
+                                            "start": 17.755001,
+                                            "end": 18.255001,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿Es una máquina la que hace eso?",
+                                            "start": 18.395,
+                                            "end": 20.235,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "¿Tú crees?",
+                                            "start": 20.235,
+                                            "end": 20.975,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 22.0,
+                                    "start": 11.28,
+                                    "end": 20.975,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Yo pensé que era una persona.",
+                                            "start": 21.115,
+                                            "end": 22.655,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Es que no sé si algún día les tocó la chida.",
+                                            "start": 24.154999,
+                                            "end": 26.475,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "A mí nunca me pasó, era una leyenda urbana en Cuautla que a un niño le salieron 6 tazos en una sola bolsa.",
+                                            "start": 26.475,
+                                            "end": 33.59094,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        },
+                                        {
+                                            "text": "Entonces, a todo les pasó, no, no, no soy yo, entonces.",
+                                            "start": 33.65094,
+                                            "end": 37.83094,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.0
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 51.0,
+                                    "start": 21.115,
+                                    "end": 37.83094,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "utterances": [
+            {
+                "start": 0.08,
+                "end": 1.54,
+                "confidence": 0.99501884,
+                "channel": 0.0,
+                "transcript": "¿A qué te dedicas, Daniel?",
+                "words": [
+                    {
+                        "word": "a",
+                        "start": 0.08,
+                        "end": 0.24,
+                        "confidence": 0.9940059,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.3517192,
+                        "punctuated_word": "¿A",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "qué",
+                        "start": 0.24,
+                        "end": 0.39999998,
+                        "confidence": 0.9983646,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.3517192,
+                        "punctuated_word": "qué",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "te",
+                        "start": 0.39999998,
+                        "end": 0.71999997,
+                        "confidence": 0.9987791,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.3517192,
+                        "punctuated_word": "te",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "dedicas",
+                        "start": 0.71999997,
+                        "end": 1.04,
+                        "confidence": 0.98411405,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.3517192,
+                        "punctuated_word": "dedicas,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "daniel",
+                        "start": 1.04,
+                        "end": 1.54,
+                        "confidence": 0.99983084,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.3517192,
+                        "punctuated_word": "Daniel?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "c9f04e46-9ae9-4622-9dfc-8a05c15fd159",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 2.6399999,
+                "end": 4.5,
+                "confidence": 0.9758786,
+                "channel": 0.0,
+                "transcript": "Le fabrico a Pepsico",
+                "words": [
+                    {
+                        "word": "le",
+                        "start": 2.6399999,
+                        "end": 3.04,
+                        "confidence": 0.9976306,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "Le",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "fabrico",
+                        "start": 3.04,
+                        "end": 3.4399998,
+                        "confidence": 0.99880445,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "fabrico",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "a",
+                        "start": 3.4399998,
+                        "end": 3.9399998,
+                        "confidence": 0.99918324,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pepsico",
+                        "start": 4.0,
+                        "end": 4.5,
+                        "confidence": 0.9078959,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "Pepsico",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ff01a724-0e8d-41a7-88b2-99b008535114",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 4.8,
+                "end": 8.42,
+                "confidence": 0.94391304,
+                "channel": 0.0,
+                "transcript": "e insertadores de promoción. ¿Y qué, perdón? Insertadores",
+                "words": [
+                    {
+                        "word": "e",
+                        "start": 4.8,
+                        "end": 5.3,
+                        "confidence": 0.75615716,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "e",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "insertadores",
+                        "start": 5.6,
+                        "end": 6.1,
+                        "confidence": 0.9998567,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "insertadores",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "de",
+                        "start": 6.24,
+                        "end": 6.48,
+                        "confidence": 0.99966836,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "promoción",
+                        "start": 6.48,
+                        "end": 6.98,
+                        "confidence": 0.99812686,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.16242552,
+                        "punctuated_word": "promoción.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 7.2799997,
+                        "end": 7.52,
+                        "confidence": 0.8666948,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.31756514,
+                        "punctuated_word": "¿Y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "qué",
+                        "start": 7.52,
+                        "end": 7.68,
+                        "confidence": 0.9352706,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.31756514,
+                        "punctuated_word": "qué,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "perdón",
+                        "start": 7.68,
+                        "end": 7.9199996,
+                        "confidence": 0.9996542,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.31756514,
+                        "punctuated_word": "perdón?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "insertadores",
+                        "start": 7.9199996,
+                        "end": 8.42,
+                        "confidence": 0.99587536,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14222336,
+                        "punctuated_word": "Insertadores",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "e22227e1-b8a1-4f21-8768-1f5c515c86d3",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 9.28,
+                "end": 14.179999,
+                "confidence": 0.971115,
+                "channel": 0.0,
+                "transcript": "de promoción. ¿Qué es eso, perdóname? ¿Los que dejan los tazos y las estampas en las bolsitas?",
+                "words": [
+                    {
+                        "word": "de",
+                        "start": 9.28,
+                        "end": 9.679999,
+                        "confidence": 0.999808,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14222336,
+                        "punctuated_word": "de",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "promoción",
+                        "start": 9.679999,
+                        "end": 10.08,
+                        "confidence": 0.99947965,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14222336,
+                        "punctuated_word": "promoción.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "qué",
+                        "start": 10.08,
+                        "end": 10.24,
+                        "confidence": 0.99879503,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.28534544,
+                        "punctuated_word": "¿Qué",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 10.24,
+                        "end": 10.32,
+                        "confidence": 0.99754995,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.28534544,
+                        "punctuated_word": "es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "eso",
+                        "start": 10.32,
+                        "end": 10.559999,
+                        "confidence": 0.86425817,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.28534544,
+                        "punctuated_word": "eso,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "perdóname",
+                        "start": 10.559999,
+                        "end": 11.059999,
+                        "confidence": 0.9175597,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.28534544,
+                        "punctuated_word": "perdóname?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "los",
+                        "start": 11.28,
+                        "end": 11.48,
+                        "confidence": 0.77383745,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "¿Los",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 11.48,
+                        "end": 11.679999,
+                        "confidence": 0.9993938,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "dejan",
+                        "start": 11.679999,
+                        "end": 12.179999,
+                        "confidence": 0.9994746,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "dejan",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "los",
+                        "start": 12.24,
+                        "end": 12.32,
+                        "confidence": 0.9983273,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "los",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tazos",
+                        "start": 12.32,
+                        "end": 12.6,
+                        "confidence": 0.9701016,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "tazos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "y",
+                        "start": 12.6,
+                        "end": 12.88,
+                        "confidence": 0.9978726,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "y",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "las",
+                        "start": 12.88,
+                        "end": 13.04,
+                        "confidence": 0.9985032,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "las",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "estampas",
+                        "start": 13.04,
+                        "end": 13.44,
+                        "confidence": 0.9994209,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "estampas",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "en",
+                        "start": 13.44,
+                        "end": 13.5199995,
+                        "confidence": 0.998657,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "en",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "las",
+                        "start": 13.5199995,
+                        "end": 13.679999,
+                        "confidence": 0.9962063,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "las",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "bolsitas",
+                        "start": 13.679999,
+                        "end": 14.179999,
+                        "confidence": 0.99970955,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "bolsitas?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "723b296c-483e-4afb-a19f-7c944809cf8a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 15.515,
+                "end": 16.015,
+                "confidence": 0.59639376,
+                "channel": 0.0,
+                "transcript": "Oh.",
+                "words": [
+                    {
+                        "word": "oh",
+                        "start": 15.515,
+                        "end": 16.015,
+                        "confidence": 0.59639376,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.17408824,
+                        "punctuated_word": "Oh.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "09e21ebf-7973-4a31-9bf8-78cb26c67aa3",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 17.755001,
+                "end": 22.655,
+                "confidence": 0.9636439,
+                "channel": 0.0,
+                "transcript": "Eso. ¿Es una máquina la que hace eso? ¿Tú crees? Yo pensé que era una persona.",
+                "words": [
+                    {
+                        "word": "eso",
+                        "start": 17.755001,
+                        "end": 18.255001,
+                        "confidence": 0.763695,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.57999104,
+                        "punctuated_word": "Eso.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "es",
+                        "start": 18.395,
+                        "end": 18.715,
+                        "confidence": 0.7471259,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.57999104,
+                        "punctuated_word": "¿Es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "una",
+                        "start": 18.715,
+                        "end": 19.035,
+                        "confidence": 0.99887866,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.57999104,
+                        "punctuated_word": "una",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "máquina",
+                        "start": 19.035,
+                        "end": 19.435001,
+                        "confidence": 0.9979966,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.57999104,
+                        "punctuated_word": "máquina",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "la",
+                        "start": 19.435001,
+                        "end": 19.595001,
+                        "confidence": 0.9944014,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.57999104,
+                        "punctuated_word": "la",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 19.595001,
+                        "end": 19.675,
+                        "confidence": 0.9987313,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.13080907,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "hace",
+                        "start": 19.675,
+                        "end": 19.835,
+                        "confidence": 0.99879646,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.13080907,
+                        "punctuated_word": "hace",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "eso",
+                        "start": 19.835,
+                        "end": 20.235,
+                        "confidence": 0.9978944,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.13080907,
+                        "punctuated_word": "eso?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tú",
+                        "start": 20.235,
+                        "end": 20.475,
+                        "confidence": 0.97700435,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.0,
+                        "punctuated_word": "¿Tú",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "crees",
+                        "start": 20.475,
+                        "end": 20.975,
+                        "confidence": 0.99989057,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.0,
+                        "punctuated_word": "crees?",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "yo",
+                        "start": 21.115,
+                        "end": 21.355,
+                        "confidence": 0.995337,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "Yo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pensé",
+                        "start": 21.355,
+                        "end": 21.675,
+                        "confidence": 0.99888486,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "pensé",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 21.675,
+                        "end": 21.835,
+                        "confidence": 0.99833965,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "era",
+                        "start": 21.835,
+                        "end": 21.995,
+                        "confidence": 0.9981791,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "era",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "una",
+                        "start": 21.995,
+                        "end": 22.155,
+                        "confidence": 0.99847966,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "una",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "persona",
+                        "start": 22.155,
+                        "end": 22.655,
+                        "confidence": 0.95466673,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "persona.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "b721a34c-5e7a-4040-a22c-8dcc3021f135",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 24.154999,
+                "end": 32.63094,
+                "confidence": 0.98064363,
+                "channel": 0.0,
+                "transcript": "Es que no sé si algún día les tocó la chida. A mí nunca me pasó, era una leyenda urbana en Cuautla que a un niño le salieron 6 tazos en una sola",
+                "words": [
+                    {
+                        "word": "es",
+                        "start": 24.154999,
+                        "end": 24.235,
+                        "confidence": 0.98107785,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "Es",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 24.235,
+                        "end": 24.395,
+                        "confidence": 0.99950397,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.63183725,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 24.395,
+                        "end": 24.555,
+                        "confidence": 0.9943403,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "sé",
+                        "start": 24.555,
+                        "end": 24.795,
+                        "confidence": 0.98846984,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "sé",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "si",
+                        "start": 24.795,
+                        "end": 25.035,
+                        "confidence": 0.99235004,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "si",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "algún",
+                        "start": 25.035,
+                        "end": 25.195,
+                        "confidence": 0.9978594,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "algún",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "día",
+                        "start": 25.195,
+                        "end": 25.435001,
+                        "confidence": 0.99737465,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "día",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "les",
+                        "start": 25.435001,
+                        "end": 25.595001,
+                        "confidence": 0.9975198,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "les",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tocó",
+                        "start": 25.595001,
+                        "end": 25.835,
+                        "confidence": 0.9972773,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "tocó",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "la",
+                        "start": 25.835,
+                        "end": 25.994999,
+                        "confidence": 0.9981109,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "la",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "chida",
+                        "start": 25.994999,
+                        "end": 26.475,
+                        "confidence": 0.85590076,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "chida.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "a",
+                        "start": 26.475,
+                        "end": 26.635,
+                        "confidence": 0.8442782,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "A",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "mí",
+                        "start": 26.635,
+                        "end": 26.715,
+                        "confidence": 0.9589827,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.56844544,
+                        "punctuated_word": "mí",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "nunca",
+                        "start": 26.715,
+                        "end": 26.875,
+                        "confidence": 0.99904877,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "nunca",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "me",
+                        "start": 26.875,
+                        "end": 27.115,
+                        "confidence": 0.99763274,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "me",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pasó",
+                        "start": 27.115,
+                        "end": 27.355,
+                        "confidence": 0.8703679,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "pasó,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "era",
+                        "start": 27.355,
+                        "end": 27.595001,
+                        "confidence": 0.99427927,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "era",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "una",
+                        "start": 27.595001,
+                        "end": 27.755001,
+                        "confidence": 0.9970777,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "una",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "leyenda",
+                        "start": 27.755001,
+                        "end": 28.075,
+                        "confidence": 0.99978477,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "leyenda",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "urbana",
+                        "start": 28.075,
+                        "end": 28.475,
+                        "confidence": 0.9995845,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "urbana",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "en",
+                        "start": 28.475,
+                        "end": 28.635,
+                        "confidence": 0.9357269,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "en",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "cuautla",
+                        "start": 28.635,
+                        "end": 29.135,
+                        "confidence": 0.99935997,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "Cuautla",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "que",
+                        "start": 29.330938,
+                        "end": 29.490938,
+                        "confidence": 0.9997439,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "que",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "a",
+                        "start": 29.490938,
+                        "end": 29.650938,
+                        "confidence": 0.9978308,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "un",
+                        "start": 29.650938,
+                        "end": 30.150938,
+                        "confidence": 0.9995913,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5685945,
+                        "punctuated_word": "un",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "niño",
+                        "start": 30.370937,
+                        "end": 30.53094,
+                        "confidence": 0.9998247,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "niño",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "le",
+                        "start": 30.53094,
+                        "end": 30.770939,
+                        "confidence": 0.9935529,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "le",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "salieron",
+                        "start": 30.770939,
+                        "end": 31.170938,
+                        "confidence": 0.9998337,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "salieron",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "6",
+                        "start": 31.170938,
+                        "end": 31.410938,
+                        "confidence": 0.99892175,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "6",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "tazos",
+                        "start": 31.410938,
+                        "end": 31.810938,
+                        "confidence": 0.9885651,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "tazos",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "en",
+                        "start": 31.810938,
+                        "end": 31.970938,
+                        "confidence": 0.9958781,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "en",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "una",
+                        "start": 31.970938,
+                        "end": 32.13094,
+                        "confidence": 0.9982508,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.45257068,
+                        "punctuated_word": "una",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "sola",
+                        "start": 32.13094,
+                        "end": 32.63094,
+                        "confidence": 0.9933395,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "sola",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "4a85b8f7-e60f-424f-9532-5fc50de6b11f",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 33.09094,
+                "end": 35.91094,
+                "confidence": 0.682289,
+                "channel": 0.0,
+                "transcript": "bolsa. Entonces, a todo les pasó, no, no,",
+                "words": [
+                    {
+                        "word": "bolsa",
+                        "start": 33.09094,
+                        "end": 33.59094,
+                        "confidence": 0.87956256,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "bolsa.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "entonces",
+                        "start": 33.65094,
+                        "end": 34.05094,
+                        "confidence": 0.9313142,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "Entonces,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "a",
+                        "start": 34.05094,
+                        "end": 34.45094,
+                        "confidence": 0.7897917,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "todo",
+                        "start": 34.45094,
+                        "end": 34.61094,
+                        "confidence": 0.67425334,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "todo",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "les",
+                        "start": 34.61094,
+                        "end": 34.77094,
+                        "confidence": 0.98736805,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "les",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "pasó",
+                        "start": 34.77094,
+                        "end": 35.09094,
+                        "confidence": 0.59531456,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "pasó,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 35.09094,
+                        "end": 35.41094,
+                        "confidence": 0.25155386,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "no,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "no",
+                        "start": 35.41094,
+                        "end": 35.91094,
+                        "confidence": 0.34915376,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.29719722,
+                        "punctuated_word": "no,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "f471d2d2-d5ac-42e6-b1c2-77c5cbd301fb",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            },
+            {
+                "start": 36.690937,
+                "end": 37.83094,
+                "confidence": 0.67533493,
+                "channel": 0.0,
+                "transcript": "no soy yo, entonces.",
+                "words": [
+                    {
+                        "word": "no",
+                        "start": 36.690937,
+                        "end": 36.93094,
+                        "confidence": 0.3791397,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14168525,
+                        "punctuated_word": "no",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "soy",
+                        "start": 36.93094,
+                        "end": 37.170937,
+                        "confidence": 0.57527554,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14168525,
+                        "punctuated_word": "soy",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "yo",
+                        "start": 37.170937,
+                        "end": 37.33094,
+                        "confidence": 0.7542319,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14168525,
+                        "punctuated_word": "yo,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    },
+                    {
+                        "word": "entonces",
+                        "start": 37.33094,
+                        "end": 37.83094,
+                        "confidence": 0.9926925,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.14168525,
+                        "punctuated_word": "entonces.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "01beed35-338e-47cc-83ec-4dd4329bdf6a",
+                "sentiment": "neutral",
+                "sentiment_score": 0.0
+            }
+        ]
+    }
+}

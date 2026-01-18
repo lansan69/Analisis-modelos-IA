@@ -1,0 +1,440 @@
+{
+    "id": "b0e0eea3-eb17-45ed-9de3-273a3c7a8697",
+    "status": "completed",
+    "text": "Aló, buenos días, buen día. Hablo con don Cristian Rodrigo Weston Avilés. Estoy llamando de fanspan, mi nombre es Paola Miranda y el motivo de esta llamada es para darle la bienvenida a su tarjeta y confirmar algunos datos. Bueno, le informo que para su seguridad esta conversación está siendo grabada y su tarjeta se otorgó el día primero de.",
+    "words": [
+        {
+            "text": "Aló,",
+            "start": 4880,
+            "end": 5240,
+            "confidence": 0.6828613,
+            "speaker": "A"
+        },
+        {
+            "text": "buenos",
+            "start": 5240,
+            "end": 5640,
+            "confidence": 0.9116211,
+            "speaker": "A"
+        },
+        {
+            "text": "días,",
+            "start": 5640,
+            "end": 6080,
+            "confidence": 0.7573242,
+            "speaker": "A"
+        },
+        {
+            "text": "buen",
+            "start": 6560,
+            "end": 6880,
+            "confidence": 0.80566406,
+            "speaker": "A"
+        },
+        {
+            "text": "día.",
+            "start": 6880,
+            "end": 7200,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "Hablo",
+            "start": 7920,
+            "end": 8360,
+            "confidence": 0.9592285,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 8360,
+            "end": 8520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "don",
+            "start": 8520,
+            "end": 8680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Cristian",
+            "start": 8680,
+            "end": 9320,
+            "confidence": 0.9085286,
+            "speaker": "A"
+        },
+        {
+            "text": "Rodrigo",
+            "start": 9320,
+            "end": 9960,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "Weston",
+            "start": 9960,
+            "end": 10960,
+            "confidence": 0.87386066,
+            "speaker": "A"
+        },
+        {
+            "text": "Avilés.",
+            "start": 11680,
+            "end": 12640,
+            "confidence": 0.68741864,
+            "speaker": "A"
+        },
+        {
+            "text": "Estoy",
+            "start": 15200,
+            "end": 15520,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "llamando",
+            "start": 15520,
+            "end": 15920,
+            "confidence": 0.99731445,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 15920,
+            "end": 16079,
+            "confidence": 0.47680664,
+            "speaker": "A"
+        },
+        {
+            "text": "fanspan,",
+            "start": 16079,
+            "end": 16800,
+            "confidence": 0.6298828,
+            "speaker": "A"
+        },
+        {
+            "text": "mi",
+            "start": 16800,
+            "end": 16880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "nombre",
+            "start": 16880,
+            "end": 16960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 16960,
+            "end": 17080,
+            "confidence": 0.6225586,
+            "speaker": "A"
+        },
+        {
+            "text": "Paola",
+            "start": 17080,
+            "end": 17520,
+            "confidence": 0.9746094,
+            "speaker": "A"
+        },
+        {
+            "text": "Miranda",
+            "start": 17520,
+            "end": 18080,
+            "confidence": 0.9679362,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 18080,
+            "end": 18280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 18280,
+            "end": 18400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "motivo",
+            "start": 18400,
+            "end": 18600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 18600,
+            "end": 18760,
+            "confidence": 0.67822266,
+            "speaker": "A"
+        },
+        {
+            "text": "esta",
+            "start": 18760,
+            "end": 18960,
+            "confidence": 0.55615234,
+            "speaker": "A"
+        },
+        {
+            "text": "llamada",
+            "start": 18960,
+            "end": 19320,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "es",
+            "start": 19320,
+            "end": 19440,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 19440,
+            "end": 19560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "darle",
+            "start": 19560,
+            "end": 19800,
+            "confidence": 0.8112793,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 19800,
+            "end": 19920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "bienvenida",
+            "start": 19920,
+            "end": 20320,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 20320,
+            "end": 20440,
+            "confidence": 0.8666992,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 20440,
+            "end": 20560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 20560,
+            "end": 21040,
+            "confidence": 0.90804034,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 21040,
+            "end": 21160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "confirmar",
+            "start": 21160,
+            "end": 21560,
+            "confidence": 0.99397784,
+            "speaker": "A"
+        },
+        {
+            "text": "algunos",
+            "start": 21560,
+            "end": 21920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "datos.",
+            "start": 21920,
+            "end": 22400,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Bueno,",
+            "start": 23280,
+            "end": 23920,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 24800,
+            "end": 25040,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "informo",
+            "start": 25040,
+            "end": 25480,
+            "confidence": 0.9592285,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 25480,
+            "end": 25600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 25600,
+            "end": 25680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 25680,
+            "end": 25760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "seguridad",
+            "start": 25760,
+            "end": 26080,
+            "confidence": 0.9383138,
+            "speaker": "A"
+        },
+        {
+            "text": "esta",
+            "start": 26160,
+            "end": 26480,
+            "confidence": 0.9711914,
+            "speaker": "A"
+        },
+        {
+            "text": "conversación",
+            "start": 26480,
+            "end": 26960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 26960,
+            "end": 27160,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "siendo",
+            "start": 27160,
+            "end": 27400,
+            "confidence": 0.9900716,
+            "speaker": "A"
+        },
+        {
+            "text": "grabada",
+            "start": 27400,
+            "end": 27840,
+            "confidence": 0.97998047,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 27840,
+            "end": 28040,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 28040,
+            "end": 28160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 28160,
+            "end": 28440,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 28440,
+            "end": 28600,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "otorgó",
+            "start": 28600,
+            "end": 29200,
+            "confidence": 0.8654785,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 29200,
+            "end": 29440,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "día",
+            "start": 29440,
+            "end": 29760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "primero",
+            "start": 29920,
+            "end": 30640,
+            "confidence": 0.83325195,
+            "speaker": "A"
+        },
+        {
+            "text": "de.",
+            "start": 30640,
+            "end": 30960,
+            "confidence": 0.94091797,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Aló, buenos días, buen día. Hablo con don Cristian Rodrigo Weston Avilés. Estoy llamando de fanspan, mi nombre es Paola Miranda y el motivo de esta llamada es para darle la bienvenida a su tarjeta y confirmar algunos datos. Bueno, le informo que para su seguridad esta conversación está siendo grabada y su tarjeta se otorgó el día primero de.",
+            "start": 4880,
+            "end": 30960,
+            "confidence": 0.92535806,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 32,
+    "language_code": "es"
+}

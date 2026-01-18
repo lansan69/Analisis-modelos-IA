@@ -918,12 +918,12 @@
         {
             "text": "me",
             "start": 82.80000305175781,
-            "end": 83.80000305175781,
+            "end": 83.76000213623047,
             "confidence": 0.99
         },
         {
             "text": "señorita",
-            "start": 83.80000305175781,
+            "start": 83.76000213623047,
             "end": 84.86000061035156,
             "confidence": 0.99
         },
@@ -2328,18 +2328,39 @@
     ],
     "sentiment_analysis_results": [
         {
+            "segment": "I love it when you call me señorita",
             "sentiment": "POSITIVE",
             "confidence": 0.95
+        },
+        {
+            "segment": "I wish I could pretend I didn't need ya",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.85
+        },
+        {
+            "segment": "But every touch is ooh-la-la-la",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "segment": "Ooh, I should be runnin'",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        },
+        {
+            "segment": "Ooh, you keep me comin' for ya",
+            "sentiment": "POSITIVE",
+            "confidence": 0.92
         }
     ],
     "chapters": [
         {
-            "headline": "Señorita's Call",
-            "summary": "A romantic expression of desire and connection between two individuals, emphasizing the passionate moments shared during a summer encounter.",
+            "headline": "Señorita",
+            "summary": "The narrator expresses a longing for a romantic connection, feeling both desire and the tension of needing to preserve boundaries.",
             "start": 0,
-            "end": 219
+            "end": 300
         }
     ],
     "model_used": "whisper-1 + gpt-4o-mini",
-    "diarization": "Not Available in Whisper-V1"
+    "detected_language": "english"
 }

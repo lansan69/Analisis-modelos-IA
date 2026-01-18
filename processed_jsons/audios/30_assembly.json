@@ -1,0 +1,335 @@
+{
+    "id": "7dbc447c-56b2-4f9f-9689-79bcfae44499",
+    "status": "completed",
+    "text": "Para continuar, necesito validar su titularidad. Para esto necesito que me confirme su rut, por favor. 12 6 17 3 2. Correcto. Algún correo electrónico para enviar su estado. De sí Gigi Alan. GG con. Y sí. Gigi Alan.",
+    "words": [
+        {
+            "text": "Para",
+            "start": 640,
+            "end": 720,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "continuar,",
+            "start": 720,
+            "end": 1000,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "necesito",
+            "start": 1000,
+            "end": 1640,
+            "confidence": 0.8654785,
+            "speaker": "A"
+        },
+        {
+            "text": "validar",
+            "start": 1640,
+            "end": 2040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 2040,
+            "end": 2200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "titularidad.",
+            "start": 2200,
+            "end": 2720,
+            "confidence": 0.99625653,
+            "speaker": "A"
+        },
+        {
+            "text": "Para",
+            "start": 2720,
+            "end": 2960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esto",
+            "start": 2960,
+            "end": 3200,
+            "confidence": 0.53515625,
+            "speaker": "A"
+        },
+        {
+            "text": "necesito",
+            "start": 3200,
+            "end": 3600,
+            "confidence": 0.810791,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 3600,
+            "end": 3840,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 3840,
+            "end": 3920,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "confirme",
+            "start": 3920,
+            "end": 4400,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 4400,
+            "end": 4520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "rut,",
+            "start": 4520,
+            "end": 4840,
+            "confidence": 0.92578125,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 4840,
+            "end": 5040,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "favor.",
+            "start": 5040,
+            "end": 5360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "12",
+            "start": 6160,
+            "end": 6865,
+            "confidence": 0.94694,
+            "speaker": "B"
+        },
+        {
+            "text": "6",
+            "start": 7022,
+            "end": 7649,
+            "confidence": 0.94694,
+            "speaker": "B"
+        },
+        {
+            "text": "17",
+            "start": 7806,
+            "end": 8433,
+            "confidence": 0.94694,
+            "speaker": "B"
+        },
+        {
+            "text": "3",
+            "start": 8590,
+            "end": 9217,
+            "confidence": 0.94694,
+            "speaker": "B"
+        },
+        {
+            "text": "2.",
+            "start": 9374,
+            "end": 10080,
+            "confidence": 0.94694,
+            "speaker": "B"
+        },
+        {
+            "text": "Correcto.",
+            "start": 10240,
+            "end": 10800,
+            "confidence": 0.92333984,
+            "speaker": "A"
+        },
+        {
+            "text": "Algún",
+            "start": 10880,
+            "end": 11280,
+            "confidence": 0.8601074,
+            "speaker": "A"
+        },
+        {
+            "text": "correo",
+            "start": 11280,
+            "end": 11600,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "electrónico",
+            "start": 11600,
+            "end": 11920,
+            "confidence": 0.9977539,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 11920,
+            "end": 12000,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "enviar",
+            "start": 12000,
+            "end": 12280,
+            "confidence": 0.9885254,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 12280,
+            "end": 12440,
+            "confidence": 0.9868164,
+            "speaker": "A"
+        },
+        {
+            "text": "estado.",
+            "start": 12440,
+            "end": 12680,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "De",
+            "start": 12680,
+            "end": 12960,
+            "confidence": 0.9584961,
+            "speaker": "B"
+        },
+        {
+            "text": "sí",
+            "start": 14080,
+            "end": 14560,
+            "confidence": 0.98461914,
+            "speaker": "B"
+        },
+        {
+            "text": "Gigi",
+            "start": 16079,
+            "end": 16600,
+            "confidence": 0.7915039,
+            "speaker": "B"
+        },
+        {
+            "text": "Alan.",
+            "start": 16600,
+            "end": 17040,
+            "confidence": 0.6779785,
+            "speaker": "B"
+        },
+        {
+            "text": "GG",
+            "start": 17360,
+            "end": 17800,
+            "confidence": 0.56762695,
+            "speaker": "A"
+        },
+        {
+            "text": "con.",
+            "start": 17800,
+            "end": 18080,
+            "confidence": 0.9238281,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 18080,
+            "end": 18400,
+            "confidence": 0.9897461,
+            "speaker": "B"
+        },
+        {
+            "text": "sí.",
+            "start": 19360,
+            "end": 19840,
+            "confidence": 0.88964844,
+            "speaker": "B"
+        },
+        {
+            "text": "Gigi",
+            "start": 20000,
+            "end": 20560,
+            "confidence": 0.7683919,
+            "speaker": "A"
+        },
+        {
+            "text": "Alan.",
+            "start": 20560,
+            "end": 21040,
+            "confidence": 0.69555664,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Para continuar, necesito validar su titularidad. Para esto necesito que me confirme su rut, por favor.",
+            "start": 640,
+            "end": 5360,
+            "confidence": 0.94555664,
+            "speaker": "A"
+        },
+        {
+            "text": "12 6 17 3 2.",
+            "start": 6160,
+            "end": 10080,
+            "confidence": 0.94694,
+            "speaker": "B"
+        },
+        {
+            "text": "Correcto. Algún correo electrónico para enviar su estado.",
+            "start": 10240,
+            "end": 12680,
+            "confidence": 0.96875405,
+            "speaker": "A"
+        },
+        {
+            "text": "De sí Gigi Alan.",
+            "start": 12680,
+            "end": 17040,
+            "confidence": 0.8531494,
+            "speaker": "B"
+        },
+        {
+            "text": "GG con.",
+            "start": 17360,
+            "end": 18080,
+            "confidence": 0.74572754,
+            "speaker": "A"
+        },
+        {
+            "text": "Y sí.",
+            "start": 18080,
+            "end": 19840,
+            "confidence": 0.93969727,
+            "speaker": "B"
+        },
+        {
+            "text": "Gigi Alan.",
+            "start": 20000,
+            "end": 21040,
+            "confidence": 0.7319743,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 28,
+    "language_code": "es"
+}

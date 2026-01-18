@@ -1,9 +1,9 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "140d7869-c19a-495f-b547-356d4b88b268",
+        "request_id": "80f8a8d4-c18d-4be1-a36f-634ebe9253f6",
         "sha256": "cb78bd3c0dc846fc9c80e784a550d0ab9356994b0b0213b5b817f475cd74ded8",
-        "created": "2026-01-17T23:24:20.403000Z",
+        "created": "2026-01-18T00:25:11.908000Z",
         "duration": 287.832,
         "channels": 1.0,
         "models": [
@@ -39,7 +39,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "I've",
                                 "sentiment": "neutral",
-                                "sentiment_score": 0.21670429408550265
+                                "sentiment_score": 0.2167043685913086
                             },
                             {
                                 "word": "died",
@@ -50,7 +50,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "died",
                                 "sentiment": "neutral",
-                                "sentiment_score": 0.22325731813907623
+                                "sentiment_score": 0.22325743734836576
                             },
                             {
                                 "word": "every",
@@ -61,7 +61,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "every",
                                 "sentiment": "neutral",
-                                "sentiment_score": 0.25863802433013916
+                                "sentiment_score": 0.25863808393478394
                             },
                             {
                                 "word": "day",
@@ -72,7 +72,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "day",
                                 "sentiment": "neutral",
-                                "sentiment_score": 0.30731433629989624
+                                "sentiment_score": 0.30731436610221863
                             },
                             {
                                 "word": "waiting",
@@ -83,7 +83,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "waiting",
                                 "sentiment": "neutral",
-                                "sentiment_score": 0.2840559482574463
+                                "sentiment_score": 0.28405603766441345
                             },
                             {
                                 "word": "for",
@@ -94,7 +94,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "for",
                                 "sentiment": "positive",
-                                "sentiment_score": 0.4104717969894409
+                                "sentiment_score": 0.4104720950126648
                             },
                             {
                                 "word": "you",
@@ -105,7 +105,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "you.",
                                 "sentiment": "neutral",
-                                "sentiment_score": 0.24119265377521515
+                                "sentiment_score": 0.24119266867637632
                             },
                             {
                                 "word": "darling",
@@ -127,7 +127,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "don't",
                                 "sentiment": "positive",
-                                "sentiment_score": 0.48469802737236023
+                                "sentiment_score": 0.4846981465816498
                             },
                             {
                                 "word": "be",
@@ -138,7 +138,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "be",
                                 "sentiment": "positive",
-                                "sentiment_score": 0.5015469789505005
+                                "sentiment_score": 0.50154709815979
                             },
                             {
                                 "word": "afraid",
@@ -149,7 +149,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "afraid.",
                                 "sentiment": "positive",
-                                "sentiment_score": 0.6966552734375
+                                "sentiment_score": 0.6966553926467896
                             },
                             {
                                 "word": "i",
@@ -160,7 +160,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "I",
                                 "sentiment": "positive",
-                                "sentiment_score": 0.7898244857788086
+                                "sentiment_score": 0.7898244261741638
                             },
                             {
                                 "word": "have",
@@ -182,7 +182,7 @@
                                 "speaker_confidence": 1.0,
                                 "punctuated_word": "loved",
                                 "sentiment": "positive",
-                                "sentiment_score": 0.37003934383392334
+                                "sentiment_score": 0.3700394630432129
                             }
                         ],
                         "paragraphs": {
@@ -195,21 +195,21 @@
                                             "start": 211.975,
                                             "end": 216.63501,
                                             "sentiment": "neutral",
-                                            "sentiment_score": 0.27737633883953094
+                                            "sentiment_score": 0.27737643676144735
                                         },
                                         {
                                             "text": "Darling, don't be afraid.",
                                             "start": 217.015,
                                             "end": 219.35501,
                                             "sentiment": "positive",
-                                            "sentiment_score": 0.5836368426680565
+                                            "sentiment_score": 0.5836369320750237
                                         },
                                         {
                                             "text": "I have loved",
                                             "start": 220.295,
                                             "end": 221.25,
                                             "sentiment": "positive",
-                                            "sentiment_score": 0.6707008679707845
+                                            "sentiment_score": 0.6707008878389994
                                         }
                                     ],
                                     "speaker": 0.0,
@@ -217,7 +217,7 @@
                                     "start": 211.975,
                                     "end": 221.25,
                                     "sentiment": "positive",
-                                    "sentiment_score": 0.4491631676043783
+                                    "sentiment_score": 0.44916324636765886
                                 }
                             ]
                         }
@@ -242,7 +242,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "I've",
                         "sentiment": "neutral",
-                        "sentiment_score": 0.21670429408550265
+                        "sentiment_score": 0.2167043685913086
                     },
                     {
                         "word": "died",
@@ -253,13 +253,13 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "died",
                         "sentiment": "neutral",
-                        "sentiment_score": 0.22325731813907623
+                        "sentiment_score": 0.22325743734836576
                     }
                 ],
                 "speaker": 0.0,
-                "id": "2dcaf002-ed4b-4262-87fa-ad56fa5dd499",
+                "id": "d78be2d5-0e60-4b85-9ff8-5898ed84babb",
                 "sentiment": "neutral",
-                "sentiment_score": 0.21998080611228943
+                "sentiment_score": 0.2199809029698372
             },
             {
                 "start": 213.41501,
@@ -277,7 +277,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "every",
                         "sentiment": "neutral",
-                        "sentiment_score": 0.25863802433013916
+                        "sentiment_score": 0.25863808393478394
                     },
                     {
                         "word": "day",
@@ -288,7 +288,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "day",
                         "sentiment": "neutral",
-                        "sentiment_score": 0.30731433629989624
+                        "sentiment_score": 0.30731436610221863
                     },
                     {
                         "word": "waiting",
@@ -299,13 +299,13 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "waiting",
                         "sentiment": "neutral",
-                        "sentiment_score": 0.2840559482574463
+                        "sentiment_score": 0.28405603766441345
                     }
                 ],
                 "speaker": 0.0,
-                "id": "36c50b24-a7cc-450a-954a-4a4d3c71b7e1",
+                "id": "d6dc30d2-bfc8-4907-9c9d-b475c61f4446",
                 "sentiment": "neutral",
-                "sentiment_score": 0.2833361029624939
+                "sentiment_score": 0.28333616256713867
             },
             {
                 "start": 215.41501,
@@ -323,7 +323,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "for",
                         "sentiment": "positive",
-                        "sentiment_score": 0.4104717969894409
+                        "sentiment_score": 0.4104720950126648
                     },
                     {
                         "word": "you",
@@ -334,13 +334,13 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "you.",
                         "sentiment": "neutral",
-                        "sentiment_score": 0.24119265377521515
+                        "sentiment_score": 0.24119266867637632
                     }
                 ],
                 "speaker": 0.0,
-                "id": "c18cf4f3-11a3-4614-a09c-20bb9bd892f8",
+                "id": "ec2ff31f-6cbd-4b19-80c5-8f3f44bf995e",
                 "sentiment": "neutral",
-                "sentiment_score": 0.32583222538232803
+                "sentiment_score": 0.32583238184452057
             },
             {
                 "start": 217.015,
@@ -369,7 +369,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "don't",
                         "sentiment": "positive",
-                        "sentiment_score": 0.48469802737236023
+                        "sentiment_score": 0.4846981465816498
                     },
                     {
                         "word": "be",
@@ -380,7 +380,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "be",
                         "sentiment": "positive",
-                        "sentiment_score": 0.5015469789505005
+                        "sentiment_score": 0.50154709815979
                     },
                     {
                         "word": "afraid",
@@ -391,13 +391,13 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "afraid.",
                         "sentiment": "positive",
-                        "sentiment_score": 0.6966552734375
+                        "sentiment_score": 0.6966553926467896
                     }
                 ],
                 "speaker": 0.0,
-                "id": "7a0ae078-0b63-44aa-92f2-5a92e6d6ee81",
+                "id": "7aec0e51-6cb4-4a9c-9682-e8827443a244",
                 "sentiment": "positive",
-                "sentiment_score": 0.5836368426680565
+                "sentiment_score": 0.5836369320750237
             },
             {
                 "start": 220.295,
@@ -415,7 +415,7 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "I",
                         "sentiment": "positive",
-                        "sentiment_score": 0.7898244857788086
+                        "sentiment_score": 0.7898244261741638
                     },
                     {
                         "word": "have",
@@ -437,13 +437,13 @@
                         "speaker_confidence": 1.0,
                         "punctuated_word": "loved",
                         "sentiment": "positive",
-                        "sentiment_score": 0.37003934383392334
+                        "sentiment_score": 0.3700394630432129
                     }
                 ],
                 "speaker": 0.0,
-                "id": "e6046533-42eb-4b94-8ad5-4adcd2e62d39",
+                "id": "0734a9dd-05bc-4216-bc09-6e3eb15966fa",
                 "sentiment": "positive",
-                "sentiment_score": 0.6707008679707845
+                "sentiment_score": 0.6707008878389994
             }
         ],
         "sentiments": {
@@ -453,19 +453,19 @@
                     "start_word": 0.0,
                     "end_word": 6.0,
                     "sentiment": "neutral",
-                    "sentiment_score": 0.2616235911846161
+                    "sentiment_score": 0.26162365078926086
                 },
                 {
                     "text": "Darling, don't be afraid. I have loved",
                     "start_word": 7.0,
                     "end_word": 13.0,
                     "sentiment": "positive",
-                    "sentiment_score": 0.6399063467979431
+                    "sentiment_score": 0.6399064064025879
                 }
             ],
             "average": {
                 "sentiment": "positive",
-                "sentiment_score": 0.4679595773870295
+                "sentiment_score": 0.4679596640846946
             }
         }
     }

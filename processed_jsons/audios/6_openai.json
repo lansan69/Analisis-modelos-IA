@@ -1,0 +1,1488 @@
+{
+    "text": "Existe una teoría que dice que si colocas dos cartuchos de escopeta debajo de una tabla de madera del entablado, y luego pones otra tabla encima, con un tornillo presionando el fulminante, puedes recrear la trampa de agente secreto de James Bond. La idea es que, cuando un criminal pisa la tabla, el tornillo active el cartucho y dispare el proyectil contra él. Pero, ¿algo así funcionaría realmente en la vida real? Para probarlo, los Mythbusters primero construyeron una versión básica de la trampa utilizando un cartucho vacío, y comenzaron a experimentar. No intentes esto en casa. Un hombre pisó la tabla, pero no pasó nada. Parecía que simplemente no había suficiente fuerza, así que presionó la tabla con todo el peso de su cuerpo. Sorprendentemente, el fulminante sí detonó, lo que significa que la trampa podría ser posible después de todo. Pero en la película, los villanos se movían sigilosamente, no saltando, así que la trampa necesitaba mejoras. Añadieron un gatillo con resorte para que se activara con la mínima presión. Ahora surge la verdadera pregunta, ¿qué tan peligrosa es esta trampa si se añade pólvora? Para averiguarlo, construyeron un modelo realista de una pierna humana y se prepararon para la prueba final. Recrearon la escena exacta de la película con la misma fuerza que un paso real. La pierna descendió, pero aún así, el proyectil no logró atravesar la tabla del entablado.",
+    "audio_duration": 62.5,
+    "confidence": 0.36787944117144233,
+    "words": [
+        {
+            "text": "Existe",
+            "start": 0.0,
+            "end": 0.3199999928474426,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 0.3199999928474426,
+            "end": 0.5199999809265137,
+            "confidence": 0.99
+        },
+        {
+            "text": "teoría",
+            "start": 0.5199999809265137,
+            "end": 0.7400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 0.7400000095367432,
+            "end": 1.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "dice",
+            "start": 1.0,
+            "end": 1.100000023841858,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 1.100000023841858,
+            "end": 1.2599999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "si",
+            "start": 1.2599999904632568,
+            "end": 1.4199999570846558,
+            "confidence": 0.99
+        },
+        {
+            "text": "colocas",
+            "start": 1.4199999570846558,
+            "end": 1.7200000286102295,
+            "confidence": 0.99
+        },
+        {
+            "text": "dos",
+            "start": 1.7200000286102295,
+            "end": 1.9600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "cartuchos",
+            "start": 1.9600000381469727,
+            "end": 2.359999895095825,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 2.359999895095825,
+            "end": 2.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "escopeta",
+            "start": 2.559999942779541,
+            "end": 2.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "debajo",
+            "start": 2.880000114440918,
+            "end": 3.180000066757202,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 3.180000066757202,
+            "end": 3.4200000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 3.4200000762939453,
+            "end": 3.5799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 3.5799999237060547,
+            "end": 3.759999990463257,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 3.759999990463257,
+            "end": 4.019999980926514,
+            "confidence": 0.99
+        },
+        {
+            "text": "madera",
+            "start": 4.019999980926514,
+            "end": 4.159999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 4.159999847412109,
+            "end": 4.400000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "entablado",
+            "start": 4.400000095367432,
+            "end": 4.760000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 4.820000171661377,
+            "end": 4.900000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "luego",
+            "start": 4.900000095367432,
+            "end": 5.099999904632568,
+            "confidence": 0.99
+        },
+        {
+            "text": "pones",
+            "start": 5.099999904632568,
+            "end": 5.320000171661377,
+            "confidence": 0.99
+        },
+        {
+            "text": "otra",
+            "start": 5.320000171661377,
+            "end": 5.78000020980835,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 5.78000020980835,
+            "end": 6.019999980926514,
+            "confidence": 0.99
+        },
+        {
+            "text": "encima",
+            "start": 6.019999980926514,
+            "end": 6.360000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 6.400000095367432,
+            "end": 6.559999942779541,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 6.559999942779541,
+            "end": 6.900000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "tornillo",
+            "start": 6.900000095367432,
+            "end": 6.900000095367432,
+            "confidence": 0.99
+        },
+        {
+            "text": "presionando",
+            "start": 6.900000095367432,
+            "end": 7.360000133514404,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 7.360000133514404,
+            "end": 7.659999847412109,
+            "confidence": 0.99
+        },
+        {
+            "text": "fulminante",
+            "start": 7.659999847412109,
+            "end": 8.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "puedes",
+            "start": 8.319999694824219,
+            "end": 8.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "recrear",
+            "start": 8.420000076293945,
+            "end": 8.779999732971191,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 8.779999732971191,
+            "end": 9.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "trampa",
+            "start": 9.119999885559082,
+            "end": 9.119999885559082,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 9.119999885559082,
+            "end": 9.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "agente",
+            "start": 9.300000190734863,
+            "end": 9.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "secreto",
+            "start": 9.520000457763672,
+            "end": 9.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 9.899999618530273,
+            "end": 10.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "James",
+            "start": 10.100000381469727,
+            "end": 10.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "Bond",
+            "start": 10.34000015258789,
+            "end": 10.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 10.720000267028809,
+            "end": 10.859999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "idea",
+            "start": 10.859999656677246,
+            "end": 11.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 11.0,
+            "end": 11.300000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 11.300000190734863,
+            "end": 11.539999961853027,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuando",
+            "start": 11.680000305175781,
+            "end": 11.680000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 11.680000305175781,
+            "end": 11.880000114440918,
+            "confidence": 0.99
+        },
+        {
+            "text": "criminal",
+            "start": 11.880000114440918,
+            "end": 12.140000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "pisa",
+            "start": 12.140000343322754,
+            "end": 12.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 12.399999618530273,
+            "end": 12.800000190734863,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 12.800000190734863,
+            "end": 12.819999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 12.960000038146973,
+            "end": 13.0600004196167,
+            "confidence": 0.99
+        },
+        {
+            "text": "tornillo",
+            "start": 13.0600004196167,
+            "end": 13.319999694824219,
+            "confidence": 0.99
+        },
+        {
+            "text": "active",
+            "start": 13.319999694824219,
+            "end": 13.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 13.65999984741211,
+            "end": 13.920000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "cartucho",
+            "start": 13.920000076293945,
+            "end": 14.260000228881836,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 14.260000228881836,
+            "end": 14.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "dispare",
+            "start": 14.479999542236328,
+            "end": 14.640000343322754,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 14.640000343322754,
+            "end": 14.859999656677246,
+            "confidence": 0.99
+        },
+        {
+            "text": "proyectil",
+            "start": 14.859999656677246,
+            "end": 15.180000305175781,
+            "confidence": 0.99
+        },
+        {
+            "text": "contra",
+            "start": 15.180000305175781,
+            "end": 15.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "él",
+            "start": 15.479999542236328,
+            "end": 15.600000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pero",
+            "start": 15.680000305175781,
+            "end": 15.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿algo",
+            "start": 15.880000114440918,
+            "end": 16.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 16.15999984741211,
+            "end": 16.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "funcionaría",
+            "start": 16.459999084472656,
+            "end": 16.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "realmente",
+            "start": 16.860000610351562,
+            "end": 17.420000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 17.420000076293945,
+            "end": 17.479999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 17.479999542236328,
+            "end": 17.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "vida",
+            "start": 17.780000686645508,
+            "end": 17.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "real",
+            "start": 17.780000686645508,
+            "end": 18.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "Para",
+            "start": 18.059999465942383,
+            "end": 18.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "probarlo",
+            "start": 18.18000030517578,
+            "end": 18.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 18.65999984741211,
+            "end": 18.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "Mythbusters",
+            "start": 18.899999618530273,
+            "end": 19.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "primero",
+            "start": 19.399999618530273,
+            "end": 19.780000686645508,
+            "confidence": 0.99
+        },
+        {
+            "text": "construyeron",
+            "start": 19.780000686645508,
+            "end": 20.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 20.360000610351562,
+            "end": 20.579999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "versión",
+            "start": 20.579999923706055,
+            "end": 20.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "básica",
+            "start": 20.81999969482422,
+            "end": 21.219999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 21.219999313354492,
+            "end": 21.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 21.360000610351562,
+            "end": 21.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "trampa",
+            "start": 21.68000030517578,
+            "end": 21.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "utilizando",
+            "start": 21.68000030517578,
+            "end": 22.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 22.15999984741211,
+            "end": 22.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "cartucho",
+            "start": 22.440000534057617,
+            "end": 22.719999313354492,
+            "confidence": 0.99
+        },
+        {
+            "text": "vacío",
+            "start": 22.719999313354492,
+            "end": 23.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 23.100000381469727,
+            "end": 23.239999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "comenzaron",
+            "start": 23.239999771118164,
+            "end": 23.6200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "a",
+            "start": 23.6200008392334,
+            "end": 23.899999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "experimentar",
+            "start": 23.899999618530273,
+            "end": 24.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "No",
+            "start": 24.399999618530273,
+            "end": 24.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "intentes",
+            "start": 24.5,
+            "end": 25.100000381469727,
+            "confidence": 0.99
+        },
+        {
+            "text": "esto",
+            "start": 25.100000381469727,
+            "end": 25.299999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 25.299999237060547,
+            "end": 25.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "casa",
+            "start": 25.5,
+            "end": 25.700000762939453,
+            "confidence": 0.99
+        },
+        {
+            "text": "Un",
+            "start": 25.84000015258789,
+            "end": 25.940000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "hombre",
+            "start": 25.940000534057617,
+            "end": 26.079999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "pisó",
+            "start": 26.079999923706055,
+            "end": 26.360000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 26.360000610351562,
+            "end": 26.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 26.739999771118164,
+            "end": 26.739999771118164,
+            "confidence": 0.99
+        },
+        {
+            "text": "pero",
+            "start": 26.860000610351562,
+            "end": 26.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 26.959999084472656,
+            "end": 27.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "pasó",
+            "start": 27.18000030517578,
+            "end": 27.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "nada",
+            "start": 27.34000015258789,
+            "end": 27.559999465942383,
+            "confidence": 0.99
+        },
+        {
+            "text": "Parecía",
+            "start": 27.559999465942383,
+            "end": 27.860000610351562,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 27.860000610351562,
+            "end": 28.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "simplemente",
+            "start": 28.040000915527344,
+            "end": 28.520000457763672,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 28.520000457763672,
+            "end": 28.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "había",
+            "start": 28.68000030517578,
+            "end": 28.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "suficiente",
+            "start": 28.81999969482422,
+            "end": 29.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "fuerza",
+            "start": 29.31999969482422,
+            "end": 29.639999389648438,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 29.8799991607666,
+            "end": 29.979999542236328,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 29.979999542236328,
+            "end": 30.399999618530273,
+            "confidence": 0.99
+        },
+        {
+            "text": "presionó",
+            "start": 30.399999618530273,
+            "end": 30.440000534057617,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 30.440000534057617,
+            "end": 30.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 30.65999984741211,
+            "end": 30.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 30.84000015258789,
+            "end": 31.1200008392334,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 31.1200008392334,
+            "end": 31.3799991607666,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 31.3799991607666,
+            "end": 31.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "peso",
+            "start": 31.799999237060547,
+            "end": 31.799999237060547,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 31.799999237060547,
+            "end": 32.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "su",
+            "start": 32.119998931884766,
+            "end": 32.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "cuerpo",
+            "start": 32.13999938964844,
+            "end": 32.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Sorprendentemente",
+            "start": 32.779998779296875,
+            "end": 33.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 33.36000061035156,
+            "end": 33.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "fulminante",
+            "start": 33.5,
+            "end": 33.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "sí",
+            "start": 33.91999816894531,
+            "end": 34.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "detonó",
+            "start": 34.2400016784668,
+            "end": 34.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "lo",
+            "start": 34.63999938964844,
+            "end": 34.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 34.720001220703125,
+            "end": 34.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "significa",
+            "start": 34.84000015258789,
+            "end": 35.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 35.220001220703125,
+            "end": 35.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 35.400001525878906,
+            "end": 35.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "trampa",
+            "start": 35.7400016784668,
+            "end": 35.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "podría",
+            "start": 35.7400016784668,
+            "end": 36.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "ser",
+            "start": 36.040000915527344,
+            "end": 36.36000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "posible",
+            "start": 36.36000061035156,
+            "end": 36.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "después",
+            "start": 36.65999984741211,
+            "end": 37.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 37.02000045776367,
+            "end": 37.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "todo",
+            "start": 37.41999816894531,
+            "end": 37.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "Pero",
+            "start": 37.52000045776367,
+            "end": 37.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "en",
+            "start": 37.599998474121094,
+            "end": 37.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 37.68000030517578,
+            "end": 38.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "película",
+            "start": 38.119998931884766,
+            "end": 38.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "los",
+            "start": 38.20000076293945,
+            "end": 38.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "villanos",
+            "start": 38.380001068115234,
+            "end": 38.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 38.65999984741211,
+            "end": 38.91999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "movían",
+            "start": 38.91999816894531,
+            "end": 39.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "sigilosamente",
+            "start": 39.13999938964844,
+            "end": 40.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 40.36000061035156,
+            "end": 40.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "saltando",
+            "start": 40.41999816894531,
+            "end": 40.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 41.02000045776367,
+            "end": 41.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 41.15999984741211,
+            "end": 41.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 41.279998779296875,
+            "end": 41.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "trampa",
+            "start": 41.63999938964844,
+            "end": 41.63999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "necesitaba",
+            "start": 41.68000030517578,
+            "end": 42.15999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "mejoras",
+            "start": 42.15999984741211,
+            "end": 42.599998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "Añadieron",
+            "start": 42.84000015258789,
+            "end": 43.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 43.060001373291016,
+            "end": 43.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "gatillo",
+            "start": 43.29999923706055,
+            "end": 43.47999954223633,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 43.47999954223633,
+            "end": 43.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "resorte",
+            "start": 43.7400016784668,
+            "end": 43.959999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 43.959999084472656,
+            "end": 44.18000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 44.18000030517578,
+            "end": 44.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 44.29999923706055,
+            "end": 44.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "activara",
+            "start": 44.540000915527344,
+            "end": 44.720001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 44.720001220703125,
+            "end": 44.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 44.86000061035156,
+            "end": 45.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "mínima",
+            "start": 45.13999938964844,
+            "end": 45.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "presión",
+            "start": 45.2599983215332,
+            "end": 45.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "Ahora",
+            "start": 45.619998931884766,
+            "end": 45.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "surge",
+            "start": 45.86000061035156,
+            "end": 46.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 46.099998474121094,
+            "end": 46.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "verdadera",
+            "start": 46.279998779296875,
+            "end": 46.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "pregunta",
+            "start": 46.70000076293945,
+            "end": 47.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "¿qué",
+            "start": 47.15999984741211,
+            "end": 47.2400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "tan",
+            "start": 47.2400016784668,
+            "end": 47.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "peligrosa",
+            "start": 47.560001373291016,
+            "end": 48.220001220703125,
+            "confidence": 0.99
+        },
+        {
+            "text": "es",
+            "start": 48.220001220703125,
+            "end": 48.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "esta",
+            "start": 48.279998779296875,
+            "end": 48.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "trampa",
+            "start": 48.560001373291016,
+            "end": 48.81999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "si",
+            "start": 48.81999969482422,
+            "end": 49.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 49.040000915527344,
+            "end": 49.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "añade",
+            "start": 49.41999816894531,
+            "end": 49.41999816894531,
+            "confidence": 0.99
+        },
+        {
+            "text": "pólvora",
+            "start": 49.41999816894531,
+            "end": 49.79999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "Para",
+            "start": 49.86000061035156,
+            "end": 50.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "averiguarlo",
+            "start": 50.02000045776367,
+            "end": 50.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "construyeron",
+            "start": 50.68000030517578,
+            "end": 51.119998931884766,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 51.119998931884766,
+            "end": 51.380001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "modelo",
+            "start": 51.380001068115234,
+            "end": 51.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "realista",
+            "start": 51.459999084472656,
+            "end": 51.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 51.86000061035156,
+            "end": 52.040000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "una",
+            "start": 52.040000915527344,
+            "end": 52.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "pierna",
+            "start": 52.279998779296875,
+            "end": 52.459999084472656,
+            "confidence": 0.99
+        },
+        {
+            "text": "humana",
+            "start": 52.459999084472656,
+            "end": 52.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "y",
+            "start": 52.880001068115234,
+            "end": 53.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "se",
+            "start": 53.0,
+            "end": 53.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "prepararon",
+            "start": 53.20000076293945,
+            "end": 53.52000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "para",
+            "start": 53.52000045776367,
+            "end": 53.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 53.70000076293945,
+            "end": 54.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "prueba",
+            "start": 54.02000045776367,
+            "end": 54.02000045776367,
+            "confidence": 0.99
+        },
+        {
+            "text": "final",
+            "start": 54.02000045776367,
+            "end": 54.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "Recrearon",
+            "start": 54.31999969482422,
+            "end": 54.939998626708984,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 54.939998626708984,
+            "end": 55.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "escena",
+            "start": 55.060001373291016,
+            "end": 55.279998779296875,
+            "confidence": 0.99
+        },
+        {
+            "text": "exacta",
+            "start": 55.279998779296875,
+            "end": 55.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "de",
+            "start": 55.70000076293945,
+            "end": 55.70000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 55.70000076293945,
+            "end": 55.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "película",
+            "start": 55.880001068115234,
+            "end": 56.099998474121094,
+            "confidence": 0.99
+        },
+        {
+            "text": "con",
+            "start": 56.099998474121094,
+            "end": 56.31999969482422,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 56.31999969482422,
+            "end": 56.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "misma",
+            "start": 56.540000915527344,
+            "end": 56.84000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "fuerza",
+            "start": 56.84000015258789,
+            "end": 57.13999938964844,
+            "confidence": 0.99
+        },
+        {
+            "text": "que",
+            "start": 57.13999938964844,
+            "end": 57.29999923706055,
+            "confidence": 0.99
+        },
+        {
+            "text": "un",
+            "start": 57.29999923706055,
+            "end": 57.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "paso",
+            "start": 57.5,
+            "end": 57.7400016784668,
+            "confidence": 0.99
+        },
+        {
+            "text": "real",
+            "start": 57.7400016784668,
+            "end": 58.060001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "La",
+            "start": 58.2400016784668,
+            "end": 58.2599983215332,
+            "confidence": 0.99
+        },
+        {
+            "text": "pierna",
+            "start": 58.2599983215332,
+            "end": 58.560001373291016,
+            "confidence": 0.99
+        },
+        {
+            "text": "descendió",
+            "start": 58.560001373291016,
+            "end": 59.0,
+            "confidence": 0.99
+        },
+        {
+            "text": "pero",
+            "start": 59.08000183105469,
+            "end": 59.20000076293945,
+            "confidence": 0.99
+        },
+        {
+            "text": "aún",
+            "start": 59.20000076293945,
+            "end": 59.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "así",
+            "start": 59.400001525878906,
+            "end": 59.65999984741211,
+            "confidence": 0.99
+        },
+        {
+            "text": "el",
+            "start": 59.70000076293945,
+            "end": 59.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "proyectil",
+            "start": 59.86000061035156,
+            "end": 60.400001525878906,
+            "confidence": 0.99
+        },
+        {
+            "text": "no",
+            "start": 60.400001525878906,
+            "end": 60.540000915527344,
+            "confidence": 0.99
+        },
+        {
+            "text": "logró",
+            "start": 60.540000915527344,
+            "end": 60.86000061035156,
+            "confidence": 0.99
+        },
+        {
+            "text": "atravesar",
+            "start": 60.86000061035156,
+            "end": 61.34000015258789,
+            "confidence": 0.99
+        },
+        {
+            "text": "la",
+            "start": 61.34000015258789,
+            "end": 61.5,
+            "confidence": 0.99
+        },
+        {
+            "text": "tabla",
+            "start": 61.5,
+            "end": 61.68000030517578,
+            "confidence": 0.99
+        },
+        {
+            "text": "del",
+            "start": 61.68000030517578,
+            "end": 61.880001068115234,
+            "confidence": 0.99
+        },
+        {
+            "text": "entablado",
+            "start": 61.880001068115234,
+            "end": 62.279998779296875,
+            "confidence": 0.99
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text_segment": "Existe una teoría que dice que si colocas dos cartuchos de escopeta debajo de una tabla de madera del entablado, y luego pones otra tabla encima, con un tornillo presionando el fulminante, puedes recrear la trampa de agente secreto de James Bond.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.9
+        },
+        {
+            "text_segment": "La idea es que, cuando un criminal pisa la tabla, el tornillo active el cartucho y dispare el proyectil contra él.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "text_segment": "Pero, ¿algo así funcionaría realmente en la vida real?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "text_segment": "Para probarlo, los Mythbusters primero construyeron una versión básica de la trampa utilizando un cartucho vacío, y comenzaron a experimentar.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7
+        },
+        {
+            "text_segment": "Un hombre pisó la tabla, pero no pasó nada.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.95
+        },
+        {
+            "text_segment": "Parecía que simplemente no había suficiente fuerza, así que presionó la tabla con todo el peso de su cuerpo.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "text_segment": "Sorprendentemente, el fulminante sí detonó, lo que significa que la trampa podría ser posible después de todo.",
+            "sentiment": "POSITIVE",
+            "confidence": 0.9
+        },
+        {
+            "text_segment": "Pero en la película, los villanos se movían sigilosamente, no saltando, así que la trampa necesitaba mejoras.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "text_segment": "Añadieron un gatillo con resorte para que se activara con la mínima presión.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.85
+        },
+        {
+            "text_segment": "Ahora surge la verdadera pregunta, ¿qué tan peligrosa es esta trampa si se añade pólvora?",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.9
+        },
+        {
+            "text_segment": "Para averiguarlo, construyeron un modelo realista de una pierna humana y se prepararon para la prueba final.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.8
+        },
+        {
+            "text_segment": "Recrearon la escena exacta de la película con la misma fuerza que un paso real.",
+            "sentiment": "NEUTRAL",
+            "confidence": 0.75
+        },
+        {
+            "text_segment": "La pierna descendió, pero aún así, el proyectil no logró atravesar la tabla del entablado.",
+            "sentiment": "NEGATIVE",
+            "confidence": 0.95
+        }
+    ],
+    "chapters": [
+        {
+            "headline": "La Trampa de Trapecio de James Bond",
+            "summary": "Una exploración de la viabilidad de una trampa de agente secreto basada en la teoría de los Mythbusters.",
+            "start": 0,
+            "end": 258
+        }
+    ],
+    "model_used": "whisper-1 + gpt-4o-mini",
+    "detected_language": "spanish"
+}

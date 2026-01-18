@@ -1,0 +1,447 @@
+{
+    "id": "f38e5248-7aa2-47f8-bd06-9961a0ca7de2",
+    "status": "completed",
+    "text": "Perfecto, eso queda en la comuna de Maipú, ¿Verdad? Sí, Maipú. Perfecto. Don Cristian, le informo, el costo administrativo de su tarjeta de crédito corresponde a 0,097 uso mensual, aproximadamente 3.500 pesos que se cobran solo si utiliza la tarjeta. Además, usted ya forma parte del club de beneficios Soy Fashion, donde puede canjear su descuento favorito en la página Beneficios.",
+    "words": [
+        {
+            "text": "Perfecto,",
+            "start": 1760,
+            "end": 2160,
+            "confidence": 0.93929034,
+            "speaker": "A"
+        },
+        {
+            "text": "eso",
+            "start": 2160,
+            "end": 2480,
+            "confidence": 0.41674805,
+            "speaker": "A"
+        },
+        {
+            "text": "queda",
+            "start": 2480,
+            "end": 2760,
+            "confidence": 0.7714844,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 2760,
+            "end": 2880,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 2880,
+            "end": 2960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "comuna",
+            "start": 2960,
+            "end": 3200,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 3200,
+            "end": 3280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Maipú,",
+            "start": 3280,
+            "end": 3880,
+            "confidence": 0.9742839,
+            "speaker": "A"
+        },
+        {
+            "text": "¿Verdad?",
+            "start": 3880,
+            "end": 4320,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Sí,",
+            "start": 4480,
+            "end": 4920,
+            "confidence": 0.9472656,
+            "speaker": "A"
+        },
+        {
+            "text": "Maipú.",
+            "start": 4920,
+            "end": 5600,
+            "confidence": 0.99527997,
+            "speaker": "A"
+        },
+        {
+            "text": "Perfecto.",
+            "start": 6960,
+            "end": 7600,
+            "confidence": 0.9954427,
+            "speaker": "A"
+        },
+        {
+            "text": "Don",
+            "start": 7920,
+            "end": 8200,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "Cristian,",
+            "start": 8200,
+            "end": 8640,
+            "confidence": 0.96761066,
+            "speaker": "A"
+        },
+        {
+            "text": "le",
+            "start": 8640,
+            "end": 8840,
+            "confidence": 0.97753906,
+            "speaker": "A"
+        },
+        {
+            "text": "informo,",
+            "start": 8840,
+            "end": 9360,
+            "confidence": 0.9614258,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 9360,
+            "end": 9560,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "costo",
+            "start": 9560,
+            "end": 9840,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "administrativo",
+            "start": 9840,
+            "end": 10480,
+            "confidence": 0.8642578,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 10480,
+            "end": 10640,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 10640,
+            "end": 10760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 10760,
+            "end": 11080,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 11080,
+            "end": 11200,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "crédito",
+            "start": 11200,
+            "end": 11480,
+            "confidence": 0.8930664,
+            "speaker": "A"
+        },
+        {
+            "text": "corresponde",
+            "start": 11480,
+            "end": 11920,
+            "confidence": 0.99990237,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 11920,
+            "end": 12040,
+            "confidence": 0.96972656,
+            "speaker": "A"
+        },
+        {
+            "text": "0,097",
+            "start": 12040,
+            "end": 13440,
+            "confidence": 0.99492,
+            "speaker": "A"
+        },
+        {
+            "text": "uso",
+            "start": 13440,
+            "end": 13920,
+            "confidence": 0.46118164,
+            "speaker": "A"
+        },
+        {
+            "text": "mensual,",
+            "start": 13920,
+            "end": 14320,
+            "confidence": 0.91031903,
+            "speaker": "A"
+        },
+        {
+            "text": "aproximadamente",
+            "start": 14320,
+            "end": 15000,
+            "confidence": 0.96329755,
+            "speaker": "A"
+        },
+        {
+            "text": "3.500",
+            "start": 15000,
+            "end": 15840,
+            "confidence": 0.98532,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos",
+            "start": 15840,
+            "end": 16159,
+            "confidence": 0.94970703,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 16159,
+            "end": 16320,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 16320,
+            "end": 16400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "cobran",
+            "start": 16400,
+            "end": 16920,
+            "confidence": 0.9923503,
+            "speaker": "A"
+        },
+        {
+            "text": "solo",
+            "start": 16920,
+            "end": 17080,
+            "confidence": 0.96191406,
+            "speaker": "A"
+        },
+        {
+            "text": "si",
+            "start": 17080,
+            "end": 17200,
+            "confidence": 0.87890625,
+            "speaker": "A"
+        },
+        {
+            "text": "utiliza",
+            "start": 17200,
+            "end": 17680,
+            "confidence": 0.9663086,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 17680,
+            "end": 17760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta.",
+            "start": 17760,
+            "end": 18160,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Además,",
+            "start": 18800,
+            "end": 19520,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "usted",
+            "start": 19600,
+            "end": 20080,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 20080,
+            "end": 20280,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "forma",
+            "start": 20280,
+            "end": 20600,
+            "confidence": 0.83935547,
+            "speaker": "A"
+        },
+        {
+            "text": "parte",
+            "start": 20600,
+            "end": 20760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 20760,
+            "end": 20920,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "club",
+            "start": 20920,
+            "end": 21120,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 21120,
+            "end": 21240,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "beneficios",
+            "start": 21240,
+            "end": 21760,
+            "confidence": 0.9761963,
+            "speaker": "A"
+        },
+        {
+            "text": "Soy",
+            "start": 21760,
+            "end": 22080,
+            "confidence": 0.6828613,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion,",
+            "start": 22080,
+            "end": 22480,
+            "confidence": 0.85131836,
+            "speaker": "A"
+        },
+        {
+            "text": "donde",
+            "start": 22480,
+            "end": 22640,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 22640,
+            "end": 22760,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "canjear",
+            "start": 22760,
+            "end": 23320,
+            "confidence": 0.9654948,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 23320,
+            "end": 23440,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "descuento",
+            "start": 23440,
+            "end": 23760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "favorito",
+            "start": 23760,
+            "end": 24320,
+            "confidence": 0.9998372,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 24320,
+            "end": 24480,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 24480,
+            "end": 24560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "página",
+            "start": 24560,
+            "end": 24840,
+            "confidence": 0.9987793,
+            "speaker": "A"
+        },
+        {
+            "text": "Beneficios.",
+            "start": 24840,
+            "end": 25600,
+            "confidence": 0.9996338,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Perfecto, eso queda en la comuna de Maipú, ¿Verdad? Sí, Maipú. Perfecto. Don Cristian, le informo, el costo administrativo de su tarjeta de crédito corresponde a 0,097 uso mensual, aproximadamente 3.500 pesos que se cobran solo si utiliza la tarjeta. Además, usted ya forma parte del club de beneficios Soy Fashion, donde puede canjear su descuento favorito en la página Beneficios.",
+            "start": 1760,
+            "end": 25600,
+            "confidence": 0.95092505,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 28,
+    "language_code": "es"
+}

@@ -1,0 +1,461 @@
+{
+    "id": "2becc746-2408-4c4b-8f4f-17918066f545",
+    "status": "completed",
+    "text": "Tiene la página tarjeta Fashion para realizar su contrato y crear o recuperar la clave del sitio web. También en la aplicación de Fashion Spark puede revisar todos sus movimientos. Y los medios de pago disponible para el pago de cuotas son a través de la aplicación Fashion Spark, a través de la web tarjeta fashionspark, los sitios web de Sencillito, Cajadecinado, CL.",
+    "words": [
+        {
+            "text": "Tiene",
+            "start": 320,
+            "end": 560,
+            "confidence": 0.9760742,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 1840,
+            "end": 2120,
+            "confidence": 0.9916992,
+            "speaker": "A"
+        },
+        {
+            "text": "página",
+            "start": 2120,
+            "end": 2400,
+            "confidence": 0.90808105,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 2400,
+            "end": 2840,
+            "confidence": 0.9194336,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion",
+            "start": 2840,
+            "end": 3280,
+            "confidence": 0.7845459,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 3680,
+            "end": 3960,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "realizar",
+            "start": 3960,
+            "end": 4320,
+            "confidence": 0.9082031,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 4320,
+            "end": 4520,
+            "confidence": 0.5986328,
+            "speaker": "A"
+        },
+        {
+            "text": "contrato",
+            "start": 4520,
+            "end": 4760,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 4760,
+            "end": 4920,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "crear",
+            "start": 4920,
+            "end": 5240,
+            "confidence": 0.9953613,
+            "speaker": "A"
+        },
+        {
+            "text": "o",
+            "start": 5240,
+            "end": 5400,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "recuperar",
+            "start": 5400,
+            "end": 5800,
+            "confidence": 0.9842529,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 5800,
+            "end": 5920,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "clave",
+            "start": 5920,
+            "end": 6080,
+            "confidence": 0.99934894,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 6080,
+            "end": 6240,
+            "confidence": 0.5571289,
+            "speaker": "A"
+        },
+        {
+            "text": "sitio",
+            "start": 6240,
+            "end": 6560,
+            "confidence": 0.9501953,
+            "speaker": "A"
+        },
+        {
+            "text": "web.",
+            "start": 6560,
+            "end": 6880,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "También",
+            "start": 7040,
+            "end": 7440,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 8160,
+            "end": 8400,
+            "confidence": 0.57177734,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 8400,
+            "end": 8520,
+            "confidence": 0.9614258,
+            "speaker": "A"
+        },
+        {
+            "text": "aplicación",
+            "start": 8520,
+            "end": 8760,
+            "confidence": 0.99108887,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 8760,
+            "end": 8880,
+            "confidence": 0.97021484,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion",
+            "start": 8880,
+            "end": 9240,
+            "confidence": 0.91381836,
+            "speaker": "A"
+        },
+        {
+            "text": "Spark",
+            "start": 9240,
+            "end": 9560,
+            "confidence": 0.9350586,
+            "speaker": "A"
+        },
+        {
+            "text": "puede",
+            "start": 9560,
+            "end": 9800,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "revisar",
+            "start": 9800,
+            "end": 10320,
+            "confidence": 0.90201825,
+            "speaker": "A"
+        },
+        {
+            "text": "todos",
+            "start": 10320,
+            "end": 10520,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "sus",
+            "start": 10520,
+            "end": 10720,
+            "confidence": 0.5385742,
+            "speaker": "A"
+        },
+        {
+            "text": "movimientos.",
+            "start": 10720,
+            "end": 11360,
+            "confidence": 0.99487305,
+            "speaker": "A"
+        },
+        {
+            "text": "Y",
+            "start": 11440,
+            "end": 11720,
+            "confidence": 0.9868164,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 11720,
+            "end": 11880,
+            "confidence": 0.9941406,
+            "speaker": "A"
+        },
+        {
+            "text": "medios",
+            "start": 11880,
+            "end": 12120,
+            "confidence": 0.9904785,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 12120,
+            "end": 12240,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "pago",
+            "start": 12240,
+            "end": 12440,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "disponible",
+            "start": 12440,
+            "end": 12760,
+            "confidence": 0.92529297,
+            "speaker": "A"
+        },
+        {
+            "text": "para",
+            "start": 12760,
+            "end": 12960,
+            "confidence": 0.90234375,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 12960,
+            "end": 13040,
+            "confidence": 0.9902344,
+            "speaker": "A"
+        },
+        {
+            "text": "pago",
+            "start": 13040,
+            "end": 13200,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 13200,
+            "end": 13280,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "cuotas",
+            "start": 13280,
+            "end": 13640,
+            "confidence": 0.93066406,
+            "speaker": "A"
+        },
+        {
+            "text": "son",
+            "start": 13640,
+            "end": 14000,
+            "confidence": 0.5058594,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 14000,
+            "end": 14240,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "través",
+            "start": 14240,
+            "end": 14360,
+            "confidence": 0.8100586,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 14360,
+            "end": 14480,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 14480,
+            "end": 14560,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "aplicación",
+            "start": 14560,
+            "end": 14880,
+            "confidence": 0.99572754,
+            "speaker": "A"
+        },
+        {
+            "text": "Fashion",
+            "start": 14880,
+            "end": 15360,
+            "confidence": 0.89624023,
+            "speaker": "A"
+        },
+        {
+            "text": "Spark,",
+            "start": 15360,
+            "end": 15959,
+            "confidence": 0.94384766,
+            "speaker": "A"
+        },
+        {
+            "text": "a",
+            "start": 15959,
+            "end": 16160,
+            "confidence": 0.9926758,
+            "speaker": "A"
+        },
+        {
+            "text": "través",
+            "start": 16160,
+            "end": 16319,
+            "confidence": 0.8647461,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 16319,
+            "end": 16560,
+            "confidence": 0.9765625,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 16560,
+            "end": 16760,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "web",
+            "start": 16760,
+            "end": 17040,
+            "confidence": 0.9501953,
+            "speaker": "A"
+        },
+        {
+            "text": "tarjeta",
+            "start": 17280,
+            "end": 17840,
+            "confidence": 0.83658856,
+            "speaker": "A"
+        },
+        {
+            "text": "fashionspark,",
+            "start": 17840,
+            "end": 18720,
+            "confidence": 0.85750324,
+            "speaker": "A"
+        },
+        {
+            "text": "los",
+            "start": 19040,
+            "end": 19320,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "sitios",
+            "start": 19320,
+            "end": 19640,
+            "confidence": 0.9065755,
+            "speaker": "A"
+        },
+        {
+            "text": "web",
+            "start": 19640,
+            "end": 19840,
+            "confidence": 0.96191406,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 19840,
+            "end": 20080,
+            "confidence": 0.8833008,
+            "speaker": "A"
+        },
+        {
+            "text": "Sencillito,",
+            "start": 20080,
+            "end": 20680,
+            "confidence": 0.9154053,
+            "speaker": "A"
+        },
+        {
+            "text": "Cajadecinado,",
+            "start": 20680,
+            "end": 21520,
+            "confidence": 0.82039386,
+            "speaker": "A"
+        },
+        {
+            "text": "CL.",
+            "start": 21760,
+            "end": 22160,
+            "confidence": 0.7753906,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Tiene la página tarjeta Fashion para realizar su contrato y crear o recuperar la clave del sitio web. También en la aplicación de Fashion Spark puede revisar todos sus movimientos. Y los medios de pago disponible para el pago de cuotas son a través de la aplicación Fashion Spark, a través de la web tarjeta fashionspark, los sitios web de Sencillito, Cajadecinado, CL.",
+            "start": 320,
+            "end": 22160,
+            "confidence": 0.9187774,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 23,
+    "language_code": "es"
+}

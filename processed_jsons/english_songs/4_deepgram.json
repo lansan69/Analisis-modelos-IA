@@ -1,45 +1,1433 @@
 {
     "metadata": {
         "transaction_key": "deprecated",
-        "request_id": "56d37a28-ff9a-462c-b04e-6e814d0db65e",
+        "request_id": "e28a7154-86b6-4c9f-8ec0-6ee332e734fe",
         "sha256": "731b2e3faabe7f1984bd2cb2f0c7f2c27f18e9c89dbd038d1afd7d0a21bb502c",
-        "created": "2026-01-17T23:32:53.977000Z",
+        "created": "2026-01-18T00:36:15.754000Z",
         "duration": 386.496,
         "channels": 1.0,
         "models": [
-            "4f82af92-7749-4465-92ad-3db204bc8e03"
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
         ],
         "model_info": {
-            "4f82af92-7749-4465-92ad-3db204bc8e03": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
                 "name": "2-general-nova",
-                "version": "2023-12-14.34983",
+                "version": "2024-01-06.5664",
                 "arch": "nova-2"
             }
         },
-        "warnings": [
-            {
-                "parameter": "sentiment",
-                "type": "unsupported_language",
-                "message": "Sentiment is only supported for English."
-            }
-        ]
+        "sentiment_info": {
+            "model_uuid": "80ab3179-d113-4254-bd6b-4a2f96498695",
+            "input_tokens": 77.0,
+            "output_tokens": 77.0
+        }
     },
     "results": {
         "channels": [
             {
                 "alternatives": [
                     {
-                        "transcript": "",
-                        "confidence": 0.0,
-                        "words": [],
+                        "transcript": "On a dark What a nice surprise. Mirrors on the ceiling. They pick champagne on ice. And she said, we are all just listeners here of our own device. And in the master's chambers, they're gathered for the feast. They stab it with their stealing eyes, but they just can't kill the beast.",
+                        "confidence": 0.9733313,
+                        "words": [
+                            {
+                                "word": "on",
+                                "start": 53.055,
+                                "end": 53.295,
+                                "confidence": 0.94777524,
+                                "speaker": 0,
+                                "speaker_confidence": 0.12428391,
+                                "punctuated_word": "On",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.02202414721250534
+                            },
+                            {
+                                "word": "a",
+                                "start": 53.295,
+                                "end": 53.535,
+                                "confidence": 0.9800362,
+                                "speaker": 0,
+                                "speaker_confidence": 0.12428391,
+                                "punctuated_word": "a",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.016723360866308212
+                            },
+                            {
+                                "word": "dark",
+                                "start": 53.535,
+                                "end": 53.76,
+                                "confidence": 0.96937054,
+                                "speaker": 0,
+                                "speaker_confidence": 0.12428391,
+                                "punctuated_word": "dark",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.03620740026235581
+                            },
+                            {
+                                "word": "what",
+                                "start": 202.605,
+                                "end": 203.08499,
+                                "confidence": 0.44597602,
+                                "speaker": 0,
+                                "speaker_confidence": 0.013338566,
+                                "punctuated_word": "What",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.450213223695755
+                            },
+                            {
+                                "word": "a",
+                                "start": 203.08499,
+                                "end": 203.405,
+                                "confidence": 0.93464315,
+                                "speaker": 0,
+                                "speaker_confidence": 0.013338566,
+                                "punctuated_word": "a",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.8108656406402588
+                            },
+                            {
+                                "word": "nice",
+                                "start": 203.405,
+                                "end": 203.72499,
+                                "confidence": 0.98294246,
+                                "speaker": 0,
+                                "speaker_confidence": 0.013338566,
+                                "punctuated_word": "nice",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.7727051377296448
+                            },
+                            {
+                                "word": "surprise",
+                                "start": 203.72499,
+                                "end": 204.22499,
+                                "confidence": 0.89849854,
+                                "speaker": 0,
+                                "speaker_confidence": 0.013338566,
+                                "punctuated_word": "surprise.",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.6694387197494507
+                            },
+                            {
+                                "word": "mirrors",
+                                "start": 208.525,
+                                "end": 209.025,
+                                "confidence": 0.70135254,
+                                "speaker": 0,
+                                "speaker_confidence": 0.42607075,
+                                "punctuated_word": "Mirrors",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.17627757787704468
+                            },
+                            {
+                                "word": "on",
+                                "start": 209.165,
+                                "end": 209.405,
+                                "confidence": 0.99091434,
+                                "speaker": 0,
+                                "speaker_confidence": 0.42607075,
+                                "punctuated_word": "on",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.23482362926006317
+                            },
+                            {
+                                "word": "the",
+                                "start": 209.405,
+                                "end": 209.64499,
+                                "confidence": 0.9929524,
+                                "speaker": 0,
+                                "speaker_confidence": 0.42607075,
+                                "punctuated_word": "the",
+                                "sentiment": "positive",
+                                "sentiment_score": 0.376833975315094
+                            },
+                            {
+                                "word": "ceiling",
+                                "start": 209.64499,
+                                "end": 210.14499,
+                                "confidence": 0.7702366,
+                                "speaker": 0,
+                                "speaker_confidence": 0.42607075,
+                                "punctuated_word": "ceiling.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.2185354232788086
+                            },
+                            {
+                                "word": "they",
+                                "start": 211.565,
+                                "end": 211.72499,
+                                "confidence": 0.9653913,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "They",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.07748576253652573
+                            },
+                            {
+                                "word": "pick",
+                                "start": 211.72499,
+                                "end": 212.045,
+                                "confidence": 0.76498413,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "pick",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.12574732303619385
+                            },
+                            {
+                                "word": "champagne",
+                                "start": 212.045,
+                                "end": 212.545,
+                                "confidence": 0.99703157,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "champagne",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.13109861314296722
+                            },
+                            {
+                                "word": "on",
+                                "start": 212.765,
+                                "end": 213.00499,
+                                "confidence": 0.99121886,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "on",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.10852117836475372
+                            },
+                            {
+                                "word": "ice",
+                                "start": 213.00499,
+                                "end": 213.485,
+                                "confidence": 0.86267686,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "ice.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1351546347141266
+                            },
+                            {
+                                "word": "and",
+                                "start": 213.485,
+                                "end": 213.72499,
+                                "confidence": 0.68225837,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "And",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.05872508883476257
+                            },
+                            {
+                                "word": "she",
+                                "start": 213.72499,
+                                "end": 214.045,
+                                "confidence": 0.99643904,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "she",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.04304672032594681
+                            },
+                            {
+                                "word": "said",
+                                "start": 214.045,
+                                "end": 214.545,
+                                "confidence": 0.94286466,
+                                "speaker": 0,
+                                "speaker_confidence": 0.5108439,
+                                "punctuated_word": "said,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.08425579220056534
+                            },
+                            {
+                                "word": "we",
+                                "start": 214.92499,
+                                "end": 215.165,
+                                "confidence": 0.9726202,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "we",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.08408670127391815
+                            },
+                            {
+                                "word": "are",
+                                "start": 215.165,
+                                "end": 215.325,
+                                "confidence": 0.98560053,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "are",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.08222639560699463
+                            },
+                            {
+                                "word": "all",
+                                "start": 215.325,
+                                "end": 215.64499,
+                                "confidence": 0.9919716,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "all",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1132041960954666
+                            },
+                            {
+                                "word": "just",
+                                "start": 215.64499,
+                                "end": 216.14499,
+                                "confidence": 0.99547994,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "just",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.07748748362064362
+                            },
+                            {
+                                "word": "listeners",
+                                "start": 216.205,
+                                "end": 216.705,
+                                "confidence": 0.8228056,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "listeners",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.10061359405517578
+                            },
+                            {
+                                "word": "here",
+                                "start": 216.92499,
+                                "end": 217.42499,
+                                "confidence": 0.9814835,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "here",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1451723575592041
+                            },
+                            {
+                                "word": "of",
+                                "start": 217.65,
+                                "end": 218.15,
+                                "confidence": 0.99318224,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "of",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.11286109685897829
+                            },
+                            {
+                                "word": "our",
+                                "start": 218.45,
+                                "end": 218.88998,
+                                "confidence": 0.9965906,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "our",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0976545512676239
+                            },
+                            {
+                                "word": "own",
+                                "start": 218.88998,
+                                "end": 219.32999,
+                                "confidence": 0.99752265,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "own",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.08680704236030579
+                            },
+                            {
+                                "word": "device",
+                                "start": 219.32999,
+                                "end": 219.82999,
+                                "confidence": 0.96618605,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "device.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.08187755197286606
+                            },
+                            {
+                                "word": "and",
+                                "start": 220.32999,
+                                "end": 220.82999,
+                                "confidence": 0.64878947,
+                                "speaker": 0,
+                                "speaker_confidence": 0.55015886,
+                                "punctuated_word": "And",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.06112271174788475
+                            },
+                            {
+                                "word": "in",
+                                "start": 221.32999,
+                                "end": 221.82999,
+                                "confidence": 0.996234,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53082496,
+                                "punctuated_word": "in",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.0006642788648605347
+                            },
+                            {
+                                "word": "the",
+                                "start": 221.89,
+                                "end": 221.97,
+                                "confidence": 0.8843905,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53082496,
+                                "punctuated_word": "the",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.15406985580921173
+                            },
+                            {
+                                "word": "master's",
+                                "start": 221.97,
+                                "end": 222.47,
+                                "confidence": 0.9526785,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53082496,
+                                "punctuated_word": "master's",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.1018841490149498
+                            },
+                            {
+                                "word": "chambers",
+                                "start": 222.68999,
+                                "end": 223.18999,
+                                "confidence": 0.98027873,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53082496,
+                                "punctuated_word": "chambers,",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.11635947227478027
+                            },
+                            {
+                                "word": "they're",
+                                "start": 224.53,
+                                "end": 224.84999,
+                                "confidence": 0.9017365,
+                                "speaker": 0,
+                                "speaker_confidence": 0.53082496,
+                                "punctuated_word": "they're",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.08904995769262314
+                            },
+                            {
+                                "word": "gathered",
+                                "start": 224.84999,
+                                "end": 225.34999,
+                                "confidence": 0.998273,
+                                "speaker": 0,
+                                "speaker_confidence": 0.1957519,
+                                "punctuated_word": "gathered",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.16942162811756134
+                            },
+                            {
+                                "word": "for",
+                                "start": 225.40999,
+                                "end": 225.65,
+                                "confidence": 0.9935609,
+                                "speaker": 0,
+                                "speaker_confidence": 0.1957519,
+                                "punctuated_word": "for",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.2701297998428345
+                            },
+                            {
+                                "word": "the",
+                                "start": 225.65,
+                                "end": 225.89,
+                                "confidence": 0.7544101,
+                                "speaker": 0,
+                                "speaker_confidence": 0.1957519,
+                                "punctuated_word": "the",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.2585139870643616
+                            },
+                            {
+                                "word": "feast",
+                                "start": 225.89,
+                                "end": 226.39,
+                                "confidence": 0.867977,
+                                "speaker": 0,
+                                "speaker_confidence": 0.1957519,
+                                "punctuated_word": "feast.",
+                                "sentiment": "neutral",
+                                "sentiment_score": 0.22408923506736755
+                            },
+                            {
+                                "word": "they",
+                                "start": 227.73,
+                                "end": 227.89,
+                                "confidence": 0.9871946,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "They",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.4075953662395478
+                            },
+                            {
+                                "word": "stab",
+                                "start": 227.89,
+                                "end": 228.20999,
+                                "confidence": 0.91502064,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "stab",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.4968075752258301
+                            },
+                            {
+                                "word": "it",
+                                "start": 228.20999,
+                                "end": 228.45,
+                                "confidence": 0.9976284,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "it",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.538818359375
+                            },
+                            {
+                                "word": "with",
+                                "start": 228.45,
+                                "end": 228.68999,
+                                "confidence": 0.9993216,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "with",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5689007639884949
+                            },
+                            {
+                                "word": "their",
+                                "start": 228.68999,
+                                "end": 229.17,
+                                "confidence": 0.97090536,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "their",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5401895046234131
+                            },
+                            {
+                                "word": "stealing",
+                                "start": 229.17,
+                                "end": 229.67,
+                                "confidence": 0.6043587,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "stealing",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5052614212036133
+                            },
+                            {
+                                "word": "eyes",
+                                "start": 229.81,
+                                "end": 230.20999,
+                                "confidence": 0.96759105,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "eyes,",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.3888486623764038
+                            },
+                            {
+                                "word": "but",
+                                "start": 230.20999,
+                                "end": 230.45,
+                                "confidence": 0.999401,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "but",
+                                "sentiment": "neutral",
+                                "sentiment_score": -0.2507069706916809
+                            },
+                            {
+                                "word": "they",
+                                "start": 230.45,
+                                "end": 230.625,
+                                "confidence": 0.99960345,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "they",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5660466551780701
+                            },
+                            {
+                                "word": "just",
+                                "start": 230.705,
+                                "end": 231.105,
+                                "confidence": 0.997195,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "just",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.38687339425086975
+                            },
+                            {
+                                "word": "can't",
+                                "start": 231.105,
+                                "end": 231.605,
+                                "confidence": 0.99483347,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "can't",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.5314749479293823
+                            },
+                            {
+                                "word": "kill",
+                                "start": 231.665,
+                                "end": 232.065,
+                                "confidence": 0.882539,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "kill",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.700519859790802
+                            },
+                            {
+                                "word": "the",
+                                "start": 232.065,
+                                "end": 232.305,
+                                "confidence": 0.9733313,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "the",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.6907830834388733
+                            },
+                            {
+                                "word": "beast",
+                                "start": 232.305,
+                                "end": 232.805,
+                                "confidence": 0.97655255,
+                                "speaker": 0,
+                                "speaker_confidence": 0.48802048,
+                                "punctuated_word": "beast.",
+                                "sentiment": "negative",
+                                "sentiment_score": -0.3589407801628113
+                            }
+                        ],
                         "paragraphs": {
-                            "transcript": "\n",
-                            "paragraphs": []
+                            "transcript": "\nSpeaker 0: On a dark What a nice surprise. Mirrors on the ceiling. They pick champagne on ice. And she said, we are all just listeners here of our own device. And in the master's chambers, they're gathered for the feast.\n\nThey stab it with their stealing eyes, but they just can't kill the beast.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "On a dark What a nice surprise.",
+                                            "start": 53.055,
+                                            "end": 204.22499,
+                                            "sentiment": "positive",
+                                            "sentiment_score": 0.39688251859375406
+                                        },
+                                        {
+                                            "text": "Mirrors on the ceiling.",
+                                            "start": 208.525,
+                                            "end": 210.14499,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.2516176514327526
+                                        },
+                                        {
+                                            "text": "They pick champagne on ice.",
+                                            "start": 211.565,
+                                            "end": 213.485,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.11560150235891342
+                                        },
+                                        {
+                                            "text": "And she said, we are all just listeners here of our own device.",
+                                            "start": 213.485,
+                                            "end": 219.82999,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.08984758246403474
+                                        },
+                                        {
+                                            "text": "And in the master's chambers, they're gathered for the feast.",
+                                            "start": 220.32999,
+                                            "end": 226.39,
+                                            "sentiment": "neutral",
+                                            "sentiment_score": 0.14453050754964353
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 39.0,
+                                    "start": 53.055,
+                                    "end": 226.39,
+                                    "sentiment": "neutral",
+                                    "sentiment_score": 0.1788712665438652
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "They stab it with their stealing eyes, but they just can't kill the beast.",
+                                            "start": 227.73,
+                                            "end": 232.805,
+                                            "sentiment": "negative",
+                                            "sentiment_score": -0.4951262388910566
+                                        }
+                                    ],
+                                    "speaker": 0.0,
+                                    "num_words": 14.0,
+                                    "start": 227.73,
+                                    "end": 232.805,
+                                    "sentiment": "negative",
+                                    "sentiment_score": -0.4951262388910566
+                                }
+                            ]
                         }
                     }
                 ]
             }
         ],
-        "utterances": []
+        "utterances": [
+            {
+                "start": 53.055,
+                "end": 53.76,
+                "confidence": 0.9657273,
+                "channel": 0.0,
+                "transcript": "On a dark",
+                "words": [
+                    {
+                        "word": "on",
+                        "start": 53.055,
+                        "end": 53.295,
+                        "confidence": 0.94777524,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.12428391,
+                        "punctuated_word": "On",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.02202414721250534
+                    },
+                    {
+                        "word": "a",
+                        "start": 53.295,
+                        "end": 53.535,
+                        "confidence": 0.9800362,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.12428391,
+                        "punctuated_word": "a",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.016723360866308212
+                    },
+                    {
+                        "word": "dark",
+                        "start": 53.535,
+                        "end": 53.76,
+                        "confidence": 0.96937054,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.12428391,
+                        "punctuated_word": "dark",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.03620740026235581
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "ef853315-a7a3-4b3f-b202-a94c11fbd6f1",
+                "sentiment": "neutral",
+                "sentiment_score": 0.024984969447056454
+            },
+            {
+                "start": 202.605,
+                "end": 204.22499,
+                "confidence": 0.81551504,
+                "channel": 0.0,
+                "transcript": "What a nice surprise.",
+                "words": [
+                    {
+                        "word": "what",
+                        "start": 202.605,
+                        "end": 203.08499,
+                        "confidence": 0.44597602,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.013338566,
+                        "punctuated_word": "What",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.450213223695755
+                    },
+                    {
+                        "word": "a",
+                        "start": 203.08499,
+                        "end": 203.405,
+                        "confidence": 0.93464315,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.013338566,
+                        "punctuated_word": "a",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.8108656406402588
+                    },
+                    {
+                        "word": "nice",
+                        "start": 203.405,
+                        "end": 203.72499,
+                        "confidence": 0.98294246,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.013338566,
+                        "punctuated_word": "nice",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.7727051377296448
+                    },
+                    {
+                        "word": "surprise",
+                        "start": 203.72499,
+                        "end": 204.22499,
+                        "confidence": 0.89849854,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.013338566,
+                        "punctuated_word": "surprise.",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.6694387197494507
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "3bfecc51-b57f-49fc-8ba4-1be6bdc18ce4",
+                "sentiment": "positive",
+                "sentiment_score": 0.6758056804537773
+            },
+            {
+                "start": 208.525,
+                "end": 210.14499,
+                "confidence": 0.86386395,
+                "channel": 0.0,
+                "transcript": "Mirrors on the ceiling.",
+                "words": [
+                    {
+                        "word": "mirrors",
+                        "start": 208.525,
+                        "end": 209.025,
+                        "confidence": 0.70135254,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.42607075,
+                        "punctuated_word": "Mirrors",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.17627757787704468
+                    },
+                    {
+                        "word": "on",
+                        "start": 209.165,
+                        "end": 209.405,
+                        "confidence": 0.99091434,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.42607075,
+                        "punctuated_word": "on",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.23482362926006317
+                    },
+                    {
+                        "word": "the",
+                        "start": 209.405,
+                        "end": 209.64499,
+                        "confidence": 0.9929524,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.42607075,
+                        "punctuated_word": "the",
+                        "sentiment": "positive",
+                        "sentiment_score": 0.376833975315094
+                    },
+                    {
+                        "word": "ceiling",
+                        "start": 209.64499,
+                        "end": 210.14499,
+                        "confidence": 0.7702366,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.42607075,
+                        "punctuated_word": "ceiling.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.2185354232788086
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "2d6a084c-63fc-465f-922c-3a7ead09d178",
+                "sentiment": "neutral",
+                "sentiment_score": 0.2516176514327526
+            },
+            {
+                "start": 211.565,
+                "end": 214.545,
+                "confidence": 0.9003581,
+                "channel": 0.0,
+                "transcript": "They pick champagne on ice. And she said,",
+                "words": [
+                    {
+                        "word": "they",
+                        "start": 211.565,
+                        "end": 211.72499,
+                        "confidence": 0.9653913,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "They",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.07748576253652573
+                    },
+                    {
+                        "word": "pick",
+                        "start": 211.72499,
+                        "end": 212.045,
+                        "confidence": 0.76498413,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "pick",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.12574732303619385
+                    },
+                    {
+                        "word": "champagne",
+                        "start": 212.045,
+                        "end": 212.545,
+                        "confidence": 0.99703157,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "champagne",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.13109861314296722
+                    },
+                    {
+                        "word": "on",
+                        "start": 212.765,
+                        "end": 213.00499,
+                        "confidence": 0.99121886,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "on",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.10852117836475372
+                    },
+                    {
+                        "word": "ice",
+                        "start": 213.00499,
+                        "end": 213.485,
+                        "confidence": 0.86267686,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "ice.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1351546347141266
+                    },
+                    {
+                        "word": "and",
+                        "start": 213.485,
+                        "end": 213.72499,
+                        "confidence": 0.68225837,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "And",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.05872508883476257
+                    },
+                    {
+                        "word": "she",
+                        "start": 213.72499,
+                        "end": 214.045,
+                        "confidence": 0.99643904,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "she",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.04304672032594681
+                    },
+                    {
+                        "word": "said",
+                        "start": 214.045,
+                        "end": 214.545,
+                        "confidence": 0.94286466,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.5108439,
+                        "punctuated_word": "said,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.08425579220056534
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "40179130-d222-4b26-9334-10e850c5eb4c",
+                "sentiment": "neutral",
+                "sentiment_score": 0.09550438914448023
+            },
+            {
+                "start": 214.92499,
+                "end": 218.15,
+                "confidence": 0.96330625,
+                "channel": 0.0,
+                "transcript": "we are all just listeners here of",
+                "words": [
+                    {
+                        "word": "we",
+                        "start": 214.92499,
+                        "end": 215.165,
+                        "confidence": 0.9726202,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "we",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.08408670127391815
+                    },
+                    {
+                        "word": "are",
+                        "start": 215.165,
+                        "end": 215.325,
+                        "confidence": 0.98560053,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "are",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.08222639560699463
+                    },
+                    {
+                        "word": "all",
+                        "start": 215.325,
+                        "end": 215.64499,
+                        "confidence": 0.9919716,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "all",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1132041960954666
+                    },
+                    {
+                        "word": "just",
+                        "start": 215.64499,
+                        "end": 216.14499,
+                        "confidence": 0.99547994,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "just",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.07748748362064362
+                    },
+                    {
+                        "word": "listeners",
+                        "start": 216.205,
+                        "end": 216.705,
+                        "confidence": 0.8228056,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "listeners",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.10061359405517578
+                    },
+                    {
+                        "word": "here",
+                        "start": 216.92499,
+                        "end": 217.42499,
+                        "confidence": 0.9814835,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "here",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1451723575592041
+                    },
+                    {
+                        "word": "of",
+                        "start": 217.65,
+                        "end": 218.15,
+                        "confidence": 0.99318224,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "of",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.11286109685897829
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "95e14fc4-4e3f-49de-a3e4-dbe0699a34f7",
+                "sentiment": "neutral",
+                "sentiment_score": 0.10223597501005445
+            },
+            {
+                "start": 218.45,
+                "end": 219.82999,
+                "confidence": 0.9867664,
+                "channel": 0.0,
+                "transcript": "our own device.",
+                "words": [
+                    {
+                        "word": "our",
+                        "start": 218.45,
+                        "end": 218.88998,
+                        "confidence": 0.9965906,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "our",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0976545512676239
+                    },
+                    {
+                        "word": "own",
+                        "start": 218.88998,
+                        "end": 219.32999,
+                        "confidence": 0.99752265,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "own",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.08680704236030579
+                    },
+                    {
+                        "word": "device",
+                        "start": 219.32999,
+                        "end": 219.82999,
+                        "confidence": 0.96618605,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "device.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.08187755197286606
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "4ecd4c3c-7e1a-4229-a401-f71d86fff2a2",
+                "sentiment": "neutral",
+                "sentiment_score": 0.08877971520026524
+            },
+            {
+                "start": 220.32999,
+                "end": 220.82999,
+                "confidence": 0.64878947,
+                "channel": 0.0,
+                "transcript": "And",
+                "words": [
+                    {
+                        "word": "and",
+                        "start": 220.32999,
+                        "end": 220.82999,
+                        "confidence": 0.64878947,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.55015886,
+                        "punctuated_word": "And",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.06112271174788475
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "607e3546-2ddd-4d0e-8923-3f2e97da2b8b",
+                "sentiment": "neutral",
+                "sentiment_score": 0.06112271174788475
+            },
+            {
+                "start": 221.32999,
+                "end": 223.18999,
+                "confidence": 0.9533954,
+                "channel": 0.0,
+                "transcript": "in the master's chambers,",
+                "words": [
+                    {
+                        "word": "in",
+                        "start": 221.32999,
+                        "end": 221.82999,
+                        "confidence": 0.996234,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53082496,
+                        "punctuated_word": "in",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.0006642788648605347
+                    },
+                    {
+                        "word": "the",
+                        "start": 221.89,
+                        "end": 221.97,
+                        "confidence": 0.8843905,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53082496,
+                        "punctuated_word": "the",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.15406985580921173
+                    },
+                    {
+                        "word": "master's",
+                        "start": 221.97,
+                        "end": 222.47,
+                        "confidence": 0.9526785,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53082496,
+                        "punctuated_word": "master's",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.1018841490149498
+                    },
+                    {
+                        "word": "chambers",
+                        "start": 222.68999,
+                        "end": 223.18999,
+                        "confidence": 0.98027873,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53082496,
+                        "punctuated_word": "chambers,",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.11635947227478027
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "9b024ea5-22a6-4254-b7a3-6597ec3342d4",
+                "sentiment": "neutral",
+                "sentiment_score": 0.09324443899095058
+            },
+            {
+                "start": 224.53,
+                "end": 226.39,
+                "confidence": 0.90319145,
+                "channel": 0.0,
+                "transcript": "they're gathered for the feast.",
+                "words": [
+                    {
+                        "word": "they're",
+                        "start": 224.53,
+                        "end": 224.84999,
+                        "confidence": 0.9017365,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.53082496,
+                        "punctuated_word": "they're",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.08904995769262314
+                    },
+                    {
+                        "word": "gathered",
+                        "start": 224.84999,
+                        "end": 225.34999,
+                        "confidence": 0.998273,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.1957519,
+                        "punctuated_word": "gathered",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.16942162811756134
+                    },
+                    {
+                        "word": "for",
+                        "start": 225.40999,
+                        "end": 225.65,
+                        "confidence": 0.9935609,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.1957519,
+                        "punctuated_word": "for",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.2701297998428345
+                    },
+                    {
+                        "word": "the",
+                        "start": 225.65,
+                        "end": 225.89,
+                        "confidence": 0.7544101,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.1957519,
+                        "punctuated_word": "the",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.2585139870643616
+                    },
+                    {
+                        "word": "feast",
+                        "start": 225.89,
+                        "end": 226.39,
+                        "confidence": 0.867977,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.1957519,
+                        "punctuated_word": "feast.",
+                        "sentiment": "neutral",
+                        "sentiment_score": 0.22408923506736755
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "fa307cb2-c6d7-4480-9e36-1b0db6e7b4a2",
+                "sentiment": "neutral",
+                "sentiment_score": 0.20224092155694962
+            },
+            {
+                "start": 227.73,
+                "end": 232.805,
+                "confidence": 0.9475341,
+                "channel": 0.0,
+                "transcript": "They stab it with their stealing eyes, but they just can't kill the beast.",
+                "words": [
+                    {
+                        "word": "they",
+                        "start": 227.73,
+                        "end": 227.89,
+                        "confidence": 0.9871946,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "They",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.4075953662395478
+                    },
+                    {
+                        "word": "stab",
+                        "start": 227.89,
+                        "end": 228.20999,
+                        "confidence": 0.91502064,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "stab",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.4968075752258301
+                    },
+                    {
+                        "word": "it",
+                        "start": 228.20999,
+                        "end": 228.45,
+                        "confidence": 0.9976284,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "it",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.538818359375
+                    },
+                    {
+                        "word": "with",
+                        "start": 228.45,
+                        "end": 228.68999,
+                        "confidence": 0.9993216,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "with",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5689007639884949
+                    },
+                    {
+                        "word": "their",
+                        "start": 228.68999,
+                        "end": 229.17,
+                        "confidence": 0.97090536,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "their",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5401895046234131
+                    },
+                    {
+                        "word": "stealing",
+                        "start": 229.17,
+                        "end": 229.67,
+                        "confidence": 0.6043587,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "stealing",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5052614212036133
+                    },
+                    {
+                        "word": "eyes",
+                        "start": 229.81,
+                        "end": 230.20999,
+                        "confidence": 0.96759105,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "eyes,",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.3888486623764038
+                    },
+                    {
+                        "word": "but",
+                        "start": 230.20999,
+                        "end": 230.45,
+                        "confidence": 0.999401,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "but",
+                        "sentiment": "neutral",
+                        "sentiment_score": -0.2507069706916809
+                    },
+                    {
+                        "word": "they",
+                        "start": 230.45,
+                        "end": 230.625,
+                        "confidence": 0.99960345,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "they",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5660466551780701
+                    },
+                    {
+                        "word": "just",
+                        "start": 230.705,
+                        "end": 231.105,
+                        "confidence": 0.997195,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "just",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.38687339425086975
+                    },
+                    {
+                        "word": "can't",
+                        "start": 231.105,
+                        "end": 231.605,
+                        "confidence": 0.99483347,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "can't",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.5314749479293823
+                    },
+                    {
+                        "word": "kill",
+                        "start": 231.665,
+                        "end": 232.065,
+                        "confidence": 0.882539,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "kill",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.700519859790802
+                    },
+                    {
+                        "word": "the",
+                        "start": 232.065,
+                        "end": 232.305,
+                        "confidence": 0.9733313,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "the",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.6907830834388733
+                    },
+                    {
+                        "word": "beast",
+                        "start": 232.305,
+                        "end": 232.805,
+                        "confidence": 0.97655255,
+                        "speaker": 0.0,
+                        "speaker_confidence": 0.48802048,
+                        "punctuated_word": "beast.",
+                        "sentiment": "negative",
+                        "sentiment_score": -0.3589407801628113
+                    }
+                ],
+                "speaker": 0.0,
+                "id": "635f17ed-d091-4b5e-af2b-e5391e3b5bad",
+                "sentiment": "negative",
+                "sentiment_score": -0.4951262388910566
+            }
+        ],
+        "sentiments": {
+            "segments": [
+                {
+                    "text": "On a dark What a nice surprise.",
+                    "start_word": 0.0,
+                    "end_word": 6.0,
+                    "sentiment": "positive",
+                    "sentiment_score": 0.4275205731391907
+                },
+                {
+                    "text": "Mirrors on the ceiling. They pick champagne on ice. And she said, we are all just listeners here of our own device. And in the master's chambers, they're gathered for the feast.",
+                    "start_word": 7.0,
+                    "end_word": 38.0,
+                    "sentiment": "neutral",
+                    "sentiment_score": 0.13059082627296448
+                },
+                {
+                    "text": "They stab it with their stealing eyes, but they just can't kill the beast.",
+                    "start_word": 39.0,
+                    "end_word": 52.0,
+                    "sentiment": "negative",
+                    "sentiment_score": -0.504529595375061
+                }
+            ],
+            "average": {
+                "sentiment": "neutral",
+                "sentiment_score": 0.004186787388541482
+            }
+        }
     }
 }

@@ -1,0 +1,244 @@
+{
+    "id": "95592ce8-a6d6-49c9-adf6-70cca2e960cb",
+    "status": "completed",
+    "text": "Septiembre la sucursal de Pajarito con un cupo inicial de 150 mil pesos. Para continuar, don Cristian, necesito validar su titularidad. Me confirma por favor su número de R. Aló. Aló. Aló.",
+    "words": [
+        {
+            "text": "Septiembre",
+            "start": 160,
+            "end": 640,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 640,
+            "end": 880,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "sucursal",
+            "start": 880,
+            "end": 1200,
+            "confidence": 0.99716794,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 1200,
+            "end": 1320,
+            "confidence": 0.59277344,
+            "speaker": "A"
+        },
+        {
+            "text": "Pajarito",
+            "start": 1320,
+            "end": 1840,
+            "confidence": 0.8865967,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 1840,
+            "end": 2000,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 2000,
+            "end": 2080,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "cupo",
+            "start": 2080,
+            "end": 2360,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "inicial",
+            "start": 2360,
+            "end": 2680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 2680,
+            "end": 2800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "150",
+            "start": 2800,
+            "end": 3400,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mil",
+            "start": 3400,
+            "end": 3680,
+            "confidence": 0.9819336,
+            "speaker": "A"
+        },
+        {
+            "text": "pesos.",
+            "start": 3680,
+            "end": 4240,
+            "confidence": 0.77978516,
+            "speaker": "A"
+        },
+        {
+            "text": "Para",
+            "start": 5440,
+            "end": 5680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "continuar,",
+            "start": 5680,
+            "end": 6080,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "don",
+            "start": 6080,
+            "end": 6360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Cristian,",
+            "start": 6360,
+            "end": 7000,
+            "confidence": 0.9798177,
+            "speaker": "A"
+        },
+        {
+            "text": "necesito",
+            "start": 7000,
+            "end": 7360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "validar",
+            "start": 7360,
+            "end": 7680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 7680,
+            "end": 7840,
+            "confidence": 0.73095703,
+            "speaker": "A"
+        },
+        {
+            "text": "titularidad.",
+            "start": 7840,
+            "end": 8480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "Me",
+            "start": 8480,
+            "end": 8720,
+            "confidence": 0.6166992,
+            "speaker": "A"
+        },
+        {
+            "text": "confirma",
+            "start": 8720,
+            "end": 9240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "por",
+            "start": 9240,
+            "end": 9360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "favor",
+            "start": 9360,
+            "end": 9560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 9560,
+            "end": 9680,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "número",
+            "start": 9680,
+            "end": 9960,
+            "confidence": 0.9532471,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 9960,
+            "end": 10160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "R.",
+            "start": 10160,
+            "end": 10480,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Aló.",
+            "start": 13200,
+            "end": 13760,
+            "confidence": 0.9304199,
+            "speaker": "A"
+        },
+        {
+            "text": "Aló.",
+            "start": 15520,
+            "end": 16000,
+            "confidence": 0.83496094,
+            "speaker": "A"
+        },
+        {
+            "text": "Aló.",
+            "start": 18960,
+            "end": 19520,
+            "confidence": 0.94091797,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Septiembre la sucursal de Pajarito con un cupo inicial de 150 mil pesos. Para continuar, don Cristian, necesito validar su titularidad. Me confirma por favor su número de R. Aló. Aló. Aló.",
+            "start": 160,
+            "end": 19520,
+            "confidence": 0.9444026,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 21,
+    "language_code": "es"
+}

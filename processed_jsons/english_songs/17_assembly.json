@@ -1,711 +1,704 @@
 {
-    "id": "9cc05565-4fd0-4e09-8f98-eff6bf58bef2",
+    "id": "c501a719-8292-4751-a839-7982c75cd75c",
     "status": "completed",
-    "text": "¿What would I do without your smart mouth Drawing me in And you kicking. Me out You got my head spinning? ¿No kidding I can't pin you down. What's going on in that beautiful mind? I'm on your magical mystery ride And I'm so dizzy Don't know what hit. Me but I'll be all right My. Head'S under water But I'm breathing fine. You're crazy and I'm out of my. Mind Cause all of me loves All. Of you Love your curves and all. Your ed All your perfect imperfections Give. Y' all to me I give my. All to you You're my end and. My beginning Even when I lose I'm. Winning Cause I give you hope And. You give me hope you all. How. Many times do I have to tell. You Even when you cry in your beautiful toa The world is beating you Down and around Through every mood You're. My downfall You're my muse My worst distraction My rhythm in blood I can't. Stop singing It's ringing in my head. For you My head's under water But. I'm breathing fine You're crazy and I'm. Out of my mind Cause all of me loves all of you Love your. Curves And all your edges All your perfect imperfections Give you all to me I'll give my all to you You're. My end and my beginning Even when I lose I'm wedding Cause I give. You all. Of me. And you give. Me all. Of you. Give me all. Of you Hides on the table We both show it He risking it Although it's hard Cause all me loves all. Of you Love your curves And all. Your edges All your perfect imperfections Give. You all to me I'll give my. All to you You're my end and. My beginning Even when I lose I'm. Winning Cause I give you all. Of. And you give me all. Of you. I give you all. Of me. And. You give me all. Of you Oh.",
+    "text": "What would I do without your smart mouth drawing me in and you kicking me out? You got my head spinning. No kidding, I can't pin you down. What's going on in that beautiful mind? I'm on your magical mystery ride and I'm so dizzy. Don't know what hit me but I'll be all right. My head's underwater but I'm breathing fine. You're crazy and I'm out of my mind. Cause all of me loves all of you. Love your curves and all your edges. All your perfect imperfections. Give you all to me. I give my all to you. You're my end and my beginning. Even when I lose, I'm winning. Cause I give you all of me. And you give me all of you. Oh, how many times do I have to tell you? Even when you cry in your beautiful toe. The world is beating you down. I'm around through every moment. You're my downfall. You're my muse, my worst distraction. My rhythm and blow. I can't stop singing. It's ringing in my head for you. My head's underwater but I'm breathing fine. You're crazy and I'm out of my mind. Cause all of me loves all of you. Love your curves and all your edges. All your perfect imperfections. Give you all to me. I'll give my all to you. You're my end and my beginning. Even when I lose, I'm winning. Cause I give you all of me. And you give me all of you. Give me all of you. Cards on the table, we're both showing hearts, risking it although it's hard. Cause all of me love's words. All of you. Love your curves and all your edges. All your perfect imperfections. Give you all to me. I'll give my all to you. You're my end and my beginning. Even when I lose, I'm winning. Cause I give you all of. And you give me all of you. I give you all of me and you give me all of you. Oh.",
     "words": [
         {
-            "text": "¿What",
-            "start": 9120,
-            "end": 9280,
-            "confidence": 0.99902344,
+            "text": "What",
+            "start": 8960,
+            "end": 9160,
+            "confidence": 0.98828125,
             "speaker": "A"
         },
         {
             "text": "would",
-            "start": 9280,
-            "end": 9560,
-            "confidence": 0.99902344,
+            "start": 9160,
+            "end": 9440,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 9560,
-            "end": 9880,
-            "confidence": 0.9995117,
+            "start": 9440,
+            "end": 9760,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "do",
-            "start": 9880,
-            "end": 10200,
-            "confidence": 1.0,
-            "speaker": "A"
-        },
-        {
-            "text": "without",
-            "start": 10200,
-            "end": 10760,
+            "start": 9760,
+            "end": 10120,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
+            "text": "without",
+            "start": 10120,
+            "end": 10480,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
             "text": "your",
-            "start": 10760,
+            "start": 10720,
             "end": 11120,
-            "confidence": 0.9838867,
+            "confidence": 0.9892578,
             "speaker": "A"
         },
         {
             "text": "smart",
             "start": 11120,
-            "end": 11760,
-            "confidence": 0.8598633,
+            "end": 11680,
+            "confidence": 0.9519043,
             "speaker": "A"
         },
         {
             "text": "mouth",
-            "start": 11840,
-            "end": 12400,
-            "confidence": 0.96761066,
+            "start": 11760,
+            "end": 12320,
+            "confidence": 0.9654948,
             "speaker": "A"
         },
         {
-            "text": "Drawing",
+            "text": "drawing",
             "start": 12640,
-            "end": 13360,
-            "confidence": 0.94506836,
+            "end": 13280,
+            "confidence": 0.94189453,
             "speaker": "A"
         },
         {
             "text": "me",
-            "start": 13360,
+            "start": 13280,
             "end": 13560,
-            "confidence": 0.9975586,
+            "confidence": 0.9868164,
             "speaker": "A"
         },
         {
             "text": "in",
             "start": 13560,
-            "end": 13920,
-            "confidence": 0.9868164,
+            "end": 13880,
+            "confidence": 0.984375,
             "speaker": "A"
         },
         {
-            "text": "And",
-            "start": 13920,
-            "end": 14200,
-            "confidence": 0.96777344,
+            "text": "and",
+            "start": 13880,
+            "end": 14120,
+            "confidence": 0.9604492,
             "speaker": "A"
         },
         {
             "text": "you",
-            "start": 14200,
-            "end": 14440,
-            "confidence": 0.99902344,
+            "start": 14120,
+            "end": 14400,
+            "confidence": 0.98876953,
             "speaker": "A"
         },
         {
-            "text": "kicking.",
-            "start": 14440,
-            "end": 15320,
-            "confidence": 0.99365234,
+            "text": "kicking",
+            "start": 14480,
+            "end": 15120,
+            "confidence": 0.9679362,
             "speaker": "A"
         },
         {
-            "text": "Me",
-            "start": 15320,
-            "end": 15520,
+            "text": "me",
+            "start": 15120,
+            "end": 15360,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "out?",
+            "start": 15360,
+            "end": 15680,
             "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "out",
-            "start": 15520,
-            "end": 15840,
-            "confidence": 0.99902344,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "You",
-            "start": 16240,
-            "end": 16600,
-            "confidence": 0.9819336,
-            "speaker": "B"
-        },
-        {
-            "text": "got",
-            "start": 16600,
-            "end": 17040,
-            "confidence": 0.82128906,
-            "speaker": "B"
-        },
-        {
-            "text": "my",
-            "start": 17040,
-            "end": 17360,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "head",
-            "start": 17440,
-            "end": 18080,
-            "confidence": 0.58984375,
-            "speaker": "B"
-        },
-        {
-            "text": "spinning?",
-            "start": 18240,
-            "end": 19040,
-            "confidence": 0.8541667,
-            "speaker": "B"
-        },
-        {
-            "text": "¿No",
-            "start": 19440,
-            "end": 19840,
-            "confidence": 0.99853516,
+            "start": 16160,
+            "end": 16520,
+            "confidence": 0.99072266,
             "speaker": "A"
         },
         {
-            "text": "kidding",
+            "text": "got",
+            "start": 16520,
+            "end": 16880,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 16880,
+            "end": 17280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "head",
+            "start": 17360,
+            "end": 17760,
+            "confidence": 0.8383789,
+            "speaker": "A"
+        },
+        {
+            "text": "spinning.",
+            "start": 18240,
+            "end": 19040,
+            "confidence": 0.8597005,
+            "speaker": "A"
+        },
+        {
+            "text": "No",
+            "start": 19440,
+            "end": 19840,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "kidding,",
             "start": 20240,
-            "end": 21160,
-            "confidence": 0.8989258,
+            "end": 20880,
+            "confidence": 0.9291992,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 21160,
+            "start": 20960,
             "end": 21320,
-            "confidence": 0.99902344,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
             "text": "can't",
             "start": 21320,
-            "end": 22080,
-            "confidence": 0.7472331,
+            "end": 21920,
+            "confidence": 0.8417969,
             "speaker": "A"
         },
         {
             "text": "pin",
-            "start": 22080,
-            "end": 22640,
-            "confidence": 0.6972656,
+            "start": 22160,
+            "end": 22560,
+            "confidence": 0.9992676,
             "speaker": "A"
         },
         {
             "text": "you",
-            "start": 22720,
-            "end": 23120,
-            "confidence": 0.9995117,
+            "start": 22560,
+            "end": 22880,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "down.",
-            "start": 23200,
-            "end": 23600,
+            "start": 23120,
+            "end": 23520,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "What's",
-            "start": 24000,
-            "end": 24600,
-            "confidence": 0.85253906,
-            "speaker": "B"
+            "start": 24080,
+            "end": 24520,
+            "confidence": 0.9991862,
+            "speaker": "A"
         },
         {
             "text": "going",
-            "start": 24600,
-            "end": 25240,
-            "confidence": 0.98535156,
-            "speaker": "B"
+            "start": 24520,
+            "end": 24800,
+            "confidence": 0.9667969,
+            "speaker": "A"
         },
         {
             "text": "on",
-            "start": 25240,
-            "end": 25480,
-            "confidence": 0.99658203,
-            "speaker": "B"
+            "start": 25040,
+            "end": 25360,
+            "confidence": 0.9951172,
+            "speaker": "A"
         },
         {
             "text": "in",
-            "start": 25480,
-            "end": 25760,
-            "confidence": 0.9946289,
-            "speaker": "B"
+            "start": 25360,
+            "end": 25600,
+            "confidence": 0.9863281,
+            "speaker": "A"
         },
         {
             "text": "that",
-            "start": 25760,
-            "end": 26080,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "start": 25600,
+            "end": 25920,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "beautiful",
-            "start": 26080,
-            "end": 26800,
-            "confidence": 0.94018555,
-            "speaker": "B"
+            "start": 26000,
+            "end": 26720,
+            "confidence": 0.99667966,
+            "speaker": "A"
         },
         {
             "text": "mind?",
-            "start": 26800,
-            "end": 27520,
-            "confidence": 0.810791,
-            "speaker": "B"
+            "start": 26720,
+            "end": 27120,
+            "confidence": 0.66064453,
+            "speaker": "A"
         },
         {
             "text": "I'm",
             "start": 27840,
-            "end": 28280,
-            "confidence": 0.9983724,
+            "end": 28200,
+            "confidence": 0.94352216,
             "speaker": "A"
         },
         {
             "text": "on",
-            "start": 28280,
-            "end": 28480,
-            "confidence": 0.97216797,
+            "start": 28200,
+            "end": 28400,
+            "confidence": 0.9824219,
             "speaker": "A"
         },
         {
             "text": "your",
-            "start": 28480,
-            "end": 28800,
-            "confidence": 0.98779297,
+            "start": 28400,
+            "end": 28720,
+            "confidence": 0.9921875,
             "speaker": "A"
         },
         {
             "text": "magical",
-            "start": 28880,
-            "end": 29600,
-            "confidence": 0.8652344,
+            "start": 28800,
+            "end": 29520,
+            "confidence": 0.99902344,
             "speaker": "A"
         },
         {
             "text": "mystery",
-            "start": 29840,
-            "end": 30600,
-            "confidence": 1.0,
+            "start": 29760,
+            "end": 30400,
+            "confidence": 0.9742839,
             "speaker": "A"
         },
         {
             "text": "ride",
-            "start": 30600,
-            "end": 31200,
-            "confidence": 0.80688477,
+            "start": 30480,
+            "end": 30960,
+            "confidence": 0.93774414,
             "speaker": "A"
         },
         {
-            "text": "And",
-            "start": 32060,
-            "end": 32260,
-            "confidence": 0.6879883,
+            "text": "and",
+            "start": 31980,
+            "end": 32140,
+            "confidence": 0.7158203,
             "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 32260,
-            "end": 32780,
-            "confidence": 0.8733724,
+            "start": 32140,
+            "end": 32700,
+            "confidence": 0.99365234,
             "speaker": "A"
         },
         {
             "text": "so",
             "start": 32780,
-            "end": 33100,
-            "confidence": 1.0,
+            "end": 33180,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "dizzy",
-            "start": 33580,
-            "end": 34300,
-            "confidence": 0.9918213,
+            "text": "dizzy.",
+            "start": 33500,
+            "end": 34220,
+            "confidence": 0.9786377,
             "speaker": "A"
         },
         {
             "text": "Don't",
-            "start": 34380,
-            "end": 34820,
-            "confidence": 0.99934894,
+            "start": 34300,
+            "end": 34700,
+            "confidence": 0.9816081,
             "speaker": "A"
         },
         {
             "text": "know",
-            "start": 34820,
-            "end": 35100,
-            "confidence": 0.9980469,
+            "start": 34700,
+            "end": 35020,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "what",
-            "start": 35100,
-            "end": 35500,
-            "confidence": 0.9951172,
+            "start": 35020,
+            "end": 35420,
+            "confidence": 0.99121094,
             "speaker": "A"
         },
         {
-            "text": "hit.",
-            "start": 35500,
-            "end": 35940,
-            "confidence": 0.9941406,
+            "text": "hit",
+            "start": 35420,
+            "end": 35780,
+            "confidence": 0.99365234,
             "speaker": "A"
         },
         {
-            "text": "Me",
-            "start": 35940,
-            "end": 36220,
+            "text": "me",
+            "start": 35780,
+            "end": 36140,
             "confidence": 1.0,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "but",
-            "start": 36300,
-            "end": 36700,
-            "confidence": 0.9995117,
-            "speaker": "C"
+            "start": 36140,
+            "end": 36540,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "I'll",
-            "start": 36700,
-            "end": 37580,
-            "confidence": 0.93652344,
-            "speaker": "C"
+            "start": 36540,
+            "end": 37460,
+            "confidence": 0.92089844,
+            "speaker": "A"
         },
         {
             "text": "be",
-            "start": 37580,
-            "end": 37900,
+            "start": 37460,
+            "end": 37780,
             "confidence": 1.0,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "all",
-            "start": 37980,
-            "end": 38380,
-            "confidence": 0.5600586,
-            "speaker": "C"
+            "start": 37780,
+            "end": 38140,
+            "confidence": 0.54589844,
+            "speaker": "A"
         },
         {
-            "text": "right",
-            "start": 38460,
-            "end": 38940,
-            "confidence": 0.99780273,
-            "speaker": "C"
+            "text": "right.",
+            "start": 38300,
+            "end": 38700,
+            "confidence": 0.9785156,
+            "speaker": "A"
         },
         {
-            "text": "My.",
+            "text": "My",
             "start": 39980,
-            "end": 40340,
-            "confidence": 0.99902344,
-            "speaker": "C"
-        },
-        {
-            "text": "Head'S",
-            "start": 40340,
-            "end": 41420,
-            "confidence": 0.7783203,
+            "end": 40300,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "under",
-            "start": 41420,
-            "end": 41740,
-            "confidence": 0.99902344,
+            "text": "head's",
+            "start": 40300,
+            "end": 41220,
+            "confidence": 0.7107747,
             "speaker": "A"
         },
         {
-            "text": "water",
-            "start": 42140,
-            "end": 43180,
-            "confidence": 0.704834,
+            "text": "underwater",
+            "start": 41220,
+            "end": 42460,
+            "confidence": 0.9848633,
             "speaker": "A"
         },
         {
-            "text": "But",
-            "start": 43500,
-            "end": 43900,
-            "confidence": 0.9980469,
+            "text": "but",
+            "start": 43340,
+            "end": 43740,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 44060,
-            "end": 44980,
-            "confidence": 0.9941406,
+            "start": 43980,
+            "end": 44860,
+            "confidence": 0.8728841,
             "speaker": "A"
         },
         {
             "text": "breathing",
-            "start": 44980,
-            "end": 45900,
-            "confidence": 0.9970703,
+            "start": 44860,
+            "end": 45660,
+            "confidence": 0.9251302,
             "speaker": "A"
         },
         {
             "text": "fine.",
-            "start": 45900,
-            "end": 46620,
-            "confidence": 0.7548828,
+            "start": 45820,
+            "end": 46380,
+            "confidence": 0.9394531,
             "speaker": "A"
         },
         {
             "text": "You're",
             "start": 47580,
             "end": 48299,
-            "confidence": 0.9042969,
-            "speaker": "B"
+            "confidence": 0.9166667,
+            "speaker": "A"
         },
         {
             "text": "crazy",
-            "start": 48700,
-            "end": 49460,
-            "confidence": 0.97477216,
-            "speaker": "B"
+            "start": 48620,
+            "end": 49380,
+            "confidence": 0.99365234,
+            "speaker": "A"
         },
         {
             "text": "and",
-            "start": 49460,
-            "end": 49780,
-            "confidence": 0.99121094,
-            "speaker": "B"
+            "start": 49380,
+            "end": 49700,
+            "confidence": 0.98876953,
+            "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 49780,
-            "end": 50780,
-            "confidence": 0.90494794,
-            "speaker": "B"
+            "start": 49700,
+            "end": 50660,
+            "confidence": 0.9835612,
+            "speaker": "A"
         },
         {
             "text": "out",
-            "start": 50780,
-            "end": 51100,
+            "start": 50660,
+            "end": 50980,
             "confidence": 1.0,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "of",
-            "start": 51100,
-            "end": 51380,
-            "confidence": 0.9848633,
-            "speaker": "B"
+            "start": 50980,
+            "end": 51260,
+            "confidence": 0.9946289,
+            "speaker": "A"
         },
         {
-            "text": "my.",
-            "start": 51380,
-            "end": 51620,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "text": "my",
+            "start": 51260,
+            "end": 51540,
+            "confidence": 0.9970703,
+            "speaker": "A"
         },
         {
-            "text": "Mind",
-            "start": 51620,
-            "end": 52060,
-            "confidence": 0.810791,
-            "speaker": "C"
+            "text": "mind.",
+            "start": 51540,
+            "end": 51900,
+            "confidence": 1.0,
+            "speaker": "A"
         },
         {
             "text": "Cause",
-            "start": 53340,
-            "end": 53900,
-            "confidence": 0.74658203,
-            "speaker": "C"
+            "start": 53260,
+            "end": 53700,
+            "confidence": 0.84375,
+            "speaker": "A"
         },
         {
             "text": "all",
-            "start": 53900,
-            "end": 54300,
+            "start": 53700,
+            "end": 54060,
             "confidence": 0.99853516,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "of",
-            "start": 55100,
-            "end": 55460,
-            "confidence": 0.5571289,
-            "speaker": "C"
+            "start": 55020,
+            "end": 55340,
+            "confidence": 0.96191406,
+            "speaker": "A"
         },
         {
             "text": "me",
-            "start": 55460,
-            "end": 55820,
+            "start": 55340,
+            "end": 55660,
             "confidence": 1.0,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "loves",
-            "start": 56460,
-            "end": 57420,
-            "confidence": 0.9382324,
-            "speaker": "C"
+            "start": 56540,
+            "end": 57260,
+            "confidence": 0.9855957,
+            "speaker": "A"
         },
         {
-            "text": "All.",
-            "start": 57740,
-            "end": 58140,
+            "text": "all",
+            "start": 57500,
+            "end": 57900,
             "confidence": 0.99902344,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
-            "text": "Of",
+            "text": "of",
             "start": 58860,
             "end": 59180,
-            "confidence": 0.9848633,
-            "speaker": "B"
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
-            "text": "you",
+            "text": "you.",
             "start": 59180,
             "end": 59500,
-            "confidence": 0.99902344,
-            "speaker": "B"
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "Love",
             "start": 60220,
-            "end": 60740,
-            "confidence": 1.0,
-            "speaker": "B"
-        },
-        {
-            "text": "your",
-            "start": 60740,
-            "end": 61020,
-            "confidence": 0.9897461,
-            "speaker": "B"
-        },
-        {
-            "text": "curves",
-            "start": 61100,
-            "end": 61820,
-            "confidence": 0.80444336,
-            "speaker": "B"
-        },
-        {
-            "text": "and",
-            "start": 61980,
-            "end": 62380,
-            "confidence": 0.9975586,
-            "speaker": "B"
-        },
-        {
-            "text": "all.",
-            "start": 62380,
-            "end": 62700,
-            "confidence": 0.984375,
-            "speaker": "B"
-        },
-        {
-            "text": "Your",
-            "start": 62700,
-            "end": 62940,
-            "confidence": 0.99316406,
+            "end": 60580,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "ed",
+            "text": "your",
+            "start": 60580,
+            "end": 60940,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "curves",
+            "start": 61180,
+            "end": 61740,
+            "confidence": 0.78100586,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 61820,
+            "end": 62220,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 62220,
+            "end": 62620,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 62620,
+            "end": 62940,
+            "confidence": 0.9868164,
+            "speaker": "A"
+        },
+        {
+            "text": "edges.",
             "start": 62940,
-            "end": 63260,
-            "confidence": 0.99853516,
+            "end": 63420,
+            "confidence": 1.0,
             "speaker": "A"
         },
         {
             "text": "All",
-            "start": 64280,
-            "end": 64440,
-            "confidence": 0.58740234,
+            "start": 64200,
+            "end": 64400,
+            "confidence": 0.9760742,
             "speaker": "A"
         },
         {
             "text": "your",
-            "start": 64440,
+            "start": 64400,
             "end": 64760,
-            "confidence": 0.7705078,
+            "confidence": 0.9506836,
             "speaker": "A"
         },
         {
             "text": "perfect",
-            "start": 65160,
+            "start": 65080,
             "end": 65880,
-            "confidence": 0.9741211,
+            "confidence": 0.9324544,
             "speaker": "A"
         },
         {
-            "text": "imperfections",
-            "start": 66200,
-            "end": 67560,
-            "confidence": 0.9975586,
+            "text": "imperfections.",
+            "start": 66120,
+            "end": 67480,
+            "confidence": 0.87509763,
             "speaker": "A"
         },
         {
-            "text": "Give.",
+            "text": "Give",
             "start": 67800,
-            "end": 68240,
-            "confidence": 0.9934082,
+            "end": 68160,
+            "confidence": 0.98291016,
             "speaker": "A"
         },
         {
-            "text": "Y'",
-            "start": 68240,
-            "end": 68560,
-            "confidence": 0.72875977,
-            "speaker": "C"
+            "text": "you",
+            "start": 68160,
+            "end": 68360,
+            "confidence": 0.7138672,
+            "speaker": "A"
         },
         {
             "text": "all",
-            "start": 68560,
-            "end": 68760,
-            "confidence": 1.0,
-            "speaker": "C"
+            "start": 68360,
+            "end": 68600,
+            "confidence": 0.5913086,
+            "speaker": "A"
         },
         {
             "text": "to",
-            "start": 70280,
-            "end": 70600,
-            "confidence": 1.0,
-            "speaker": "C"
+            "start": 70200,
+            "end": 70560,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "me",
-            "start": 70600,
+            "text": "me.",
+            "start": 70560,
             "end": 70920,
             "confidence": 0.9995117,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 71400,
             "end": 71760,
-            "confidence": 0.96728516,
-            "speaker": "C"
+            "confidence": 0.98535156,
+            "speaker": "A"
         },
         {
             "text": "give",
             "start": 71760,
-            "end": 72240,
-            "confidence": 0.81103516,
-            "speaker": "C"
+            "end": 72120,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
-            "text": "my.",
-            "start": 72240,
-            "end": 72600,
-            "confidence": 0.9926758,
-            "speaker": "C"
+            "text": "my",
+            "start": 72120,
+            "end": 72520,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "All",
-            "start": 72920,
-            "end": 73320,
-            "confidence": 0.55371094,
+            "text": "all",
+            "start": 72680,
+            "end": 73080,
+            "confidence": 0.56152344,
             "speaker": "A"
         },
         {
             "text": "to",
-            "start": 74120,
-            "end": 74440,
-            "confidence": 1.0,
+            "start": 74040,
+            "end": 74400,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "you",
-            "start": 74440,
+            "text": "you.",
+            "start": 74400,
             "end": 74760,
             "confidence": 0.9995117,
             "speaker": "A"
@@ -713,209 +706,230 @@
         {
             "text": "You're",
             "start": 75400,
-            "end": 76040,
-            "confidence": 0.99365234,
+            "end": 75920,
+            "confidence": 0.9217122,
             "speaker": "A"
         },
         {
             "text": "my",
-            "start": 76040,
-            "end": 76360,
-            "confidence": 0.9995117,
+            "start": 75920,
+            "end": 76280,
+            "confidence": 0.99853516,
             "speaker": "A"
         },
         {
             "text": "end",
-            "start": 76600,
-            "end": 77000,
-            "confidence": 0.99072266,
+            "start": 76520,
+            "end": 76920,
+            "confidence": 0.7167969,
             "speaker": "A"
         },
         {
-            "text": "and.",
-            "start": 77160,
-            "end": 77520,
-            "confidence": 0.9970703,
+            "text": "and",
+            "start": 77000,
+            "end": 77400,
+            "confidence": 0.9638672,
             "speaker": "A"
         },
         {
-            "text": "My",
-            "start": 77520,
-            "end": 77880,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "text": "my",
+            "start": 77400,
+            "end": 77800,
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
-            "text": "beginning",
+            "text": "beginning.",
             "start": 77880,
-            "end": 78920,
-            "confidence": 0.9326172,
-            "speaker": "B"
+            "end": 78680,
+            "confidence": 0.99527997,
+            "speaker": "A"
         },
         {
             "text": "Even",
-            "start": 79480,
-            "end": 79880,
-            "confidence": 1.0,
-            "speaker": "B"
+            "start": 79400,
+            "end": 79800,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "when",
-            "start": 80440,
-            "end": 80840,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "start": 80360,
+            "end": 80760,
+            "confidence": 1.0,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 80840,
-            "end": 81200,
+            "start": 80760,
+            "end": 81160,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
-            "text": "lose",
-            "start": 81200,
-            "end": 81720,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "text": "lose,",
+            "start": 81240,
+            "end": 81680,
+            "confidence": 0.9067383,
+            "speaker": "A"
         },
         {
-            "text": "I'm.",
-            "start": 81720,
+            "text": "I'm",
+            "start": 81680,
             "end": 82040,
-            "confidence": 0.9848633,
-            "speaker": "B"
+            "confidence": 0.98307294,
+            "speaker": "A"
         },
         {
-            "text": "Winning",
+            "text": "winning.",
             "start": 82040,
-            "end": 82760,
-            "confidence": 0.8125,
+            "end": 82600,
+            "confidence": 0.8745117,
             "speaker": "A"
         },
         {
             "text": "Cause",
             "start": 82840,
-            "end": 83320,
-            "confidence": 0.6130371,
+            "end": 83240,
+            "confidence": 0.87858075,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 83320,
-            "end": 83520,
-            "confidence": 1.0,
+            "start": 83240,
+            "end": 83440,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "give",
-            "start": 83520,
-            "end": 83760,
-            "confidence": 0.99975586,
+            "start": 83440,
+            "end": 83640,
+            "confidence": 0.95751953,
             "speaker": "A"
         },
         {
             "text": "you",
-            "start": 83760,
-            "end": 84040,
-            "confidence": 0.99365234,
+            "start": 83640,
+            "end": 83960,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
-            "text": "hope",
-            "start": 84120,
-            "end": 90180,
-            "confidence": 0.7463379,
+            "text": "all",
+            "start": 83960,
+            "end": 84360,
+            "confidence": 0.87402344,
             "speaker": "A"
         },
         {
-            "text": "And.",
-            "start": 90650,
-            "end": 90770,
-            "confidence": 0.9584961,
+            "text": "of",
+            "start": 87320,
+            "end": 87720,
+            "confidence": 0.9951172,
             "speaker": "A"
         },
         {
-            "text": "You",
-            "start": 90770,
-            "end": 90930,
-            "confidence": 0.9970703,
-            "speaker": "C"
+            "text": "me.",
+            "start": 87720,
+            "end": 88120,
+            "confidence": 0.7973633,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 90570,
+            "end": 90730,
+            "confidence": 0.98583984,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 90730,
+            "end": 90970,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "give",
-            "start": 90930,
-            "end": 91490,
-            "confidence": 0.8022461,
-            "speaker": "C"
+            "start": 90970,
+            "end": 91250,
+            "confidence": 0.9453125,
+            "speaker": "A"
         },
         {
             "text": "me",
-            "start": 91490,
-            "end": 91730,
+            "start": 91250,
+            "end": 91570,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 91570,
+            "end": 91930,
+            "confidence": 0.9555664,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 95050,
+            "end": 95410,
             "confidence": 0.99853516,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
-            "text": "hope",
-            "start": 91730,
-            "end": 95490,
-            "confidence": 0.6591797,
-            "speaker": "C"
-        },
-        {
-            "text": "you",
-            "start": 95490,
+            "text": "you.",
+            "start": 95410,
             "end": 95770,
-            "confidence": 0.8955078,
-            "speaker": "C"
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
-            "text": "all.",
-            "start": 97130,
+            "text": "Oh,",
+            "start": 96970,
             "end": 97530,
-            "confidence": 0.3425293,
-            "speaker": "C"
+            "confidence": 0.7211914,
+            "speaker": "A"
         },
         {
-            "text": "How.",
-            "start": 100330,
-            "end": 100690,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "text": "how",
+            "start": 100250,
+            "end": 100610,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "Many",
-            "start": 100690,
-            "end": 101050,
-            "confidence": 1.0,
+            "text": "many",
+            "start": 100610,
+            "end": 100970,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "times",
             "start": 101210,
-            "end": 101850,
-            "confidence": 0.99975586,
+            "end": 101610,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "do",
-            "start": 101850,
-            "end": 102090,
+            "start": 101690,
+            "end": 102010,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "I",
-            "start": 102090,
-            "end": 102290,
+            "start": 102010,
+            "end": 102250,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "have",
-            "start": 102290,
+            "start": 102250,
             "end": 102490,
             "confidence": 0.9995117,
             "speaker": "A"
@@ -923,589 +937,582 @@
         {
             "text": "to",
             "start": 102490,
-            "end": 102770,
+            "end": 102730,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "tell",
+            "start": 102730,
+            "end": 103050,
             "confidence": 1.0,
             "speaker": "A"
         },
         {
-            "text": "tell.",
-            "start": 102770,
-            "end": 103170,
-            "confidence": 0.9909668,
+            "text": "you?",
+            "start": 103050,
+            "end": 103450,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
-            "text": "You",
-            "start": 103170,
-            "end": 103530,
-            "confidence": 0.9970703,
-            "speaker": "B"
-        },
-        {
             "text": "Even",
-            "start": 104170,
-            "end": 104530,
+            "start": 104090,
+            "end": 104490,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "when",
-            "start": 104530,
-            "end": 104850,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "start": 104490,
+            "end": 104810,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 104850,
-            "end": 105130,
-            "confidence": 0.9951172,
-            "speaker": "B"
+            "start": 104810,
+            "end": 105050,
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
             "text": "cry",
-            "start": 105130,
-            "end": 105530,
-            "confidence": 0.9086914,
-            "speaker": "B"
+            "start": 105050,
+            "end": 105450,
+            "confidence": 0.78100586,
+            "speaker": "A"
         },
         {
             "text": "in",
-            "start": 105610,
-            "end": 105890,
-            "confidence": 0.9824219,
-            "speaker": "B"
+            "start": 105530,
+            "end": 105810,
+            "confidence": 0.74560547,
+            "speaker": "A"
         },
         {
             "text": "your",
-            "start": 105890,
-            "end": 106129,
-            "confidence": 0.9350586,
-            "speaker": "B"
+            "start": 105810,
+            "end": 106050,
+            "confidence": 0.95654297,
+            "speaker": "A"
         },
         {
             "text": "beautiful",
-            "start": 106129,
-            "end": 106730,
-            "confidence": 0.9998779,
-            "speaker": "B"
+            "start": 106050,
+            "end": 106690,
+            "confidence": 0.9919922,
+            "speaker": "A"
         },
         {
-            "text": "toa",
-            "start": 106730,
-            "end": 107610,
-            "confidence": 0.6185303,
-            "speaker": "B"
+            "text": "toe.",
+            "start": 106690,
+            "end": 107290,
+            "confidence": 0.82177734,
+            "speaker": "A"
         },
         {
             "text": "The",
-            "start": 107770,
-            "end": 108050,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "start": 107610,
+            "end": 107970,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "world",
-            "start": 108050,
+            "start": 107970,
             "end": 108330,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "is",
-            "start": 108410,
-            "end": 108810,
+            "start": 108330,
+            "end": 108730,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "beating",
             "start": 108810,
-            "end": 109770,
-            "confidence": 0.5905762,
-            "speaker": "B"
+            "end": 109610,
+            "confidence": 0.7207031,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 110090,
-            "end": 110490,
-            "confidence": 0.9824219,
-            "speaker": "B"
+            "start": 110010,
+            "end": 110410,
+            "confidence": 0.9897461,
+            "speaker": "A"
         },
         {
-            "text": "Down",
-            "start": 110650,
-            "end": 111050,
+            "text": "down.",
+            "start": 110570,
+            "end": 110970,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
-            "text": "and",
-            "start": 111770,
-            "end": 112170,
-            "confidence": 0.54296875,
-            "speaker": "B"
+            "text": "I'm",
+            "start": 111690,
+            "end": 112330,
+            "confidence": 0.94156903,
+            "speaker": "A"
         },
         {
             "text": "around",
             "start": 112330,
-            "end": 112970,
-            "confidence": 0.892334,
-            "speaker": "B"
-        },
-        {
-            "text": "Through",
-            "start": 113450,
-            "end": 113810,
-            "confidence": 0.9580078,
-            "speaker": "B"
-        },
-        {
-            "text": "every",
-            "start": 113810,
-            "end": 114170,
-            "confidence": 0.99902344,
-            "speaker": "B"
-        },
-        {
-            "text": "mood",
-            "start": 114410,
-            "end": 115130,
-            "confidence": 0.5839844,
-            "speaker": "B"
-        },
-        {
-            "text": "You're.",
-            "start": 115450,
-            "end": 115970,
-            "confidence": 0.98551434,
-            "speaker": "B"
-        },
-        {
-            "text": "My",
-            "start": 115970,
-            "end": 116250,
-            "confidence": 0.9995117,
+            "end": 112650,
+            "confidence": 0.87060547,
             "speaker": "A"
         },
         {
-            "text": "downfall",
-            "start": 116250,
-            "end": 116970,
-            "confidence": 0.9519043,
+            "text": "through",
+            "start": 113370,
+            "end": 113730,
+            "confidence": 0.94677734,
+            "speaker": "A"
+        },
+        {
+            "text": "every",
+            "start": 113730,
+            "end": 114090,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "moment.",
+            "start": 114410,
+            "end": 114890,
+            "confidence": 0.76000977,
             "speaker": "A"
         },
         {
             "text": "You're",
-            "start": 117290,
-            "end": 117890,
-            "confidence": 0.86539716,
+            "start": 115370,
+            "end": 115850,
+            "confidence": 0.9119466,
             "speaker": "A"
         },
         {
             "text": "my",
-            "start": 117890,
-            "end": 118130,
-            "confidence": 0.9970703,
+            "start": 115850,
+            "end": 116170,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "muse",
-            "start": 118130,
-            "end": 118970,
-            "confidence": 0.9382324,
+            "text": "downfall.",
+            "start": 116250,
+            "end": 117130,
+            "confidence": 0.90983075,
             "speaker": "A"
         },
         {
-            "text": "My",
-            "start": 119130,
-            "end": 119450,
+            "text": "You're",
+            "start": 117370,
+            "end": 117810,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 117810,
+            "end": 118050,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "muse,",
+            "start": 118050,
+            "end": 118810,
+            "confidence": 0.6828613,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 119050,
+            "end": 119330,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "worst",
-            "start": 119450,
-            "end": 119890,
-            "confidence": 0.81030273,
+            "start": 119330,
+            "end": 119770,
+            "confidence": 0.6057129,
             "speaker": "A"
         },
         {
-            "text": "distraction",
-            "start": 119890,
-            "end": 120570,
-            "confidence": 0.9082031,
+            "text": "distraction.",
+            "start": 119770,
+            "end": 120810,
+            "confidence": 0.9811198,
             "speaker": "A"
         },
         {
             "text": "My",
             "start": 120970,
-            "end": 121250,
-            "confidence": 0.9980469,
+            "end": 121290,
+            "confidence": 0.9975586,
             "speaker": "A"
         },
         {
             "text": "rhythm",
-            "start": 121250,
-            "end": 121730,
-            "confidence": 0.92109376,
+            "start": 121290,
+            "end": 121690,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
-            "text": "in",
-            "start": 121730,
-            "end": 121930,
-            "confidence": 0.4777832,
+            "text": "and",
+            "start": 121690,
+            "end": 121850,
+            "confidence": 0.5410156,
             "speaker": "A"
         },
         {
-            "text": "blood",
-            "start": 121930,
+            "text": "blow.",
+            "start": 121850,
             "end": 122080,
-            "confidence": 0.58569336,
+            "confidence": 0.6574707,
             "speaker": "A"
         },
         {
             "text": "I",
             "start": 123030,
-            "end": 123150,
-            "confidence": 0.99658203,
+            "end": 123190,
+            "confidence": 0.9951172,
             "speaker": "A"
         },
         {
-            "text": "can't.",
-            "start": 123150,
-            "end": 123710,
-            "confidence": 0.8680013,
+            "text": "can't",
+            "start": 123190,
+            "end": 123590,
+            "confidence": 0.9970703,
             "speaker": "A"
         },
         {
-            "text": "Stop",
-            "start": 123710,
-            "end": 124070,
-            "confidence": 0.810791,
-            "speaker": "C"
+            "text": "stop",
+            "start": 123590,
+            "end": 123910,
+            "confidence": 1.0,
+            "speaker": "A"
         },
         {
-            "text": "singing",
-            "start": 124070,
-            "end": 125390,
-            "confidence": 0.9001465,
-            "speaker": "C"
+            "text": "singing.",
+            "start": 123990,
+            "end": 125190,
+            "confidence": 0.82250977,
+            "speaker": "A"
         },
         {
             "text": "It's",
-            "start": 125390,
-            "end": 125830,
-            "confidence": 0.9342448,
-            "speaker": "C"
+            "start": 125270,
+            "end": 125750,
+            "confidence": 0.95996094,
+            "speaker": "A"
         },
         {
             "text": "ringing",
             "start": 125830,
-            "end": 127190,
-            "confidence": 0.95963544,
-            "speaker": "C"
+            "end": 127030,
+            "confidence": 0.9301758,
+            "speaker": "A"
         },
         {
             "text": "in",
-            "start": 127270,
-            "end": 127670,
-            "confidence": 0.96875,
-            "speaker": "C"
+            "start": 127110,
+            "end": 127510,
+            "confidence": 0.98095703,
+            "speaker": "A"
         },
         {
             "text": "my",
-            "start": 127750,
-            "end": 128150,
-            "confidence": 0.99560547,
-            "speaker": "C"
+            "start": 127670,
+            "end": 128070,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "head.",
-            "start": 128550,
-            "end": 129270,
-            "confidence": 0.7988281,
-            "speaker": "C"
+            "text": "head",
+            "start": 128630,
+            "end": 129030,
+            "confidence": 0.9946289,
+            "speaker": "A"
         },
         {
-            "text": "For",
-            "start": 129350,
-            "end": 129630,
-            "confidence": 0.98535156,
-            "speaker": "B"
+            "text": "for",
+            "start": 129270,
+            "end": 129590,
+            "confidence": 0.97998047,
+            "speaker": "A"
         },
         {
-            "text": "you",
-            "start": 129630,
+            "text": "you.",
+            "start": 129590,
             "end": 129910,
-            "confidence": 0.87841797,
-            "speaker": "B"
+            "confidence": 0.9975586,
+            "speaker": "A"
         },
         {
             "text": "My",
-            "start": 131510,
-            "end": 131870,
-            "confidence": 1.0,
-            "speaker": "B"
+            "start": 131430,
+            "end": 131750,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
             "text": "head's",
-            "start": 131870,
-            "end": 132870,
-            "confidence": 0.87438965,
-            "speaker": "B"
+            "start": 131750,
+            "end": 132710,
+            "confidence": 0.8343099,
+            "speaker": "A"
         },
         {
-            "text": "under",
-            "start": 132870,
-            "end": 133190,
-            "confidence": 0.99902344,
-            "speaker": "B"
+            "text": "underwater",
+            "start": 132710,
+            "end": 133910,
+            "confidence": 0.9659831,
+            "speaker": "A"
         },
         {
-            "text": "water",
-            "start": 133590,
-            "end": 134550,
-            "confidence": 0.8273926,
-            "speaker": "B"
-        },
-        {
-            "text": "But.",
-            "start": 134950,
-            "end": 135350,
-            "confidence": 0.9902344,
-            "speaker": "B"
+            "text": "but",
+            "start": 134790,
+            "end": 135190,
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
             "text": "I'm",
-            "start": 135510,
-            "end": 136390,
-            "confidence": 0.9916992,
+            "start": 135430,
+            "end": 136270,
+            "confidence": 0.94921875,
             "speaker": "A"
         },
         {
             "text": "breathing",
-            "start": 136390,
-            "end": 137310,
-            "confidence": 0.90527344,
+            "start": 136270,
+            "end": 137110,
+            "confidence": 0.94596356,
             "speaker": "A"
         },
         {
-            "text": "fine",
-            "start": 137310,
-            "end": 137990,
-            "confidence": 0.6779785,
+            "text": "fine.",
+            "start": 137270,
+            "end": 137830,
+            "confidence": 0.9746094,
             "speaker": "A"
         },
         {
             "text": "You're",
             "start": 139110,
-            "end": 139910,
-            "confidence": 0.87060547,
+            "end": 139750,
+            "confidence": 0.8623047,
             "speaker": "A"
         },
         {
             "text": "crazy",
-            "start": 140150,
-            "end": 140910,
-            "confidence": 0.9138997,
+            "start": 139990,
+            "end": 140830,
+            "confidence": 0.99576825,
             "speaker": "A"
         },
         {
             "text": "and",
-            "start": 140910,
-            "end": 141270,
-            "confidence": 0.9951172,
+            "start": 140830,
+            "end": 141150,
+            "confidence": 0.9892578,
             "speaker": "A"
         },
         {
-            "text": "I'm.",
-            "start": 141270,
-            "end": 142230,
-            "confidence": 0.87141925,
+            "text": "I'm",
+            "start": 141150,
+            "end": 142110,
+            "confidence": 0.98372394,
             "speaker": "A"
         },
         {
-            "text": "Out",
-            "start": 142230,
-            "end": 142590,
-            "confidence": 1.0,
-            "speaker": "C"
-        },
-        {
-            "text": "of",
-            "start": 142590,
-            "end": 142870,
-            "confidence": 0.9692383,
-            "speaker": "C"
-        },
-        {
-            "text": "my",
-            "start": 142870,
-            "end": 143150,
-            "confidence": 0.9980469,
-            "speaker": "C"
-        },
-        {
-            "text": "mind",
-            "start": 143150,
-            "end": 143590,
-            "confidence": 0.81103516,
-            "speaker": "C"
-        },
-        {
-            "text": "Cause",
-            "start": 144790,
-            "end": 145350,
-            "confidence": 0.8535156,
-            "speaker": "C"
-        },
-        {
-            "text": "all",
-            "start": 145350,
-            "end": 145750,
-            "confidence": 0.9741211,
-            "speaker": "C"
-        },
-        {
-            "text": "of",
-            "start": 146550,
-            "end": 146870,
-            "confidence": 0.875,
-            "speaker": "C"
-        },
-        {
-            "text": "me",
-            "start": 146870,
-            "end": 147190,
-            "confidence": 0.98583984,
-            "speaker": "C"
-        },
-        {
-            "text": "loves",
-            "start": 147990,
-            "end": 148790,
-            "confidence": 0.8601074,
-            "speaker": "C"
-        },
-        {
-            "text": "all",
-            "start": 149110,
-            "end": 149510,
-            "confidence": 0.99902344,
-            "speaker": "C"
-        },
-        {
-            "text": "of",
-            "start": 150310,
-            "end": 150630,
-            "confidence": 0.9916992,
-            "speaker": "C"
-        },
-        {
-            "text": "you",
-            "start": 150630,
-            "end": 150950,
-            "confidence": 0.99853516,
-            "speaker": "C"
-        },
-        {
-            "text": "Love",
-            "start": 151670,
-            "end": 152150,
-            "confidence": 0.8652344,
-            "speaker": "C"
-        },
-        {
-            "text": "your.",
-            "start": 152150,
-            "end": 152470,
-            "confidence": 0.9711914,
-            "speaker": "C"
-        },
-        {
-            "text": "Curves",
-            "start": 152550,
-            "end": 153350,
-            "confidence": 0.6142578,
-            "speaker": "A"
-        },
-        {
-            "text": "And",
-            "start": 153350,
-            "end": 153750,
-            "confidence": 0.96484375,
-            "speaker": "A"
-        },
-        {
-            "text": "all",
-            "start": 154130,
-            "end": 154250,
-            "confidence": 0.92089844,
-            "speaker": "A"
-        },
-        {
-            "text": "your",
-            "start": 154250,
-            "end": 154450,
-            "confidence": 0.99658203,
-            "speaker": "A"
-        },
-        {
-            "text": "edges",
-            "start": 154450,
-            "end": 155010,
+            "text": "out",
+            "start": 142110,
+            "end": 142430,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
-            "text": "All",
-            "start": 155570,
-            "end": 155890,
-            "confidence": 0.99365234,
+            "text": "of",
+            "start": 142430,
+            "end": 142710,
+            "confidence": 0.98583984,
             "speaker": "A"
         },
         {
-            "text": "your",
-            "start": 155890,
-            "end": 156210,
-            "confidence": 0.9741211,
+            "text": "my",
+            "start": 142710,
+            "end": 142990,
+            "confidence": 0.9970703,
             "speaker": "A"
         },
         {
-            "text": "perfect",
-            "start": 156610,
-            "end": 157330,
-            "confidence": 0.8416341,
+            "text": "mind.",
+            "start": 142990,
+            "end": 143350,
+            "confidence": 1.0,
             "speaker": "A"
         },
         {
-            "text": "imperfections",
-            "start": 157650,
-            "end": 159010,
-            "confidence": 0.94443357,
-            "speaker": "A"
-        },
-        {
-            "text": "Give",
-            "start": 159170,
-            "end": 159650,
-            "confidence": 0.90234375,
-            "speaker": "A"
-        },
-        {
-            "text": "you",
-            "start": 159650,
-            "end": 160010,
-            "confidence": 0.4736328,
+            "text": "Cause",
+            "start": 144710,
+            "end": 145150,
+            "confidence": 0.88623047,
             "speaker": "A"
         },
         {
             "text": "all",
-            "start": 160010,
-            "end": 160370,
+            "start": 145150,
+            "end": 145510,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 146470,
+            "end": 146790,
+            "confidence": 0.9790039,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 146790,
+            "end": 147110,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "loves",
+            "start": 147910,
+            "end": 148710,
+            "confidence": 0.93896484,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 148950,
+            "end": 149350,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 150230,
+            "end": 150550,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 150550,
+            "end": 150870,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Love",
+            "start": 151670,
+            "end": 152030,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 152030,
+            "end": 152390,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "curves",
+            "start": 152550,
+            "end": 153270,
+            "confidence": 0.8234863,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 153270,
+            "end": 153670,
+            "confidence": 0.94873047,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 154050,
+            "end": 154170,
+            "confidence": 0.78515625,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 154170,
+            "end": 154370,
+            "confidence": 0.98535156,
+            "speaker": "A"
+        },
+        {
+            "text": "edges.",
+            "start": 154370,
+            "end": 154930,
+            "confidence": 0.99438477,
+            "speaker": "A"
+        },
+        {
+            "text": "All",
+            "start": 155490,
+            "end": 155810,
             "confidence": 0.9897461,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 155810,
+            "end": 156130,
+            "confidence": 0.97216797,
+            "speaker": "A"
+        },
+        {
+            "text": "perfect",
+            "start": 156530,
+            "end": 157330,
+            "confidence": 0.9899089,
+            "speaker": "A"
+        },
+        {
+            "text": "imperfections.",
+            "start": 157650,
+            "end": 158930,
+            "confidence": 0.9828125,
+            "speaker": "A"
+        },
+        {
+            "text": "Give",
+            "start": 159250,
+            "end": 159610,
+            "confidence": 0.9638672,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 159610,
+            "end": 159850,
+            "confidence": 0.57714844,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 159850,
+            "end": 160130,
+            "confidence": 0.953125,
             "speaker": "A"
         },
         {
@@ -1516,1179 +1523,1230 @@
             "speaker": "A"
         },
         {
-            "text": "me",
+            "text": "me.",
             "start": 162010,
             "end": 162370,
-            "confidence": 1.0,
+            "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "I'll",
             "start": 162850,
-            "end": 163290,
-            "confidence": 0.96533203,
+            "end": 163210,
+            "confidence": 0.9420573,
             "speaker": "A"
         },
         {
             "text": "give",
-            "start": 163290,
-            "end": 163610,
-            "confidence": 0.8095703,
+            "start": 163210,
+            "end": 163490,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "my",
-            "start": 163610,
-            "end": 163970,
-            "confidence": 0.99560547,
+            "start": 163490,
+            "end": 163890,
+            "confidence": 0.9980469,
             "speaker": "A"
         },
         {
             "text": "all",
-            "start": 164210,
-            "end": 164610,
-            "confidence": 0.49389648,
+            "start": 164130,
+            "end": 164530,
+            "confidence": 0.9863281,
             "speaker": "A"
         },
         {
             "text": "to",
-            "start": 165570,
-            "end": 165890,
-            "confidence": 1.0,
-            "speaker": "A"
-        },
-        {
-            "text": "you",
-            "start": 165890,
-            "end": 166210,
+            "start": 165490,
+            "end": 165810,
             "confidence": 0.9995117,
             "speaker": "A"
-        },
-        {
-            "text": "You're.",
-            "start": 166850,
-            "end": 167490,
-            "confidence": 0.99283856,
-            "speaker": "A"
-        },
-        {
-            "text": "My",
-            "start": 167490,
-            "end": 167810,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "end",
-            "start": 168050,
-            "end": 168450,
-            "confidence": 0.97998047,
-            "speaker": "B"
-        },
-        {
-            "text": "and",
-            "start": 168610,
-            "end": 168970,
-            "confidence": 0.9941406,
-            "speaker": "B"
-        },
-        {
-            "text": "my",
-            "start": 168970,
-            "end": 169330,
-            "confidence": 0.99853516,
-            "speaker": "B"
-        },
-        {
-            "text": "beginning",
-            "start": 169330,
-            "end": 170369,
-            "confidence": 0.89331055,
-            "speaker": "B"
-        },
-        {
-            "text": "Even",
-            "start": 171010,
-            "end": 171410,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "when",
-            "start": 171890,
-            "end": 172290,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "I",
-            "start": 172290,
-            "end": 172650,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "lose",
-            "start": 172650,
-            "end": 173170,
-            "confidence": 0.9953613,
-            "speaker": "B"
-        },
-        {
-            "text": "I'm",
-            "start": 173170,
-            "end": 173490,
-            "confidence": 0.9383138,
-            "speaker": "B"
-        },
-        {
-            "text": "wedding",
-            "start": 173490,
-            "end": 174210,
-            "confidence": 0.83032227,
-            "speaker": "B"
-        },
-        {
-            "text": "Cause",
-            "start": 174290,
-            "end": 174730,
-            "confidence": 0.767334,
-            "speaker": "B"
-        },
-        {
-            "text": "I",
-            "start": 174730,
-            "end": 174890,
-            "confidence": 0.9995117,
-            "speaker": "B"
-        },
-        {
-            "text": "give.",
-            "start": 174890,
-            "end": 175130,
-            "confidence": 1.0,
-            "speaker": "B"
-        },
-        {
-            "text": "You",
-            "start": 175130,
-            "end": 175410,
-            "confidence": 0.99609375,
-            "speaker": "D"
-        },
-        {
-            "text": "all.",
-            "start": 175410,
-            "end": 175810,
-            "confidence": 0.5317383,
-            "speaker": "D"
-        },
-        {
-            "text": "Of",
-            "start": 178930,
-            "end": 179290,
-            "confidence": 0.9614258,
-            "speaker": "E"
-        },
-        {
-            "text": "me.",
-            "start": 179290,
-            "end": 179650,
-            "confidence": 0.7763672,
-            "speaker": "E"
-        },
-        {
-            "text": "And",
-            "start": 182130,
-            "end": 182250,
-            "confidence": 0.87402344,
-            "speaker": "D"
-        },
-        {
-            "text": "you",
-            "start": 182250,
-            "end": 182450,
-            "confidence": 0.9951172,
-            "speaker": "D"
-        },
-        {
-            "text": "give.",
-            "start": 182450,
-            "end": 182890,
-            "confidence": 0.8598633,
-            "speaker": "D"
-        },
-        {
-            "text": "Me",
-            "start": 182890,
-            "end": 183130,
-            "confidence": 0.9995117,
-            "speaker": "C"
-        },
-        {
-            "text": "all.",
-            "start": 183130,
-            "end": 183490,
-            "confidence": 0.9946289,
-            "speaker": "C"
-        },
-        {
-            "text": "Of",
-            "start": 186450,
-            "end": 186810,
-            "confidence": 0.99853516,
-            "speaker": "B"
         },
         {
             "text": "you.",
-            "start": 186810,
-            "end": 187170,
-            "confidence": 0.99658203,
-            "speaker": "B"
-        },
-        {
-            "text": "Give",
-            "start": 189090,
-            "end": 189570,
-            "confidence": 0.98706055,
-            "speaker": "D"
-        },
-        {
-            "text": "me",
-            "start": 189570,
-            "end": 189810,
-            "confidence": 0.9995117,
-            "speaker": "D"
-        },
-        {
-            "text": "all.",
-            "start": 189810,
-            "end": 190170,
-            "confidence": 0.99902344,
-            "speaker": "D"
-        },
-        {
-            "text": "Of",
-            "start": 190170,
-            "end": 190490,
-            "confidence": 0.9995117,
-            "speaker": "C"
-        },
-        {
-            "text": "you",
-            "start": 190490,
-            "end": 190850,
-            "confidence": 0.99560547,
-            "speaker": "C"
-        },
-        {
-            "text": "Hides",
-            "start": 192770,
-            "end": 193730,
-            "confidence": 0.5949707,
-            "speaker": "C"
-        },
-        {
-            "text": "on",
-            "start": 193730,
-            "end": 193970,
-            "confidence": 0.5605469,
-            "speaker": "C"
-        },
-        {
-            "text": "the",
-            "start": 194050,
-            "end": 194370,
-            "confidence": 0.93408203,
-            "speaker": "C"
-        },
-        {
-            "text": "table",
-            "start": 194370,
-            "end": 194930,
-            "confidence": 0.7038574,
-            "speaker": "C"
-        },
-        {
-            "text": "We",
-            "start": 195890,
-            "end": 196290,
-            "confidence": 0.39746094,
-            "speaker": "C"
-        },
-        {
-            "text": "both",
-            "start": 196290,
-            "end": 197170,
-            "confidence": 0.9157715,
-            "speaker": "C"
-        },
-        {
-            "text": "show",
-            "start": 197170,
-            "end": 197570,
-            "confidence": 0.99072266,
-            "speaker": "C"
-        },
-        {
-            "text": "it",
-            "start": 197729,
-            "end": 198130,
-            "confidence": 0.7910156,
-            "speaker": "C"
-        },
-        {
-            "text": "He",
-            "start": 198370,
-            "end": 198770,
-            "confidence": 0.40551758,
-            "speaker": "C"
-        },
-        {
-            "text": "risking",
-            "start": 200450,
-            "end": 201330,
-            "confidence": 0.7475586,
-            "speaker": "C"
-        },
-        {
-            "text": "it",
-            "start": 201490,
-            "end": 201890,
-            "confidence": 0.8515625,
-            "speaker": "C"
-        },
-        {
-            "text": "Although",
-            "start": 202210,
-            "end": 203450,
-            "confidence": 0.84016925,
-            "speaker": "C"
-        },
-        {
-            "text": "it's",
-            "start": 203450,
-            "end": 204050,
-            "confidence": 0.91813153,
-            "speaker": "C"
-        },
-        {
-            "text": "hard",
-            "start": 204050,
-            "end": 204930,
-            "confidence": 0.8310547,
-            "speaker": "C"
-        },
-        {
-            "text": "Cause",
-            "start": 205730,
-            "end": 206210,
-            "confidence": 0.7092285,
-            "speaker": "C"
-        },
-        {
-            "text": "all",
-            "start": 206210,
-            "end": 206530,
-            "confidence": 0.6777344,
-            "speaker": "C"
-        },
-        {
-            "text": "me",
-            "start": 207650,
-            "end": 208050,
-            "confidence": 0.99853516,
-            "speaker": "C"
-        },
-        {
-            "text": "loves",
-            "start": 208850,
-            "end": 209570,
-            "confidence": 0.9970703,
-            "speaker": "C"
-        },
-        {
-            "text": "all.",
-            "start": 210240,
-            "end": 210480,
-            "confidence": 0.99560547,
-            "speaker": "C"
-        },
-        {
-            "text": "Of",
-            "start": 211280,
-            "end": 211560,
-            "confidence": 0.9013672,
-            "speaker": "B"
-        },
-        {
-            "text": "you",
-            "start": 211560,
-            "end": 211840,
-            "confidence": 0.99902344,
-            "speaker": "B"
-        },
-        {
-            "text": "Love",
-            "start": 212560,
-            "end": 213040,
-            "confidence": 0.81103516,
-            "speaker": "B"
-        },
-        {
-            "text": "your",
-            "start": 213040,
-            "end": 213360,
-            "confidence": 0.99072266,
-            "speaker": "B"
-        },
-        {
-            "text": "curves",
-            "start": 213520,
-            "end": 214240,
-            "confidence": 0.8640137,
-            "speaker": "B"
-        },
-        {
-            "text": "And",
-            "start": 214400,
-            "end": 214800,
-            "confidence": 0.9975586,
-            "speaker": "B"
-        },
-        {
-            "text": "all.",
-            "start": 214800,
-            "end": 215120,
-            "confidence": 0.99658203,
-            "speaker": "B"
-        },
-        {
-            "text": "Your",
-            "start": 215120,
-            "end": 215360,
-            "confidence": 0.9941406,
-            "speaker": "A"
-        },
-        {
-            "text": "edges",
-            "start": 215360,
-            "end": 215920,
-            "confidence": 0.94018555,
-            "speaker": "A"
-        },
-        {
-            "text": "All",
-            "start": 216560,
-            "end": 216880,
-            "confidence": 0.9794922,
-            "speaker": "A"
-        },
-        {
-            "text": "your",
-            "start": 216880,
-            "end": 217200,
-            "confidence": 0.9921875,
-            "speaker": "A"
-        },
-        {
-            "text": "perfect",
-            "start": 217600,
-            "end": 218320,
-            "confidence": 0.8125,
-            "speaker": "A"
-        },
-        {
-            "text": "imperfections",
-            "start": 218640,
-            "end": 219920,
-            "confidence": 0.96015626,
-            "speaker": "A"
-        },
-        {
-            "text": "Give.",
-            "start": 220160,
-            "end": 220600,
-            "confidence": 0.97509766,
-            "speaker": "A"
-        },
-        {
-            "text": "You",
-            "start": 220600,
-            "end": 220920,
-            "confidence": 0.37451172,
-            "speaker": "C"
-        },
-        {
-            "text": "all",
-            "start": 220920,
-            "end": 221280,
-            "confidence": 0.9863281,
-            "speaker": "C"
-        },
-        {
-            "text": "to",
-            "start": 222720,
-            "end": 223040,
-            "confidence": 0.9995117,
-            "speaker": "C"
-        },
-        {
-            "text": "me",
-            "start": 223040,
-            "end": 223360,
-            "confidence": 1.0,
-            "speaker": "C"
-        },
-        {
-            "text": "I'll",
-            "start": 223840,
-            "end": 224200,
-            "confidence": 0.7578125,
-            "speaker": "C"
-        },
-        {
-            "text": "give",
-            "start": 224200,
-            "end": 224560,
-            "confidence": 0.9614258,
-            "speaker": "C"
-        },
-        {
-            "text": "my.",
-            "start": 224560,
-            "end": 224960,
-            "confidence": 0.98876953,
-            "speaker": "C"
-        },
-        {
-            "text": "All",
-            "start": 225280,
-            "end": 225680,
-            "confidence": 0.94091797,
-            "speaker": "A"
-        },
-        {
-            "text": "to",
-            "start": 226480,
-            "end": 226800,
-            "confidence": 1.0,
-            "speaker": "A"
-        },
-        {
-            "text": "you",
-            "start": 226800,
-            "end": 227120,
+            "start": 165810,
+            "end": 166130,
             "confidence": 0.9995117,
             "speaker": "A"
         },
         {
             "text": "You're",
-            "start": 227840,
-            "end": 228400,
-            "confidence": 0.95133466,
+            "start": 166850,
+            "end": 167370,
+            "confidence": 0.91715497,
             "speaker": "A"
         },
         {
             "text": "my",
-            "start": 228400,
-            "end": 228720,
-            "confidence": 0.96972656,
+            "start": 167370,
+            "end": 167730,
+            "confidence": 0.9946289,
             "speaker": "A"
         },
         {
             "text": "end",
-            "start": 228880,
-            "end": 229280,
-            "confidence": 0.90234375,
+            "start": 168050,
+            "end": 168450,
+            "confidence": 0.95947266,
             "speaker": "A"
         },
         {
-            "text": "and.",
-            "start": 229520,
-            "end": 229880,
-            "confidence": 0.98779297,
+            "text": "and",
+            "start": 168450,
+            "end": 168850,
+            "confidence": 0.89941406,
             "speaker": "A"
         },
         {
-            "text": "My",
-            "start": 229880,
-            "end": 230240,
-            "confidence": 0.9970703,
-            "speaker": "B"
+            "text": "my",
+            "start": 168850,
+            "end": 169250,
+            "confidence": 0.9980469,
+            "speaker": "A"
         },
         {
-            "text": "beginning",
-            "start": 230240,
-            "end": 231440,
-            "confidence": 0.8093262,
-            "speaker": "B"
+            "text": "beginning.",
+            "start": 169330,
+            "end": 170050,
+            "confidence": 0.9973958,
+            "speaker": "A"
         },
         {
             "text": "Even",
-            "start": 231920,
-            "end": 232320,
-            "confidence": 0.9995117,
-            "speaker": "B"
+            "start": 170850,
+            "end": 171250,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "when",
-            "start": 232800,
-            "end": 233200,
+            "start": 171810,
+            "end": 172210,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 233200,
-            "end": 233600,
+            "start": 172210,
+            "end": 172610,
             "confidence": 0.9995117,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
-            "text": "lose",
-            "start": 233600,
-            "end": 234120,
-            "confidence": 0.99853516,
-            "speaker": "B"
+            "text": "lose,",
+            "start": 172690,
+            "end": 173130,
+            "confidence": 0.91625977,
+            "speaker": "A"
         },
         {
-            "text": "I'm.",
-            "start": 234120,
-            "end": 234440,
-            "confidence": 0.96940106,
-            "speaker": "B"
+            "text": "I'm",
+            "start": 173130,
+            "end": 173450,
+            "confidence": 0.90283203,
+            "speaker": "A"
         },
         {
-            "text": "Winning",
-            "start": 234440,
-            "end": 235120,
-            "confidence": 0.60668945,
-            "speaker": "C"
+            "text": "winning.",
+            "start": 173450,
+            "end": 174050,
+            "confidence": 0.90600586,
+            "speaker": "A"
         },
         {
             "text": "Cause",
-            "start": 235280,
-            "end": 235680,
-            "confidence": 0.84765625,
-            "speaker": "C"
+            "start": 174290,
+            "end": 174650,
+            "confidence": 0.9277344,
+            "speaker": "A"
         },
         {
             "text": "I",
-            "start": 235680,
-            "end": 235880,
+            "start": 174650,
+            "end": 174850,
             "confidence": 0.9995117,
-            "speaker": "C"
+            "speaker": "A"
         },
         {
             "text": "give",
-            "start": 235880,
-            "end": 236120,
-            "confidence": 0.99902344,
-            "speaker": "C"
+            "start": 174850,
+            "end": 175090,
+            "confidence": 0.99658203,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 236120,
-            "end": 236400,
-            "confidence": 0.98828125,
-            "speaker": "C"
+            "start": 175090,
+            "end": 175370,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
-            "text": "all.",
-            "start": 236480,
-            "end": 236880,
-            "confidence": 0.72216797,
-            "speaker": "C"
+            "text": "all",
+            "start": 175370,
+            "end": 175730,
+            "confidence": 0.98876953,
+            "speaker": "A"
         },
         {
-            "text": "Of.",
-            "start": 239840,
-            "end": 240240,
-            "confidence": 0.7158203,
-            "speaker": "B"
+            "text": "of",
+            "start": 178850,
+            "end": 179210,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "me.",
+            "start": 179210,
+            "end": 179570,
+            "confidence": 0.8510742,
+            "speaker": "A"
         },
         {
             "text": "And",
-            "start": 243020,
-            "end": 243140,
-            "confidence": 0.9902344,
-            "speaker": "D"
+            "start": 182050,
+            "end": 182210,
+            "confidence": 0.6923828,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 243140,
-            "end": 243340,
+            "start": 182210,
+            "end": 182450,
             "confidence": 0.9970703,
-            "speaker": "D"
+            "speaker": "A"
+        },
+        {
+            "text": "give",
+            "start": 182450,
+            "end": 182690,
+            "confidence": 0.96191406,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 182690,
+            "end": 182970,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 182970,
+            "end": 183330,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 186450,
+            "end": 186770,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 186770,
+            "end": 187090,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "Give",
+            "start": 189090,
+            "end": 189410,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 189410,
+            "end": 189730,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 189730,
+            "end": 190130,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 190130,
+            "end": 190490,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 190490,
+            "end": 190850,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "Cards",
+            "start": 192690,
+            "end": 193410,
+            "confidence": 0.59033203,
+            "speaker": "A"
+        },
+        {
+            "text": "on",
+            "start": 193490,
+            "end": 193890,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "the",
+            "start": 193890,
+            "end": 194290,
+            "confidence": 0.9003906,
+            "speaker": "A"
+        },
+        {
+            "text": "table,",
+            "start": 194370,
+            "end": 194930,
+            "confidence": 0.97875977,
+            "speaker": "A"
+        },
+        {
+            "text": "we're",
+            "start": 195810,
+            "end": 196290,
+            "confidence": 0.8748372,
+            "speaker": "A"
+        },
+        {
+            "text": "both",
+            "start": 196290,
+            "end": 196610,
+            "confidence": 0.9970703,
+            "speaker": "A"
+        },
+        {
+            "text": "showing",
+            "start": 197170,
+            "end": 197890,
+            "confidence": 0.79248047,
+            "speaker": "A"
+        },
+        {
+            "text": "hearts,",
+            "start": 198130,
+            "end": 199650,
+            "confidence": 0.96728516,
+            "speaker": "A"
+        },
+        {
+            "text": "risking",
+            "start": 200370,
+            "end": 201410,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "it",
+            "start": 201410,
+            "end": 201810,
+            "confidence": 0.9848633,
+            "speaker": "A"
+        },
+        {
+            "text": "although",
+            "start": 201970,
+            "end": 203170,
+            "confidence": 0.77164716,
+            "speaker": "A"
+        },
+        {
+            "text": "it's",
+            "start": 203410,
+            "end": 203930,
+            "confidence": 0.99869794,
+            "speaker": "A"
+        },
+        {
+            "text": "hard.",
+            "start": 203930,
+            "end": 204290,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "Cause",
+            "start": 205730,
+            "end": 206130,
+            "confidence": 0.8823242,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 206130,
+            "end": 206450,
+            "confidence": 0.99365234,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 207330,
+            "end": 207650,
+            "confidence": 0.7133789,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 207650,
+            "end": 207970,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "love's",
+            "start": 208850,
+            "end": 209590,
+            "confidence": 0.82836914,
+            "speaker": "A"
+        },
+        {
+            "text": "words.",
+            "start": 209590,
+            "end": 209690,
+            "confidence": 0.29626465,
+            "speaker": "A"
+        },
+        {
+            "text": "All",
+            "start": 210000,
+            "end": 210240,
+            "confidence": 0.9824219,
+            "speaker": "A"
+        },
+        {
+            "text": "of",
+            "start": 211200,
+            "end": 211520,
+            "confidence": 0.97753906,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 211520,
+            "end": 211840,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "Love",
+            "start": 212560,
+            "end": 212920,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 212920,
+            "end": 213280,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "curves",
+            "start": 213520,
+            "end": 214160,
+            "confidence": 0.93969727,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 214240,
+            "end": 214640,
+            "confidence": 0.99560547,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 214640,
+            "end": 215000,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 215000,
+            "end": 215280,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "edges.",
+            "start": 215280,
+            "end": 215840,
+            "confidence": 0.8378906,
+            "speaker": "A"
+        },
+        {
+            "text": "All",
+            "start": 216480,
+            "end": 216800,
+            "confidence": 0.9790039,
+            "speaker": "A"
+        },
+        {
+            "text": "your",
+            "start": 216800,
+            "end": 217120,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "perfect",
+            "start": 217600,
+            "end": 218240,
+            "confidence": 0.8308919,
+            "speaker": "A"
+        },
+        {
+            "text": "imperfections.",
+            "start": 218560,
+            "end": 219840,
+            "confidence": 0.99316406,
+            "speaker": "A"
+        },
+        {
+            "text": "Give",
+            "start": 220240,
+            "end": 220560,
+            "confidence": 0.9814453,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 220560,
+            "end": 220760,
+            "confidence": 0.44482422,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 220760,
+            "end": 221040,
+            "confidence": 0.5756836,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 222640,
+            "end": 222960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "me.",
+            "start": 222960,
+            "end": 223280,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "I'll",
+            "start": 223760,
+            "end": 224200,
+            "confidence": 0.7729492,
+            "speaker": "A"
+        },
+        {
+            "text": "give",
+            "start": 224200,
+            "end": 224440,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 224440,
+            "end": 224800,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 225120,
+            "end": 225520,
+            "confidence": 0.99609375,
+            "speaker": "A"
+        },
+        {
+            "text": "to",
+            "start": 226400,
+            "end": 226760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "you.",
+            "start": 226760,
+            "end": 227120,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "You're",
+            "start": 227840,
+            "end": 228320,
+            "confidence": 0.9897461,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 228320,
+            "end": 228640,
+            "confidence": 0.9824219,
+            "speaker": "A"
+        },
+        {
+            "text": "end",
+            "start": 228720,
+            "end": 229120,
+            "confidence": 0.6489258,
+            "speaker": "A"
+        },
+        {
+            "text": "and",
+            "start": 229360,
+            "end": 229760,
+            "confidence": 0.94970703,
+            "speaker": "A"
+        },
+        {
+            "text": "my",
+            "start": 229840,
+            "end": 230240,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "beginning.",
+            "start": 230320,
+            "end": 231120,
+            "confidence": 0.9947917,
+            "speaker": "A"
+        },
+        {
+            "text": "Even",
+            "start": 231760,
+            "end": 232160,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "when",
+            "start": 232720,
+            "end": 233120,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 233120,
+            "end": 233520,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "lose,",
+            "start": 233600,
+            "end": 234080,
+            "confidence": 0.8630371,
+            "speaker": "A"
+        },
+        {
+            "text": "I'm",
+            "start": 234080,
+            "end": 234400,
+            "confidence": 0.9921875,
+            "speaker": "A"
+        },
+        {
+            "text": "winning.",
+            "start": 234400,
+            "end": 234960,
+            "confidence": 0.76660156,
+            "speaker": "A"
+        },
+        {
+            "text": "Cause",
+            "start": 235200,
+            "end": 235600,
+            "confidence": 0.9371745,
+            "speaker": "A"
+        },
+        {
+            "text": "I",
+            "start": 235600,
+            "end": 235800,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "give",
+            "start": 235800,
+            "end": 236000,
+            "confidence": 0.9951172,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 236000,
+            "end": 236320,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "all",
+            "start": 236320,
+            "end": 236720,
+            "confidence": 0.9399414,
+            "speaker": "A"
+        },
+        {
+            "text": "of.",
+            "start": 239760,
+            "end": 240160,
+            "confidence": 0.98583984,
+            "speaker": "A"
+        },
+        {
+            "text": "And",
+            "start": 242940,
+            "end": 243100,
+            "confidence": 0.9692383,
+            "speaker": "A"
+        },
+        {
+            "text": "you",
+            "start": 243100,
+            "end": 243340,
+            "confidence": 0.99902344,
+            "speaker": "A"
         },
         {
             "text": "give",
             "start": 243340,
-            "end": 243820,
-            "confidence": 0.64501953,
-            "speaker": "D"
+            "end": 243620,
+            "confidence": 0.7270508,
+            "speaker": "A"
         },
         {
             "text": "me",
-            "start": 243820,
-            "end": 244100,
-            "confidence": 0.9995117,
-            "speaker": "D"
+            "start": 243620,
+            "end": 243980,
+            "confidence": 1.0,
+            "speaker": "A"
         },
         {
-            "text": "all.",
-            "start": 244100,
-            "end": 244460,
-            "confidence": 0.9902344,
-            "speaker": "D"
+            "text": "all",
+            "start": 243980,
+            "end": 244380,
+            "confidence": 0.9892578,
+            "speaker": "A"
         },
         {
-            "text": "Of",
+            "text": "of",
             "start": 247420,
             "end": 247780,
-            "confidence": 0.96972656,
-            "speaker": "E"
+            "confidence": 0.9902344,
+            "speaker": "A"
         },
         {
             "text": "you.",
             "start": 247780,
             "end": 248140,
             "confidence": 0.9980469,
-            "speaker": "E"
+            "speaker": "A"
         },
         {
             "text": "I",
             "start": 250700,
             "end": 251020,
-            "confidence": 0.87890625,
-            "speaker": "D"
+            "confidence": 0.9863281,
+            "speaker": "A"
         },
         {
             "text": "give",
             "start": 251020,
-            "end": 251340,
-            "confidence": 0.96191406,
-            "speaker": "D"
+            "end": 251260,
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "you",
-            "start": 251340,
-            "end": 251660,
-            "confidence": 0.9946289,
-            "speaker": "D"
+            "start": 251260,
+            "end": 251580,
+            "confidence": 0.9995117,
+            "speaker": "A"
         },
         {
-            "text": "all.",
-            "start": 251740,
-            "end": 252140,
-            "confidence": 0.9790039,
-            "speaker": "D"
+            "text": "all",
+            "start": 251580,
+            "end": 251980,
+            "confidence": 0.96728516,
+            "speaker": "A"
         },
         {
-            "text": "Of",
-            "start": 255100,
-            "end": 255460,
+            "text": "of",
+            "start": 255020,
+            "end": 255380,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 255380,
+            "end": 255740,
             "confidence": 0.99902344,
-            "speaker": "B"
+            "speaker": "A"
         },
         {
-            "text": "me.",
-            "start": 255460,
-            "end": 255820,
-            "confidence": 0.99609375,
-            "speaker": "B"
+            "text": "and",
+            "start": 258060,
+            "end": 258380,
+            "confidence": 0.9633789,
+            "speaker": "A"
         },
         {
-            "text": "And.",
-            "start": 258140,
-            "end": 258420,
-            "confidence": 0.99121094,
-            "speaker": "C"
-        },
-        {
-            "text": "You",
-            "start": 258420,
+            "text": "you",
+            "start": 258380,
             "end": 258620,
-            "confidence": 0.9970703,
-            "speaker": "D"
+            "confidence": 0.99853516,
+            "speaker": "A"
         },
         {
             "text": "give",
             "start": 258620,
-            "end": 259140,
-            "confidence": 0.97875977,
-            "speaker": "D"
+            "end": 258900,
+            "confidence": 0.95654297,
+            "speaker": "A"
         },
         {
             "text": "me",
-            "start": 259140,
-            "end": 259380,
-            "confidence": 0.9975586,
-            "speaker": "D"
+            "start": 258900,
+            "end": 259220,
+            "confidence": 1.0,
+            "speaker": "A"
         },
         {
-            "text": "all.",
-            "start": 259380,
-            "end": 259740,
-            "confidence": 0.96972656,
-            "speaker": "D"
+            "text": "all",
+            "start": 259220,
+            "end": 259580,
+            "confidence": 0.9892578,
+            "speaker": "A"
         },
         {
-            "text": "Of",
-            "start": 262780,
-            "end": 263100,
-            "confidence": 0.99853516,
-            "speaker": "C"
+            "text": "of",
+            "start": 262700,
+            "end": 263060,
+            "confidence": 0.99560547,
+            "speaker": "A"
         },
         {
-            "text": "you",
-            "start": 263100,
+            "text": "you.",
+            "start": 263060,
             "end": 263420,
-            "confidence": 0.9980469,
-            "speaker": "C"
+            "confidence": 0.9970703,
+            "speaker": "A"
         },
         {
             "text": "Oh.",
-            "start": 264780,
+            "start": 264620,
             "end": 265180,
-            "confidence": 0.46826172,
-            "speaker": "C"
+            "confidence": 0.5661621,
+            "speaker": "A"
         }
     ],
     "utterances": [
         {
-            "text": "¿What would I do without your smart mouth Drawing me in And you kicking.",
-            "start": 9120,
-            "end": 15320,
-            "confidence": 0.97845167,
+            "text": "What would I do without your smart mouth drawing me in and you kicking me out? You got my head spinning. No kidding, I can't pin you down. What's going on in that beautiful mind? I'm on your magical mystery ride and I'm so dizzy. Don't know what hit me but I'll be all right. My head's underwater but I'm breathing fine. You're crazy and I'm out of my mind. Cause all of me loves all of you. Love your curves and all your edges. All your perfect imperfections. Give you all to me. I give my all to you. You're my end and my beginning. Even when I lose, I'm winning. Cause I give you all of me. And you give me all of you. Oh, how many times do I have to tell you? Even when you cry in your beautiful toe. The world is beating you down. I'm around through every moment. You're my downfall. You're my muse, my worst distraction. My rhythm and blow. I can't stop singing. It's ringing in my head for you. My head's underwater but I'm breathing fine. You're crazy and I'm out of my mind. Cause all of me loves all of you. Love your curves and all your edges. All your perfect imperfections. Give you all to me. I'll give my all to you. You're my end and my beginning. Even when I lose, I'm winning. Cause I give you all of me. And you give me all of you. Give me all of you. Cards on the table, we're both showing hearts, risking it although it's hard. Cause all of me love's words. All of you. Love your curves and all your edges. All your perfect imperfections. Give you all to me. I'll give my all to you. You're my end and my beginning. Even when I lose, I'm winning. Cause I give you all of. And you give me all of you. I give you all of me and you give me all of you. Oh.",
+            "start": 8960,
+            "end": 265180,
+            "confidence": 0.9437809,
             "speaker": "A"
+        }
+    ],
+    "chapters": [
+        {
+            "summary": "\"You're crazy and I'm out of my mind. Love your curves and all your edges. All your perfect imperfections. Give you all to me. You're my end and my beginning. Even when I lose, I'm winning \"",
+            "headline": "What would I do without your smart mouth drawing me in and you kicking me out",
+            "gist": "Give Me All of You",
+            "start": 8960,
+            "end": 265180
+        }
+    ],
+    "sentiment_analysis_results": [
+        {
+            "text": "What would I do without your smart mouth drawing me in and you kicking me out?",
+            "start": 8960,
+            "end": 15680,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.7977376
         },
         {
-            "text": "Me out You got my head spinning?",
-            "start": 15320,
+            "text": "You got my head spinning.",
+            "start": 16160,
             "end": 19040,
-            "confidence": 0.8921828,
-            "speaker": "B"
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5208786
         },
         {
-            "text": "¿No kidding I can't pin you down.",
+            "text": "No kidding, I can't pin you down.",
             "start": 19440,
-            "end": 23600,
-            "confidence": 0.9057152,
-            "speaker": "A"
+            "end": 23520,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.58511597
         },
         {
             "text": "What's going on in that beautiful mind?",
-            "start": 24000,
-            "end": 27520,
-            "confidence": 0.9399414,
-            "speaker": "B"
+            "start": 24080,
+            "end": 27120,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5117283
         },
         {
-            "text": "I'm on your magical mystery ride And I'm so dizzy Don't know what hit.",
+            "text": "I'm on your magical mystery ride and I'm so dizzy.",
             "start": 27840,
-            "end": 35940,
-            "confidence": 0.94073486,
-            "speaker": "A"
+            "end": 34220,
+            "sentiment": "POSITIVE",
+            "confidence": 0.46752506
         },
         {
-            "text": "Me but I'll be all right My.",
-            "start": 35940,
-            "end": 40340,
-            "confidence": 0.92756,
-            "speaker": "C"
+            "text": "Don't know what hit me but I'll be all right.",
+            "start": 34300,
+            "end": 38700,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.570764
         },
         {
-            "text": "Head'S under water But I'm breathing fine.",
-            "start": 40340,
-            "end": 46620,
-            "confidence": 0.88947403,
-            "speaker": "A"
+            "text": "My head's underwater but I'm breathing fine.",
+            "start": 39980,
+            "end": 46380,
+            "sentiment": "POSITIVE",
+            "confidence": 0.6468397
         },
         {
-            "text": "You're crazy and I'm out of my.",
+            "text": "You're crazy and I'm out of my mind.",
             "start": 47580,
-            "end": 51620,
-            "confidence": 0.96544826,
-            "speaker": "B"
+            "end": 51900,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.9081913
         },
         {
-            "text": "Mind Cause all of me loves All.",
-            "start": 51620,
-            "end": 58140,
-            "confidence": 0.86432755,
-            "speaker": "C"
+            "text": "Cause all of me loves all of you.",
+            "start": 53260,
+            "end": 59500,
+            "sentiment": "POSITIVE",
+            "confidence": 0.94080377
         },
         {
-            "text": "Of you Love your curves and all.",
-            "start": 58860,
-            "end": 62700,
-            "confidence": 0.9657157,
-            "speaker": "B"
+            "text": "Love your curves and all your edges.",
+            "start": 60220,
+            "end": 63420,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8857521
         },
         {
-            "text": "Your ed All your perfect imperfections Give.",
-            "start": 62700,
-            "end": 68240,
-            "confidence": 0.9020996,
-            "speaker": "A"
+            "text": "All your perfect imperfections.",
+            "start": 64200,
+            "end": 67480,
+            "sentiment": "POSITIVE",
+            "confidence": 0.48872188
         },
         {
-            "text": "Y' all to me I give my.",
-            "start": 68240,
-            "end": 72600,
-            "confidence": 0.9284668,
-            "speaker": "C"
+            "text": "Give you all to me.",
+            "start": 67800,
+            "end": 70920,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5797998
         },
         {
-            "text": "All to you You're my end and.",
-            "start": 72920,
-            "end": 77520,
-            "confidence": 0.9334542,
-            "speaker": "A"
+            "text": "I give my all to you.",
+            "start": 71400,
+            "end": 74760,
+            "sentiment": "POSITIVE",
+            "confidence": 0.7995505
         },
         {
-            "text": "My beginning Even when I lose I'm.",
-            "start": 77520,
-            "end": 82040,
-            "confidence": 0.98751396,
-            "speaker": "B"
+            "text": "You're my end and my beginning.",
+            "start": 75400,
+            "end": 78680,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6190699
         },
         {
-            "text": "Winning Cause I give you hope And.",
-            "start": 82040,
-            "end": 90770,
-            "confidence": 0.8748256,
-            "speaker": "A"
+            "text": "Even when I lose, I'm winning.",
+            "start": 79400,
+            "end": 82600,
+            "sentiment": "POSITIVE",
+            "confidence": 0.56589174
         },
         {
-            "text": "You give me hope you all.",
-            "start": 90770,
-            "end": 97530,
-            "confidence": 0.7825114,
-            "speaker": "C"
+            "text": "Cause I give you all of me.",
+            "start": 82840,
+            "end": 88120,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5509293
         },
         {
-            "text": "How.",
-            "start": 100330,
-            "end": 100690,
-            "confidence": 0.9980469,
-            "speaker": "B"
+            "text": "And you give me all of you.",
+            "start": 90570,
+            "end": 95770,
+            "sentiment": "POSITIVE",
+            "confidence": 0.54601574
         },
         {
-            "text": "Many times do I have to tell.",
-            "start": 100690,
-            "end": 103170,
-            "confidence": 0.9984654,
-            "speaker": "A"
+            "text": "Oh, how many times do I have to tell you?",
+            "start": 96970,
+            "end": 103450,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.4880744
         },
         {
-            "text": "You Even when you cry in your beautiful toa The world is beating you Down and around Through every mood You're.",
-            "start": 103170,
-            "end": 115970,
-            "confidence": 0.9032002,
-            "speaker": "B"
+            "text": "Even when you cry in your beautiful toe.",
+            "start": 104090,
+            "end": 107290,
+            "sentiment": "POSITIVE",
+            "confidence": 0.57676744
         },
         {
-            "text": "My downfall You're my muse My worst distraction My rhythm in blood I can't.",
-            "start": 115970,
-            "end": 123710,
-            "confidence": 0.87980956,
-            "speaker": "A"
+            "text": "The world is beating you down.",
+            "start": 107610,
+            "end": 110970,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.8275104
         },
         {
-            "text": "Stop singing It's ringing in my head.",
-            "start": 123710,
-            "end": 129270,
-            "confidence": 0.90971446,
-            "speaker": "C"
+            "text": "I'm around through every moment.",
+            "start": 111690,
+            "end": 114890,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.50407463
         },
         {
-            "text": "For you My head's under water But.",
-            "start": 129350,
-            "end": 135350,
-            "confidence": 0.93640137,
-            "speaker": "B"
+            "text": "You're my downfall.",
+            "start": 115370,
+            "end": 117130,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.825516
         },
         {
-            "text": "I'm breathing fine You're crazy and I'm.",
-            "start": 135510,
-            "end": 142230,
-            "confidence": 0.88942754,
-            "speaker": "A"
+            "text": "You're my muse, my worst distraction.",
+            "start": 117370,
+            "end": 120810,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.47218233
         },
         {
-            "text": "Out of my mind Cause all of me loves all of you Love your.",
-            "start": 142230,
-            "end": 152470,
-            "confidence": 0.9394706,
-            "speaker": "C"
+            "text": "My rhythm and blow.",
+            "start": 120970,
+            "end": 122080,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7504481
         },
         {
-            "text": "Curves And all your edges All your perfect imperfections Give you all to me I'll give my all to you You're.",
-            "start": 152550,
-            "end": 167490,
-            "confidence": 0.89866304,
-            "speaker": "A"
+            "text": "I can't stop singing.",
+            "start": 123030,
+            "end": 125190,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8700263
         },
         {
-            "text": "My end and my beginning Even when I lose I'm wedding Cause I give.",
-            "start": 167490,
-            "end": 175130,
-            "confidence": 0.9567755,
-            "speaker": "B"
+            "text": "It's ringing in my head for you.",
+            "start": 125270,
+            "end": 129910,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.7422805
         },
         {
-            "text": "You all.",
-            "start": 175130,
-            "end": 175810,
-            "confidence": 0.763916,
-            "speaker": "D"
+            "text": "My head's underwater but I'm breathing fine.",
+            "start": 131430,
+            "end": 137830,
+            "sentiment": "POSITIVE",
+            "confidence": 0.6468397
         },
         {
-            "text": "Of me.",
-            "start": 178930,
-            "end": 179650,
-            "confidence": 0.8688965,
-            "speaker": "E"
+            "text": "You're crazy and I'm out of my mind.",
+            "start": 139110,
+            "end": 143350,
+            "sentiment": "NEGATIVE",
+            "confidence": 0.9081913
         },
         {
-            "text": "And you give.",
-            "start": 182130,
-            "end": 182890,
-            "confidence": 0.90966797,
-            "speaker": "D"
+            "text": "Cause all of me loves all of you.",
+            "start": 144710,
+            "end": 150870,
+            "sentiment": "POSITIVE",
+            "confidence": 0.94080377
         },
         {
-            "text": "Me all.",
-            "start": 182890,
-            "end": 183490,
-            "confidence": 0.9970703,
-            "speaker": "C"
+            "text": "Love your curves and all your edges.",
+            "start": 151670,
+            "end": 154930,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8857521
         },
         {
-            "text": "Of you.",
-            "start": 186450,
-            "end": 187170,
-            "confidence": 0.9975586,
-            "speaker": "B"
+            "text": "All your perfect imperfections.",
+            "start": 155490,
+            "end": 158930,
+            "sentiment": "POSITIVE",
+            "confidence": 0.48872188
         },
         {
-            "text": "Give me all.",
+            "text": "Give you all to me.",
+            "start": 159250,
+            "end": 162370,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5797998
+        },
+        {
+            "text": "I'll give my all to you.",
+            "start": 162850,
+            "end": 166130,
+            "sentiment": "POSITIVE",
+            "confidence": 0.7828854
+        },
+        {
+            "text": "You're my end and my beginning.",
+            "start": 166850,
+            "end": 170050,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6190699
+        },
+        {
+            "text": "Even when I lose, I'm winning.",
+            "start": 170850,
+            "end": 174050,
+            "sentiment": "POSITIVE",
+            "confidence": 0.56589174
+        },
+        {
+            "text": "Cause I give you all of me.",
+            "start": 174290,
+            "end": 179570,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5509293
+        },
+        {
+            "text": "And you give me all of you.",
+            "start": 182050,
+            "end": 187090,
+            "sentiment": "POSITIVE",
+            "confidence": 0.54601574
+        },
+        {
+            "text": "Give me all of you.",
             "start": 189090,
-            "end": 190170,
-            "confidence": 0.99519855,
-            "speaker": "D"
+            "end": 190850,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5828154
         },
         {
-            "text": "Of you Hides on the table We both show it He risking it Although it's hard Cause all me loves all.",
-            "start": 190170,
-            "end": 210480,
-            "confidence": 0.802653,
-            "speaker": "C"
+            "text": "Cards on the table, we're both showing hearts, risking it although it's hard.",
+            "start": 192690,
+            "end": 204290,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.663444
         },
         {
-            "text": "Of you Love your curves And all.",
-            "start": 211280,
-            "end": 215120,
-            "confidence": 0.9371861,
-            "speaker": "B"
+            "text": "Cause all of me love's words.",
+            "start": 205730,
+            "end": 209690,
+            "sentiment": "POSITIVE",
+            "confidence": 0.89375925
         },
         {
-            "text": "Your edges All your perfect imperfections Give.",
-            "start": 215120,
-            "end": 220600,
-            "confidence": 0.9505371,
-            "speaker": "A"
+            "text": "All of you.",
+            "start": 210000,
+            "end": 211840,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.5784739
         },
         {
-            "text": "You all to me I'll give my.",
-            "start": 220600,
-            "end": 224960,
-            "confidence": 0.8669085,
-            "speaker": "C"
+            "text": "Love your curves and all your edges.",
+            "start": 212560,
+            "end": 215840,
+            "sentiment": "POSITIVE",
+            "confidence": 0.8857521
         },
         {
-            "text": "All to you You're my end and.",
-            "start": 225280,
-            "end": 229880,
-            "confidence": 0.96451825,
-            "speaker": "A"
+            "text": "All your perfect imperfections.",
+            "start": 216480,
+            "end": 219840,
+            "sentiment": "POSITIVE",
+            "confidence": 0.48872188
         },
         {
-            "text": "My beginning Even when I lose I'm.",
-            "start": 229880,
-            "end": 234440,
-            "confidence": 0.96755254,
-            "speaker": "B"
+            "text": "Give you all to me.",
+            "start": 220240,
+            "end": 223280,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5797998
         },
         {
-            "text": "Winning Cause I give you all.",
-            "start": 234440,
-            "end": 236880,
-            "confidence": 0.860555,
-            "speaker": "C"
+            "text": "I'll give my all to you.",
+            "start": 223760,
+            "end": 227120,
+            "sentiment": "POSITIVE",
+            "confidence": 0.7828854
         },
         {
-            "text": "Of.",
-            "start": 239840,
-            "end": 240240,
-            "confidence": 0.7158203,
-            "speaker": "B"
+            "text": "You're my end and my beginning.",
+            "start": 227840,
+            "end": 231120,
+            "sentiment": "NEUTRAL",
+            "confidence": 0.6190699
         },
         {
-            "text": "And you give me all.",
-            "start": 243020,
-            "end": 244460,
-            "confidence": 0.92441404,
-            "speaker": "D"
+            "text": "Even when I lose, I'm winning.",
+            "start": 231760,
+            "end": 234960,
+            "sentiment": "POSITIVE",
+            "confidence": 0.56589174
         },
         {
-            "text": "Of you.",
-            "start": 247420,
+            "text": "Cause I give you all of.",
+            "start": 235200,
+            "end": 240160,
+            "sentiment": "POSITIVE",
+            "confidence": 0.5522657
+        },
+        {
+            "text": "And you give me all of you.",
+            "start": 242940,
             "end": 248140,
-            "confidence": 0.9838867,
-            "speaker": "E"
+            "sentiment": "POSITIVE",
+            "confidence": 0.54601574
         },
         {
-            "text": "I give you all.",
+            "text": "I give you all of me and you give me all of you.",
             "start": 250700,
-            "end": 252140,
-            "confidence": 0.9536133,
-            "speaker": "D"
+            "end": 263420,
+            "sentiment": "POSITIVE",
+            "confidence": 0.6043157
         },
         {
-            "text": "Of me.",
-            "start": 255100,
-            "end": 255820,
-            "confidence": 0.9975586,
-            "speaker": "B"
-        },
-        {
-            "text": "And.",
-            "start": 258140,
-            "end": 258420,
-            "confidence": 0.99121094,
-            "speaker": "C"
-        },
-        {
-            "text": "You give me all.",
-            "start": 258420,
-            "end": 259740,
-            "confidence": 0.9857788,
-            "speaker": "D"
-        },
-        {
-            "text": "Of you Oh.",
-            "start": 262780,
+            "text": "Oh,",
+            "start": 264620,
             "end": 265180,
-            "confidence": 0.82161456,
-            "speaker": "C"
+            "sentiment": "NEUTRAL",
+            "confidence": 0.55138767
         }
     ],
-    "chapters": [],
-    "sentiment_analysis_results": [],
     "audio_duration": 270,
-    "language_code": "es"
+    "language_code": "en"
 }

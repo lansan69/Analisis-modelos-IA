@@ -1,0 +1,699 @@
+{
+    "id": "11180f4c-cf2b-4009-9957-0a44020accb8",
+    "status": "completed",
+    "text": "Mi esposa y yo hicimos, nos hicimos del terreno en el que pues en el largo plazo pensamos vivir como familia y bueno su madre hacerlo también producto del esfuerzo y si, con todo el arropamiento de mi familia, con toda la cuestión del privilegio, porque lo de estos clips desde que se vuelven esa época ya está pasando. Empezaste muy política, pero agarran caminos muy extraños. Me gusta, solo me preguntaste cómo estaba. Estoy muy feliz porque compré un terreno en donde pienso vivir con mi esposa y fue con mucho esfuerzo que lo hice. Me.",
+    "words": [
+        {
+            "text": "Mi",
+            "start": 240,
+            "end": 440,
+            "confidence": 0.7734375,
+            "speaker": "A"
+        },
+        {
+            "text": "esposa",
+            "start": 440,
+            "end": 960,
+            "confidence": 0.9070638,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 960,
+            "end": 1040,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "yo",
+            "start": 1040,
+            "end": 1240,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "hicimos,",
+            "start": 1240,
+            "end": 1840,
+            "confidence": 0.9480794,
+            "speaker": "A"
+        },
+        {
+            "text": "nos",
+            "start": 2480,
+            "end": 2800,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "hicimos",
+            "start": 2800,
+            "end": 3200,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 3200,
+            "end": 3400,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "terreno",
+            "start": 3400,
+            "end": 3800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 3800,
+            "end": 3920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 3920,
+            "end": 4040,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 4040,
+            "end": 4320,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "pues",
+            "start": 4480,
+            "end": 4840,
+            "confidence": 0.95825195,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 4840,
+            "end": 4960,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 4960,
+            "end": 5080,
+            "confidence": 0.5620117,
+            "speaker": "A"
+        },
+        {
+            "text": "largo",
+            "start": 5080,
+            "end": 5400,
+            "confidence": 0.8886719,
+            "speaker": "A"
+        },
+        {
+            "text": "plazo",
+            "start": 5400,
+            "end": 5840,
+            "confidence": 0.92578125,
+            "speaker": "A"
+        },
+        {
+            "text": "pensamos",
+            "start": 6640,
+            "end": 7240,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vivir",
+            "start": 7240,
+            "end": 7760,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "como",
+            "start": 7760,
+            "end": 8160,
+            "confidence": 0.97021484,
+            "speaker": "A"
+        },
+        {
+            "text": "familia",
+            "start": 8400,
+            "end": 8880,
+            "confidence": 0.9404297,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 9680,
+            "end": 10080,
+            "confidence": 0.99853516,
+            "speaker": "A"
+        },
+        {
+            "text": "bueno",
+            "start": 10240,
+            "end": 10800,
+            "confidence": 0.99731445,
+            "speaker": "A"
+        },
+        {
+            "text": "su",
+            "start": 10960,
+            "end": 11280,
+            "confidence": 0.56152344,
+            "speaker": "A"
+        },
+        {
+            "text": "madre",
+            "start": 11280,
+            "end": 11760,
+            "confidence": 0.83618164,
+            "speaker": "A"
+        },
+        {
+            "text": "hacerlo",
+            "start": 11920,
+            "end": 12640,
+            "confidence": 0.998291,
+            "speaker": "A"
+        },
+        {
+            "text": "también",
+            "start": 13520,
+            "end": 13920,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "producto",
+            "start": 14000,
+            "end": 14560,
+            "confidence": 0.7915039,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 14560,
+            "end": 14760,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esfuerzo",
+            "start": 14760,
+            "end": 15160,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 15160,
+            "end": 15440,
+            "confidence": 0.98779297,
+            "speaker": "A"
+        },
+        {
+            "text": "si,",
+            "start": 15440,
+            "end": 15760,
+            "confidence": 0.6977539,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 16160,
+            "end": 16480,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "todo",
+            "start": 16480,
+            "end": 16800,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "el",
+            "start": 17440,
+            "end": 17720,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "arropamiento",
+            "start": 17720,
+            "end": 18360,
+            "confidence": 0.9138997,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 18360,
+            "end": 18560,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mi",
+            "start": 18560,
+            "end": 18640,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "familia,",
+            "start": 18640,
+            "end": 18960,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 19120,
+            "end": 19440,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "toda",
+            "start": 19440,
+            "end": 19760,
+            "confidence": 0.78027344,
+            "speaker": "A"
+        },
+        {
+            "text": "la",
+            "start": 19760,
+            "end": 19960,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "cuestión",
+            "start": 19960,
+            "end": 20240,
+            "confidence": 0.97477216,
+            "speaker": "A"
+        },
+        {
+            "text": "del",
+            "start": 20240,
+            "end": 20560,
+            "confidence": 0.78564453,
+            "speaker": "A"
+        },
+        {
+            "text": "privilegio,",
+            "start": 20560,
+            "end": 21240,
+            "confidence": 0.94299316,
+            "speaker": "A"
+        },
+        {
+            "text": "porque",
+            "start": 21240,
+            "end": 21440,
+            "confidence": 0.9975586,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 21440,
+            "end": 21640,
+            "confidence": 0.40014648,
+            "speaker": "A"
+        },
+        {
+            "text": "de",
+            "start": 21640,
+            "end": 21760,
+            "confidence": 0.68310547,
+            "speaker": "A"
+        },
+        {
+            "text": "estos",
+            "start": 21760,
+            "end": 21920,
+            "confidence": 0.9953613,
+            "speaker": "A"
+        },
+        {
+            "text": "clips",
+            "start": 21920,
+            "end": 22120,
+            "confidence": 0.9835612,
+            "speaker": "A"
+        },
+        {
+            "text": "desde",
+            "start": 22120,
+            "end": 22360,
+            "confidence": 0.72509766,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 22360,
+            "end": 22720,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "se",
+            "start": 23280,
+            "end": 23520,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "vuelven",
+            "start": 23520,
+            "end": 23840,
+            "confidence": 0.8720703,
+            "speaker": "A"
+        },
+        {
+            "text": "esa",
+            "start": 26480,
+            "end": 26840,
+            "confidence": 0.81274414,
+            "speaker": "A"
+        },
+        {
+            "text": "época",
+            "start": 26840,
+            "end": 27080,
+            "confidence": 0.93896484,
+            "speaker": "A"
+        },
+        {
+            "text": "ya",
+            "start": 27080,
+            "end": 27240,
+            "confidence": 0.9946289,
+            "speaker": "A"
+        },
+        {
+            "text": "está",
+            "start": 27240,
+            "end": 27440,
+            "confidence": 0.98876953,
+            "speaker": "A"
+        },
+        {
+            "text": "pasando.",
+            "start": 27440,
+            "end": 27920,
+            "confidence": 0.9777832,
+            "speaker": "A"
+        },
+        {
+            "text": "Empezaste",
+            "start": 28160,
+            "end": 28720,
+            "confidence": 0.9119873,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 28720,
+            "end": 28800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "política,",
+            "start": 28800,
+            "end": 29440,
+            "confidence": 0.70166016,
+            "speaker": "A"
+        },
+        {
+            "text": "pero",
+            "start": 29840,
+            "end": 30120,
+            "confidence": 0.99658203,
+            "speaker": "A"
+        },
+        {
+            "text": "agarran",
+            "start": 30120,
+            "end": 30480,
+            "confidence": 0.9173584,
+            "speaker": "A"
+        },
+        {
+            "text": "caminos",
+            "start": 30480,
+            "end": 30800,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 30800,
+            "end": 30920,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "extraños.",
+            "start": 30920,
+            "end": 31440,
+            "confidence": 0.99768066,
+            "speaker": "A"
+        },
+        {
+            "text": "Me",
+            "start": 32140,
+            "end": 32220,
+            "confidence": 0.99121094,
+            "speaker": "A"
+        },
+        {
+            "text": "gusta,",
+            "start": 32220,
+            "end": 32460,
+            "confidence": 0.9992676,
+            "speaker": "A"
+        },
+        {
+            "text": "solo",
+            "start": 33900,
+            "end": 34260,
+            "confidence": 0.81689453,
+            "speaker": "A"
+        },
+        {
+            "text": "me",
+            "start": 34260,
+            "end": 34500,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "preguntaste",
+            "start": 34500,
+            "end": 35020,
+            "confidence": 0.99990237,
+            "speaker": "A"
+        },
+        {
+            "text": "cómo",
+            "start": 35020,
+            "end": 35180,
+            "confidence": 0.99820966,
+            "speaker": "A"
+        },
+        {
+            "text": "estaba.",
+            "start": 35180,
+            "end": 35420,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "Estoy",
+            "start": 35420,
+            "end": 35740,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "muy",
+            "start": 35740,
+            "end": 35860,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "feliz",
+            "start": 35860,
+            "end": 36300,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "porque",
+            "start": 36540,
+            "end": 36860,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "compré",
+            "start": 36860,
+            "end": 37340,
+            "confidence": 0.99975586,
+            "speaker": "A"
+        },
+        {
+            "text": "un",
+            "start": 37340,
+            "end": 37460,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "terreno",
+            "start": 37460,
+            "end": 37820,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "en",
+            "start": 37820,
+            "end": 37980,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "donde",
+            "start": 37980,
+            "end": 38140,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "pienso",
+            "start": 38140,
+            "end": 38620,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "vivir",
+            "start": 38620,
+            "end": 38780,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 38780,
+            "end": 38900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "mi",
+            "start": 38900,
+            "end": 39020,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "esposa",
+            "start": 39020,
+            "end": 39340,
+            "confidence": 0.95784503,
+            "speaker": "A"
+        },
+        {
+            "text": "y",
+            "start": 39820,
+            "end": 40100,
+            "confidence": 0.9614258,
+            "speaker": "A"
+        },
+        {
+            "text": "fue",
+            "start": 40100,
+            "end": 40260,
+            "confidence": 0.99902344,
+            "speaker": "A"
+        },
+        {
+            "text": "con",
+            "start": 40260,
+            "end": 40420,
+            "confidence": 0.9995117,
+            "speaker": "A"
+        },
+        {
+            "text": "mucho",
+            "start": 40420,
+            "end": 40580,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "esfuerzo",
+            "start": 40580,
+            "end": 40900,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "que",
+            "start": 40900,
+            "end": 41060,
+            "confidence": 1.0,
+            "speaker": "A"
+        },
+        {
+            "text": "lo",
+            "start": 41060,
+            "end": 41180,
+            "confidence": 0.9980469,
+            "speaker": "A"
+        },
+        {
+            "text": "hice.",
+            "start": 41180,
+            "end": 41420,
+            "confidence": 0.984375,
+            "speaker": "A"
+        },
+        {
+            "text": "Me.",
+            "start": 41500,
+            "end": 41750,
+            "confidence": 0.9345703,
+            "speaker": "A"
+        }
+    ],
+    "utterances": [
+        {
+            "text": "Mi esposa y yo hicimos, nos hicimos del terreno en el que pues en el largo plazo pensamos vivir como familia y bueno su madre hacerlo también producto del esfuerzo y si, con todo el arropamiento de mi familia, con toda la cuestión del privilegio, porque lo de estos clips desde que se vuelven esa época ya está pasando. Empezaste muy política, pero agarran caminos muy extraños. Me gusta, solo me preguntaste cómo estaba. Estoy muy feliz porque compré un terreno en donde pienso vivir con mi esposa y fue con mucho esfuerzo que lo hice. Me.",
+            "start": 240,
+            "end": 41750,
+            "confidence": 0.9448895,
+            "speaker": "A"
+        }
+    ],
+    "chapters": [],
+    "sentiment_analysis_results": [],
+    "audio_duration": 42,
+    "language_code": "es"
+}
